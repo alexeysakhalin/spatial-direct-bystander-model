@@ -30,7 +30,7 @@
 
 [HARRIS2021] Harris MJ, Fuyal M, James JR. Quantifying persistence in the T‐cell signaling network using an optically controllable antigen receptor. Molecular Systems Biology. 2021;17(5):e10091. https://doi.org/10.15252/msb.202010091
 
-[HEGDE2013] Hegde M, Corder A, Chow KK, Mukherjee M, Ashoori A, Kew Y, Zhang YJ, Baskin DS, Merchant FA, Brawley VS, Byrd TT, Krebs S, Wu MF, Liu H, Heslop HE, Gottachalk S, Yvon E, Ahmed N. Combinational Targeting Offsets Antigen Escape and Enhances Effector Functions of Adoptively Transferred T Cells in Glioblastoma. Molecular Therapy. 2013;21(11):2087–2101. https://doi.org/10.1038/mt.2013.185
+[HEGDE2013] Hegde M, Corder A, Chow KKH, Mukherjee M, Ashoori A, Kew Y, Zhang YJ, Baskin DS, Merchant FA, Brawley VS, Byrd TT, Krebs S, Wu MF, Liu H, Heslop HE, Gottschalk S, Yvon E, Ahmed N. Combinational Targeting Offsets Antigen Escape and Enhances Effector Functions of Adoptively Transferred T Cells in Glioblastoma. Molecular Therapy. 2013;21(11):2087–2101. https://doi.org/10.1038/mt.2013.185
 
 [HICKEY2024] Hickey JW, Agmon E, Horowitz N, Tan TK, Lamore M, Sunwoo JB, Covert MW, Nolan GP. Integrating multiplexed imaging and multiscale modeling identifies tumor phenotype conversion as a critical component of therapeutic T cell efficacy. Cell Systems. 2024;15(4):322–338.e5. https://doi.org/10.1016/j.cels.2024.03.004
 

@@ -924,7 +924,7 @@
         },
         {
           "given": "Stephen",
-          "family": "Gottachalk"
+          "family": "Gottschalk"
         },
         {
           "given": "Eric",
@@ -944,7 +944,9 @@
       "online_publication_date": null,
       "issue_publication_date": "2013-11",
       "role": "parameter_evidence_registry",
-      "full_text_included": false
+      "full_text_included": false,
+      "author_correction_doi": "10.1038/mt.2014.19",
+      "author_correction_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4015236/"
     },
     {
       "id": "HICKEY2024",

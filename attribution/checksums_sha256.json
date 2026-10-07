@@ -1,10 +1,13 @@
 {
   "Attribution_and_scope.txt": "3856f5513480784f9e5f60b090d12d12c5de8a08e1f2fb3aea17923f766b5b40",
-  "References.json": "8c8432f295c8bbf8270e27bbe088d4330bfdd23912994c215d6bfd2e5a7618c4",
+  "References.json": "00950350af7993943af22b353120292fe06b21fec2c89e002a3e142b59ba7d4c",
   "licenses/BioFVM.txt": "5afc96d70559af3a2c07532c5258ab374ad07f25897529a5eb9e3a0dc0fc9cf3",
   "licenses/MaBoSS.txt": "54261a5abd3e117cbbd20ac123a2f0e7f1e98ad709e2fc7fb3d6f208541dc8e4",
   "licenses/PhysiCell.txt": "651e63b7c6ec69bb360dcc8eeffe24771b436cb10d320098bb437e4e24c975d6",
   "licenses/PhysiCell_ALL_CITATIONS.txt": "2717be7d7b877bd26cdde7079579d2575383caa49afa4084d8efa4d9f63b7497",
   "licenses/PhysiCell_CITATION.txt": "b0a68769bf92e4299a170365c840f3347f01cbc116d3909add0a2e5557205686",
-  "licenses/pugixml.txt": "998677dfd6f6b610cf8a1fba34bcda6483d4e67e0dbc04180d10e99faf97b54a"
+  "licenses/pugixml.txt": "998677dfd6f6b610cf8a1fba34bcda6483d4e67e0dbc04180d10e99faf97b54a",
+  "References.txt": "d8b5b0783706a8c9633e7216c93a6e13f0fb852ca36a2d90f4e926aae5e15f5e",
+  "References.bib": "11ed191b897d77e6f4661137c763b3133f0213f09c91407d5ca82a31e2b91bd6",
+  "References.ris": "700099611e35f6156d6d9418f69c33c90e2faff939fed79985930b87fe2fd49a"
 }

@@ -49,7 +49,7 @@ retained in the evidence and analysis components.
 ## Reproduce the saved-data analyses
 
 Download `Spatial_Direct_Bystander_raw_central_v1.zip` from the accompanying
-Zenodo record. Extract it into the parent directory of this repository,
+[Zenodo record](https://doi.org/10.5281/zenodo.23201721). Extract it into the parent directory of this repository,
 producing `../data/raw/`. Preserve the archive's directory structure. It contains
 18 central simulations: three representations, two initial target:CAR-T ratios
 and three seeds per combination.
@@ -109,6 +109,28 @@ Antigen-negative targets represent tumour cells, not healthy tissue.
 claim with checks and scope. `evidence/claim_source_map.json` resolves its E01–E57 evidence
 identifiers. `evidence/provenance_identifiers.json` supplies identifiers and
 checksums for the underlying provenance records.
+
+## References and attribution
+
+The [complete bibliography](attribution/References.txt) contains 38 records with
+DOIs and full author lists. It is also available as [BibTeX](attribution/References.bib),
+[RIS](attribution/References.ris) and [structured metadata](attribution/References.json).
+Sources provide the documented methodological or parameter context; inclusion
+in the bibliography does not imply quantitative calibration of this model.
+
+The simulation framework is described in:
+
+- Ghaffarizadeh A, Heiland R, Friedman SH, Mumenthaler SM, Macklin P. PhysiCell:
+  An open source physics-based cell simulator for 3-D multicellular systems.
+  PLOS Computational Biology. 2018;14(2):e1005991.
+  https://doi.org/10.1371/journal.pcbi.1005991
+- Ghaffarizadeh A, Friedman SH, Macklin P. BioFVM: an efficient, parallelized
+  diffusive transport solver for 3-D biological simulations. Bioinformatics.
+  2016;32(8):1256–1258. https://doi.org/10.1093/bioinformatics/btv730
+
+[Upstream citation requirements](attribution/licenses/PhysiCell_ALL_CITATIONS.txt)
+and [third-party notices](THIRD_PARTY_NOTICES.txt) are retained.
+Dataset DOI: [10.5281/zenodo.23201721](https://doi.org/10.5281/zenodo.23201721).
 
 ## Licence
 

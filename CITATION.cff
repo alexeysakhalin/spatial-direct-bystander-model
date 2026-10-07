@@ -3,6 +3,7 @@ message: "Please cite this dataset and the software used in your analysis."
 type: dataset
 title: "Spatial Direct–Bystander Model: simulation data, code and reproducible analyses"
 version: 1.0.0
+doi: "10.5281/zenodo.23201721"
 url: "https://github.com/alexeysakhalin/spatial-direct-bystander-model"
 repository-code: "https://github.com/alexeysakhalin/spatial-direct-bystander-model"
 license: CC-BY-4.0
