@@ -1,0 +1,29 @@
+{
+  "created_utc": "2026-10-06T15:45:07.485394+00:00",
+  "source_report_sha256": {
+    "source-3ac14a4dafcf29e68030": "d32754c54d83ac195abcb308eaf68261fcfcb9b7b72da56b8eef711a969e3ea3",
+    "source-f7a1d8eead95fa9f6af5": "026cfe2fe8a76f9ab47d1fac6dc1787ed110e0d55030364cbe60cd363a9c8791",
+    "source-01e4066dfba99a5ec8b2": "522b7d8d14c703d3e41e4109c72f8ad9c3d272ec492f9ef05d09da4341c5b358",
+    "source-57e1dacab2b3f25c5795": "587231d25855bd9fd1f691682997c4cdd5c3fbb05e009658ced2073f35a8ed76",
+    "source-84b8755f6fd606be0638": "6f118b6460adb2ca5a8cc01d46d1fd82b21dc93e232432bb053c0bbf843cbec8",
+    "source-a9891ffb7ca5658d8651": "0e9e7d2df46caa6aba0d8af07061b809d580cdc1cef0520e75447fe7ea589979",
+    "source-8809ce1aa838b5f3b74a": "cc2df00a7f523e1d331fe509ad15a0c526c648d9c629a7402bba271e814ffdd5",
+    "source-50dc8482c866bed35a60": "6beb2964b17e646556955584c3568efb88cc5b5eee112bf1cf02e3b7bedbc28a",
+    "source-1d79307178bfca504cd0": "d8e263e10a46fc15e5d282955eae74dc335a71ec71d967a08bed46d87ecb46c5",
+    "source-c761ce0dff6bb73fc479": "0375d01a60e95cccbb61becc87d3382fa2963db5805a5b82dcaa4606924331ea",
+    "source-9b5fe45f712881d44644": "c3f805c255d4d3d8e6bc0ac627efac6981cfe0b605aca98996a5c2333bfc21cc",
+    "source-9d5f4d330a3e1abe17e8": "039217b1a56490d7dae5f46aed5228fa20ea48c8111ca5fd2b0083610dd73bc7",
+    "source-a840cb2a8b7ccce73e32": "12370c51bc83ad57fa8fc047274d92dad168dfdb77e636f9354d582eb9dcf23d",
+    "source-df477621ff5efaea1f23": "dfe744d18c735f26d9b685edbbdb1aa3a27f115befcc4822ac4f7bdeebc149ec",
+    "source-1a9a2200da6476ed6d42": "accca8307e50cc816109d4a89b2224a6a80a9cf4965ae730356366d64d66e7c3",
+    "source-77f4540e33887ff485a2": "73d6388ea494055253314c7fb636d5ef118d5ab453e785985b16df6116389b48"
+  },
+  "analysis_result": "source-1d837348cdb10c18394c",
+  "scientific_review": "source-f7a1d8eead95fa9f6af5",
+  "new_raw_or_simulated_values": false,
+  "trajectory_colors_from_owner_style": {
+    "2d": "#D65114",
+    "local_entry": "#8F49C7"
+  },
+  "caption": "Initial targets:effectors=5:1. Three matched seeds0,1,2. Thin same-seed difference lines preserve sign changes; other panels show arithmetic means and descriptive min-max bands. The IFNG and TNF fields are identical model-relative variables, not independently validated concentrations. Passing population count screens does not establish whole-model convergence. Local-entry is not validated vasculature,extravasation or in-vivo physiology. No parameter or central comparison scope changed."
+}

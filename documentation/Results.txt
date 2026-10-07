@@ -1,0 +1,9 @@
+Spatial context alters the simulated response of heterogeneous targets
+
+We used a spatial agent-based model to examine the combined consequences of assigned contact-dependent and cytokine-mediated bystander responses in an antigen-heterogeneous target population. At an initial target:CAR-T ratio of 2:1, the central 2D, 3D spheroid and local-entry scenarios retained mean target counts of 53.7, 84.3 and 156.3 at 96 h, respectively. The corresponding mean target burdens over 0–96 h were 278.2, 302.0 and 354.7 cells. These values describe the specified computational scenarios included in this release.
+
+At 5:1, the mean 96 h target counts were almost identical in 2D and 3D, at 75.3 and 75.0 cells, whereas the time-averaged burdens were 402.9 and 365.7 cells. Similar endpoints therefore concealed different response histories. The central 2D/3D ordering of the integrated response differed between the two ratios. Surviving targets at 96 h were antigen-negative in all central cases except the 5:1 local-entry scenario, which retained 8–22 antigen-positive targets across three seeds.
+
+The local-entry predictions were materially sensitive to numerical resolution. At 2:1, the 96 h residual range increased from 147–164 targets on the original grid to 284–306 on the refined grid; additionally halving the diffusion time step yielded 232–279 targets. At 5:1, refinement changed the corresponding range from 119–146 to 192–202. The comparisons therefore support a conditional dependence on spatial and medium conditions, without establishing a resolution-independent hierarchy or a pure effect of dimensionality.
+
+This interpretation is consistent with earlier spatial CAR-T modelling [4,5] and with experimental evidence for cytokine-mediated bystander responses in a bispecific-antibody system [6]. Our simulations do not reproduce those experimental systems or identify independently measured contributions of IFNγ, TNF or molecular necroptosis.

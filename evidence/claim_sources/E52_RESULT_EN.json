@@ -1,0 +1,17 @@
+{
+  "utc": "2026-10-07T00:12:48.797410+00:00",
+  "prior_registry": "source-8279adad67bfc5c927a6",
+  "updates_to_material_groups": [
+    "tumor_growth",
+    "effector_growth",
+    "baseline_death"
+  ],
+  "nine_kinetic_execution_analysis_and_review_complete": true,
+  "new_parameter_values": 0,
+  "newly_accepted_choice_bases": 0,
+  "choice_bases_accepted": 4,
+  "choice_bases_unresolved": 13,
+  "supersedes_status_only": "Statements in registry v16 that the fixed nine checks are in execution or awaiting native/scientific review. It does not supersede their exact parameter values, active anchors, source limitations or unresolved biological basis.",
+  "latest_scientific_review": "evidence/kinetic_review/REVIEW_EN.json",
+  "project_complete": false
+}

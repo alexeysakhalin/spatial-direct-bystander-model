@@ -1,0 +1,82 @@
+{
+  "utc": "2026-10-05T19:55:29.181165+00:00",
+  "cases_reviewed": 18,
+  "claim_evidence_checks_conditions": [
+    {
+      "conclusion": "The spatial comparison covers all18 central runs using current living-effector denominators and the same saved-state definitions.",
+      "evidence": "INDEPENDENT_CHECKS_EN.json",
+      "checks": "All1746 hourly target/effector counts reconcile with accepted trajectory tables;1062 per-case metrics reconstructed;354 N3 summaries,531 paired differences and177 paired summaries independently checked.",
+      "conditions": "Independent arithmetic review of hash-bound saved-state reports; no second raw geometric recomputation in this review.",
+      "status": "descriptive_comparison_reviewed"
+    },
+    {
+      "conclusion": "At6h, TE5 has a larger touching or saved-link fraction per living effector in allthree seeds of every scenario, despite fewer effectors overall.",
+      "evidence": {
+        "touching_fraction_means_TE2": [
+          0.5361882863202595,
+          0.633873130254193,
+          0.5422514855899695
+        ],
+        "touching_fraction_means_TE5": [
+          0.6143628540687365,
+          0.7795162861084853,
+          0.6230243612596554
+        ],
+        "scenario_order": [
+          "2d",
+          "3d",
+          "local_entry"
+        ]
+      },
+      "checks": "Numerators and current-living denominators recomputed for each seed; absolute counts retained beside fractions.",
+      "conditions": "Snapshots are not contact frequencies, per-cell efficacy or causal mechanism fractions. Same seed does not guarantee common event histories; initial nested subsets do not remove later stochastic divergence.",
+      "status": "conditional_ratio_contrast"
+    },
+    {
+      "conclusion": "High fixed-hull membership does not imply frequent target overlap, particularly in the local-entry scenario at96h.",
+      "evidence": {
+        "local_entry_TE2_mean_hull_fraction": 0.5366817518428928,
+        "local_entry_TE2_mean_touching_fraction": 0.03808613622587095,
+        "local_entry_TE5_mean_hull_fraction": 0.8354462604121045,
+        "local_entry_TE5_mean_touching_fraction": 0.06751089342132828,
+        "local_entry_TE5_minus_TE2_touching_fraction_seed_differences": [
+          0.03977157421328614,
+          -0.0012580681771533833,
+          0.04976076555023924
+        ]
+      },
+      "checks": "Fixed initial hull and instantaneous living-target sphere overlap use separate quantities; negative seed1 difference retained.",
+      "conditions": "Hull ignores target radii and remains fixed. It is not vascular infiltration; overlap is not antigen recognition. No uniform ratio ordering is claimed from the mean.",
+      "status": "spatial_observables_distinguished"
+    },
+    {
+      "conclusion": "The normalized saved-field direction diagnostic saturates at allselected6-96h timepoints in every central case despite very different gradient magnitudes.",
+      "evidence": {
+        "local_entry96h_mean_of_seed_median_CXCL_gradient_TE2": 3.948280640785385e-07,
+        "local_entry96h_mean_of_seed_median_CXCL_gradient_TE5": 0.00021428577121517176,
+        "unit": "relative concentration per um",
+        "fraction_direction_norm_ge0p99": 1.0
+      },
+      "checks": "90 selected case-time fractions and saved gradient medians reconstructed.",
+      "conditions": "A normalized direction norm is not measured speed, biological sensing, or the historical cached motility vector. Saturation cannot calibrate bias or persistence.",
+      "status": "diagnostic_limit_retained"
+    },
+    {
+      "conclusion": "First saved positive memory and live-target link both occur at1h in allcentral runs; late links are mostly zero.",
+      "evidence": {
+        "first_positive_h": 1.0,
+        "late_nonzero_link_case": "te5_local_entry_seed1",
+        "late_link_fraction": 0.0021321961620469083
+      },
+      "checks": "First events independently located in97 hourly rows; all other17 cases have zero live-target link count at96h.",
+      "conditions": "First saved time bounds an onset within the recording interval; it is not a measured activation delay. Zero saved links at an endpoint do not imply absent earlier interactions or a measured mechanism allocation.",
+      "status": "null_and_single_case_results_retained"
+    }
+  ],
+  "numerical_convergence_accepted": false,
+  "motility_parameter_basis_closed": false,
+  "new_engine_runs": 0,
+  "new_raw_MAT_reads": 0,
+  "public_release_ready": false,
+  "project_complete": false
+}

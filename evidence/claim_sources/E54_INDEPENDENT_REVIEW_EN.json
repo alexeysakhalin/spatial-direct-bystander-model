@@ -1,0 +1,41 @@
+{
+  "utc": "2026-10-07T00:05:16.427615+00:00",
+  "passed": true,
+  "scalar": {
+    "cases": 9,
+    "hourly_population_states": 873,
+    "field_summary_checks": 5346,
+    "independently_reconstructed_metrics": 1350,
+    "rational_integrals": 126,
+    "signed_differences": {
+      "negative": 576,
+      "positive": 746,
+      "zero": 28,
+      "undefined": 0
+    },
+    "native_scalar_values_reconciled": 1350,
+    "identical_result_files": 15
+  },
+  "spatial": {
+    "cases": 9,
+    "hourly_access_and_gradient_reconciliations": 873,
+    "summary_metrics": 531,
+    "rational_fractions": 180,
+    "onsets": 36,
+    "native_metric_comparisons": 441,
+    "undefined_values": 0,
+    "signed_differences": {
+      "positive": 209,
+      "negative": 147,
+      "zero": 175,
+      "undefined": 0
+    },
+    "identical_result_files": 14
+  },
+  "scientific_function_modules_unchanged": true,
+  "publication_text_and_paths_screened": true,
+  "new_simulations": 0,
+  "numerical_convergence_accepted": false,
+  "whole_package_qualified": false,
+  "scope": "Independent arithmetic reconstruction and full native value reconciliation. Both code/metadata locations read the same independently copied raw. All kinetic alternatives use TE2 seed 0; central references are ratio, representation and seed matched. These are conditional one-factor checks, not biological calibration."
+}

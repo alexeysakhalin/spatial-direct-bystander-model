@@ -1,0 +1,110 @@
+{
+  "te5_2d_seed0": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_2d_seed1": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_2d_seed2": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_3d_seed0": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_3d_seed1": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_3d_seed2": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_local_entry_seed0": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_local_entry_seed1": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "te5_local_entry_seed2": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover0_2d_repeat_seed1": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover0_2d_repeat_seed2": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover0_2d_seed0": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover0_3d_repeat_seed1": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover0_3d_repeat_seed2": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover0_3d_seed0": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover10_local_entry_repeat_seed1": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover10_local_entry_repeat_seed2": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  },
+  "turnover10_local_entry_seed0": {
+    "end_h": 96.0,
+    "exit_code": 0,
+    "frames": 97,
+    "medium_audit_passed": true
+  }
+}

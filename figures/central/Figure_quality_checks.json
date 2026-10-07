@@ -1,0 +1,18 @@
+{
+  "figures": {
+    "main_ratio_targets_to_CAR_T": "2:1",
+    "additional_ratio_targets_to_CAR_T": "5:1"
+  },
+  "PNG_files": 152,
+  "PDF_files": 2,
+  "PNG_dpi": 600,
+  "curves_individual_or_ensemble": 120,
+  "snapshot_XML_MAT_files": 36,
+  "raw_snapshot_hashes_verified": true,
+  "relocated_PNG_and_PDF_byte_identical": true,
+  "plotted_counts_reconciled_to_accepted_population_data": true,
+  "visual_review_passed": true,
+  "general_numerical_convergence_established": false,
+  "experimental_calibration_established": false,
+  "necroptosis_mechanism_identified": false
+}

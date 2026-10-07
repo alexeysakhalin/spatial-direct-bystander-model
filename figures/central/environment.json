@@ -1,0 +1,15 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux",
+  "libraries": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "Pillow": "10.2.0",
+    "pypdf": "6.10.0"
+  },
+  "render_threads": 1,
+  "font_family": "DejaVu Sans",
+  "scope": "Saved-output figure replay. No simulator is invoked."
+}

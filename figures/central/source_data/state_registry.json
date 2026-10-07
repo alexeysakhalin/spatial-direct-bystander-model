@@ -1,0 +1,176 @@
+{
+  "states": [
+    {
+      "id": 0,
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": false,
+      "primed": false,
+      "composition_key": "AgHi_CytoOff",
+      "name": "tumor AgHi CytoOff unprimed",
+      "template_name": "tumor AgHi BrakeOn unprimed",
+      "display_antigen": "Ag+"
+    },
+    {
+      "id": 1,
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": true,
+      "primed": false,
+      "composition_key": "AgHi_CytoOn",
+      "name": "tumor AgHi CytoOn unprimed",
+      "template_name": "tumor AgHi BrakeOff unprimed",
+      "display_antigen": "Ag+"
+    },
+    {
+      "id": 2,
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": false,
+      "primed": false,
+      "composition_key": "AgLo_CytoOff",
+      "name": "tumor AgLo CytoOff unprimed",
+      "template_name": "tumor AgLo BrakeOn unprimed",
+      "display_antigen": "Ag+ low-recognition alternative (unused)"
+    },
+    {
+      "id": 3,
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": true,
+      "primed": false,
+      "composition_key": "AgLo_CytoOn",
+      "name": "tumor AgLo CytoOn unprimed",
+      "template_name": "tumor AgLo BrakeOff unprimed",
+      "display_antigen": "Ag+ low-recognition alternative (unused)"
+    },
+    {
+      "id": 4,
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": false,
+      "primed": true,
+      "composition_key": "AgHi_CytoOff",
+      "name": "tumor AgHi CytoOff primed",
+      "template_name": "tumor AgHi BrakeOn primed",
+      "display_antigen": "Ag+"
+    },
+    {
+      "id": 5,
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": true,
+      "primed": true,
+      "composition_key": "AgHi_CytoOn",
+      "name": "tumor AgHi CytoOn primed",
+      "template_name": "tumor AgHi BrakeOff primed",
+      "display_antigen": "Ag+"
+    },
+    {
+      "id": 6,
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": false,
+      "primed": true,
+      "composition_key": "AgLo_CytoOff",
+      "name": "tumor AgLo CytoOff primed",
+      "template_name": "tumor AgLo BrakeOn primed",
+      "display_antigen": "Ag+ low-recognition alternative (unused)"
+    },
+    {
+      "id": 7,
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": true,
+      "primed": true,
+      "composition_key": "AgLo_CytoOn",
+      "name": "tumor AgLo CytoOn primed",
+      "template_name": "tumor AgLo BrakeOff primed",
+      "display_antigen": "Ag+ low-recognition alternative (unused)"
+    },
+    {
+      "id": 8,
+      "name": "CD4 CAR T",
+      "template_name": "CD4 CAR T",
+      "role": "effector"
+    },
+    {
+      "id": 9,
+      "name": "CD8 CAR T",
+      "template_name": "CD8 CAR T",
+      "role": "effector"
+    },
+    {
+      "id": 10,
+      "name": "exhausted CAR T",
+      "template_name": "exhausted CAR T",
+      "role": "effector"
+    },
+    {
+      "id": 11,
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": false,
+      "primed": false,
+      "composition_key": "Ag0_CytoOff",
+      "name": "tumor Ag0 CytoOff unprimed",
+      "template_name": "tumor AgLo BrakeOn unprimed",
+      "display_antigen": "Ag\u2212"
+    },
+    {
+      "id": 12,
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": true,
+      "primed": false,
+      "composition_key": "Ag0_CytoOn",
+      "name": "tumor Ag0 CytoOn unprimed",
+      "template_name": "tumor AgLo BrakeOff unprimed",
+      "display_antigen": "Ag\u2212"
+    },
+    {
+      "id": 13,
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": false,
+      "primed": true,
+      "composition_key": "Ag0_CytoOff",
+      "name": "tumor Ag0 CytoOff primed",
+      "template_name": "tumor AgLo BrakeOn primed",
+      "display_antigen": "Ag\u2212"
+    },
+    {
+      "id": 14,
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": true,
+      "primed": true,
+      "composition_key": "Ag0_CytoOn",
+      "name": "tumor Ag0 CytoOn primed",
+      "template_name": "tumor AgLo BrakeOff primed",
+      "display_antigen": "Ag\u2212"
+    }
+  ],
+  "cyto_off_meaning": "The selected cytokine-linked death branch is absent; IFNg signaling, priming and chemokine response are not declared absent.",
+  "ag0_meaning": "No target antigen for the modeled CAR; CAR-specific attack initiation is exactly zero. Other possible immune recognition routes are outside this model.",
+  "direct_damage_response": {
+    "half_max": 45,
+    "units": "model damage units",
+    "upper_asymptote_per_min": 0.023,
+    "hill_power": 16,
+    "shared_across_all_target_classes": true,
+    "basis": "Current source-bound CSV rule value in all40prepared cases. Joint attack/damage-response calibration remains an explicit model assumption, not a measured CAR-T kill count or experimental threshold.",
+    "authoritative_value_source": "Each case rules.csv: signal=damage, direction=increases, behavior=apoptosis. XML initial apoptosis differs and is not the response asymptote."
+  },
+  "binary_mapping": {
+    "AgHi": "Internal reference recognizability prototype; no high-expression measurement inferred.",
+    "AgLo": "Zero initial fraction. A low-recognition kinetic alternative can reuse Ag+ labels with explicit rate changes.",
+    "Ag0": "No initiation of CAR-specific direct attack. Cytostasis/death competence is represented separately."
+  },
+  "metadata_revision": {
+    "utc": "2026-10-04T20:06:00.265010+00:00",
+    "correction_only": true,
+    "previous_registry_sha256": "0934ed46606b91bd9ae206ee29db3175728f2c6111e502d87ad95fcd8503964c",
+    "reason": "Historical descriptive half_max15 survived a prior rule revision to45. States/type IDs and all run inputs are unchanged."
+  }
+}

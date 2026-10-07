@@ -1,0 +1,287 @@
+{
+  "E01": {
+    "file": "claim_sources/E01_PRIMARY_COMPARISON.json",
+    "original_sha256": "9f2f98220294a6203bb54a4e38432955551130b68eca78a65964f7a1d20e661e",
+    "export_sha256": "9f2f98220294a6203bb54a4e38432955551130b68eca78a65964f7a1d20e661e"
+  },
+  "E02": {
+    "file": "claim_sources/E02_CASE_METRICS.json",
+    "original_sha256": "42476d058ab7b910d6b0e3deddb5f61fd16e079b47e3c44106bbd1a60d77d7bc",
+    "export_sha256": "42476d058ab7b910d6b0e3deddb5f61fd16e079b47e3c44106bbd1a60d77d7bc"
+  },
+  "E03": {
+    "file": "claim_sources/E03_HOURLY_TRAJECTORIES.json",
+    "original_sha256": "06adb109928582fce3a64d535478cd2f67a99ec26579fdac4225b5d55a46c2e0",
+    "export_sha256": "06adb109928582fce3a64d535478cd2f67a99ec26579fdac4225b5d55a46c2e0"
+  },
+  "E04": {
+    "file": "claim_sources/E04_HOURLY_CONTRASTS.json",
+    "original_sha256": "eb8aa7da8b06fa173bef01e85b19b5faa5016ea69445579e533c8ddcf914f418",
+    "export_sha256": "eb8aa7da8b06fa173bef01e85b19b5faa5016ea69445579e533c8ddcf914f418"
+  },
+  "E05": {
+    "file": "claim_sources/E05_CASE_METRICS.json",
+    "original_sha256": "56dea28546a90c7c8893f83c765f9c2ea65be7f5abe91307c06e623a990fd6fa",
+    "export_sha256": "56dea28546a90c7c8893f83c765f9c2ea65be7f5abe91307c06e623a990fd6fa"
+  },
+  "E06": {
+    "file": "claim_sources/E06_CROSS_SCENARIO_INPUT_DIFFERENCES_EN.json",
+    "original_sha256": "e9b31035d79677efa49b7d76886d184a6febd104523bdf4bca3f50e7e5a2dc33",
+    "export_sha256": "3cbbefec99497cd78c118293fc8a4b8dce80620c44c8fb97265c01683b6f6187"
+  },
+  "E07": {
+    "file": "claim_sources/E07_CONTRAST_CHECKS_EN.json",
+    "original_sha256": "17f7d11bf43abe3b6cc9a4e1446b4a1f4b2a6759c8fb60d54f907b9597d0ad8b",
+    "export_sha256": "17f7d11bf43abe3b6cc9a4e1446b4a1f4b2a6759c8fb60d54f907b9597d0ad8b"
+  },
+  "E08": {
+    "file": "claim_sources/E08_ENTRY_MESH_SELECTED_METRICS_EN.json",
+    "original_sha256": "fecd1c6b0d013a4b5805b7502159a43a16a6c97416dfcb1ba30541f8d95f6977",
+    "export_sha256": "fecd1c6b0d013a4b5805b7502159a43a16a6c97416dfcb1ba30541f8d95f6977"
+  },
+  "E09": {
+    "file": "claim_sources/E09_CHECKS_EN.json",
+    "original_sha256": "8870c935e59d7bb3841f2617bf901ec91eb50a21fcb6c7f0916b69b3f4c02af2",
+    "export_sha256": "8870c935e59d7bb3841f2617bf901ec91eb50a21fcb6c7f0916b69b3f4c02af2"
+  },
+  "E10": {
+    "file": "claim_sources/E10_N3_CONTENT_REVIEW_EN.json",
+    "original_sha256": "81a7f1a517ff0989e93b5f390dbca1be47c8756ea487c577bc58506f8a9b7478",
+    "export_sha256": "81a7f1a517ff0989e93b5f390dbca1be47c8756ea487c577bc58506f8a9b7478"
+  },
+  "E11": {
+    "file": "claim_sources/E11_REVIEW_EN.json",
+    "original_sha256": "026cfe2fe8a76f9ab47d1fac6dc1787ed110e0d55030364cbe60cd363a9c8791",
+    "export_sha256": "f9a4e1463fc69a2ecc0649480830f52e39c7eaab311fa0047cc8a3fed3e78ad6"
+  },
+  "E12": {
+    "file": "claim_sources/E12_FULL_TARGET_TRAJECTORIES_AND_CONTRASTS_EN.json",
+    "original_sha256": "587bbf5bbeec3a04e239a247e89a8ae6c1a9a8cdfbd8f1b03daa6a8313ecb0ef",
+    "export_sha256": "587bbf5bbeec3a04e239a247e89a8ae6c1a9a8cdfbd8f1b03daa6a8313ecb0ef"
+  },
+  "E13": {
+    "file": "claim_sources/E13_CLAIM_EVIDENCE_CHECKS_CONDITIONS_EN.json",
+    "original_sha256": "e6a616f9c225ebfdbabbb752aad04bb9199dc2b5a2faf4bfa1c220e7f4db02b0",
+    "export_sha256": "2353593c8903eca0786112eb1817bf3607670a25f6a44f4d6a8210d5fc0d4856"
+  },
+  "E14": {
+    "file": "claim_sources/E14_REVIEW_EN.json",
+    "original_sha256": "4031867049883b15bf291344e6e3ad5a5f6f778632618bedb55b1ccb142c8153",
+    "export_sha256": "3006508245dc2cc682c9a05ca620591f04da14522940d462742484fac72924a3"
+  },
+  "E15": {
+    "file": "claim_sources/E15_CROSS_SCENARIO_SCOPE_EN.json",
+    "original_sha256": "7c6c2450b47d13e5d26a466aea2081927bf0d771728da094dee96aa91ace47a8",
+    "export_sha256": "7c6c2450b47d13e5d26a466aea2081927bf0d771728da094dee96aa91ace47a8"
+  },
+  "E16": {
+    "file": "claim_sources/E16_KEY_PARAMETER_REGISTER_EN.json",
+    "original_sha256": "bbece86e43ad393dc29f53d31e4838a94602c324be4ead1aa33c7324560472d9",
+    "export_sha256": "9e1ed6ec6134b451235ad9c4d8606b7b64d9892f2864bfb202a267f6242b4629"
+  },
+  "E17": {
+    "file": "claim_sources/E17_CYTOKINE_SYMMETRY_RESULT_EN.json",
+    "original_sha256": "4f430daf104524361b59af91befeb5d12995c7e2843ac1fe185e837bda1890d6",
+    "export_sha256": "4f430daf104524361b59af91befeb5d12995c7e2843ac1fe185e837bda1890d6"
+  },
+  "E18": {
+    "file": "claim_sources/E18_INDEPENDENT_REVIEW_EN.json",
+    "original_sha256": "b7736beb7524e662396f021a7de74eddabd25bc883c30c4ed38b68515c80b37d",
+    "export_sha256": "b7736beb7524e662396f021a7de74eddabd25bc883c30c4ed38b68515c80b37d"
+  },
+  "E19": {
+    "file": "claim_sources/E19_INDEPENDENT_REVIEW_EN.json",
+    "original_sha256": "6cc5fd0ee38e5e258bb13ab5d81a0cdff9f2420b777f8aca864e1c28e7f13a8e",
+    "export_sha256": "6cc5fd0ee38e5e258bb13ab5d81a0cdff9f2420b777f8aca864e1c28e7f13a8e"
+  },
+  "E20": {
+    "file": "claim_sources/E20_CLAIM_EVIDENCE_CHECKS_CONDITIONS_EN.json",
+    "original_sha256": "6fd4ab3f539f6f3a9f6891665109d019895d1063806315d01733f93d60994e7c",
+    "export_sha256": "84e70ec815b8cd6a04224309125c95837a4f7128716dcc38b06961da5a35add6"
+  },
+  "E21": {
+    "file": "claim_sources/E21_SUMMARY_EN.json",
+    "original_sha256": "f3e762e631fc9856e9528d379f1f07133bb3f1ccc5174a0e492b6495a7dc4f5d",
+    "export_sha256": "b8cdb8b5fbb3f4c776fd79e4de167f8c7ab8127ac1599520d79048c0bca9b17f"
+  },
+  "E22": {
+    "file": "claim_sources/E22_REVIEW_EN.json",
+    "original_sha256": "03f91dacc5a03e5001816feda30678e0fb4d30754ac800a17bc16b7240b08d71",
+    "export_sha256": "03f91dacc5a03e5001816feda30678e0fb4d30754ac800a17bc16b7240b08d71"
+  },
+  "E23": {
+    "file": "claim_sources/E23_CLAIM_EVIDENCE_CHECKS_CONDITIONS_EN.json",
+    "original_sha256": "23c014889989b3224f9c4026a2a0a045e15443609abd31ea0dffd3462cd1f555",
+    "export_sha256": "306cb735e8e317cbf4e27efb5bfcb3ec42c26d2e8057d9762c6fd357180aab51"
+  },
+  "E24": {
+    "file": "claim_sources/E24_RESULT_EN.json",
+    "original_sha256": "4b779de8f6fa0d2d912fa819bc44ec986dafdb08b2d538f7f817d50674677b41",
+    "export_sha256": "51c3c056bd17814c9b3f80c3ff064e8f6c0a28a02d23d8512d0094db3b7af503"
+  },
+  "E25": {
+    "file": "claim_sources/E25_CASE_READOUTS_EN.json",
+    "original_sha256": "4f3e4a5f59edb3f2360ca1c002b9c54897b421d08495c0f9c62f751a18e4aea3",
+    "export_sha256": "4f3e4a5f59edb3f2360ca1c002b9c54897b421d08495c0f9c62f751a18e4aea3"
+  },
+  "E26": {
+    "file": "claim_sources/E26_NUMERICAL_GROUPS_EN.json",
+    "original_sha256": "90323480279f80aaa99ba83649b7d63a445395e032c1eff4a95d06466f23b3df",
+    "export_sha256": "90323480279f80aaa99ba83649b7d63a445395e032c1eff4a95d06466f23b3df"
+  },
+  "E27": {
+    "file": "claim_sources/E27_FULL_COMPARATIVE_TRAJECTORIES_EN.json",
+    "original_sha256": "73107bc63c97a07aefcb5dbd2e8e2888bb7c26dd5ea994a891d847f2b8e9c0d0",
+    "export_sha256": "73107bc63c97a07aefcb5dbd2e8e2888bb7c26dd5ea994a891d847f2b8e9c0d0"
+  },
+  "E28": {
+    "file": "claim_sources/E28_COMPARATIVE_SUMMARY_EN.json",
+    "original_sha256": "0508d3f6d04d526cf14f9a973b961008b8030cb5396a081bd014b1ef7cffcab2",
+    "export_sha256": "0508d3f6d04d526cf14f9a973b961008b8030cb5396a081bd014b1ef7cffcab2"
+  },
+  "E29": {
+    "file": "claim_sources/E29_REVIEW_EN.json",
+    "original_sha256": "94308689420a1ed5b5350dddfdbf71929a25bce9b3ad72c049f7130b689f7f26",
+    "export_sha256": "4aebde0fede6971daaf8b91d92e9122b68502b6887de97f0cb43b7ee77dbad42"
+  },
+  "E30": {
+    "file": "claim_sources/E30_SCIENTIFIC_REVIEW_EN.json",
+    "original_sha256": "62730726354152aba341d16bc7acb4cc5b04bf7e558041620803c0883eba0162",
+    "export_sha256": "e64b76081e08c9d180efa3dcc1130d9c32f1959c9ca87369b2005b85f1e29d30"
+  },
+  "E31": {
+    "file": "claim_sources/E31_KEY_PARAMETER_REGISTER_EN.json",
+    "original_sha256": "60dc8196c805ede6b56c49e61bbc88d948a3ec80430c61a093dbab60b3470d76",
+    "export_sha256": "526283edd9251f6a79ad50a86f76e00dd43aa5817f2c38bf17796cbea8f6fff3"
+  },
+  "E32": {
+    "file": "claim_sources/E32_SUMMARY_EN.json",
+    "original_sha256": "fff61077d8099373761c7983d4db7bf1e081aa896ff572c1b3ca8c843d105594",
+    "export_sha256": "306e7511b649705579776f7041cb7ac44bc97937b37d15c93b2f5dbc0eb75797"
+  },
+  "E33": {
+    "file": "claim_sources/E33_INDEPENDENT_REVIEW_EN.json",
+    "original_sha256": "f0fa797463dc2e10cf2e0dcc2f11e17dfca0aa6dda8a77bd37b1dccdf4a034c6",
+    "export_sha256": "f0fa797463dc2e10cf2e0dcc2f11e17dfca0aa6dda8a77bd37b1dccdf4a034c6"
+  },
+  "E34": {
+    "file": "claim_sources/E34_RESULT_EN.json",
+    "original_sha256": "9ac8178e5df21c94445c1795d04ba396ec70fdb74ee52b00820fa693818a8779",
+    "export_sha256": "9008d3e135373492e921e93814af307caacdc74ed3f4ad126be0c754678d4f4c"
+  },
+  "E35": {
+    "file": "claim_sources/E35_GROUP_ASSESSMENTS_EN.json",
+    "original_sha256": "8e2ef403c2b2f53ee64c21aafc0454190c7759a0eb97d5031cd737727661bf80",
+    "export_sha256": "8e2ef403c2b2f53ee64c21aafc0454190c7759a0eb97d5031cd737727661bf80"
+  },
+  "E36": {
+    "file": "claim_sources/E36_REVIEW_EN.json",
+    "original_sha256": "1206cde1453719e0022fa797d8fe0337cb8778650c6c0a4e9dc9b800b49e71c2",
+    "export_sha256": "9f9f45b32b0bf881e101af4869c072ff51990c2458a065941c6339419cfa69b3"
+  },
+  "E37": {
+    "file": "claim_sources/E37_REVIEW_EN.json",
+    "original_sha256": "c9016511408faaa583bfa18c0bc1fef63b3180fe7b2acd4f46a0edbe62360b3c",
+    "export_sha256": "c9016511408faaa583bfa18c0bc1fef63b3180fe7b2acd4f46a0edbe62360b3c"
+  },
+  "E38": {
+    "file": "claim_sources/E38_CASE_READOUTS_EN.json",
+    "original_sha256": "5dcc2a386f1bfa96f774d43a218e331b5952f3a78be48413ca208c07bf1c44b9",
+    "export_sha256": "5dcc2a386f1bfa96f774d43a218e331b5952f3a78be48413ca208c07bf1c44b9"
+  },
+  "E39": {
+    "file": "claim_sources/E39_FULL_PAIRED_CONTRASTS_EN.json",
+    "original_sha256": "fef322cae20936af058f05d5ab8f969d6a72626ec6f2f5ecbe63b464f598c163",
+    "export_sha256": "fef322cae20936af058f05d5ab8f969d6a72626ec6f2f5ecbe63b464f598c163"
+  },
+  "E40": {
+    "file": "claim_sources/E40_PAIR_ASSESSMENTS_EN.json",
+    "original_sha256": "31f00e10fd1eddb27c45ae0c6c3a4fc8fa92bdc71580a20a6cfca1175f19b213",
+    "export_sha256": "31f00e10fd1eddb27c45ae0c6c3a4fc8fa92bdc71580a20a6cfca1175f19b213"
+  },
+  "E41": {
+    "file": "claim_sources/E41_COMMON_INTERPRETATION_EN.json",
+    "original_sha256": "3419f030ed0f0140bba44d98549f143a027b389d4114b7080f990080caeb0a1a",
+    "export_sha256": "3419f030ed0f0140bba44d98549f143a027b389d4114b7080f990080caeb0a1a"
+  },
+  "E42": {
+    "file": "claim_sources/E42_INPUT_PAIR_CHECKS_EN.json",
+    "original_sha256": "0db18dbd34a213eac1528024ee1f876589add7c64bd4a66f4d12551593029b70",
+    "export_sha256": "0db18dbd34a213eac1528024ee1f876589add7c64bd4a66f4d12551593029b70"
+  },
+  "E43": {
+    "file": "claim_sources/E43_ARITHMETIC_AND_REFERENCE_CHECKS_EN.json",
+    "original_sha256": "275e0457a79e281844e5d74811fdc4dcdf3629e745fbbd386e165dfbbf4cb664",
+    "export_sha256": "275e0457a79e281844e5d74811fdc4dcdf3629e745fbbd386e165dfbbf4cb664"
+  },
+  "E44": {
+    "file": "claim_sources/E44_FOLLOWUP_DECISION_EN.json",
+    "original_sha256": "cf681da56870a90341df353d727d0901e428c258deef947c34d9266bbed650fe",
+    "export_sha256": "cf681da56870a90341df353d727d0901e428c258deef947c34d9266bbed650fe"
+  },
+  "E45": {
+    "file": "claim_sources/E45_REVIEW_EN.json",
+    "original_sha256": "31cdecf4e4c491bd253c65ada07ec0dccc7d27d55a868acf586a6439e59acbe3",
+    "export_sha256": "13c1c083a40d391a148581ead1424de575cbc24d80d29c659c057e9ed95cf167"
+  },
+  "E46": {
+    "file": "claim_sources/E46_CASE_READOUTS_EN.json",
+    "original_sha256": "baba597c4a0a60ae2b11dad8c282595b976b1862ffc35775f6f45e1cb7214bff",
+    "export_sha256": "baba597c4a0a60ae2b11dad8c282595b976b1862ffc35775f6f45e1cb7214bff"
+  },
+  "E47": {
+    "file": "claim_sources/E47_ALL_PAIRED_METRICS_EN.json",
+    "original_sha256": "f7ca717d863b5a6ae2b8272d00a5cf8205c2ad235f0157cbfb234bdb3069e75a",
+    "export_sha256": "f7ca717d863b5a6ae2b8272d00a5cf8205c2ad235f0157cbfb234bdb3069e75a"
+  },
+  "E48": {
+    "file": "claim_sources/E48_REPRESENTATION_CONTRASTS_EN.json",
+    "original_sha256": "396bfd8dd5257fbdc37344dd769f64d7c847d702d17c8f39c05a23fabde66aac",
+    "export_sha256": "396bfd8dd5257fbdc37344dd769f64d7c847d702d17c8f39c05a23fabde66aac"
+  },
+  "E49": {
+    "file": "claim_sources/E49_CASE_ASSESSMENTS_EN.json",
+    "original_sha256": "e799a2633c88ab28928b5c85278be1e1c42c5b6d605c10871cea3fcc90fdf6e5",
+    "export_sha256": "e799a2633c88ab28928b5c85278be1e1c42c5b6d605c10871cea3fcc90fdf6e5"
+  },
+  "E50": {
+    "file": "claim_sources/E50_FOLLOWUP_DECISION_EN.json",
+    "original_sha256": "c0179aa6732ef7b796f75777ef5210830c65d4e94f1b4bd857e1c9b8d04e3384",
+    "export_sha256": "6564da6252d0c7fa30dfc49220371046a5a5059e886f5c556803d120da02c5e3"
+  },
+  "E51": {
+    "file": "claim_sources/E51_PRIMARY_FLAG_DISPOSITIONS_EN.json",
+    "original_sha256": "8ed00d9aa8d42bc21c543346b7f22d2e7236a65bd092c8099adcadb861910622",
+    "export_sha256": "8ed00d9aa8d42bc21c543346b7f22d2e7236a65bd092c8099adcadb861910622"
+  },
+  "E52": {
+    "file": "claim_sources/E52_RESULT_EN.json",
+    "original_sha256": "47ff01bc8338e1a5f6fc08ae6cce7a59d68ecf104c7f425250a8b63121e4c63c",
+    "export_sha256": "42b23019bfc1f02661a0a209690a3b2ba557fec40c42b5cd662a0f050c9f2aec"
+  },
+  "E53": {
+    "file": "claim_sources/E53_FINALIZATION_RECEIPT_EN.json",
+    "original_sha256": "1c0a201a6ee375f75cd89d0e46742d318666e42c96131af7b4aed0fa55c7ff4b",
+    "export_sha256": "1bf1c0773be016a9809b55e120514f925effd60da63cf8ab8a32215f997b704b"
+  },
+  "E54": {
+    "file": "claim_sources/E54_INDEPENDENT_REVIEW_EN.json",
+    "original_sha256": "32b10c246534b3e1880e3ee1ccbb95524dd8c18fefd88b01fbf078d7b5449614",
+    "export_sha256": "32b10c246534b3e1880e3ee1ccbb95524dd8c18fefd88b01fbf078d7b5449614"
+  },
+  "E55": {
+    "file": "claim_sources/E55_RESULT_EN.json",
+    "original_sha256": "4ad911fe58cd92ae7bb62a3500c8eebcf32d1f192c95e58bdb8c94114b55243f",
+    "export_sha256": "4ad911fe58cd92ae7bb62a3500c8eebcf32d1f192c95e58bdb8c94114b55243f"
+  },
+  "E56": {
+    "file": "claim_sources/E56_SUMMARY_EN.json",
+    "original_sha256": "d61537cc997c4ebdd680c3084426fb9506f33c9678d1b8b826f92464ee776278",
+    "export_sha256": "c1258f6562ec39c3b45cbe4ba0948b5ca9fc43adc2327ae7459223e65765d7f8"
+  },
+  "E57": {
+    "file": "claim_sources/E57_REVIEW_EN.json",
+    "original_sha256": "3cc3b38ea5397c74f5bc7aba7de3f63a48edc28671e5b091ae671a5a0a245617",
+    "export_sha256": "3cc3b38ea5397c74f5bc7aba7de3f63a48edc28671e5b091ae671a5a0a245617"
+  }
+}

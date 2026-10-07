@@ -1,0 +1,83 @@
+[
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 9.74054403360378e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 2.1861707899558583e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 2.1327657993236183e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.1965265905863114e-11,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 2.4223721517352896e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.821336763551436e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 7.945082301957281e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.930248663405988e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 2.2635202681731966e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  }
+]

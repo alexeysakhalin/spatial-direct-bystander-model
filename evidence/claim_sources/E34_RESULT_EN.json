@@ -1,0 +1,41 @@
+{
+  "utc": "2026-10-06T22:58:07.504542+00:00",
+  "passed": true,
+  "copied_raw_cases": 94,
+  "increment_raw_files_rehashed": 1216,
+  "increment_raw_bytes_rehashed": 3771301768,
+  "all_new_payload_files_rehashed": 1400,
+  "all_raw_manifest_entries": 57145,
+  "all_raw_bytes": 56450895092,
+  "prior_raw_rows_unchanged": 55929,
+  "prior_raw_files_rehashed_again": false,
+  "original_and_portable_inputs_hash_checked": 618,
+  "copied_hourly_XML_times": 194,
+  "native_acceptance_records_reconciled": [
+    {
+      "case": "te5_local_entry_mesh_half_seed1",
+      "native_exit_code": 0,
+      "native_frames": 97,
+      "native_all_field_states": 99,
+      "native_ledger_rows": 196,
+      "copied_XML_times_independently_read": 97,
+      "standalone_exit_sidecar": true,
+      "accepted_per_case_exit_record": "EXECUTION_CHECKS_EN.json"
+    },
+    {
+      "case": "te5_local_entry_mesh_half_seed2",
+      "native_exit_code": 0,
+      "native_frames": 97,
+      "native_all_field_states": 99,
+      "native_ledger_rows": 196,
+      "copied_XML_times_independently_read": 97,
+      "standalone_exit_sidecar": false,
+      "accepted_per_case_exit_record": "EXECUTION_CHECKS_EN.json"
+    }
+  ],
+  "prior_increment_review": "source-e920cf229f8a0ff9a068",
+  "prior_increment_review_sha256": "9bc1bb4c96a7c6c25898ff0e26d8eb306ea9732ed738b0ec8d0cb6446b50b289",
+  "numerical_convergence_accepted": false,
+  "whole_package_transfer_qualified": false,
+  "project_complete": false
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "arm": "2d",
+    "normalized_target_AUC_hours": 22.258750000000003,
+    "ratio": 2,
+    "target_fraction_96h": 0.04472222222222222,
+    "targets_96h": {
+      "max": 64,
+      "mean": 53.666666666666664,
+      "min": 47
+    },
+    "time_average_targets_0_96h": {
+      "max": 285.6510416666667,
+      "mean": 278.234375,
+      "min": 268.21875
+    }
+  },
+  {
+    "arm": "3d",
+    "normalized_target_AUC_hours": 24.157083333333333,
+    "ratio": 2,
+    "target_fraction_96h": 0.07027777777777777,
+    "targets_96h": {
+      "max": 90,
+      "mean": 84.33333333333333,
+      "min": 81
+    },
+    "time_average_targets_0_96h": {
+      "max": 307.96875,
+      "mean": 301.9635416666667,
+      "min": 296.7291666666667
+    }
+  },
+  {
+    "arm": "local_entry",
+    "normalized_target_AUC_hours": 28.372083333333336,
+    "ratio": 2,
+    "target_fraction_96h": 0.13027777777777777,
+    "targets_96h": {
+      "max": 164,
+      "mean": 156.33333333333334,
+      "min": 147
+    },
+    "time_average_targets_0_96h": {
+      "max": 373.4166666666667,
+      "mean": 354.6510416666667,
+      "min": 340.9114583333333
+    }
+  },
+  {
+    "arm": "2d",
+    "normalized_target_AUC_hours": 32.235,
+    "ratio": 5,
+    "target_fraction_96h": 0.06277777777777778,
+    "targets_96h": {
+      "max": 84,
+      "mean": 75.33333333333333,
+      "min": 62
+    },
+    "time_average_targets_0_96h": {
+      "max": 412.1875,
+      "mean": 402.9375,
+      "min": 394.3958333333333
+    }
+  },
+  {
+    "arm": "3d",
+    "normalized_target_AUC_hours": 29.25513888888889,
+    "ratio": 5,
+    "target_fraction_96h": 0.0625,
+    "targets_96h": {
+      "max": 83,
+      "mean": 75.0,
+      "min": 69
+    },
+    "time_average_targets_0_96h": {
+      "max": 375.0989583333333,
+      "mean": 365.6892361111111,
+      "min": 360.796875
+    }
+  },
+  {
+    "arm": "local_entry",
+    "normalized_target_AUC_hours": 37.53402777777777,
+    "ratio": 5,
+    "target_fraction_96h": 0.11361111111111111,
+    "targets_96h": {
+      "max": 146,
+      "mean": 136.33333333333334,
+      "min": 119
+    },
+    "time_average_targets_0_96h": {
+      "max": 476.3020833333333,
+      "mean": 469.17534722222223,
+      "min": 456.0416666666667
+    }
+  }
+]

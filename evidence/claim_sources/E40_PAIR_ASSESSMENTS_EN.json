@@ -1,0 +1,47 @@
+[
+  {
+    "pair": 0,
+    "interpretation": "The 2D exchange case has 235 more surviving targets and an interval-average increase of 108.276 cells. Both exceed the observed closed-condition N3 ranges (47–64 endpoint; 268.219–285.651 interval mean), but the exchange case has only one seed. Target differences are negative at six saved hours, so the integral increase is not a uniform temporal order. The interval-average contact fraction rises by 4.722 percentage points; the initial-hull fraction changes by −0.255 points. At 96 h contacts are more frequent and target centres nearer, while saved live-target links are zero in both runs. Larger residual target abundance changes contact opportunity. These readouts cannot be interpreted as stronger productive recognition or a measured loss mechanism.",
+    "lower": "turnover0_2d_seed0",
+    "higher": "turnover10_2d_seed0",
+    "primary_preexisting_pair": true,
+    "statistical_significance_claim": false,
+    "resolution_independence_claim": false
+  },
+  {
+    "pair": 1,
+    "interpretation": "The 3D exchange case has 246 more surviving targets and an interval-average increase of 85.510 cells, outside the observed closed-condition N3 ranges (81–90 endpoint; 296.729–307.969 interval mean). Six saved target differences are negative. Initial-hull occupancy rises by 5.849 percentage points on average, but the contact fraction falls by 0.467 points. The mean difference in median nearest-target distance is only +0.0063 µm, despite a mean absolute hourly difference of 1.216 µm and a −2.023 µm endpoint difference. Cancellation in a time integral does not establish spatial equivalence.",
+    "lower": "turnover0_3d_seed0",
+    "higher": "turnover10_3d_seed0",
+    "primary_preexisting_pair": true,
+    "statistical_significance_claim": false,
+    "resolution_independence_claim": false
+  },
+  {
+    "pair": 2,
+    "interpretation": "Local entry with ten exchanged volumes has 72 more targets at 96 h than the closed case, but its interval-average increase is only 10.885 cells; the mean absolute hourly difference is 20.115 cells and 32 saved differences are negative. The endpoint is within the central exchange-10 N3 range (147–164); the closed endpoint of 86 is below that range. There are no N3 closed local-entry repetitions, so this is not a paired uncertainty estimate. Average hull occupancy falls by 6.625 percentage points while contact fraction rises by 1.140 points and saved-link fraction falls by 0.0575 points. The endpoint includes three unprimed targets under exchange, versus zero when closed; one antigen-positive target remains when closed and none under exchange. These opposite observables do not establish a unique access bottleneck or death mechanism.",
+    "lower": "turnover0_local_entry_seed0",
+    "higher": "turnover10_local_entry_seed0",
+    "primary_preexisting_pair": true,
+    "statistical_significance_claim": false,
+    "resolution_independence_claim": false
+  },
+  {
+    "pair": 3,
+    "interpretation": "One exchanged volume in local entry gives 20 more endpoint targets and a +12.021-cell interval-average difference from the closed case. Four saved differences are negative. Average hull occupancy falls by 3.112 percentage points, contact fraction changes by +0.131 points and saved-link fraction by −0.267 points. Both residual populations are entirely primed and retain one antigen-positive target. Closed and exchange-1 cases each have one seed; the central exchange-10 N3 range is contextual evidence only.",
+    "lower": "turnover0_local_entry_seed0",
+    "higher": "turnover1_local_entry_seed0",
+    "primary_preexisting_pair": true,
+    "statistical_significance_claim": false,
+    "resolution_independence_claim": false
+  },
+  {
+    "pair": 4,
+    "interpretation": "The additional comparison of the already existing exchange-1 and exchange-10 local-entry outputs shows opposite integral and endpoint signs: the interval-average difference is −1.135 cells while the endpoint difference is +52 cells. The mean absolute hourly difference is 18.406 cells, with 37 positive and 54 negative saved differences. Average initial-hull occupancy falls by 3.514 percentage points while contact fraction rises by 1.009 points. This is an additional readout of completed runs, not an additional simulation. A monotonic temporal or interval-integrated response to the tested exchange levels is not supported.",
+    "lower": "turnover1_local_entry_seed0",
+    "higher": "turnover10_local_entry_seed0",
+    "primary_preexisting_pair": false,
+    "statistical_significance_claim": false,
+    "resolution_independence_claim": false
+  }
+]

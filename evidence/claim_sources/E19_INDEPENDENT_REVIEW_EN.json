@@ -1,0 +1,1514 @@
+{
+  "utc": "2026-10-06T19:31:05.083077+00:00",
+  "passed": true,
+  "qualified_functions_retained_verbatim": 24,
+  "code_and_source_manifests_verified": true,
+  "relocated_result_files_byte_identical": 25,
+  "hourly_states_reconciled_against_separate_central_count_replay": 1746,
+  "fraction_checks_with_exact_rational_arithmetic": 180,
+  "first_positive_hour_checks": 72,
+  "N3_summaries_independently_checked": 354,
+  "paired_ratio_differences_independently_checked": 531,
+  "paired_difference_summaries_independently_checked": 177,
+  "paired_difference_sign_counts": {
+    "positive": 207,
+    "negative": 167,
+    "zero": 157,
+    "undefined": 0
+  },
+  "publication_files_screened": [
+    "reproducibility/analysis_spatial_v1/CASES.json",
+    "reproducibility/analysis_spatial_v1/CELL_STATES.json",
+    "reproducibility/analysis_spatial_v1/EXPECTED_COUNTS.json",
+    "reproducibility/analysis_spatial_v1/EXPECTED_N3_RATIO_SPATIAL_DIFFERENCES.json",
+    "reproducibility/analysis_spatial_v1/EXPECTED_N3_SPATIAL_METRIC_SUMMARIES.json",
+    "reproducibility/analysis_spatial_v1/EXPECTED_PAIRED_RATIO_SPATIAL_DIFFERENCES.json",
+    "reproducibility/analysis_spatial_v1/EXPECTED_SPATIAL_ROWS.json",
+    "reproducibility/analysis_spatial_v1/MANIFEST_SHA256.json",
+    "reproducibility/analysis_spatial_v1/RAW_FILES.json",
+    "reproducibility/analysis_spatial_v1/README.txt",
+    "reproducibility/analysis_spatial_v1/TECHNICAL_ACCEPTANCE.json",
+    "reproducibility/analysis_spatial_v1/geometry.py",
+    "reproducibility/analysis_spatial_v1/gradients.py",
+    "reproducibility/analysis_spatial_v1/projection.py",
+    "reproducibility/analysis_spatial_v1/ratio_metrics.py",
+    "reproducibility/analysis_spatial_v1/replay.py",
+    "reproducibility/analysis_spatial_v1/requirements.txt",
+    "reproducibility/analysis_spatial_v1/saved_frames.py",
+    "reproducibility/analysis_spatial_v1/spatial_metrics.py",
+    "reproducibility/analysis_spatial_v1/summaries.py",
+    "reproducibility/spatial_results_v1/CASE_METRICS.json",
+    "reproducibility/spatial_results_v1/ENVIRONMENT.json",
+    "reproducibility/spatial_results_v1/N3_RATIO_SPATIAL_DIFFERENCES.json",
+    "reproducibility/spatial_results_v1/N3_SPATIAL_METRIC_SUMMARIES.json",
+    "reproducibility/spatial_results_v1/PAIRED_RATIO_SPATIAL_DIFFERENCES.json",
+    "reproducibility/spatial_results_v1/REPLAY_VERIFICATION.json",
+    "reproducibility/spatial_results_v1/RESULT_MANIFEST_SHA256.json",
+    "reproducibility/spatial_results_v1/cases/te5_2d_seed0.json",
+    "reproducibility/spatial_results_v1/cases/te5_2d_seed1.json",
+    "reproducibility/spatial_results_v1/cases/te5_2d_seed2.json",
+    "reproducibility/spatial_results_v1/cases/te5_3d_seed0.json",
+    "reproducibility/spatial_results_v1/cases/te5_3d_seed1.json",
+    "reproducibility/spatial_results_v1/cases/te5_3d_seed2.json",
+    "reproducibility/spatial_results_v1/cases/te5_local_entry_seed0.json",
+    "reproducibility/spatial_results_v1/cases/te5_local_entry_seed1.json",
+    "reproducibility/spatial_results_v1/cases/te5_local_entry_seed2.json",
+    "reproducibility/spatial_results_v1/cases/turnover0_2d_repeat_seed1.json",
+    "reproducibility/spatial_results_v1/cases/turnover0_2d_repeat_seed2.json",
+    "reproducibility/spatial_results_v1/cases/turnover0_2d_seed0.json",
+    "reproducibility/spatial_results_v1/cases/turnover0_3d_repeat_seed1.json",
+    "reproducibility/spatial_results_v1/cases/turnover0_3d_repeat_seed2.json",
+    "reproducibility/spatial_results_v1/cases/turnover0_3d_seed0.json",
+    "reproducibility/spatial_results_v1/cases/turnover10_local_entry_repeat_seed1.json",
+    "reproducibility/spatial_results_v1/cases/turnover10_local_entry_repeat_seed2.json",
+    "reproducibility/spatial_results_v1/cases/turnover10_local_entry_seed0.json"
+  ],
+  "workflow_markers_or_absolute_host_paths": [],
+  "manual_editorial_review": "README, replay driver, function extraction and projected result schemas read. The descriptions separate hull membership, overlap, saved links, sampled activity onset and reconstructed field directions; living-effector denominators, nulls and reversed contrasts are retained. No calibration, pure dimensionality or in-vivo claims are introduced.",
+  "whole_package_editorial_audit_complete": false,
+  "whole_package_transfer_complete": false,
+  "scientific_convergence_accepted": false,
+  "project_complete": false,
+  "fraction_checks": [
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 156,
+      "denominator": 255,
+      "fraction": 0.611764705882353
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 85,
+      "denominator": 255,
+      "fraction": 0.3333333333333333
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 151,
+      "denominator": 309,
+      "fraction": 0.4886731391585761
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 23,
+      "denominator": 309,
+      "fraction": 0.0744336569579288
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 145,
+      "denominator": 339,
+      "fraction": 0.4277286135693215
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 6,
+      "denominator": 339,
+      "fraction": 0.017699115044247787
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 113,
+      "denominator": 339,
+      "fraction": 0.3333333333333333
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 339,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 122,
+      "denominator": 341,
+      "fraction": 0.35777126099706746
+    },
+    {
+      "case": "te5_2d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 341,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 159,
+      "denominator": 259,
+      "fraction": 0.6138996138996139
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 76,
+      "denominator": 259,
+      "fraction": 0.29343629343629346
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 138,
+      "denominator": 318,
+      "fraction": 0.4339622641509434
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 47,
+      "denominator": 318,
+      "fraction": 0.14779874213836477
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 148,
+      "denominator": 348,
+      "fraction": 0.42528735632183906
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 8,
+      "denominator": 348,
+      "fraction": 0.022988505747126436
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 146,
+      "denominator": 372,
+      "fraction": 0.3924731182795699
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 3,
+      "denominator": 372,
+      "fraction": 0.008064516129032258
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 104,
+      "denominator": 365,
+      "fraction": 0.28493150684931506
+    },
+    {
+      "case": "te5_2d_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 365,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 163,
+      "denominator": 264,
+      "fraction": 0.6174242424242424
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 90,
+      "denominator": 264,
+      "fraction": 0.3409090909090909
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 161,
+      "denominator": 326,
+      "fraction": 0.4938650306748466
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 29,
+      "denominator": 326,
+      "fraction": 0.08895705521472393
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 139,
+      "denominator": 325,
+      "fraction": 0.4276923076923077
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 4,
+      "denominator": 325,
+      "fraction": 0.012307692307692308
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 123,
+      "denominator": 335,
+      "fraction": 0.36716417910447763
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 1,
+      "denominator": 335,
+      "fraction": 0.0029850746268656717
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 118,
+      "denominator": 343,
+      "fraction": 0.34402332361516036
+    },
+    {
+      "case": "te5_2d_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 343,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 197,
+      "denominator": 254,
+      "fraction": 0.7755905511811023
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 139,
+      "denominator": 254,
+      "fraction": 0.547244094488189
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 119,
+      "denominator": 303,
+      "fraction": 0.3927392739273927
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 21,
+      "denominator": 303,
+      "fraction": 0.06930693069306931
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 95,
+      "denominator": 324,
+      "fraction": 0.2932098765432099
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 2,
+      "denominator": 324,
+      "fraction": 0.006172839506172839
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 91,
+      "denominator": 324,
+      "fraction": 0.2808641975308642
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 324,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 105,
+      "denominator": 325,
+      "fraction": 0.3230769230769231
+    },
+    {
+      "case": "te5_3d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 325,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 208,
+      "denominator": 258,
+      "fraction": 0.8062015503875969
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 153,
+      "denominator": 258,
+      "fraction": 0.5930232558139535
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 121,
+      "denominator": 316,
+      "fraction": 0.3829113924050633
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 25,
+      "denominator": 316,
+      "fraction": 0.07911392405063292
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 90,
+      "denominator": 330,
+      "fraction": 0.2727272727272727
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 2,
+      "denominator": 330,
+      "fraction": 0.006060606060606061
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 111,
+      "denominator": 345,
+      "fraction": 0.3217391304347826
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 345,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 109,
+      "denominator": 346,
+      "fraction": 0.315028901734104
+    },
+    {
+      "case": "te5_3d_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 346,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 196,
+      "denominator": 259,
+      "fraction": 0.7567567567567568
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 140,
+      "denominator": 259,
+      "fraction": 0.5405405405405406
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 121,
+      "denominator": 323,
+      "fraction": 0.3746130030959752
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 33,
+      "denominator": 323,
+      "fraction": 0.1021671826625387
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 96,
+      "denominator": 341,
+      "fraction": 0.28152492668621704
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 3,
+      "denominator": 341,
+      "fraction": 0.008797653958944282
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 90,
+      "denominator": 353,
+      "fraction": 0.254957507082153
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 353,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 111,
+      "denominator": 350,
+      "fraction": 0.3171428571428571
+    },
+    {
+      "case": "te5_3d_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 350,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 158,
+      "denominator": 264,
+      "fraction": 0.5984848484848485
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 129,
+      "denominator": 264,
+      "fraction": 0.48863636363636365
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 41,
+      "denominator": 342,
+      "fraction": 0.11988304093567251
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 26,
+      "denominator": 342,
+      "fraction": 0.07602339181286549
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 60,
+      "denominator": 392,
+      "fraction": 0.15306122448979592
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 14,
+      "denominator": 392,
+      "fraction": 0.03571428571428571
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 35,
+      "denominator": 465,
+      "fraction": 0.07526881720430108
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 4,
+      "denominator": 465,
+      "fraction": 0.008602150537634409
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 38,
+      "denominator": 487,
+      "fraction": 0.07802874743326489
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 487,
+      "fraction": 0.0
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 167,
+      "denominator": 255,
+      "fraction": 0.6549019607843137
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 133,
+      "denominator": 255,
+      "fraction": 0.5215686274509804
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 39,
+      "denominator": 339,
+      "fraction": 0.11504424778761062
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 16,
+      "denominator": 339,
+      "fraction": 0.0471976401179941
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 42,
+      "denominator": 397,
+      "fraction": 0.10579345088161209
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 11,
+      "denominator": 397,
+      "fraction": 0.027707808564231738
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 51,
+      "denominator": 431,
+      "fraction": 0.11832946635730858
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 2,
+      "denominator": 431,
+      "fraction": 0.004640371229698376
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 18,
+      "denominator": 469,
+      "fraction": 0.03837953091684435
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 1,
+      "denominator": 469,
+      "fraction": 0.0021321961620469083
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 157,
+      "denominator": 255,
+      "fraction": 0.615686274509804
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 111,
+      "denominator": 255,
+      "fraction": 0.43529411764705883
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 56,
+      "denominator": 338,
+      "fraction": 0.16568047337278108
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 17,
+      "denominator": 338,
+      "fraction": 0.05029585798816568
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 33,
+      "denominator": 367,
+      "fraction": 0.08991825613079019
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 7,
+      "denominator": 367,
+      "fraction": 0.01907356948228883
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 38,
+      "denominator": 395,
+      "fraction": 0.09620253164556962
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 7,
+      "denominator": 395,
+      "fraction": 0.017721518987341773
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 36,
+      "denominator": 418,
+      "fraction": 0.0861244019138756
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 418,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 366,
+      "denominator": 667,
+      "fraction": 0.5487256371814093
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 147,
+      "denominator": 667,
+      "fraction": 0.22038980509745126
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 296,
+      "denominator": 740,
+      "fraction": 0.4
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 2,
+      "denominator": 740,
+      "fraction": 0.002702702702702703
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 258,
+      "denominator": 738,
+      "fraction": 0.34959349593495936
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 2,
+      "denominator": 738,
+      "fraction": 0.0027100271002710027
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 219,
+      "denominator": 738,
+      "fraction": 0.2967479674796748
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 738,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 150,
+      "denominator": 725,
+      "fraction": 0.20689655172413793
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 725,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 358,
+      "denominator": 655,
+      "fraction": 0.5465648854961832
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 167,
+      "denominator": 655,
+      "fraction": 0.2549618320610687
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 321,
+      "denominator": 732,
+      "fraction": 0.4385245901639344
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 7,
+      "denominator": 732,
+      "fraction": 0.009562841530054645
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 294,
+      "denominator": 751,
+      "fraction": 0.3914780292942743
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 751,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 239,
+      "denominator": 742,
+      "fraction": 0.3221024258760108
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 742,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 150,
+      "denominator": 735,
+      "fraction": 0.20408163265306123
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 735,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 348,
+      "denominator": 678,
+      "fraction": 0.5132743362831859
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 147,
+      "denominator": 678,
+      "fraction": 0.2168141592920354
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 331,
+      "denominator": 750,
+      "fraction": 0.44133333333333336
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 9,
+      "denominator": 750,
+      "fraction": 0.012
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 294,
+      "denominator": 754,
+      "fraction": 0.38992042440318303
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 1,
+      "denominator": 754,
+      "fraction": 0.001326259946949602
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 230,
+      "denominator": 762,
+      "fraction": 0.30183727034120733
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 762,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 172,
+      "denominator": 761,
+      "fraction": 0.22601839684625494
+    },
+    {
+      "case": "turnover0_2d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 761,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 399,
+      "denominator": 651,
+      "fraction": 0.6129032258064516
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 211,
+      "denominator": 651,
+      "fraction": 0.3241167434715822
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 259,
+      "denominator": 745,
+      "fraction": 0.3476510067114094
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 3,
+      "denominator": 745,
+      "fraction": 0.004026845637583893
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 222,
+      "denominator": 747,
+      "fraction": 0.2971887550200803
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 747,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 211,
+      "denominator": 727,
+      "fraction": 0.2902338376891334
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 727,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 195,
+      "denominator": 747,
+      "fraction": 0.26104417670682734
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 747,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 408,
+      "denominator": 657,
+      "fraction": 0.6210045662100456
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 231,
+      "denominator": 657,
+      "fraction": 0.3515981735159817
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 247,
+      "denominator": 722,
+      "fraction": 0.34210526315789475
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 4,
+      "denominator": 722,
+      "fraction": 0.00554016620498615
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 227,
+      "denominator": 748,
+      "fraction": 0.303475935828877
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 748,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 260,
+      "denominator": 740,
+      "fraction": 0.35135135135135137
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 740,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 215,
+      "denominator": 735,
+      "fraction": 0.2925170068027211
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 735,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 426,
+      "denominator": 638,
+      "fraction": 0.6677115987460815
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 234,
+      "denominator": 638,
+      "fraction": 0.3667711598746082
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 237,
+      "denominator": 734,
+      "fraction": 0.3228882833787466
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 4,
+      "denominator": 734,
+      "fraction": 0.005449591280653951
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 207,
+      "denominator": 737,
+      "fraction": 0.2808683853459973
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 737,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 203,
+      "denominator": 724,
+      "fraction": 0.2803867403314917
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 724,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 199,
+      "denominator": 711,
+      "fraction": 0.279887482419128
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 711,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 366,
+      "denominator": 655,
+      "fraction": 0.5587786259541985
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 219,
+      "denominator": 655,
+      "fraction": 0.33435114503816793
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 82,
+      "denominator": 794,
+      "fraction": 0.10327455919395466
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 5,
+      "denominator": 794,
+      "fraction": 0.006297229219143577
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 94,
+      "denominator": 842,
+      "fraction": 0.11163895486935867
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 11,
+      "denominator": 842,
+      "fraction": 0.013064133016627079
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 59,
+      "denominator": 881,
+      "fraction": 0.06696935300794551
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 881,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 35,
+      "denominator": 883,
+      "fraction": 0.039637599093997736
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 883,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 374,
+      "denominator": 662,
+      "fraction": 0.5649546827794562
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 197,
+      "denominator": 662,
+      "fraction": 0.297583081570997
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 125,
+      "denominator": 797,
+      "fraction": 0.15683814303638646
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 22,
+      "denominator": 797,
+      "fraction": 0.027603513174404015
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 80,
+      "denominator": 871,
+      "fraction": 0.09184845005740529
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 4,
+      "denominator": 871,
+      "fraction": 0.004592422502870264
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 45,
+      "denominator": 895,
+      "fraction": 0.05027932960893855
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 895,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 32,
+      "denominator": 880,
+      "fraction": 0.03636363636363636
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 880,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 333,
+      "denominator": 662,
+      "fraction": 0.5030211480362538
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 6,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 202,
+      "denominator": 662,
+      "fraction": 0.30513595166163143
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 112,
+      "denominator": 777,
+      "fraction": 0.14414414414414414
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 24,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 2,
+      "denominator": 777,
+      "fraction": 0.002574002574002574
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 87,
+      "denominator": 892,
+      "fraction": 0.09753363228699552
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 48,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 9,
+      "denominator": 892,
+      "fraction": 0.010089686098654708
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 40,
+      "denominator": 915,
+      "fraction": 0.04371584699453552
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 72,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 915,
+      "fraction": 0.0
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_touching_living_target_spheres",
+      "numerator": 36,
+      "denominator": 941,
+      "fraction": 0.03825717321997875
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "time_h": 96,
+      "measure": "living_effectors_with_saved_live_target_attack_link",
+      "numerator": 0,
+      "denominator": 941,
+      "fraction": 0.0
+    }
+  ]
+}

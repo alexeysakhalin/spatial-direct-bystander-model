@@ -1,0 +1,4091 @@
+{
+  "scope": "Exact plotted values, six accepted cases and 97 saved times each.",
+  "series": {
+    "turnover0_2d_seed0": [
+      {
+        "time_h": 0.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.0,
+        "TNF_domain_mean": 0.0
+      },
+      {
+        "time_h": 1.0,
+        "live_targets": 1193,
+        "live_Ag_negative": 362,
+        "IFNg_domain_mean": 0.06455464378851694,
+        "TNF_domain_mean": 0.06455464378851694
+      },
+      {
+        "time_h": 2.0,
+        "live_targets": 1127,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.13942663367879926,
+        "TNF_domain_mean": 0.13942663367879926
+      },
+      {
+        "time_h": 3.0,
+        "live_targets": 1027,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.20230093095910573,
+        "TNF_domain_mean": 0.20230093095910573
+      },
+      {
+        "time_h": 4.0,
+        "live_targets": 939,
+        "live_Ag_negative": 364,
+        "IFNg_domain_mean": 0.25126760879804916,
+        "TNF_domain_mean": 0.25126760879804916
+      },
+      {
+        "time_h": 5.0,
+        "live_targets": 861,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.2918990310839,
+        "TNF_domain_mean": 0.2918990310839
+      },
+      {
+        "time_h": 6.0,
+        "live_targets": 785,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.32840879100487863,
+        "TNF_domain_mean": 0.32840879100487863
+      },
+      {
+        "time_h": 7.0,
+        "live_targets": 728,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.3586986593777973,
+        "TNF_domain_mean": 0.3586986593777973
+      },
+      {
+        "time_h": 8.0,
+        "live_targets": 672,
+        "live_Ag_negative": 366,
+        "IFNg_domain_mean": 0.3852709781350995,
+        "TNF_domain_mean": 0.3852709781350995
+      },
+      {
+        "time_h": 9.0,
+        "live_targets": 620,
+        "live_Ag_negative": 364,
+        "IFNg_domain_mean": 0.4095000439182006,
+        "TNF_domain_mean": 0.4095000439182006
+      },
+      {
+        "time_h": 10.0,
+        "live_targets": 566,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.4293055514017887,
+        "TNF_domain_mean": 0.4293055514017887
+      },
+      {
+        "time_h": 11.0,
+        "live_targets": 526,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.4436571545644726,
+        "TNF_domain_mean": 0.4436571545644726
+      },
+      {
+        "time_h": 12.0,
+        "live_targets": 498,
+        "live_Ag_negative": 358,
+        "IFNg_domain_mean": 0.45640107059633445,
+        "TNF_domain_mean": 0.45640107059633445
+      },
+      {
+        "time_h": 13.0,
+        "live_targets": 474,
+        "live_Ag_negative": 358,
+        "IFNg_domain_mean": 0.46682498627963764,
+        "TNF_domain_mean": 0.46682498627963764
+      },
+      {
+        "time_h": 14.0,
+        "live_targets": 445,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.47541923021716137,
+        "TNF_domain_mean": 0.47541923021716137
+      },
+      {
+        "time_h": 15.0,
+        "live_targets": 431,
+        "live_Ag_negative": 354,
+        "IFNg_domain_mean": 0.4810989825837785,
+        "TNF_domain_mean": 0.4810989825837785
+      },
+      {
+        "time_h": 16.0,
+        "live_targets": 413,
+        "live_Ag_negative": 348,
+        "IFNg_domain_mean": 0.48574207555278076,
+        "TNF_domain_mean": 0.48574207555278076
+      },
+      {
+        "time_h": 17.0,
+        "live_targets": 407,
+        "live_Ag_negative": 348,
+        "IFNg_domain_mean": 0.4898365432678333,
+        "TNF_domain_mean": 0.4898365432678333
+      },
+      {
+        "time_h": 18.0,
+        "live_targets": 400,
+        "live_Ag_negative": 347,
+        "IFNg_domain_mean": 0.4925453491465493,
+        "TNF_domain_mean": 0.4925453491465493
+      },
+      {
+        "time_h": 19.0,
+        "live_targets": 390,
+        "live_Ag_negative": 345,
+        "IFNg_domain_mean": 0.49567113305954474,
+        "TNF_domain_mean": 0.49567113305954474
+      },
+      {
+        "time_h": 20.0,
+        "live_targets": 376,
+        "live_Ag_negative": 339,
+        "IFNg_domain_mean": 0.49835214691586227,
+        "TNF_domain_mean": 0.49835214691586227
+      },
+      {
+        "time_h": 21.0,
+        "live_targets": 366,
+        "live_Ag_negative": 334,
+        "IFNg_domain_mean": 0.5008526243927409,
+        "TNF_domain_mean": 0.5008526243927409
+      },
+      {
+        "time_h": 22.0,
+        "live_targets": 355,
+        "live_Ag_negative": 330,
+        "IFNg_domain_mean": 0.502272463620262,
+        "TNF_domain_mean": 0.502272463620262
+      },
+      {
+        "time_h": 23.0,
+        "live_targets": 350,
+        "live_Ag_negative": 326,
+        "IFNg_domain_mean": 0.5040586133344003,
+        "TNF_domain_mean": 0.5040586133344003
+      },
+      {
+        "time_h": 24.0,
+        "live_targets": 342,
+        "live_Ag_negative": 324,
+        "IFNg_domain_mean": 0.5056982614067888,
+        "TNF_domain_mean": 0.5056982614067888
+      },
+      {
+        "time_h": 25.0,
+        "live_targets": 334,
+        "live_Ag_negative": 319,
+        "IFNg_domain_mean": 0.506908815119802,
+        "TNF_domain_mean": 0.506908815119802
+      },
+      {
+        "time_h": 26.0,
+        "live_targets": 328,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.5077829275979328,
+        "TNF_domain_mean": 0.5077829275979328
+      },
+      {
+        "time_h": 27.0,
+        "live_targets": 328,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.508301590173445,
+        "TNF_domain_mean": 0.508301590173445
+      },
+      {
+        "time_h": 28.0,
+        "live_targets": 320,
+        "live_Ag_negative": 311,
+        "IFNg_domain_mean": 0.5087371952883313,
+        "TNF_domain_mean": 0.5087371952883313
+      },
+      {
+        "time_h": 29.0,
+        "live_targets": 312,
+        "live_Ag_negative": 306,
+        "IFNg_domain_mean": 0.5091502454792888,
+        "TNF_domain_mean": 0.5091502454792888
+      },
+      {
+        "time_h": 30.0,
+        "live_targets": 306,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.5094946042122699,
+        "TNF_domain_mean": 0.5094946042122699
+      },
+      {
+        "time_h": 31.0,
+        "live_targets": 302,
+        "live_Ag_negative": 298,
+        "IFNg_domain_mean": 0.5094980201790762,
+        "TNF_domain_mean": 0.5094980201790762
+      },
+      {
+        "time_h": 32.0,
+        "live_targets": 295,
+        "live_Ag_negative": 291,
+        "IFNg_domain_mean": 0.509497367735938,
+        "TNF_domain_mean": 0.509497367735938
+      },
+      {
+        "time_h": 33.0,
+        "live_targets": 289,
+        "live_Ag_negative": 285,
+        "IFNg_domain_mean": 0.5095851365528608,
+        "TNF_domain_mean": 0.5095851365528608
+      },
+      {
+        "time_h": 34.0,
+        "live_targets": 279,
+        "live_Ag_negative": 276,
+        "IFNg_domain_mean": 0.5098468813995616,
+        "TNF_domain_mean": 0.5098468813995616
+      },
+      {
+        "time_h": 35.0,
+        "live_targets": 276,
+        "live_Ag_negative": 273,
+        "IFNg_domain_mean": 0.5101815446592081,
+        "TNF_domain_mean": 0.5101815446592081
+      },
+      {
+        "time_h": 36.0,
+        "live_targets": 268,
+        "live_Ag_negative": 267,
+        "IFNg_domain_mean": 0.5103997325387846,
+        "TNF_domain_mean": 0.5103997325387846
+      },
+      {
+        "time_h": 37.0,
+        "live_targets": 265,
+        "live_Ag_negative": 264,
+        "IFNg_domain_mean": 0.5103937060804437,
+        "TNF_domain_mean": 0.5103937060804437
+      },
+      {
+        "time_h": 38.0,
+        "live_targets": 262,
+        "live_Ag_negative": 261,
+        "IFNg_domain_mean": 0.5103935357662386,
+        "TNF_domain_mean": 0.5103935357662386
+      },
+      {
+        "time_h": 39.0,
+        "live_targets": 255,
+        "live_Ag_negative": 254,
+        "IFNg_domain_mean": 0.5103935350917457,
+        "TNF_domain_mean": 0.5103935350917457
+      },
+      {
+        "time_h": 40.0,
+        "live_targets": 249,
+        "live_Ag_negative": 248,
+        "IFNg_domain_mean": 0.510393535088901,
+        "TNF_domain_mean": 0.510393535088901
+      },
+      {
+        "time_h": 41.0,
+        "live_targets": 246,
+        "live_Ag_negative": 245,
+        "IFNg_domain_mean": 0.5103935350888607,
+        "TNF_domain_mean": 0.5103935350888607
+      },
+      {
+        "time_h": 42.0,
+        "live_targets": 241,
+        "live_Ag_negative": 240,
+        "IFNg_domain_mean": 0.5103935350888607,
+        "TNF_domain_mean": 0.5103935350888607
+      },
+      {
+        "time_h": 43.0,
+        "live_targets": 233,
+        "live_Ag_negative": 232,
+        "IFNg_domain_mean": 0.5103935350888607,
+        "TNF_domain_mean": 0.5103935350888607
+      },
+      {
+        "time_h": 44.0,
+        "live_targets": 225,
+        "live_Ag_negative": 224,
+        "IFNg_domain_mean": 0.5105211355711838,
+        "TNF_domain_mean": 0.5105211355711838
+      },
+      {
+        "time_h": 45.0,
+        "live_targets": 223,
+        "live_Ag_negative": 222,
+        "IFNg_domain_mean": 0.5105723767851913,
+        "TNF_domain_mean": 0.5105723767851913
+      },
+      {
+        "time_h": 46.0,
+        "live_targets": 216,
+        "live_Ag_negative": 215,
+        "IFNg_domain_mean": 0.5105695483014193,
+        "TNF_domain_mean": 0.5105695483014193
+      },
+      {
+        "time_h": 47.0,
+        "live_targets": 207,
+        "live_Ag_negative": 206,
+        "IFNg_domain_mean": 0.5106598970132442,
+        "TNF_domain_mean": 0.5106598970132442
+      },
+      {
+        "time_h": 48.0,
+        "live_targets": 202,
+        "live_Ag_negative": 201,
+        "IFNg_domain_mean": 0.5107687191972508,
+        "TNF_domain_mean": 0.5107687191972508
+      },
+      {
+        "time_h": 49.0,
+        "live_targets": 198,
+        "live_Ag_negative": 198,
+        "IFNg_domain_mean": 0.51084585840474,
+        "TNF_domain_mean": 0.51084585840474
+      },
+      {
+        "time_h": 50.0,
+        "live_targets": 196,
+        "live_Ag_negative": 196,
+        "IFNg_domain_mean": 0.510841133079439,
+        "TNF_domain_mean": 0.510841133079439
+      },
+      {
+        "time_h": 51.0,
+        "live_targets": 193,
+        "live_Ag_negative": 193,
+        "IFNg_domain_mean": 0.5108410895236173,
+        "TNF_domain_mean": 0.5108410895236173
+      },
+      {
+        "time_h": 52.0,
+        "live_targets": 189,
+        "live_Ag_negative": 189,
+        "IFNg_domain_mean": 0.510841089352876,
+        "TNF_domain_mean": 0.510841089352876
+      },
+      {
+        "time_h": 53.0,
+        "live_targets": 183,
+        "live_Ag_negative": 183,
+        "IFNg_domain_mean": 0.5108410893515191,
+        "TNF_domain_mean": 0.5108410893515191
+      },
+      {
+        "time_h": 54.0,
+        "live_targets": 177,
+        "live_Ag_negative": 177,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 55.0,
+        "live_targets": 171,
+        "live_Ag_negative": 171,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 56.0,
+        "live_targets": 170,
+        "live_Ag_negative": 170,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 57.0,
+        "live_targets": 163,
+        "live_Ag_negative": 163,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 58.0,
+        "live_targets": 160,
+        "live_Ag_negative": 160,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 59.0,
+        "live_targets": 156,
+        "live_Ag_negative": 156,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 60.0,
+        "live_targets": 153,
+        "live_Ag_negative": 153,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 61.0,
+        "live_targets": 145,
+        "live_Ag_negative": 145,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 62.0,
+        "live_targets": 145,
+        "live_Ag_negative": 145,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 63.0,
+        "live_targets": 140,
+        "live_Ag_negative": 140,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 64.0,
+        "live_targets": 133,
+        "live_Ag_negative": 133,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 65.0,
+        "live_targets": 131,
+        "live_Ag_negative": 131,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 66.0,
+        "live_targets": 127,
+        "live_Ag_negative": 127,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 67.0,
+        "live_targets": 123,
+        "live_Ag_negative": 123,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 68.0,
+        "live_targets": 121,
+        "live_Ag_negative": 121,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 69.0,
+        "live_targets": 118,
+        "live_Ag_negative": 118,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 70.0,
+        "live_targets": 114,
+        "live_Ag_negative": 114,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 71.0,
+        "live_targets": 112,
+        "live_Ag_negative": 112,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 72.0,
+        "live_targets": 110,
+        "live_Ag_negative": 110,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 73.0,
+        "live_targets": 110,
+        "live_Ag_negative": 110,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 74.0,
+        "live_targets": 108,
+        "live_Ag_negative": 108,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 75.0,
+        "live_targets": 106,
+        "live_Ag_negative": 106,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 76.0,
+        "live_targets": 101,
+        "live_Ag_negative": 101,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 77.0,
+        "live_targets": 98,
+        "live_Ag_negative": 98,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 78.0,
+        "live_targets": 96,
+        "live_Ag_negative": 96,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 79.0,
+        "live_targets": 93,
+        "live_Ag_negative": 93,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 80.0,
+        "live_targets": 90,
+        "live_Ag_negative": 90,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 81.0,
+        "live_targets": 89,
+        "live_Ag_negative": 89,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 82.0,
+        "live_targets": 88,
+        "live_Ag_negative": 88,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 83.0,
+        "live_targets": 86,
+        "live_Ag_negative": 86,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 84.0,
+        "live_targets": 82,
+        "live_Ag_negative": 82,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 85.0,
+        "live_targets": 81,
+        "live_Ag_negative": 81,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 86.0,
+        "live_targets": 81,
+        "live_Ag_negative": 81,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 87.0,
+        "live_targets": 77,
+        "live_Ag_negative": 77,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 88.0,
+        "live_targets": 74,
+        "live_Ag_negative": 74,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 89.0,
+        "live_targets": 74,
+        "live_Ag_negative": 74,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 90.0,
+        "live_targets": 74,
+        "live_Ag_negative": 74,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 91.0,
+        "live_targets": 70,
+        "live_Ag_negative": 70,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 92.0,
+        "live_targets": 69,
+        "live_Ag_negative": 69,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 93.0,
+        "live_targets": 69,
+        "live_Ag_negative": 69,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 94.0,
+        "live_targets": 67,
+        "live_Ag_negative": 67,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 95.0,
+        "live_targets": 65,
+        "live_Ag_negative": 65,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      },
+      {
+        "time_h": 96.0,
+        "live_targets": 64,
+        "live_Ag_negative": 64,
+        "IFNg_domain_mean": 0.510841089351511,
+        "TNF_domain_mean": 0.510841089351511
+      }
+    ],
+    "turnover10_2d_seed0": [
+      {
+        "time_h": 0.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.0,
+        "TNF_domain_mean": 0.0
+      },
+      {
+        "time_h": 1.0,
+        "live_targets": 1194,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.0630400787113317,
+        "TNF_domain_mean": 0.0630400787113317
+      },
+      {
+        "time_h": 2.0,
+        "live_targets": 1113,
+        "live_Ag_negative": 361,
+        "IFNg_domain_mean": 0.12847032561330235,
+        "TNF_domain_mean": 0.12847032561330235
+      },
+      {
+        "time_h": 3.0,
+        "live_targets": 1003,
+        "live_Ag_negative": 364,
+        "IFNg_domain_mean": 0.1771865738134999,
+        "TNF_domain_mean": 0.1771865738134999
+      },
+      {
+        "time_h": 4.0,
+        "live_targets": 923,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.20625422020021397,
+        "TNF_domain_mean": 0.20625422020021397
+      },
+      {
+        "time_h": 5.0,
+        "live_targets": 850,
+        "live_Ag_negative": 367,
+        "IFNg_domain_mean": 0.22955991859738256,
+        "TNF_domain_mean": 0.22955991859738256
+      },
+      {
+        "time_h": 6.0,
+        "live_targets": 788,
+        "live_Ag_negative": 368,
+        "IFNg_domain_mean": 0.24883388698746978,
+        "TNF_domain_mean": 0.24883388698746978
+      },
+      {
+        "time_h": 7.0,
+        "live_targets": 719,
+        "live_Ag_negative": 368,
+        "IFNg_domain_mean": 0.26049878666289294,
+        "TNF_domain_mean": 0.26049878666289294
+      },
+      {
+        "time_h": 8.0,
+        "live_targets": 661,
+        "live_Ag_negative": 369,
+        "IFNg_domain_mean": 0.2659551584894492,
+        "TNF_domain_mean": 0.2659551584894492
+      },
+      {
+        "time_h": 9.0,
+        "live_targets": 620,
+        "live_Ag_negative": 368,
+        "IFNg_domain_mean": 0.26551287852718064,
+        "TNF_domain_mean": 0.26551287852718064
+      },
+      {
+        "time_h": 10.0,
+        "live_targets": 576,
+        "live_Ag_negative": 370,
+        "IFNg_domain_mean": 0.26216438694016775,
+        "TNF_domain_mean": 0.26216438694016775
+      },
+      {
+        "time_h": 11.0,
+        "live_targets": 547,
+        "live_Ag_negative": 369,
+        "IFNg_domain_mean": 0.2534773681496654,
+        "TNF_domain_mean": 0.2534773681496654
+      },
+      {
+        "time_h": 12.0,
+        "live_targets": 516,
+        "live_Ag_negative": 371,
+        "IFNg_domain_mean": 0.24614901468289513,
+        "TNF_domain_mean": 0.24614901468289513
+      },
+      {
+        "time_h": 13.0,
+        "live_targets": 485,
+        "live_Ag_negative": 372,
+        "IFNg_domain_mean": 0.23604932072145945,
+        "TNF_domain_mean": 0.23604932072145945
+      },
+      {
+        "time_h": 14.0,
+        "live_targets": 464,
+        "live_Ag_negative": 371,
+        "IFNg_domain_mean": 0.22444918615002726,
+        "TNF_domain_mean": 0.22444918615002726
+      },
+      {
+        "time_h": 15.0,
+        "live_targets": 446,
+        "live_Ag_negative": 371,
+        "IFNg_domain_mean": 0.2113253990839096,
+        "TNF_domain_mean": 0.2113253990839096
+      },
+      {
+        "time_h": 16.0,
+        "live_targets": 430,
+        "live_Ag_negative": 369,
+        "IFNg_domain_mean": 0.19745745932240497,
+        "TNF_domain_mean": 0.19745745932240497
+      },
+      {
+        "time_h": 17.0,
+        "live_targets": 424,
+        "live_Ag_negative": 367,
+        "IFNg_domain_mean": 0.18328346881959445,
+        "TNF_domain_mean": 0.18328346881959445
+      },
+      {
+        "time_h": 18.0,
+        "live_targets": 412,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.1710530596297575,
+        "TNF_domain_mean": 0.1710530596297575
+      },
+      {
+        "time_h": 19.0,
+        "live_targets": 397,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.15813287500561346,
+        "TNF_domain_mean": 0.15813287500561346
+      },
+      {
+        "time_h": 20.0,
+        "live_targets": 389,
+        "live_Ag_negative": 356,
+        "IFNg_domain_mean": 0.14536289935935284,
+        "TNF_domain_mean": 0.14536289935935284
+      },
+      {
+        "time_h": 21.0,
+        "live_targets": 384,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.13385966086564327,
+        "TNF_domain_mean": 0.13385966086564327
+      },
+      {
+        "time_h": 22.0,
+        "live_targets": 380,
+        "live_Ag_negative": 356,
+        "IFNg_domain_mean": 0.123769671212933,
+        "TNF_domain_mean": 0.123769671212933
+      },
+      {
+        "time_h": 23.0,
+        "live_targets": 376,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.11324391769024852,
+        "TNF_domain_mean": 0.11324391769024852
+      },
+      {
+        "time_h": 24.0,
+        "live_targets": 367,
+        "live_Ag_negative": 347,
+        "IFNg_domain_mean": 0.10313987356849627,
+        "TNF_domain_mean": 0.10313987356849627
+      },
+      {
+        "time_h": 25.0,
+        "live_targets": 366,
+        "live_Ag_negative": 346,
+        "IFNg_domain_mean": 0.09445634606177643,
+        "TNF_domain_mean": 0.09445634606177643
+      },
+      {
+        "time_h": 26.0,
+        "live_targets": 365,
+        "live_Ag_negative": 347,
+        "IFNg_domain_mean": 0.08748243733368043,
+        "TNF_domain_mean": 0.08748243733368043
+      },
+      {
+        "time_h": 27.0,
+        "live_targets": 365,
+        "live_Ag_negative": 350,
+        "IFNg_domain_mean": 0.08097721261985846,
+        "TNF_domain_mean": 0.08097721261985846
+      },
+      {
+        "time_h": 28.0,
+        "live_targets": 364,
+        "live_Ag_negative": 351,
+        "IFNg_domain_mean": 0.07406207848971161,
+        "TNF_domain_mean": 0.07406207848971161
+      },
+      {
+        "time_h": 29.0,
+        "live_targets": 360,
+        "live_Ag_negative": 348,
+        "IFNg_domain_mean": 0.06704388458632773,
+        "TNF_domain_mean": 0.06704388458632773
+      },
+      {
+        "time_h": 30.0,
+        "live_targets": 363,
+        "live_Ag_negative": 351,
+        "IFNg_domain_mean": 0.06075995530448428,
+        "TNF_domain_mean": 0.06075995530448428
+      },
+      {
+        "time_h": 31.0,
+        "live_targets": 357,
+        "live_Ag_negative": 347,
+        "IFNg_domain_mean": 0.05534500161693595,
+        "TNF_domain_mean": 0.05534500161693595
+      },
+      {
+        "time_h": 32.0,
+        "live_targets": 351,
+        "live_Ag_negative": 342,
+        "IFNg_domain_mean": 0.05024472295361175,
+        "TNF_domain_mean": 0.05024472295361175
+      },
+      {
+        "time_h": 33.0,
+        "live_targets": 344,
+        "live_Ag_negative": 335,
+        "IFNg_domain_mean": 0.04539351128771609,
+        "TNF_domain_mean": 0.04539351128771609
+      },
+      {
+        "time_h": 34.0,
+        "live_targets": 344,
+        "live_Ag_negative": 335,
+        "IFNg_domain_mean": 0.041536270492275866,
+        "TNF_domain_mean": 0.041536270492275866
+      },
+      {
+        "time_h": 35.0,
+        "live_targets": 341,
+        "live_Ag_negative": 332,
+        "IFNg_domain_mean": 0.03849323765813627,
+        "TNF_domain_mean": 0.03849323765813627
+      },
+      {
+        "time_h": 36.0,
+        "live_targets": 337,
+        "live_Ag_negative": 330,
+        "IFNg_domain_mean": 0.035566864977673446,
+        "TNF_domain_mean": 0.035566864977673446
+      },
+      {
+        "time_h": 37.0,
+        "live_targets": 331,
+        "live_Ag_negative": 324,
+        "IFNg_domain_mean": 0.032108271382987524,
+        "TNF_domain_mean": 0.032108271382987524
+      },
+      {
+        "time_h": 38.0,
+        "live_targets": 329,
+        "live_Ag_negative": 322,
+        "IFNg_domain_mean": 0.029580226133043577,
+        "TNF_domain_mean": 0.029580226133043577
+      },
+      {
+        "time_h": 39.0,
+        "live_targets": 326,
+        "live_Ag_negative": 321,
+        "IFNg_domain_mean": 0.027487678502169707,
+        "TNF_domain_mean": 0.027487678502169707
+      },
+      {
+        "time_h": 40.0,
+        "live_targets": 324,
+        "live_Ag_negative": 320,
+        "IFNg_domain_mean": 0.025884021905994783,
+        "TNF_domain_mean": 0.025884021905994783
+      },
+      {
+        "time_h": 41.0,
+        "live_targets": 321,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.023801882787478093,
+        "TNF_domain_mean": 0.023801882787478093
+      },
+      {
+        "time_h": 42.0,
+        "live_targets": 320,
+        "live_Ag_negative": 317,
+        "IFNg_domain_mean": 0.021444005966403144,
+        "TNF_domain_mean": 0.021444005966403144
+      },
+      {
+        "time_h": 43.0,
+        "live_targets": 321,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.019322212313617797,
+        "TNF_domain_mean": 0.019322212313617797
+      },
+      {
+        "time_h": 44.0,
+        "live_targets": 317,
+        "live_Ag_negative": 314,
+        "IFNg_domain_mean": 0.0174108432355342,
+        "TNF_domain_mean": 0.0174108432355342
+      },
+      {
+        "time_h": 45.0,
+        "live_targets": 317,
+        "live_Ag_negative": 314,
+        "IFNg_domain_mean": 0.01568855026638221,
+        "TNF_domain_mean": 0.01568855026638221
+      },
+      {
+        "time_h": 46.0,
+        "live_targets": 316,
+        "live_Ag_negative": 313,
+        "IFNg_domain_mean": 0.014136627747522985,
+        "TNF_domain_mean": 0.014136627747522985
+      },
+      {
+        "time_h": 47.0,
+        "live_targets": 314,
+        "live_Ag_negative": 311,
+        "IFNg_domain_mean": 0.012738222504900346,
+        "TNF_domain_mean": 0.012738222504900346
+      },
+      {
+        "time_h": 48.0,
+        "live_targets": 311,
+        "live_Ag_negative": 308,
+        "IFNg_domain_mean": 0.011478148500640464,
+        "TNF_domain_mean": 0.011478148500640464
+      },
+      {
+        "time_h": 49.0,
+        "live_targets": 310,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.01034272191053971,
+        "TNF_domain_mean": 0.01034272191053971
+      },
+      {
+        "time_h": 50.0,
+        "live_targets": 310,
+        "live_Ag_negative": 308,
+        "IFNg_domain_mean": 0.00931961252398746,
+        "TNF_domain_mean": 0.00931961252398746
+      },
+      {
+        "time_h": 51.0,
+        "live_targets": 311,
+        "live_Ag_negative": 309,
+        "IFNg_domain_mean": 0.008397709843552299,
+        "TNF_domain_mean": 0.008397709843552299
+      },
+      {
+        "time_h": 52.0,
+        "live_targets": 310,
+        "live_Ag_negative": 308,
+        "IFNg_domain_mean": 0.007567002430088016,
+        "TNF_domain_mean": 0.007567002430088016
+      },
+      {
+        "time_h": 53.0,
+        "live_targets": 305,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.0068184691831101474,
+        "TNF_domain_mean": 0.0068184691831101474
+      },
+      {
+        "time_h": 54.0,
+        "live_targets": 303,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.006190914083957891,
+        "TNF_domain_mean": 0.006190914083957891
+      },
+      {
+        "time_h": 55.0,
+        "live_targets": 302,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.005919873654166352,
+        "TNF_domain_mean": 0.005919873654166352
+      },
+      {
+        "time_h": 56.0,
+        "live_targets": 302,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0057486329460010996,
+        "TNF_domain_mean": 0.0057486329460010996
+      },
+      {
+        "time_h": 57.0,
+        "live_targets": 301,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.005737556995924018,
+        "TNF_domain_mean": 0.005737556995924018
+      },
+      {
+        "time_h": 58.0,
+        "live_targets": 303,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.005313304864280798,
+        "TNF_domain_mean": 0.005313304864280798
+      },
+      {
+        "time_h": 59.0,
+        "live_targets": 302,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.00478212349510428,
+        "TNF_domain_mean": 0.00478212349510428
+      },
+      {
+        "time_h": 60.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.004309047483804687,
+        "TNF_domain_mean": 0.004309047483804687
+      },
+      {
+        "time_h": 61.0,
+        "live_targets": 298,
+        "live_Ag_negative": 298,
+        "IFNg_domain_mean": 0.0038827933530834074,
+        "TNF_domain_mean": 0.0038827933530834074
+      },
+      {
+        "time_h": 62.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.003498704680498974,
+        "TNF_domain_mean": 0.003498704680498974
+      },
+      {
+        "time_h": 63.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.0031526103321862296,
+        "TNF_domain_mean": 0.0031526103321862296
+      },
+      {
+        "time_h": 64.0,
+        "live_targets": 297,
+        "live_Ag_negative": 297,
+        "IFNg_domain_mean": 0.00284075188226356,
+        "TNF_domain_mean": 0.00284075188226356
+      },
+      {
+        "time_h": 65.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.0025597426913805035,
+        "TNF_domain_mean": 0.0025597426913805035
+      },
+      {
+        "time_h": 66.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.002306531128953978,
+        "TNF_domain_mean": 0.002306531128953978
+      },
+      {
+        "time_h": 67.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0020783674338629215,
+        "TNF_domain_mean": 0.0020783674338629215
+      },
+      {
+        "time_h": 68.0,
+        "live_targets": 302,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.0018727738533063417,
+        "TNF_domain_mean": 0.0018727738533063417
+      },
+      {
+        "time_h": 69.0,
+        "live_targets": 303,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.0016875177355473176,
+        "TNF_domain_mean": 0.0016875177355473176
+      },
+      {
+        "time_h": 70.0,
+        "live_targets": 301,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.0015205872843425112,
+        "TNF_domain_mean": 0.0015205872843425112
+      },
+      {
+        "time_h": 71.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.001370169711759679,
+        "TNF_domain_mean": 0.001370169711759679
+      },
+      {
+        "time_h": 72.0,
+        "live_targets": 298,
+        "live_Ag_negative": 298,
+        "IFNg_domain_mean": 0.0012346315521343427,
+        "TNF_domain_mean": 0.0012346315521343427
+      },
+      {
+        "time_h": 73.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.0011125009233841465,
+        "TNF_domain_mean": 0.0011125009233841465
+      },
+      {
+        "time_h": 74.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0010024515430461982,
+        "TNF_domain_mean": 0.0010024515430461982
+      },
+      {
+        "time_h": 75.0,
+        "live_targets": 298,
+        "live_Ag_negative": 298,
+        "IFNg_domain_mean": 0.000903288325459462,
+        "TNF_domain_mean": 0.000903288325459462
+      },
+      {
+        "time_h": 76.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.0008139344036838946,
+        "TNF_domain_mean": 0.0008139344036838946
+      },
+      {
+        "time_h": 77.0,
+        "live_targets": 295,
+        "live_Ag_negative": 295,
+        "IFNg_domain_mean": 0.0007334194352210579,
+        "TNF_domain_mean": 0.0007334194352210579
+      },
+      {
+        "time_h": 78.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.0006608690645405844,
+        "TNF_domain_mean": 0.0006608690645405844
+      },
+      {
+        "time_h": 79.0,
+        "live_targets": 295,
+        "live_Ag_negative": 295,
+        "IFNg_domain_mean": 0.0005954954279812805,
+        "TNF_domain_mean": 0.0005954954279812805
+      },
+      {
+        "time_h": 80.0,
+        "live_targets": 295,
+        "live_Ag_negative": 295,
+        "IFNg_domain_mean": 0.0005365885979140456,
+        "TNF_domain_mean": 0.0005365885979140456
+      },
+      {
+        "time_h": 81.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.00048350887325441936,
+        "TNF_domain_mean": 0.00048350887325441936
+      },
+      {
+        "time_h": 82.0,
+        "live_targets": 294,
+        "live_Ag_negative": 294,
+        "IFNg_domain_mean": 0.00043567983260275894,
+        "TNF_domain_mean": 0.00043567983260275894
+      },
+      {
+        "time_h": 83.0,
+        "live_targets": 293,
+        "live_Ag_negative": 293,
+        "IFNg_domain_mean": 0.0003925820745731923,
+        "TNF_domain_mean": 0.0003925820745731923
+      },
+      {
+        "time_h": 84.0,
+        "live_targets": 294,
+        "live_Ag_negative": 294,
+        "IFNg_domain_mean": 0.00035374757733327566,
+        "TNF_domain_mean": 0.00035374757733327566
+      },
+      {
+        "time_h": 85.0,
+        "live_targets": 293,
+        "live_Ag_negative": 293,
+        "IFNg_domain_mean": 0.00031875461610215104,
+        "TNF_domain_mean": 0.00031875461610215104
+      },
+      {
+        "time_h": 86.0,
+        "live_targets": 290,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.0002872231834133528,
+        "TNF_domain_mean": 0.0002872231834133528
+      },
+      {
+        "time_h": 87.0,
+        "live_targets": 290,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.00025881086240855255,
+        "TNF_domain_mean": 0.00025881086240855255
+      },
+      {
+        "time_h": 88.0,
+        "live_targets": 290,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.00023320910834784286,
+        "TNF_domain_mean": 0.00023320910834784286
+      },
+      {
+        "time_h": 89.0,
+        "live_targets": 291,
+        "live_Ag_negative": 291,
+        "IFNg_domain_mean": 0.00021013989795584594,
+        "TNF_domain_mean": 0.00021013989795584594
+      },
+      {
+        "time_h": 90.0,
+        "live_targets": 291,
+        "live_Ag_negative": 291,
+        "IFNg_domain_mean": 0.00018935271021672685,
+        "TNF_domain_mean": 0.00018935271021672685
+      },
+      {
+        "time_h": 91.0,
+        "live_targets": 295,
+        "live_Ag_negative": 295,
+        "IFNg_domain_mean": 0.00017062180583125524,
+        "TNF_domain_mean": 0.00017062180583125524
+      },
+      {
+        "time_h": 92.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.00015374377579172813,
+        "TNF_domain_mean": 0.00015374377579172813
+      },
+      {
+        "time_h": 93.0,
+        "live_targets": 298,
+        "live_Ag_negative": 298,
+        "IFNg_domain_mean": 0.00013853533245378747,
+        "TNF_domain_mean": 0.00013853533245378747
+      },
+      {
+        "time_h": 94.0,
+        "live_targets": 301,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.00012483131911681823,
+        "TNF_domain_mean": 0.00012483131911681823
+      },
+      {
+        "time_h": 95.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.00011248291649816162,
+        "TNF_domain_mean": 0.00011248291649816162
+      },
+      {
+        "time_h": 96.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.00010135602662415068,
+        "TNF_domain_mean": 0.00010135602662415068
+      }
+    ],
+    "turnover0_3d_seed0": [
+      {
+        "time_h": 0.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.0,
+        "TNF_domain_mean": 0.0
+      },
+      {
+        "time_h": 1.0,
+        "live_targets": 1208,
+        "live_Ag_negative": 362,
+        "IFNg_domain_mean": 0.031117221912108427,
+        "TNF_domain_mean": 0.031117221912108427
+      },
+      {
+        "time_h": 2.0,
+        "live_targets": 1197,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.25526240469947165,
+        "TNF_domain_mean": 0.25526240469947165
+      },
+      {
+        "time_h": 3.0,
+        "live_targets": 1090,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.3001320807941176,
+        "TNF_domain_mean": 0.3001320807941176
+      },
+      {
+        "time_h": 4.0,
+        "live_targets": 954,
+        "live_Ag_negative": 364,
+        "IFNg_domain_mean": 0.27907875452416275,
+        "TNF_domain_mean": 0.27907875452416275
+      },
+      {
+        "time_h": 5.0,
+        "live_targets": 814,
+        "live_Ag_negative": 365,
+        "IFNg_domain_mean": 0.26179703808935934,
+        "TNF_domain_mean": 0.26179703808935934
+      },
+      {
+        "time_h": 6.0,
+        "live_targets": 694,
+        "live_Ag_negative": 366,
+        "IFNg_domain_mean": 0.24165714075690384,
+        "TNF_domain_mean": 0.24165714075690384
+      },
+      {
+        "time_h": 7.0,
+        "live_targets": 603,
+        "live_Ag_negative": 364,
+        "IFNg_domain_mean": 0.2239897675076388,
+        "TNF_domain_mean": 0.2239897675076388
+      },
+      {
+        "time_h": 8.0,
+        "live_targets": 560,
+        "live_Ag_negative": 362,
+        "IFNg_domain_mean": 0.22251329819886653,
+        "TNF_domain_mean": 0.22251329819886653
+      },
+      {
+        "time_h": 9.0,
+        "live_targets": 538,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.20527161156332657,
+        "TNF_domain_mean": 0.20527161156332657
+      },
+      {
+        "time_h": 10.0,
+        "live_targets": 527,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.1875681478303883,
+        "TNF_domain_mean": 0.1875681478303883
+      },
+      {
+        "time_h": 11.0,
+        "live_targets": 515,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.19081528960632524,
+        "TNF_domain_mean": 0.19081528960632524
+      },
+      {
+        "time_h": 12.0,
+        "live_targets": 505,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.19449876953703898,
+        "TNF_domain_mean": 0.19449876953703898
+      },
+      {
+        "time_h": 13.0,
+        "live_targets": 495,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.2077630977016351,
+        "TNF_domain_mean": 0.2077630977016351
+      },
+      {
+        "time_h": 14.0,
+        "live_targets": 477,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.2097193710999914,
+        "TNF_domain_mean": 0.2097193710999914
+      },
+      {
+        "time_h": 15.0,
+        "live_targets": 467,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.21496530014106954,
+        "TNF_domain_mean": 0.21496530014106954
+      },
+      {
+        "time_h": 16.0,
+        "live_targets": 461,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.22062282922809748,
+        "TNF_domain_mean": 0.22062282922809748
+      },
+      {
+        "time_h": 17.0,
+        "live_targets": 447,
+        "live_Ag_negative": 358,
+        "IFNg_domain_mean": 0.22726153116238498,
+        "TNF_domain_mean": 0.22726153116238498
+      },
+      {
+        "time_h": 18.0,
+        "live_targets": 433,
+        "live_Ag_negative": 356,
+        "IFNg_domain_mean": 0.23081748928999613,
+        "TNF_domain_mean": 0.23081748928999613
+      },
+      {
+        "time_h": 19.0,
+        "live_targets": 423,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.23460424148521886,
+        "TNF_domain_mean": 0.23460424148521886
+      },
+      {
+        "time_h": 20.0,
+        "live_targets": 408,
+        "live_Ag_negative": 351,
+        "IFNg_domain_mean": 0.24932428691968211,
+        "TNF_domain_mean": 0.24932428691968211
+      },
+      {
+        "time_h": 21.0,
+        "live_targets": 386,
+        "live_Ag_negative": 346,
+        "IFNg_domain_mean": 0.24465430946735656,
+        "TNF_domain_mean": 0.24465430946735656
+      },
+      {
+        "time_h": 22.0,
+        "live_targets": 373,
+        "live_Ag_negative": 344,
+        "IFNg_domain_mean": 0.2303902631984845,
+        "TNF_domain_mean": 0.2303902631984845
+      },
+      {
+        "time_h": 23.0,
+        "live_targets": 365,
+        "live_Ag_negative": 344,
+        "IFNg_domain_mean": 0.2154636372070487,
+        "TNF_domain_mean": 0.2154636372070487
+      },
+      {
+        "time_h": 24.0,
+        "live_targets": 354,
+        "live_Ag_negative": 338,
+        "IFNg_domain_mean": 0.21091951272291146,
+        "TNF_domain_mean": 0.21091951272291146
+      },
+      {
+        "time_h": 25.0,
+        "live_targets": 346,
+        "live_Ag_negative": 333,
+        "IFNg_domain_mean": 0.19685850972928917,
+        "TNF_domain_mean": 0.19685850972928917
+      },
+      {
+        "time_h": 26.0,
+        "live_targets": 343,
+        "live_Ag_negative": 333,
+        "IFNg_domain_mean": 0.19750801234454593,
+        "TNF_domain_mean": 0.19750801234454593
+      },
+      {
+        "time_h": 27.0,
+        "live_targets": 334,
+        "live_Ag_negative": 327,
+        "IFNg_domain_mean": 0.1966315217351892,
+        "TNF_domain_mean": 0.1966315217351892
+      },
+      {
+        "time_h": 28.0,
+        "live_targets": 327,
+        "live_Ag_negative": 322,
+        "IFNg_domain_mean": 0.19313170251188258,
+        "TNF_domain_mean": 0.19313170251188258
+      },
+      {
+        "time_h": 29.0,
+        "live_targets": 322,
+        "live_Ag_negative": 319,
+        "IFNg_domain_mean": 0.18881728815167823,
+        "TNF_domain_mean": 0.18881728815167823
+      },
+      {
+        "time_h": 30.0,
+        "live_targets": 312,
+        "live_Ag_negative": 309,
+        "IFNg_domain_mean": 0.1869927762441732,
+        "TNF_domain_mean": 0.1869927762441732
+      },
+      {
+        "time_h": 31.0,
+        "live_targets": 309,
+        "live_Ag_negative": 306,
+        "IFNg_domain_mean": 0.18666385726508436,
+        "TNF_domain_mean": 0.18666385726508436
+      },
+      {
+        "time_h": 32.0,
+        "live_targets": 305,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.1840149796044559,
+        "TNF_domain_mean": 0.1840149796044559
+      },
+      {
+        "time_h": 33.0,
+        "live_targets": 301,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.18284817453118699,
+        "TNF_domain_mean": 0.18284817453118699
+      },
+      {
+        "time_h": 34.0,
+        "live_targets": 296,
+        "live_Ag_negative": 294,
+        "IFNg_domain_mean": 0.1827187714553282,
+        "TNF_domain_mean": 0.1827187714553282
+      },
+      {
+        "time_h": 35.0,
+        "live_targets": 295,
+        "live_Ag_negative": 292,
+        "IFNg_domain_mean": 0.18303408910465985,
+        "TNF_domain_mean": 0.18303408910465985
+      },
+      {
+        "time_h": 36.0,
+        "live_targets": 293,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.1860263438979856,
+        "TNF_domain_mean": 0.1860263438979856
+      },
+      {
+        "time_h": 37.0,
+        "live_targets": 292,
+        "live_Ag_negative": 289,
+        "IFNg_domain_mean": 0.18940555689283878,
+        "TNF_domain_mean": 0.18940555689283878
+      },
+      {
+        "time_h": 38.0,
+        "live_targets": 286,
+        "live_Ag_negative": 283,
+        "IFNg_domain_mean": 0.19035408584148,
+        "TNF_domain_mean": 0.19035408584148
+      },
+      {
+        "time_h": 39.0,
+        "live_targets": 281,
+        "live_Ag_negative": 279,
+        "IFNg_domain_mean": 0.19007222231020504,
+        "TNF_domain_mean": 0.19007222231020504
+      },
+      {
+        "time_h": 40.0,
+        "live_targets": 278,
+        "live_Ag_negative": 276,
+        "IFNg_domain_mean": 0.1888211564212594,
+        "TNF_domain_mean": 0.1888211564212594
+      },
+      {
+        "time_h": 41.0,
+        "live_targets": 271,
+        "live_Ag_negative": 270,
+        "IFNg_domain_mean": 0.18904381952085259,
+        "TNF_domain_mean": 0.18904381952085259
+      },
+      {
+        "time_h": 42.0,
+        "live_targets": 269,
+        "live_Ag_negative": 269,
+        "IFNg_domain_mean": 0.18841097901358247,
+        "TNF_domain_mean": 0.18841097901358247
+      },
+      {
+        "time_h": 43.0,
+        "live_targets": 266,
+        "live_Ag_negative": 266,
+        "IFNg_domain_mean": 0.18575192885396993,
+        "TNF_domain_mean": 0.18575192885396993
+      },
+      {
+        "time_h": 44.0,
+        "live_targets": 259,
+        "live_Ag_negative": 259,
+        "IFNg_domain_mean": 0.18529888817651327,
+        "TNF_domain_mean": 0.18529888817651327
+      },
+      {
+        "time_h": 45.0,
+        "live_targets": 255,
+        "live_Ag_negative": 255,
+        "IFNg_domain_mean": 0.1852503572996857,
+        "TNF_domain_mean": 0.1852503572996857
+      },
+      {
+        "time_h": 46.0,
+        "live_targets": 252,
+        "live_Ag_negative": 252,
+        "IFNg_domain_mean": 0.1852452627072781,
+        "TNF_domain_mean": 0.1852452627072781
+      },
+      {
+        "time_h": 47.0,
+        "live_targets": 248,
+        "live_Ag_negative": 248,
+        "IFNg_domain_mean": 0.1852447283145913,
+        "TNF_domain_mean": 0.1852447283145913
+      },
+      {
+        "time_h": 48.0,
+        "live_targets": 242,
+        "live_Ag_negative": 242,
+        "IFNg_domain_mean": 0.18524467226167826,
+        "TNF_domain_mean": 0.18524467226167826
+      },
+      {
+        "time_h": 49.0,
+        "live_targets": 238,
+        "live_Ag_negative": 238,
+        "IFNg_domain_mean": 0.18524466638224482,
+        "TNF_domain_mean": 0.18524466638224482
+      },
+      {
+        "time_h": 50.0,
+        "live_targets": 235,
+        "live_Ag_negative": 235,
+        "IFNg_domain_mean": 0.18524466576554602,
+        "TNF_domain_mean": 0.18524466576554602
+      },
+      {
+        "time_h": 51.0,
+        "live_targets": 232,
+        "live_Ag_negative": 232,
+        "IFNg_domain_mean": 0.1852446657008627,
+        "TNF_domain_mean": 0.1852446657008627
+      },
+      {
+        "time_h": 52.0,
+        "live_targets": 230,
+        "live_Ag_negative": 230,
+        "IFNg_domain_mean": 0.18524466569407103,
+        "TNF_domain_mean": 0.18524466569407103
+      },
+      {
+        "time_h": 53.0,
+        "live_targets": 227,
+        "live_Ag_negative": 227,
+        "IFNg_domain_mean": 0.1852446656933356,
+        "TNF_domain_mean": 0.1852446656933356
+      },
+      {
+        "time_h": 54.0,
+        "live_targets": 219,
+        "live_Ag_negative": 219,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 55.0,
+        "live_targets": 215,
+        "live_Ag_negative": 215,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 56.0,
+        "live_targets": 209,
+        "live_Ag_negative": 209,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 57.0,
+        "live_targets": 203,
+        "live_Ag_negative": 203,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 58.0,
+        "live_targets": 202,
+        "live_Ag_negative": 202,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 59.0,
+        "live_targets": 201,
+        "live_Ag_negative": 201,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 60.0,
+        "live_targets": 194,
+        "live_Ag_negative": 194,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 61.0,
+        "live_targets": 188,
+        "live_Ag_negative": 188,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 62.0,
+        "live_targets": 182,
+        "live_Ag_negative": 182,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 63.0,
+        "live_targets": 174,
+        "live_Ag_negative": 174,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 64.0,
+        "live_targets": 174,
+        "live_Ag_negative": 174,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 65.0,
+        "live_targets": 167,
+        "live_Ag_negative": 167,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 66.0,
+        "live_targets": 163,
+        "live_Ag_negative": 163,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 67.0,
+        "live_targets": 160,
+        "live_Ag_negative": 160,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 68.0,
+        "live_targets": 156,
+        "live_Ag_negative": 156,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 69.0,
+        "live_targets": 154,
+        "live_Ag_negative": 154,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 70.0,
+        "live_targets": 151,
+        "live_Ag_negative": 151,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 71.0,
+        "live_targets": 147,
+        "live_Ag_negative": 147,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 72.0,
+        "live_targets": 143,
+        "live_Ag_negative": 143,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 73.0,
+        "live_targets": 141,
+        "live_Ag_negative": 141,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 74.0,
+        "live_targets": 137,
+        "live_Ag_negative": 137,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 75.0,
+        "live_targets": 131,
+        "live_Ag_negative": 131,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 76.0,
+        "live_targets": 127,
+        "live_Ag_negative": 127,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 77.0,
+        "live_targets": 122,
+        "live_Ag_negative": 122,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 78.0,
+        "live_targets": 119,
+        "live_Ag_negative": 119,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 79.0,
+        "live_targets": 115,
+        "live_Ag_negative": 115,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 80.0,
+        "live_targets": 113,
+        "live_Ag_negative": 113,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 81.0,
+        "live_targets": 112,
+        "live_Ag_negative": 112,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 82.0,
+        "live_targets": 109,
+        "live_Ag_negative": 109,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 83.0,
+        "live_targets": 105,
+        "live_Ag_negative": 105,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 84.0,
+        "live_targets": 102,
+        "live_Ag_negative": 102,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 85.0,
+        "live_targets": 98,
+        "live_Ag_negative": 98,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 86.0,
+        "live_targets": 98,
+        "live_Ag_negative": 98,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 87.0,
+        "live_targets": 96,
+        "live_Ag_negative": 96,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 88.0,
+        "live_targets": 94,
+        "live_Ag_negative": 94,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 89.0,
+        "live_targets": 91,
+        "live_Ag_negative": 91,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 90.0,
+        "live_targets": 92,
+        "live_Ag_negative": 92,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 91.0,
+        "live_targets": 92,
+        "live_Ag_negative": 92,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 92.0,
+        "live_targets": 89,
+        "live_Ag_negative": 89,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 93.0,
+        "live_targets": 87,
+        "live_Ag_negative": 87,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 94.0,
+        "live_targets": 83,
+        "live_Ag_negative": 83,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 95.0,
+        "live_targets": 81,
+        "live_Ag_negative": 81,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      },
+      {
+        "time_h": 96.0,
+        "live_targets": 81,
+        "live_Ag_negative": 81,
+        "IFNg_domain_mean": 0.1852446656933192,
+        "TNF_domain_mean": 0.1852446656933192
+      }
+    ],
+    "turnover10_3d_seed0": [
+      {
+        "time_h": 0.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.0,
+        "TNF_domain_mean": 0.0
+      },
+      {
+        "time_h": 1.0,
+        "live_targets": 1210,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.029899302375785797,
+        "TNF_domain_mean": 0.029899302375785797
+      },
+      {
+        "time_h": 2.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 363,
+        "IFNg_domain_mean": 0.2624065465600448,
+        "TNF_domain_mean": 0.2624065465600448
+      },
+      {
+        "time_h": 3.0,
+        "live_targets": 1106,
+        "live_Ag_negative": 362,
+        "IFNg_domain_mean": 0.3005848999821155,
+        "TNF_domain_mean": 0.3005848999821155
+      },
+      {
+        "time_h": 4.0,
+        "live_targets": 955,
+        "live_Ag_negative": 361,
+        "IFNg_domain_mean": 0.2767142537613131,
+        "TNF_domain_mean": 0.2767142537613131
+      },
+      {
+        "time_h": 5.0,
+        "live_targets": 819,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.2521495950818149,
+        "TNF_domain_mean": 0.2521495950818149
+      },
+      {
+        "time_h": 6.0,
+        "live_targets": 700,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.2326285889636201,
+        "TNF_domain_mean": 0.2326285889636201
+      },
+      {
+        "time_h": 7.0,
+        "live_targets": 612,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.2170423232661265,
+        "TNF_domain_mean": 0.2170423232661265
+      },
+      {
+        "time_h": 8.0,
+        "live_targets": 571,
+        "live_Ag_negative": 358,
+        "IFNg_domain_mean": 0.20932943100817533,
+        "TNF_domain_mean": 0.20932943100817533
+      },
+      {
+        "time_h": 9.0,
+        "live_targets": 551,
+        "live_Ag_negative": 356,
+        "IFNg_domain_mean": 0.18855401462334245,
+        "TNF_domain_mean": 0.18855401462334245
+      },
+      {
+        "time_h": 10.0,
+        "live_targets": 537,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.163220816953615,
+        "TNF_domain_mean": 0.163220816953615
+      },
+      {
+        "time_h": 11.0,
+        "live_targets": 525,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.15706043487896526,
+        "TNF_domain_mean": 0.15706043487896526
+      },
+      {
+        "time_h": 12.0,
+        "live_targets": 511,
+        "live_Ag_negative": 354,
+        "IFNg_domain_mean": 0.16776508832824152,
+        "TNF_domain_mean": 0.16776508832824152
+      },
+      {
+        "time_h": 13.0,
+        "live_targets": 488,
+        "live_Ag_negative": 353,
+        "IFNg_domain_mean": 0.17299947996608314,
+        "TNF_domain_mean": 0.17299947996608314
+      },
+      {
+        "time_h": 14.0,
+        "live_targets": 483,
+        "live_Ag_negative": 355,
+        "IFNg_domain_mean": 0.17044819384864235,
+        "TNF_domain_mean": 0.17044819384864235
+      },
+      {
+        "time_h": 15.0,
+        "live_targets": 471,
+        "live_Ag_negative": 354,
+        "IFNg_domain_mean": 0.18123783199231228,
+        "TNF_domain_mean": 0.18123783199231228
+      },
+      {
+        "time_h": 16.0,
+        "live_targets": 458,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.17406498781386262,
+        "TNF_domain_mean": 0.17406498781386262
+      },
+      {
+        "time_h": 17.0,
+        "live_targets": 437,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.17393635324146364,
+        "TNF_domain_mean": 0.17393635324146364
+      },
+      {
+        "time_h": 18.0,
+        "live_targets": 422,
+        "live_Ag_negative": 353,
+        "IFNg_domain_mean": 0.16741325687272096,
+        "TNF_domain_mean": 0.16741325687272096
+      },
+      {
+        "time_h": 19.0,
+        "live_targets": 408,
+        "live_Ag_negative": 354,
+        "IFNg_domain_mean": 0.15121228624832037,
+        "TNF_domain_mean": 0.15121228624832037
+      },
+      {
+        "time_h": 20.0,
+        "live_targets": 399,
+        "live_Ag_negative": 349,
+        "IFNg_domain_mean": 0.12769049623144718,
+        "TNF_domain_mean": 0.12769049623144718
+      },
+      {
+        "time_h": 21.0,
+        "live_targets": 386,
+        "live_Ag_negative": 344,
+        "IFNg_domain_mean": 0.11710533594065393,
+        "TNF_domain_mean": 0.11710533594065393
+      },
+      {
+        "time_h": 22.0,
+        "live_targets": 381,
+        "live_Ag_negative": 345,
+        "IFNg_domain_mean": 0.1101013923647139,
+        "TNF_domain_mean": 0.1101013923647139
+      },
+      {
+        "time_h": 23.0,
+        "live_targets": 369,
+        "live_Ag_negative": 341,
+        "IFNg_domain_mean": 0.10971274468204652,
+        "TNF_domain_mean": 0.10971274468204652
+      },
+      {
+        "time_h": 24.0,
+        "live_targets": 365,
+        "live_Ag_negative": 340,
+        "IFNg_domain_mean": 0.09872946140289442,
+        "TNF_domain_mean": 0.09872946140289442
+      },
+      {
+        "time_h": 25.0,
+        "live_targets": 355,
+        "live_Ag_negative": 337,
+        "IFNg_domain_mean": 0.08784508749521693,
+        "TNF_domain_mean": 0.08784508749521693
+      },
+      {
+        "time_h": 26.0,
+        "live_targets": 346,
+        "live_Ag_negative": 330,
+        "IFNg_domain_mean": 0.07339666826174415,
+        "TNF_domain_mean": 0.07339666826174415
+      },
+      {
+        "time_h": 27.0,
+        "live_targets": 343,
+        "live_Ag_negative": 328,
+        "IFNg_domain_mean": 0.06890858782092024,
+        "TNF_domain_mean": 0.06890858782092024
+      },
+      {
+        "time_h": 28.0,
+        "live_targets": 341,
+        "live_Ag_negative": 327,
+        "IFNg_domain_mean": 0.05448647283574574,
+        "TNF_domain_mean": 0.05448647283574574
+      },
+      {
+        "time_h": 29.0,
+        "live_targets": 336,
+        "live_Ag_negative": 325,
+        "IFNg_domain_mean": 0.049600187402900675,
+        "TNF_domain_mean": 0.049600187402900675
+      },
+      {
+        "time_h": 30.0,
+        "live_targets": 331,
+        "live_Ag_negative": 322,
+        "IFNg_domain_mean": 0.045130156463458034,
+        "TNF_domain_mean": 0.045130156463458034
+      },
+      {
+        "time_h": 31.0,
+        "live_targets": 329,
+        "live_Ag_negative": 322,
+        "IFNg_domain_mean": 0.04114875960141984,
+        "TNF_domain_mean": 0.04114875960141984
+      },
+      {
+        "time_h": 32.0,
+        "live_targets": 327,
+        "live_Ag_negative": 321,
+        "IFNg_domain_mean": 0.03374250614042031,
+        "TNF_domain_mean": 0.03374250614042031
+      },
+      {
+        "time_h": 33.0,
+        "live_targets": 326,
+        "live_Ag_negative": 320,
+        "IFNg_domain_mean": 0.031461022564069095,
+        "TNF_domain_mean": 0.031461022564069095
+      },
+      {
+        "time_h": 34.0,
+        "live_targets": 322,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.03501110991033871,
+        "TNF_domain_mean": 0.03501110991033871
+      },
+      {
+        "time_h": 35.0,
+        "live_targets": 316,
+        "live_Ag_negative": 312,
+        "IFNg_domain_mean": 0.02683802997093482,
+        "TNF_domain_mean": 0.02683802997093482
+      },
+      {
+        "time_h": 36.0,
+        "live_targets": 313,
+        "live_Ag_negative": 309,
+        "IFNg_domain_mean": 0.026176515470181596,
+        "TNF_domain_mean": 0.026176515470181596
+      },
+      {
+        "time_h": 37.0,
+        "live_targets": 310,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.024039910972196883,
+        "TNF_domain_mean": 0.024039910972196883
+      },
+      {
+        "time_h": 38.0,
+        "live_targets": 307,
+        "live_Ag_negative": 304,
+        "IFNg_domain_mean": 0.02147359858036109,
+        "TNF_domain_mean": 0.02147359858036109
+      },
+      {
+        "time_h": 39.0,
+        "live_targets": 309,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.02183070179451681,
+        "TNF_domain_mean": 0.02183070179451681
+      },
+      {
+        "time_h": 40.0,
+        "live_targets": 307,
+        "live_Ag_negative": 306,
+        "IFNg_domain_mean": 0.020430811144008795,
+        "TNF_domain_mean": 0.020430811144008795
+      },
+      {
+        "time_h": 41.0,
+        "live_targets": 300,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.015899336997624018,
+        "TNF_domain_mean": 0.015899336997624018
+      },
+      {
+        "time_h": 42.0,
+        "live_targets": 300,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.012978529849377196,
+        "TNF_domain_mean": 0.012978529849377196
+      },
+      {
+        "time_h": 43.0,
+        "live_targets": 301,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.011542885592265763,
+        "TNF_domain_mean": 0.011542885592265763
+      },
+      {
+        "time_h": 44.0,
+        "live_targets": 303,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.01038612013269436,
+        "TNF_domain_mean": 0.01038612013269436
+      },
+      {
+        "time_h": 45.0,
+        "live_targets": 302,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.009358046616977063,
+        "TNF_domain_mean": 0.009358046616977063
+      },
+      {
+        "time_h": 46.0,
+        "live_targets": 303,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.00843307575278903,
+        "TNF_domain_mean": 0.00843307575278903
+      },
+      {
+        "time_h": 47.0,
+        "live_targets": 306,
+        "live_Ag_negative": 305,
+        "IFNg_domain_mean": 0.010651382967556413,
+        "TNF_domain_mean": 0.010651382967556413
+      },
+      {
+        "time_h": 48.0,
+        "live_targets": 305,
+        "live_Ag_negative": 305,
+        "IFNg_domain_mean": 0.011460616704957925,
+        "TNF_domain_mean": 0.011460616704957925
+      },
+      {
+        "time_h": 49.0,
+        "live_targets": 304,
+        "live_Ag_negative": 304,
+        "IFNg_domain_mean": 0.00733575989749812,
+        "TNF_domain_mean": 0.00733575989749812
+      },
+      {
+        "time_h": 50.0,
+        "live_targets": 302,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.006143531520532271,
+        "TNF_domain_mean": 0.006143531520532271
+      },
+      {
+        "time_h": 51.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.00548664511131226,
+        "TNF_domain_mean": 0.00548664511131226
+      },
+      {
+        "time_h": 52.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.00493922283018115,
+        "TNF_domain_mean": 0.00493922283018115
+      },
+      {
+        "time_h": 53.0,
+        "live_targets": 302,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.004450565908808123,
+        "TNF_domain_mean": 0.004450565908808123
+      },
+      {
+        "time_h": 54.0,
+        "live_targets": 297,
+        "live_Ag_negative": 297,
+        "IFNg_domain_mean": 0.004010688287908408,
+        "TNF_domain_mean": 0.004010688287908408
+      },
+      {
+        "time_h": 55.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0036143320451651846,
+        "TNF_domain_mean": 0.0036143320451651846
+      },
+      {
+        "time_h": 56.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.003257150466386718,
+        "TNF_domain_mean": 0.003257150466386718
+      },
+      {
+        "time_h": 57.0,
+        "live_targets": 297,
+        "live_Ag_negative": 297,
+        "IFNg_domain_mean": 0.002935267382516891,
+        "TNF_domain_mean": 0.002935267382516891
+      },
+      {
+        "time_h": 58.0,
+        "live_targets": 294,
+        "live_Ag_negative": 294,
+        "IFNg_domain_mean": 0.0026451939711302813,
+        "TNF_domain_mean": 0.0026451939711302813
+      },
+      {
+        "time_h": 59.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.0023837866364760773,
+        "TNF_domain_mean": 0.0023837866364760773
+      },
+      {
+        "time_h": 60.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.002148212490944557,
+        "TNF_domain_mean": 0.002148212490944557
+      },
+      {
+        "time_h": 61.0,
+        "live_targets": 303,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.001935918607721878,
+        "TNF_domain_mean": 0.001935918607721878
+      },
+      {
+        "time_h": 62.0,
+        "live_targets": 305,
+        "live_Ag_negative": 305,
+        "IFNg_domain_mean": 0.001744604349679292,
+        "TNF_domain_mean": 0.001744604349679292
+      },
+      {
+        "time_h": 63.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0015721964367617952,
+        "TNF_domain_mean": 0.0015721964367617952
+      },
+      {
+        "time_h": 64.0,
+        "live_targets": 296,
+        "live_Ag_negative": 296,
+        "IFNg_domain_mean": 0.0014168264777174254,
+        "TNF_domain_mean": 0.0014168264777174254
+      },
+      {
+        "time_h": 65.0,
+        "live_targets": 299,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.0012768107222629985,
+        "TNF_domain_mean": 0.0012768107222629985
+      },
+      {
+        "time_h": 66.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0011506318142163565,
+        "TNF_domain_mean": 0.0011506318142163565
+      },
+      {
+        "time_h": 67.0,
+        "live_targets": 300,
+        "live_Ag_negative": 300,
+        "IFNg_domain_mean": 0.0010369223478482936,
+        "TNF_domain_mean": 0.0010369223478482936
+      },
+      {
+        "time_h": 68.0,
+        "live_targets": 302,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.0009344500492535889,
+        "TNF_domain_mean": 0.0009344500492535889
+      },
+      {
+        "time_h": 69.0,
+        "live_targets": 301,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.0008421044221507955,
+        "TNF_domain_mean": 0.0008421044221507955
+      },
+      {
+        "time_h": 70.0,
+        "live_targets": 303,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.0007588847133909071,
+        "TNF_domain_mean": 0.0007588847133909071
+      },
+      {
+        "time_h": 71.0,
+        "live_targets": 301,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.0006838890677565714,
+        "TNF_domain_mean": 0.0006838890677565714
+      },
+      {
+        "time_h": 72.0,
+        "live_targets": 302,
+        "live_Ag_negative": 302,
+        "IFNg_domain_mean": 0.0006163047545220974,
+        "TNF_domain_mean": 0.0006163047545220974
+      },
+      {
+        "time_h": 73.0,
+        "live_targets": 303,
+        "live_Ag_negative": 303,
+        "IFNg_domain_mean": 0.0005553993598589599,
+        "TNF_domain_mean": 0.0005553993598589599
+      },
+      {
+        "time_h": 74.0,
+        "live_targets": 307,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.0005005128496387156,
+        "TNF_domain_mean": 0.0005005128496387156
+      },
+      {
+        "time_h": 75.0,
+        "live_targets": 309,
+        "live_Ag_negative": 309,
+        "IFNg_domain_mean": 0.0004510504166174792,
+        "TNF_domain_mean": 0.0004510504166174792
+      },
+      {
+        "time_h": 76.0,
+        "live_targets": 304,
+        "live_Ag_negative": 304,
+        "IFNg_domain_mean": 0.00040647603448673873,
+        "TNF_domain_mean": 0.00040647603448673873
+      },
+      {
+        "time_h": 77.0,
+        "live_targets": 305,
+        "live_Ag_negative": 305,
+        "IFNg_domain_mean": 0.00036630664893539966,
+        "TNF_domain_mean": 0.00036630664893539966
+      },
+      {
+        "time_h": 78.0,
+        "live_targets": 304,
+        "live_Ag_negative": 304,
+        "IFNg_domain_mean": 0.0003301069427714566,
+        "TNF_domain_mean": 0.0003301069427714566
+      },
+      {
+        "time_h": 79.0,
+        "live_targets": 307,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.00029748461837266534,
+        "TNF_domain_mean": 0.00029748461837266534
+      },
+      {
+        "time_h": 80.0,
+        "live_targets": 307,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.00026808614634197565,
+        "TNF_domain_mean": 0.00026808614634197565
+      },
+      {
+        "time_h": 81.0,
+        "live_targets": 307,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.00024159293429570775,
+        "TNF_domain_mean": 0.00024159293429570775
+      },
+      {
+        "time_h": 82.0,
+        "live_targets": 308,
+        "live_Ag_negative": 308,
+        "IFNg_domain_mean": 0.0002177178742655209,
+        "TNF_domain_mean": 0.0002177178742655209
+      },
+      {
+        "time_h": 83.0,
+        "live_targets": 306,
+        "live_Ag_negative": 306,
+        "IFNg_domain_mean": 0.00019620223129819948,
+        "TNF_domain_mean": 0.00019620223129819948
+      },
+      {
+        "time_h": 84.0,
+        "live_targets": 306,
+        "live_Ag_negative": 306,
+        "IFNg_domain_mean": 0.00017681283953491263,
+        "TNF_domain_mean": 0.00017681283953491263
+      },
+      {
+        "time_h": 85.0,
+        "live_targets": 307,
+        "live_Ag_negative": 307,
+        "IFNg_domain_mean": 0.0001593395753837479,
+        "TNF_domain_mean": 0.0001593395753837479
+      },
+      {
+        "time_h": 86.0,
+        "live_targets": 310,
+        "live_Ag_negative": 310,
+        "IFNg_domain_mean": 0.00014359308040217157,
+        "TNF_domain_mean": 0.00014359308040217157
+      },
+      {
+        "time_h": 87.0,
+        "live_targets": 314,
+        "live_Ag_negative": 314,
+        "IFNg_domain_mean": 0.00012940270921223796,
+        "TNF_domain_mean": 0.00012940270921223796
+      },
+      {
+        "time_h": 88.0,
+        "live_targets": 315,
+        "live_Ag_negative": 315,
+        "IFNg_domain_mean": 0.00011661468020999231,
+        "TNF_domain_mean": 0.00011661468020999231
+      },
+      {
+        "time_h": 89.0,
+        "live_targets": 318,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.00010509040902825813,
+        "TNF_domain_mean": 0.00010509040902825813
+      },
+      {
+        "time_h": 90.0,
+        "live_targets": 317,
+        "live_Ag_negative": 317,
+        "IFNg_domain_mean": 9.470500669246126e-05,
+        "TNF_domain_mean": 9.470500669246126e-05
+      },
+      {
+        "time_h": 91.0,
+        "live_targets": 320,
+        "live_Ag_negative": 320,
+        "IFNg_domain_mean": 8.534592619396311e-05,
+        "TNF_domain_mean": 8.534592619396311e-05
+      },
+      {
+        "time_h": 92.0,
+        "live_targets": 320,
+        "live_Ag_negative": 320,
+        "IFNg_domain_mean": 7.691174281375375e-05,
+        "TNF_domain_mean": 7.691174281375375e-05
+      },
+      {
+        "time_h": 93.0,
+        "live_targets": 321,
+        "live_Ag_negative": 321,
+        "IFNg_domain_mean": 6.931105497883128e-05,
+        "TNF_domain_mean": 6.931105497883128e-05
+      },
+      {
+        "time_h": 94.0,
+        "live_targets": 319,
+        "live_Ag_negative": 319,
+        "IFNg_domain_mean": 6.246149373980216e-05,
+        "TNF_domain_mean": 6.246149373980216e-05
+      },
+      {
+        "time_h": 95.0,
+        "live_targets": 323,
+        "live_Ag_negative": 323,
+        "IFNg_domain_mean": 5.628883013537915e-05,
+        "TNF_domain_mean": 5.628883013537915e-05
+      },
+      {
+        "time_h": 96.0,
+        "live_targets": 327,
+        "live_Ag_negative": 327,
+        "IFNg_domain_mean": 5.0726170770241015e-05,
+        "TNF_domain_mean": 5.0726170770241015e-05
+      }
+    ],
+    "turnover0_local_entry_seed0": [
+      {
+        "time_h": 0.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.0,
+        "TNF_domain_mean": 0.0
+      },
+      {
+        "time_h": 1.0,
+        "live_targets": 1204,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.004230552350402073,
+        "TNF_domain_mean": 0.004230552350402073
+      },
+      {
+        "time_h": 2.0,
+        "live_targets": 1191,
+        "live_Ag_negative": 358,
+        "IFNg_domain_mean": 0.04281947177389493,
+        "TNF_domain_mean": 0.04281947177389493
+      },
+      {
+        "time_h": 3.0,
+        "live_targets": 1105,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.07026761615298954,
+        "TNF_domain_mean": 0.07026761615298954
+      },
+      {
+        "time_h": 4.0,
+        "live_targets": 974,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.08271270947285154,
+        "TNF_domain_mean": 0.08271270947285154
+      },
+      {
+        "time_h": 5.0,
+        "live_targets": 843,
+        "live_Ag_negative": 356,
+        "IFNg_domain_mean": 0.08850597644919568,
+        "TNF_domain_mean": 0.08850597644919568
+      },
+      {
+        "time_h": 6.0,
+        "live_targets": 753,
+        "live_Ag_negative": 354,
+        "IFNg_domain_mean": 0.09096625370115038,
+        "TNF_domain_mean": 0.09096625370115038
+      },
+      {
+        "time_h": 7.0,
+        "live_targets": 712,
+        "live_Ag_negative": 352,
+        "IFNg_domain_mean": 0.09288644146055328,
+        "TNF_domain_mean": 0.09288644146055328
+      },
+      {
+        "time_h": 8.0,
+        "live_targets": 688,
+        "live_Ag_negative": 352,
+        "IFNg_domain_mean": 0.0962237776781983,
+        "TNF_domain_mean": 0.0962237776781983
+      },
+      {
+        "time_h": 9.0,
+        "live_targets": 675,
+        "live_Ag_negative": 353,
+        "IFNg_domain_mean": 0.10135888104005561,
+        "TNF_domain_mean": 0.10135888104005561
+      },
+      {
+        "time_h": 10.0,
+        "live_targets": 656,
+        "live_Ag_negative": 350,
+        "IFNg_domain_mean": 0.1074409673622532,
+        "TNF_domain_mean": 0.1074409673622532
+      },
+      {
+        "time_h": 11.0,
+        "live_targets": 636,
+        "live_Ag_negative": 350,
+        "IFNg_domain_mean": 0.11527411523775818,
+        "TNF_domain_mean": 0.11527411523775818
+      },
+      {
+        "time_h": 12.0,
+        "live_targets": 617,
+        "live_Ag_negative": 348,
+        "IFNg_domain_mean": 0.1233749187647404,
+        "TNF_domain_mean": 0.1233749187647404
+      },
+      {
+        "time_h": 13.0,
+        "live_targets": 599,
+        "live_Ag_negative": 348,
+        "IFNg_domain_mean": 0.13259695695539264,
+        "TNF_domain_mean": 0.13259695695539264
+      },
+      {
+        "time_h": 14.0,
+        "live_targets": 572,
+        "live_Ag_negative": 347,
+        "IFNg_domain_mean": 0.1412097451361013,
+        "TNF_domain_mean": 0.1412097451361013
+      },
+      {
+        "time_h": 15.0,
+        "live_targets": 551,
+        "live_Ag_negative": 346,
+        "IFNg_domain_mean": 0.1491978754110321,
+        "TNF_domain_mean": 0.1491978754110321
+      },
+      {
+        "time_h": 16.0,
+        "live_targets": 525,
+        "live_Ag_negative": 343,
+        "IFNg_domain_mean": 0.1543937625028898,
+        "TNF_domain_mean": 0.1543937625028898
+      },
+      {
+        "time_h": 17.0,
+        "live_targets": 511,
+        "live_Ag_negative": 342,
+        "IFNg_domain_mean": 0.1576680584614891,
+        "TNF_domain_mean": 0.1576680584614891
+      },
+      {
+        "time_h": 18.0,
+        "live_targets": 497,
+        "live_Ag_negative": 338,
+        "IFNg_domain_mean": 0.16007831714127607,
+        "TNF_domain_mean": 0.16007831714127607
+      },
+      {
+        "time_h": 19.0,
+        "live_targets": 485,
+        "live_Ag_negative": 335,
+        "IFNg_domain_mean": 0.16362917763594104,
+        "TNF_domain_mean": 0.16362917763594104
+      },
+      {
+        "time_h": 20.0,
+        "live_targets": 473,
+        "live_Ag_negative": 333,
+        "IFNg_domain_mean": 0.16618436161966418,
+        "TNF_domain_mean": 0.16618436161966418
+      },
+      {
+        "time_h": 21.0,
+        "live_targets": 471,
+        "live_Ag_negative": 331,
+        "IFNg_domain_mean": 0.16806270721616431,
+        "TNF_domain_mean": 0.16806270721616431
+      },
+      {
+        "time_h": 22.0,
+        "live_targets": 461,
+        "live_Ag_negative": 330,
+        "IFNg_domain_mean": 0.17136025014239373,
+        "TNF_domain_mean": 0.17136025014239373
+      },
+      {
+        "time_h": 23.0,
+        "live_targets": 449,
+        "live_Ag_negative": 328,
+        "IFNg_domain_mean": 0.1741402773325628,
+        "TNF_domain_mean": 0.1741402773325628
+      },
+      {
+        "time_h": 24.0,
+        "live_targets": 442,
+        "live_Ag_negative": 328,
+        "IFNg_domain_mean": 0.17547377164101619,
+        "TNF_domain_mean": 0.17547377164101619
+      },
+      {
+        "time_h": 25.0,
+        "live_targets": 440,
+        "live_Ag_negative": 327,
+        "IFNg_domain_mean": 0.17434236592433597,
+        "TNF_domain_mean": 0.17434236592433597
+      },
+      {
+        "time_h": 26.0,
+        "live_targets": 433,
+        "live_Ag_negative": 322,
+        "IFNg_domain_mean": 0.1731392897630906,
+        "TNF_domain_mean": 0.1731392897630906
+      },
+      {
+        "time_h": 27.0,
+        "live_targets": 427,
+        "live_Ag_negative": 318,
+        "IFNg_domain_mean": 0.17296626808569188,
+        "TNF_domain_mean": 0.17296626808569188
+      },
+      {
+        "time_h": 28.0,
+        "live_targets": 412,
+        "live_Ag_negative": 313,
+        "IFNg_domain_mean": 0.1738173042163843,
+        "TNF_domain_mean": 0.1738173042163843
+      },
+      {
+        "time_h": 29.0,
+        "live_targets": 402,
+        "live_Ag_negative": 309,
+        "IFNg_domain_mean": 0.17439267358135307,
+        "TNF_domain_mean": 0.17439267358135307
+      },
+      {
+        "time_h": 30.0,
+        "live_targets": 401,
+        "live_Ag_negative": 310,
+        "IFNg_domain_mean": 0.1753041788972121,
+        "TNF_domain_mean": 0.1753041788972121
+      },
+      {
+        "time_h": 31.0,
+        "live_targets": 392,
+        "live_Ag_negative": 306,
+        "IFNg_domain_mean": 0.17848014578041982,
+        "TNF_domain_mean": 0.17848014578041982
+      },
+      {
+        "time_h": 32.0,
+        "live_targets": 382,
+        "live_Ag_negative": 304,
+        "IFNg_domain_mean": 0.18285106213473432,
+        "TNF_domain_mean": 0.18285106213473432
+      },
+      {
+        "time_h": 33.0,
+        "live_targets": 373,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.18784485605628823,
+        "TNF_domain_mean": 0.18784485605628823
+      },
+      {
+        "time_h": 34.0,
+        "live_targets": 362,
+        "live_Ag_negative": 299,
+        "IFNg_domain_mean": 0.19338605745799564,
+        "TNF_domain_mean": 0.19338605745799564
+      },
+      {
+        "time_h": 35.0,
+        "live_targets": 355,
+        "live_Ag_negative": 294,
+        "IFNg_domain_mean": 0.19554192240903875,
+        "TNF_domain_mean": 0.19554192240903875
+      },
+      {
+        "time_h": 36.0,
+        "live_targets": 349,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.195867243614632,
+        "TNF_domain_mean": 0.195867243614632
+      },
+      {
+        "time_h": 37.0,
+        "live_targets": 341,
+        "live_Ag_negative": 287,
+        "IFNg_domain_mean": 0.195945315856423,
+        "TNF_domain_mean": 0.195945315856423
+      },
+      {
+        "time_h": 38.0,
+        "live_targets": 336,
+        "live_Ag_negative": 284,
+        "IFNg_domain_mean": 0.1953866306319554,
+        "TNF_domain_mean": 0.1953866306319554
+      },
+      {
+        "time_h": 39.0,
+        "live_targets": 329,
+        "live_Ag_negative": 279,
+        "IFNg_domain_mean": 0.19459126090034817,
+        "TNF_domain_mean": 0.19459126090034817
+      },
+      {
+        "time_h": 40.0,
+        "live_targets": 327,
+        "live_Ag_negative": 277,
+        "IFNg_domain_mean": 0.19460326064328187,
+        "TNF_domain_mean": 0.19460326064328187
+      },
+      {
+        "time_h": 41.0,
+        "live_targets": 319,
+        "live_Ag_negative": 273,
+        "IFNg_domain_mean": 0.19565626132154376,
+        "TNF_domain_mean": 0.19565626132154376
+      },
+      {
+        "time_h": 42.0,
+        "live_targets": 310,
+        "live_Ag_negative": 268,
+        "IFNg_domain_mean": 0.19600476067511763,
+        "TNF_domain_mean": 0.19600476067511763
+      },
+      {
+        "time_h": 43.0,
+        "live_targets": 300,
+        "live_Ag_negative": 261,
+        "IFNg_domain_mean": 0.19754623532295404,
+        "TNF_domain_mean": 0.19754623532295404
+      },
+      {
+        "time_h": 44.0,
+        "live_targets": 297,
+        "live_Ag_negative": 259,
+        "IFNg_domain_mean": 0.19934777241163162,
+        "TNF_domain_mean": 0.19934777241163162
+      },
+      {
+        "time_h": 45.0,
+        "live_targets": 288,
+        "live_Ag_negative": 251,
+        "IFNg_domain_mean": 0.202782477056499,
+        "TNF_domain_mean": 0.202782477056499
+      },
+      {
+        "time_h": 46.0,
+        "live_targets": 284,
+        "live_Ag_negative": 247,
+        "IFNg_domain_mean": 0.20519631927839324,
+        "TNF_domain_mean": 0.20519631927839324
+      },
+      {
+        "time_h": 47.0,
+        "live_targets": 274,
+        "live_Ag_negative": 244,
+        "IFNg_domain_mean": 0.20664413215386104,
+        "TNF_domain_mean": 0.20664413215386104
+      },
+      {
+        "time_h": 48.0,
+        "live_targets": 266,
+        "live_Ag_negative": 237,
+        "IFNg_domain_mean": 0.2075654114445765,
+        "TNF_domain_mean": 0.2075654114445765
+      },
+      {
+        "time_h": 49.0,
+        "live_targets": 261,
+        "live_Ag_negative": 234,
+        "IFNg_domain_mean": 0.2087987902833854,
+        "TNF_domain_mean": 0.2087987902833854
+      },
+      {
+        "time_h": 50.0,
+        "live_targets": 252,
+        "live_Ag_negative": 227,
+        "IFNg_domain_mean": 0.20926716399173104,
+        "TNF_domain_mean": 0.20926716399173104
+      },
+      {
+        "time_h": 51.0,
+        "live_targets": 249,
+        "live_Ag_negative": 225,
+        "IFNg_domain_mean": 0.20815094730172104,
+        "TNF_domain_mean": 0.20815094730172104
+      },
+      {
+        "time_h": 52.0,
+        "live_targets": 244,
+        "live_Ag_negative": 221,
+        "IFNg_domain_mean": 0.2073444627409121,
+        "TNF_domain_mean": 0.2073444627409121
+      },
+      {
+        "time_h": 53.0,
+        "live_targets": 237,
+        "live_Ag_negative": 215,
+        "IFNg_domain_mean": 0.20827062657069156,
+        "TNF_domain_mean": 0.20827062657069156
+      },
+      {
+        "time_h": 54.0,
+        "live_targets": 232,
+        "live_Ag_negative": 213,
+        "IFNg_domain_mean": 0.20931617504022262,
+        "TNF_domain_mean": 0.20931617504022262
+      },
+      {
+        "time_h": 55.0,
+        "live_targets": 228,
+        "live_Ag_negative": 210,
+        "IFNg_domain_mean": 0.20933117441853188,
+        "TNF_domain_mean": 0.20933117441853188
+      },
+      {
+        "time_h": 56.0,
+        "live_targets": 225,
+        "live_Ag_negative": 208,
+        "IFNg_domain_mean": 0.2098914802437237,
+        "TNF_domain_mean": 0.2098914802437237
+      },
+      {
+        "time_h": 57.0,
+        "live_targets": 218,
+        "live_Ag_negative": 201,
+        "IFNg_domain_mean": 0.21162380181900703,
+        "TNF_domain_mean": 0.21162380181900703
+      },
+      {
+        "time_h": 58.0,
+        "live_targets": 212,
+        "live_Ag_negative": 198,
+        "IFNg_domain_mean": 0.21333616872442399,
+        "TNF_domain_mean": 0.21333616872442399
+      },
+      {
+        "time_h": 59.0,
+        "live_targets": 203,
+        "live_Ag_negative": 191,
+        "IFNg_domain_mean": 0.21320688082197153,
+        "TNF_domain_mean": 0.21320688082197153
+      },
+      {
+        "time_h": 60.0,
+        "live_targets": 202,
+        "live_Ag_negative": 190,
+        "IFNg_domain_mean": 0.21238100065441767,
+        "TNF_domain_mean": 0.21238100065441767
+      },
+      {
+        "time_h": 61.0,
+        "live_targets": 199,
+        "live_Ag_negative": 187,
+        "IFNg_domain_mean": 0.2121599258814239,
+        "TNF_domain_mean": 0.2121599258814239
+      },
+      {
+        "time_h": 62.0,
+        "live_targets": 191,
+        "live_Ag_negative": 180,
+        "IFNg_domain_mean": 0.2122228618491241,
+        "TNF_domain_mean": 0.2122228618491241
+      },
+      {
+        "time_h": 63.0,
+        "live_targets": 185,
+        "live_Ag_negative": 175,
+        "IFNg_domain_mean": 0.2119152974609379,
+        "TNF_domain_mean": 0.2119152974609379
+      },
+      {
+        "time_h": 64.0,
+        "live_targets": 181,
+        "live_Ag_negative": 171,
+        "IFNg_domain_mean": 0.21163232790803424,
+        "TNF_domain_mean": 0.21163232790803424
+      },
+      {
+        "time_h": 65.0,
+        "live_targets": 180,
+        "live_Ag_negative": 170,
+        "IFNg_domain_mean": 0.21149434229115377,
+        "TNF_domain_mean": 0.21149434229115377
+      },
+      {
+        "time_h": 66.0,
+        "live_targets": 173,
+        "live_Ag_negative": 163,
+        "IFNg_domain_mean": 0.21180305425424029,
+        "TNF_domain_mean": 0.21180305425424029
+      },
+      {
+        "time_h": 67.0,
+        "live_targets": 166,
+        "live_Ag_negative": 156,
+        "IFNg_domain_mean": 0.21211367787953983,
+        "TNF_domain_mean": 0.21211367787953983
+      },
+      {
+        "time_h": 68.0,
+        "live_targets": 161,
+        "live_Ag_negative": 152,
+        "IFNg_domain_mean": 0.2125066448709681,
+        "TNF_domain_mean": 0.2125066448709681
+      },
+      {
+        "time_h": 69.0,
+        "live_targets": 157,
+        "live_Ag_negative": 148,
+        "IFNg_domain_mean": 0.21234932771860532,
+        "TNF_domain_mean": 0.21234932771860532
+      },
+      {
+        "time_h": 70.0,
+        "live_targets": 154,
+        "live_Ag_negative": 145,
+        "IFNg_domain_mean": 0.21218076427702315,
+        "TNF_domain_mean": 0.21218076427702315
+      },
+      {
+        "time_h": 71.0,
+        "live_targets": 150,
+        "live_Ag_negative": 141,
+        "IFNg_domain_mean": 0.2120620764862068,
+        "TNF_domain_mean": 0.2120620764862068
+      },
+      {
+        "time_h": 72.0,
+        "live_targets": 150,
+        "live_Ag_negative": 141,
+        "IFNg_domain_mean": 0.21198707870079445,
+        "TNF_domain_mean": 0.21198707870079445
+      },
+      {
+        "time_h": 73.0,
+        "live_targets": 147,
+        "live_Ag_negative": 139,
+        "IFNg_domain_mean": 0.21194136097008726,
+        "TNF_domain_mean": 0.21194136097008726
+      },
+      {
+        "time_h": 74.0,
+        "live_targets": 138,
+        "live_Ag_negative": 131,
+        "IFNg_domain_mean": 0.2119138250783775,
+        "TNF_domain_mean": 0.2119138250783775
+      },
+      {
+        "time_h": 75.0,
+        "live_targets": 136,
+        "live_Ag_negative": 129,
+        "IFNg_domain_mean": 0.21199095010167524,
+        "TNF_domain_mean": 0.21199095010167524
+      },
+      {
+        "time_h": 76.0,
+        "live_targets": 131,
+        "live_Ag_negative": 124,
+        "IFNg_domain_mean": 0.2129386684421487,
+        "TNF_domain_mean": 0.2129386684421487
+      },
+      {
+        "time_h": 77.0,
+        "live_targets": 126,
+        "live_Ag_negative": 120,
+        "IFNg_domain_mean": 0.21469276793475073,
+        "TNF_domain_mean": 0.21469276793475073
+      },
+      {
+        "time_h": 78.0,
+        "live_targets": 121,
+        "live_Ag_negative": 117,
+        "IFNg_domain_mean": 0.21630946487069427,
+        "TNF_domain_mean": 0.21630946487069427
+      },
+      {
+        "time_h": 79.0,
+        "live_targets": 118,
+        "live_Ag_negative": 114,
+        "IFNg_domain_mean": 0.21601449746383827,
+        "TNF_domain_mean": 0.21601449746383827
+      },
+      {
+        "time_h": 80.0,
+        "live_targets": 115,
+        "live_Ag_negative": 111,
+        "IFNg_domain_mean": 0.21553543089465776,
+        "TNF_domain_mean": 0.21553543089465776
+      },
+      {
+        "time_h": 81.0,
+        "live_targets": 113,
+        "live_Ag_negative": 109,
+        "IFNg_domain_mean": 0.21596099835756097,
+        "TNF_domain_mean": 0.21596099835756097
+      },
+      {
+        "time_h": 82.0,
+        "live_targets": 109,
+        "live_Ag_negative": 106,
+        "IFNg_domain_mean": 0.21749871347550753,
+        "TNF_domain_mean": 0.21749871347550753
+      },
+      {
+        "time_h": 83.0,
+        "live_targets": 110,
+        "live_Ag_negative": 107,
+        "IFNg_domain_mean": 0.21829514520738155,
+        "TNF_domain_mean": 0.21829514520738155
+      },
+      {
+        "time_h": 84.0,
+        "live_targets": 110,
+        "live_Ag_negative": 108,
+        "IFNg_domain_mean": 0.218660906568146,
+        "TNF_domain_mean": 0.218660906568146
+      },
+      {
+        "time_h": 85.0,
+        "live_targets": 107,
+        "live_Ag_negative": 105,
+        "IFNg_domain_mean": 0.21813547532087,
+        "TNF_domain_mean": 0.21813547532087
+      },
+      {
+        "time_h": 86.0,
+        "live_targets": 107,
+        "live_Ag_negative": 105,
+        "IFNg_domain_mean": 0.21767415261890777,
+        "TNF_domain_mean": 0.21767415261890777
+      },
+      {
+        "time_h": 87.0,
+        "live_targets": 105,
+        "live_Ag_negative": 103,
+        "IFNg_domain_mean": 0.21736300108460171,
+        "TNF_domain_mean": 0.21736300108460171
+      },
+      {
+        "time_h": 88.0,
+        "live_targets": 105,
+        "live_Ag_negative": 103,
+        "IFNg_domain_mean": 0.21716901679975814,
+        "TNF_domain_mean": 0.21716901679975814
+      },
+      {
+        "time_h": 89.0,
+        "live_targets": 102,
+        "live_Ag_negative": 100,
+        "IFNg_domain_mean": 0.21705128900493384,
+        "TNF_domain_mean": 0.21705128900493384
+      },
+      {
+        "time_h": 90.0,
+        "live_targets": 102,
+        "live_Ag_negative": 100,
+        "IFNg_domain_mean": 0.21698048632016656,
+        "TNF_domain_mean": 0.21698048632016656
+      },
+      {
+        "time_h": 91.0,
+        "live_targets": 100,
+        "live_Ag_negative": 98,
+        "IFNg_domain_mean": 0.21697278296312025,
+        "TNF_domain_mean": 0.21697278296312025
+      },
+      {
+        "time_h": 92.0,
+        "live_targets": 97,
+        "live_Ag_negative": 96,
+        "IFNg_domain_mean": 0.2179276445795199,
+        "TNF_domain_mean": 0.2179276445795199
+      },
+      {
+        "time_h": 93.0,
+        "live_targets": 98,
+        "live_Ag_negative": 97,
+        "IFNg_domain_mean": 0.21833796491578208,
+        "TNF_domain_mean": 0.21833796491578208
+      },
+      {
+        "time_h": 94.0,
+        "live_targets": 92,
+        "live_Ag_negative": 91,
+        "IFNg_domain_mean": 0.21815116209285437,
+        "TNF_domain_mean": 0.21815116209285437
+      },
+      {
+        "time_h": 95.0,
+        "live_targets": 88,
+        "live_Ag_negative": 87,
+        "IFNg_domain_mean": 0.21796741806121028,
+        "TNF_domain_mean": 0.21796741806121028
+      },
+      {
+        "time_h": 96.0,
+        "live_targets": 86,
+        "live_Ag_negative": 85,
+        "IFNg_domain_mean": 0.21783971379779882,
+        "TNF_domain_mean": 0.21783971379779882
+      }
+    ],
+    "turnover10_local_entry_seed0": [
+      {
+        "time_h": 0.0,
+        "live_targets": 1200,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.0,
+        "TNF_domain_mean": 0.0
+      },
+      {
+        "time_h": 1.0,
+        "live_targets": 1204,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.004230549768903811,
+        "TNF_domain_mean": 0.004230549768903811
+      },
+      {
+        "time_h": 2.0,
+        "live_targets": 1191,
+        "live_Ag_negative": 358,
+        "IFNg_domain_mean": 0.04281586559915604,
+        "TNF_domain_mean": 0.04281586559915604
+      },
+      {
+        "time_h": 3.0,
+        "live_targets": 1105,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.07017268624272842,
+        "TNF_domain_mean": 0.07017268624272842
+      },
+      {
+        "time_h": 4.0,
+        "live_targets": 976,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.0821552310210144,
+        "TNF_domain_mean": 0.0821552310210144
+      },
+      {
+        "time_h": 5.0,
+        "live_targets": 858,
+        "live_Ag_negative": 360,
+        "IFNg_domain_mean": 0.08659287073727445,
+        "TNF_domain_mean": 0.08659287073727445
+      },
+      {
+        "time_h": 6.0,
+        "live_targets": 758,
+        "live_Ag_negative": 359,
+        "IFNg_domain_mean": 0.08707011308563095,
+        "TNF_domain_mean": 0.08707011308563095
+      },
+      {
+        "time_h": 7.0,
+        "live_targets": 710,
+        "live_Ag_negative": 357,
+        "IFNg_domain_mean": 0.08626436490610849,
+        "TNF_domain_mean": 0.08626436490610849
+      },
+      {
+        "time_h": 8.0,
+        "live_targets": 684,
+        "live_Ag_negative": 353,
+        "IFNg_domain_mean": 0.08640437790251766,
+        "TNF_domain_mean": 0.08640437790251766
+      },
+      {
+        "time_h": 9.0,
+        "live_targets": 672,
+        "live_Ag_negative": 354,
+        "IFNg_domain_mean": 0.087903579539355,
+        "TNF_domain_mean": 0.087903579539355
+      },
+      {
+        "time_h": 10.0,
+        "live_targets": 653,
+        "live_Ag_negative": 352,
+        "IFNg_domain_mean": 0.09156831913691504,
+        "TNF_domain_mean": 0.09156831913691504
+      },
+      {
+        "time_h": 11.0,
+        "live_targets": 632,
+        "live_Ag_negative": 351,
+        "IFNg_domain_mean": 0.0952584989298902,
+        "TNF_domain_mean": 0.0952584989298902
+      },
+      {
+        "time_h": 12.0,
+        "live_targets": 613,
+        "live_Ag_negative": 346,
+        "IFNg_domain_mean": 0.09865385552458815,
+        "TNF_domain_mean": 0.09865385552458815
+      },
+      {
+        "time_h": 13.0,
+        "live_targets": 592,
+        "live_Ag_negative": 345,
+        "IFNg_domain_mean": 0.10317123328446298,
+        "TNF_domain_mean": 0.10317123328446298
+      },
+      {
+        "time_h": 14.0,
+        "live_targets": 565,
+        "live_Ag_negative": 342,
+        "IFNg_domain_mean": 0.10564454593104299,
+        "TNF_domain_mean": 0.10564454593104299
+      },
+      {
+        "time_h": 15.0,
+        "live_targets": 556,
+        "live_Ag_negative": 342,
+        "IFNg_domain_mean": 0.1051905282080907,
+        "TNF_domain_mean": 0.1051905282080907
+      },
+      {
+        "time_h": 16.0,
+        "live_targets": 542,
+        "live_Ag_negative": 342,
+        "IFNg_domain_mean": 0.10376508851943934,
+        "TNF_domain_mean": 0.10376508851943934
+      },
+      {
+        "time_h": 17.0,
+        "live_targets": 523,
+        "live_Ag_negative": 335,
+        "IFNg_domain_mean": 0.1020454478432547,
+        "TNF_domain_mean": 0.1020454478432547
+      },
+      {
+        "time_h": 18.0,
+        "live_targets": 513,
+        "live_Ag_negative": 335,
+        "IFNg_domain_mean": 0.09996939581885277,
+        "TNF_domain_mean": 0.09996939581885277
+      },
+      {
+        "time_h": 19.0,
+        "live_targets": 500,
+        "live_Ag_negative": 331,
+        "IFNg_domain_mean": 0.0974590614351841,
+        "TNF_domain_mean": 0.0974590614351841
+      },
+      {
+        "time_h": 20.0,
+        "live_targets": 480,
+        "live_Ag_negative": 321,
+        "IFNg_domain_mean": 0.09481920834509078,
+        "TNF_domain_mean": 0.09481920834509078
+      },
+      {
+        "time_h": 21.0,
+        "live_targets": 466,
+        "live_Ag_negative": 317,
+        "IFNg_domain_mean": 0.09229771890936186,
+        "TNF_domain_mean": 0.09229771890936186
+      },
+      {
+        "time_h": 22.0,
+        "live_targets": 463,
+        "live_Ag_negative": 314,
+        "IFNg_domain_mean": 0.08832371775477363,
+        "TNF_domain_mean": 0.08832371775477363
+      },
+      {
+        "time_h": 23.0,
+        "live_targets": 457,
+        "live_Ag_negative": 313,
+        "IFNg_domain_mean": 0.08616481731202766,
+        "TNF_domain_mean": 0.08616481731202766
+      },
+      {
+        "time_h": 24.0,
+        "live_targets": 450,
+        "live_Ag_negative": 314,
+        "IFNg_domain_mean": 0.08150571635230726,
+        "TNF_domain_mean": 0.08150571635230726
+      },
+      {
+        "time_h": 25.0,
+        "live_targets": 448,
+        "live_Ag_negative": 312,
+        "IFNg_domain_mean": 0.07514964356532056,
+        "TNF_domain_mean": 0.07514964356532056
+      },
+      {
+        "time_h": 26.0,
+        "live_targets": 448,
+        "live_Ag_negative": 311,
+        "IFNg_domain_mean": 0.07066621524075983,
+        "TNF_domain_mean": 0.07066621524075983
+      },
+      {
+        "time_h": 27.0,
+        "live_targets": 439,
+        "live_Ag_negative": 305,
+        "IFNg_domain_mean": 0.0682541744509582,
+        "TNF_domain_mean": 0.0682541744509582
+      },
+      {
+        "time_h": 28.0,
+        "live_targets": 427,
+        "live_Ag_negative": 301,
+        "IFNg_domain_mean": 0.06848949729657186,
+        "TNF_domain_mean": 0.06848949729657186
+      },
+      {
+        "time_h": 29.0,
+        "live_targets": 407,
+        "live_Ag_negative": 294,
+        "IFNg_domain_mean": 0.06852351974802273,
+        "TNF_domain_mean": 0.06852351974802273
+      },
+      {
+        "time_h": 30.0,
+        "live_targets": 401,
+        "live_Ag_negative": 293,
+        "IFNg_domain_mean": 0.0680280715321124,
+        "TNF_domain_mean": 0.0680280715321124
+      },
+      {
+        "time_h": 31.0,
+        "live_targets": 393,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.06734294646418934,
+        "TNF_domain_mean": 0.06734294646418934
+      },
+      {
+        "time_h": 32.0,
+        "live_targets": 390,
+        "live_Ag_negative": 290,
+        "IFNg_domain_mean": 0.06780117232114406,
+        "TNF_domain_mean": 0.06780117232114406
+      },
+      {
+        "time_h": 33.0,
+        "live_targets": 381,
+        "live_Ag_negative": 288,
+        "IFNg_domain_mean": 0.06748943497098704,
+        "TNF_domain_mean": 0.06748943497098704
+      },
+      {
+        "time_h": 34.0,
+        "live_targets": 376,
+        "live_Ag_negative": 284,
+        "IFNg_domain_mean": 0.06514517417150079,
+        "TNF_domain_mean": 0.06514517417150079
+      },
+      {
+        "time_h": 35.0,
+        "live_targets": 370,
+        "live_Ag_negative": 282,
+        "IFNg_domain_mean": 0.061816534412320705,
+        "TNF_domain_mean": 0.061816534412320705
+      },
+      {
+        "time_h": 36.0,
+        "live_targets": 360,
+        "live_Ag_negative": 275,
+        "IFNg_domain_mean": 0.06042146946565555,
+        "TNF_domain_mean": 0.06042146946565555
+      },
+      {
+        "time_h": 37.0,
+        "live_targets": 346,
+        "live_Ag_negative": 268,
+        "IFNg_domain_mean": 0.05959965186772152,
+        "TNF_domain_mean": 0.05959965186772152
+      },
+      {
+        "time_h": 38.0,
+        "live_targets": 339,
+        "live_Ag_negative": 261,
+        "IFNg_domain_mean": 0.05835444977397061,
+        "TNF_domain_mean": 0.05835444977397061
+      },
+      {
+        "time_h": 39.0,
+        "live_targets": 329,
+        "live_Ag_negative": 256,
+        "IFNg_domain_mean": 0.05923738175657089,
+        "TNF_domain_mean": 0.05923738175657089
+      },
+      {
+        "time_h": 40.0,
+        "live_targets": 318,
+        "live_Ag_negative": 252,
+        "IFNg_domain_mean": 0.06045849799337307,
+        "TNF_domain_mean": 0.06045849799337307
+      },
+      {
+        "time_h": 41.0,
+        "live_targets": 308,
+        "live_Ag_negative": 248,
+        "IFNg_domain_mean": 0.06006661085315736,
+        "TNF_domain_mean": 0.06006661085315736
+      },
+      {
+        "time_h": 42.0,
+        "live_targets": 296,
+        "live_Ag_negative": 239,
+        "IFNg_domain_mean": 0.05808585019838508,
+        "TNF_domain_mean": 0.05808585019838508
+      },
+      {
+        "time_h": 43.0,
+        "live_targets": 288,
+        "live_Ag_negative": 233,
+        "IFNg_domain_mean": 0.05665153566545514,
+        "TNF_domain_mean": 0.05665153566545514
+      },
+      {
+        "time_h": 44.0,
+        "live_targets": 278,
+        "live_Ag_negative": 230,
+        "IFNg_domain_mean": 0.057317309463037945,
+        "TNF_domain_mean": 0.057317309463037945
+      },
+      {
+        "time_h": 45.0,
+        "live_targets": 269,
+        "live_Ag_negative": 226,
+        "IFNg_domain_mean": 0.059115543115558146,
+        "TNF_domain_mean": 0.059115543115558146
+      },
+      {
+        "time_h": 46.0,
+        "live_targets": 263,
+        "live_Ag_negative": 227,
+        "IFNg_domain_mean": 0.05971330231128705,
+        "TNF_domain_mean": 0.05971330231128705
+      },
+      {
+        "time_h": 47.0,
+        "live_targets": 247,
+        "live_Ag_negative": 215,
+        "IFNg_domain_mean": 0.058816724269951735,
+        "TNF_domain_mean": 0.058816724269951735
+      },
+      {
+        "time_h": 48.0,
+        "live_targets": 241,
+        "live_Ag_negative": 211,
+        "IFNg_domain_mean": 0.05730969937985095,
+        "TNF_domain_mean": 0.05730969937985095
+      },
+      {
+        "time_h": 49.0,
+        "live_targets": 233,
+        "live_Ag_negative": 211,
+        "IFNg_domain_mean": 0.05556751285105784,
+        "TNF_domain_mean": 0.05556751285105784
+      },
+      {
+        "time_h": 50.0,
+        "live_targets": 230,
+        "live_Ag_negative": 208,
+        "IFNg_domain_mean": 0.05231947896267334,
+        "TNF_domain_mean": 0.05231947896267334
+      },
+      {
+        "time_h": 51.0,
+        "live_targets": 223,
+        "live_Ag_negative": 202,
+        "IFNg_domain_mean": 0.04841561586563944,
+        "TNF_domain_mean": 0.04841561586563944
+      },
+      {
+        "time_h": 52.0,
+        "live_targets": 220,
+        "live_Ag_negative": 200,
+        "IFNg_domain_mean": 0.04648624803362456,
+        "TNF_domain_mean": 0.04648624803362456
+      },
+      {
+        "time_h": 53.0,
+        "live_targets": 214,
+        "live_Ag_negative": 197,
+        "IFNg_domain_mean": 0.04628644969488068,
+        "TNF_domain_mean": 0.04628644969488068
+      },
+      {
+        "time_h": 54.0,
+        "live_targets": 211,
+        "live_Ag_negative": 196,
+        "IFNg_domain_mean": 0.04374437374332732,
+        "TNF_domain_mean": 0.04374437374332732
+      },
+      {
+        "time_h": 55.0,
+        "live_targets": 207,
+        "live_Ag_negative": 193,
+        "IFNg_domain_mean": 0.03998962923781699,
+        "TNF_domain_mean": 0.03998962923781699
+      },
+      {
+        "time_h": 56.0,
+        "live_targets": 203,
+        "live_Ag_negative": 190,
+        "IFNg_domain_mean": 0.03705966998229836,
+        "TNF_domain_mean": 0.03705966998229836
+      },
+      {
+        "time_h": 57.0,
+        "live_targets": 205,
+        "live_Ag_negative": 192,
+        "IFNg_domain_mean": 0.035979537319579716,
+        "TNF_domain_mean": 0.035979537319579716
+      },
+      {
+        "time_h": 58.0,
+        "live_targets": 200,
+        "live_Ag_negative": 189,
+        "IFNg_domain_mean": 0.03648774774522338,
+        "TNF_domain_mean": 0.03648774774522338
+      },
+      {
+        "time_h": 59.0,
+        "live_targets": 193,
+        "live_Ag_negative": 184,
+        "IFNg_domain_mean": 0.03535228018535991,
+        "TNF_domain_mean": 0.03535228018535991
+      },
+      {
+        "time_h": 60.0,
+        "live_targets": 190,
+        "live_Ag_negative": 182,
+        "IFNg_domain_mean": 0.032583137075856604,
+        "TNF_domain_mean": 0.032583137075856604
+      },
+      {
+        "time_h": 61.0,
+        "live_targets": 190,
+        "live_Ag_negative": 182,
+        "IFNg_domain_mean": 0.029423152019365375,
+        "TNF_domain_mean": 0.029423152019365375
+      },
+      {
+        "time_h": 62.0,
+        "live_targets": 187,
+        "live_Ag_negative": 181,
+        "IFNg_domain_mean": 0.028536902402863707,
+        "TNF_domain_mean": 0.028536902402863707
+      },
+      {
+        "time_h": 63.0,
+        "live_targets": 186,
+        "live_Ag_negative": 180,
+        "IFNg_domain_mean": 0.027088969092824492,
+        "TNF_domain_mean": 0.027088969092824492
+      },
+      {
+        "time_h": 64.0,
+        "live_targets": 184,
+        "live_Ag_negative": 178,
+        "IFNg_domain_mean": 0.024778006657278386,
+        "TNF_domain_mean": 0.024778006657278386
+      },
+      {
+        "time_h": 65.0,
+        "live_targets": 181,
+        "live_Ag_negative": 176,
+        "IFNg_domain_mean": 0.02288851382894667,
+        "TNF_domain_mean": 0.02288851382894667
+      },
+      {
+        "time_h": 66.0,
+        "live_targets": 183,
+        "live_Ag_negative": 178,
+        "IFNg_domain_mean": 0.02057087271917149,
+        "TNF_domain_mean": 0.02057087271917149
+      },
+      {
+        "time_h": 67.0,
+        "live_targets": 180,
+        "live_Ag_negative": 175,
+        "IFNg_domain_mean": 0.018497527820158073,
+        "TNF_domain_mean": 0.018497527820158073
+      },
+      {
+        "time_h": 68.0,
+        "live_targets": 180,
+        "live_Ag_negative": 175,
+        "IFNg_domain_mean": 0.016687553566380058,
+        "TNF_domain_mean": 0.016687553566380058
+      },
+      {
+        "time_h": 69.0,
+        "live_targets": 179,
+        "live_Ag_negative": 174,
+        "IFNg_domain_mean": 0.01659696250257688,
+        "TNF_domain_mean": 0.01659696250257688
+      },
+      {
+        "time_h": 70.0,
+        "live_targets": 178,
+        "live_Ag_negative": 175,
+        "IFNg_domain_mean": 0.017724076194138592,
+        "TNF_domain_mean": 0.017724076194138592
+      },
+      {
+        "time_h": 71.0,
+        "live_targets": 173,
+        "live_Ag_negative": 170,
+        "IFNg_domain_mean": 0.016504947821637445,
+        "TNF_domain_mean": 0.016504947821637445
+      },
+      {
+        "time_h": 72.0,
+        "live_targets": 167,
+        "live_Ag_negative": 165,
+        "IFNg_domain_mean": 0.0157125050662506,
+        "TNF_domain_mean": 0.0157125050662506
+      },
+      {
+        "time_h": 73.0,
+        "live_targets": 167,
+        "live_Ag_negative": 165,
+        "IFNg_domain_mean": 0.014471167752728675,
+        "TNF_domain_mean": 0.014471167752728675
+      },
+      {
+        "time_h": 74.0,
+        "live_targets": 165,
+        "live_Ag_negative": 163,
+        "IFNg_domain_mean": 0.012945023840588899,
+        "TNF_domain_mean": 0.012945023840588899
+      },
+      {
+        "time_h": 75.0,
+        "live_targets": 165,
+        "live_Ag_negative": 163,
+        "IFNg_domain_mean": 0.011596393702476235,
+        "TNF_domain_mean": 0.011596393702476235
+      },
+      {
+        "time_h": 76.0,
+        "live_targets": 164,
+        "live_Ag_negative": 162,
+        "IFNg_domain_mean": 0.010431933984740124,
+        "TNF_domain_mean": 0.010431933984740124
+      },
+      {
+        "time_h": 77.0,
+        "live_targets": 164,
+        "live_Ag_negative": 162,
+        "IFNg_domain_mean": 0.009700680891017225,
+        "TNF_domain_mean": 0.009700680891017225
+      },
+      {
+        "time_h": 78.0,
+        "live_targets": 162,
+        "live_Ag_negative": 161,
+        "IFNg_domain_mean": 0.00983288160647993,
+        "TNF_domain_mean": 0.00983288160647993
+      },
+      {
+        "time_h": 79.0,
+        "live_targets": 161,
+        "live_Ag_negative": 160,
+        "IFNg_domain_mean": 0.009035956373251362,
+        "TNF_domain_mean": 0.009035956373251362
+      },
+      {
+        "time_h": 80.0,
+        "live_targets": 161,
+        "live_Ag_negative": 160,
+        "IFNg_domain_mean": 0.008120481835785292,
+        "TNF_domain_mean": 0.008120481835785292
+      },
+      {
+        "time_h": 81.0,
+        "live_targets": 160,
+        "live_Ag_negative": 159,
+        "IFNg_domain_mean": 0.00730104068137773,
+        "TNF_domain_mean": 0.00730104068137773
+      },
+      {
+        "time_h": 82.0,
+        "live_targets": 162,
+        "live_Ag_negative": 161,
+        "IFNg_domain_mean": 0.0065850818906308855,
+        "TNF_domain_mean": 0.0065850818906308855
+      },
+      {
+        "time_h": 83.0,
+        "live_targets": 162,
+        "live_Ag_negative": 161,
+        "IFNg_domain_mean": 0.005955734999448761,
+        "TNF_domain_mean": 0.005955734999448761
+      },
+      {
+        "time_h": 84.0,
+        "live_targets": 163,
+        "live_Ag_negative": 162,
+        "IFNg_domain_mean": 0.005396953929397649,
+        "TNF_domain_mean": 0.005396953929397649
+      },
+      {
+        "time_h": 85.0,
+        "live_targets": 159,
+        "live_Ag_negative": 158,
+        "IFNg_domain_mean": 0.005817069483014444,
+        "TNF_domain_mean": 0.005817069483014444
+      },
+      {
+        "time_h": 86.0,
+        "live_targets": 158,
+        "live_Ag_negative": 158,
+        "IFNg_domain_mean": 0.006551170221842635,
+        "TNF_domain_mean": 0.006551170221842635
+      },
+      {
+        "time_h": 87.0,
+        "live_targets": 156,
+        "live_Ag_negative": 156,
+        "IFNg_domain_mean": 0.005905739734426753,
+        "TNF_domain_mean": 0.005905739734426753
+      },
+      {
+        "time_h": 88.0,
+        "live_targets": 155,
+        "live_Ag_negative": 155,
+        "IFNg_domain_mean": 0.005235711317050529,
+        "TNF_domain_mean": 0.005235711317050529
+      },
+      {
+        "time_h": 89.0,
+        "live_targets": 152,
+        "live_Ag_negative": 152,
+        "IFNg_domain_mean": 0.004659456276169921,
+        "TNF_domain_mean": 0.004659456276169921
+      },
+      {
+        "time_h": 90.0,
+        "live_targets": 156,
+        "live_Ag_negative": 156,
+        "IFNg_domain_mean": 0.004173422417767901,
+        "TNF_domain_mean": 0.004173422417767901
+      },
+      {
+        "time_h": 91.0,
+        "live_targets": 154,
+        "live_Ag_negative": 154,
+        "IFNg_domain_mean": 0.003757406293098632,
+        "TNF_domain_mean": 0.003757406293098632
+      },
+      {
+        "time_h": 92.0,
+        "live_targets": 154,
+        "live_Ag_negative": 154,
+        "IFNg_domain_mean": 0.0033948883724674076,
+        "TNF_domain_mean": 0.0033948883724674076
+      },
+      {
+        "time_h": 93.0,
+        "live_targets": 154,
+        "live_Ag_negative": 154,
+        "IFNg_domain_mean": 0.0030744945136069613,
+        "TNF_domain_mean": 0.0030744945136069613
+      },
+      {
+        "time_h": 94.0,
+        "live_targets": 153,
+        "live_Ag_negative": 153,
+        "IFNg_domain_mean": 0.0027885134888844315,
+        "TNF_domain_mean": 0.0027885134888844315
+      },
+      {
+        "time_h": 95.0,
+        "live_targets": 156,
+        "live_Ag_negative": 156,
+        "IFNg_domain_mean": 0.002531556030234339,
+        "TNF_domain_mean": 0.002531556030234339
+      },
+      {
+        "time_h": 96.0,
+        "live_targets": 158,
+        "live_Ag_negative": 158,
+        "IFNg_domain_mean": 0.0022996778717124062,
+        "TNF_domain_mean": 0.0022996778717124062
+      }
+    ]
+  }
+}

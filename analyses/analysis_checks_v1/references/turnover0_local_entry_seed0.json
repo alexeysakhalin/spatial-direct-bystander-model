@@ -1,0 +1,2625 @@
+{
+  "counts": [
+    {
+      "live_effectors": 600,
+      "live_targets": 1200,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn unprimed": 360,
+        "tumor AgHi CytoOn unprimed": 840
+      },
+      "retained_dead": 0,
+      "time_h": 0.0
+    },
+    {
+      "live_effectors": 598,
+      "live_targets": 1204,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 1,
+        "tumor Ag0 CytoOn unprimed": 358,
+        "tumor AgHi CytoOn unprimed": 845
+      },
+      "retained_dead": 9,
+      "time_h": 1.0
+    },
+    {
+      "live_effectors": 609,
+      "live_targets": 1191,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 47,
+        "tumor Ag0 CytoOn unprimed": 311,
+        "tumor AgHi CytoOn primed": 98,
+        "tumor AgHi CytoOn unprimed": 735
+      },
+      "retained_dead": 28,
+      "time_h": 2.0
+    },
+    {
+      "live_effectors": 619,
+      "live_targets": 1105,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 95,
+        "tumor Ag0 CytoOn unprimed": 264,
+        "tumor AgHi CytoOn primed": 165,
+        "tumor AgHi CytoOn unprimed": 581
+      },
+      "retained_dead": 118,
+      "time_h": 3.0
+    },
+    {
+      "live_effectors": 629,
+      "live_targets": 974,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 125,
+        "tumor Ag0 CytoOn unprimed": 234,
+        "tumor AgHi CytoOn primed": 213,
+        "tumor AgHi CytoOn unprimed": 402
+      },
+      "retained_dead": 253,
+      "time_h": 4.0
+    },
+    {
+      "live_effectors": 641,
+      "live_targets": 843,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 158,
+        "tumor Ag0 CytoOn unprimed": 198,
+        "tumor AgHi CytoOn primed": 223,
+        "tumor AgHi CytoOn unprimed": 264
+      },
+      "retained_dead": 384,
+      "time_h": 5.0
+    },
+    {
+      "live_effectors": 654,
+      "live_targets": 753,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 188,
+        "tumor Ag0 CytoOn unprimed": 166,
+        "tumor AgHi CytoOn primed": 212,
+        "tumor AgHi CytoOn unprimed": 187
+      },
+      "retained_dead": 479,
+      "time_h": 6.0
+    },
+    {
+      "live_effectors": 664,
+      "live_targets": 712,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 205,
+        "tumor Ag0 CytoOn unprimed": 147,
+        "tumor AgHi CytoOn primed": 223,
+        "tumor AgHi CytoOn unprimed": 137
+      },
+      "retained_dead": 523,
+      "time_h": 7.0
+    },
+    {
+      "live_effectors": 682,
+      "live_targets": 688,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 225,
+        "tumor Ag0 CytoOn unprimed": 127,
+        "tumor AgHi CytoOn primed": 219,
+        "tumor AgHi CytoOn unprimed": 117
+      },
+      "retained_dead": 549,
+      "time_h": 8.0
+    },
+    {
+      "live_effectors": 697,
+      "live_targets": 675,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 242,
+        "tumor Ag0 CytoOn unprimed": 111,
+        "tumor AgHi CytoOn primed": 220,
+        "tumor AgHi CytoOn unprimed": 102
+      },
+      "retained_dead": 563,
+      "time_h": 9.0
+    },
+    {
+      "live_effectors": 705,
+      "live_targets": 656,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 262,
+        "tumor Ag0 CytoOn unprimed": 88,
+        "tumor AgHi CytoOn primed": 225,
+        "tumor AgHi CytoOn unprimed": 81
+      },
+      "retained_dead": 576,
+      "time_h": 10.0
+    },
+    {
+      "live_effectors": 714,
+      "live_targets": 636,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 271,
+        "tumor Ag0 CytoOn unprimed": 79,
+        "tumor AgHi CytoOn primed": 220,
+        "tumor AgHi CytoOn unprimed": 66
+      },
+      "retained_dead": 559,
+      "time_h": 11.0
+    },
+    {
+      "live_effectors": 723,
+      "live_targets": 617,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 286,
+        "tumor Ag0 CytoOn unprimed": 62,
+        "tumor AgHi CytoOn primed": 210,
+        "tumor AgHi CytoOn unprimed": 59
+      },
+      "retained_dead": 457,
+      "time_h": 12.0
+    },
+    {
+      "live_effectors": 735,
+      "live_targets": 599,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 293,
+        "tumor Ag0 CytoOn unprimed": 55,
+        "tumor AgHi CytoOn primed": 202,
+        "tumor AgHi CytoOn unprimed": 49
+      },
+      "retained_dead": 341,
+      "time_h": 13.0
+    },
+    {
+      "live_effectors": 748,
+      "live_targets": 572,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 297,
+        "tumor Ag0 CytoOn unprimed": 50,
+        "tumor AgHi CytoOn primed": 185,
+        "tumor AgHi CytoOn unprimed": 40
+      },
+      "retained_dead": 252,
+      "time_h": 14.0
+    },
+    {
+      "live_effectors": 755,
+      "live_targets": 551,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 304,
+        "tumor Ag0 CytoOn unprimed": 42,
+        "tumor AgHi CytoOn primed": 173,
+        "tumor AgHi CytoOn unprimed": 32
+      },
+      "retained_dead": 213,
+      "time_h": 15.0
+    },
+    {
+      "live_effectors": 766,
+      "live_targets": 525,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 304,
+        "tumor Ag0 CytoOn unprimed": 39,
+        "tumor AgHi CytoOn primed": 156,
+        "tumor AgHi CytoOn unprimed": 26
+      },
+      "retained_dead": 204,
+      "time_h": 16.0
+    },
+    {
+      "live_effectors": 775,
+      "live_targets": 511,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 309,
+        "tumor Ag0 CytoOn unprimed": 33,
+        "tumor AgHi CytoOn primed": 148,
+        "tumor AgHi CytoOn unprimed": 21
+      },
+      "retained_dead": 201,
+      "time_h": 17.0
+    },
+    {
+      "live_effectors": 777,
+      "live_targets": 497,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 312,
+        "tumor Ag0 CytoOn unprimed": 26,
+        "tumor AgHi CytoOn primed": 143,
+        "tumor AgHi CytoOn unprimed": 16
+      },
+      "retained_dead": 199,
+      "time_h": 18.0
+    },
+    {
+      "live_effectors": 783,
+      "live_targets": 485,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 312,
+        "tumor Ag0 CytoOn unprimed": 23,
+        "tumor AgHi CytoOn primed": 135,
+        "tumor AgHi CytoOn unprimed": 15
+      },
+      "retained_dead": 191,
+      "time_h": 19.0
+    },
+    {
+      "live_effectors": 789,
+      "live_targets": 473,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 311,
+        "tumor Ag0 CytoOn unprimed": 22,
+        "tumor AgHi CytoOn primed": 126,
+        "tumor AgHi CytoOn unprimed": 14
+      },
+      "retained_dead": 187,
+      "time_h": 20.0
+    },
+    {
+      "live_effectors": 793,
+      "live_targets": 471,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 311,
+        "tumor Ag0 CytoOn unprimed": 20,
+        "tumor AgHi CytoOn primed": 128,
+        "tumor AgHi CytoOn unprimed": 12
+      },
+      "retained_dead": 179,
+      "time_h": 21.0
+    },
+    {
+      "live_effectors": 797,
+      "live_targets": 461,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 312,
+        "tumor Ag0 CytoOn unprimed": 18,
+        "tumor AgHi CytoOn primed": 119,
+        "tumor AgHi CytoOn unprimed": 12
+      },
+      "retained_dead": 165,
+      "time_h": 22.0
+    },
+    {
+      "live_effectors": 805,
+      "live_targets": 449,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 312,
+        "tumor Ag0 CytoOn unprimed": 16,
+        "tumor AgHi CytoOn primed": 111,
+        "tumor AgHi CytoOn unprimed": 10
+      },
+      "retained_dead": 152,
+      "time_h": 23.0
+    },
+    {
+      "live_effectors": 810,
+      "live_targets": 442,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 314,
+        "tumor Ag0 CytoOn unprimed": 14,
+        "tumor AgHi CytoOn primed": 105,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "retained_dead": 131,
+      "time_h": 24.0
+    },
+    {
+      "live_effectors": 810,
+      "live_targets": 440,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 314,
+        "tumor Ag0 CytoOn unprimed": 13,
+        "tumor AgHi CytoOn primed": 104,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "retained_dead": 124,
+      "time_h": 25.0
+    },
+    {
+      "live_effectors": 812,
+      "live_targets": 433,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 309,
+        "tumor Ag0 CytoOn unprimed": 13,
+        "tumor AgHi CytoOn primed": 102,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "retained_dead": 118,
+      "time_h": 26.0
+    },
+    {
+      "live_effectors": 816,
+      "live_targets": 427,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 307,
+        "tumor Ag0 CytoOn unprimed": 11,
+        "tumor AgHi CytoOn primed": 100,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "retained_dead": 113,
+      "time_h": 27.0
+    },
+    {
+      "live_effectors": 817,
+      "live_targets": 412,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 303,
+        "tumor Ag0 CytoOn unprimed": 10,
+        "tumor AgHi CytoOn primed": 90,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "retained_dead": 113,
+      "time_h": 28.0
+    },
+    {
+      "live_effectors": 820,
+      "live_targets": 402,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 300,
+        "tumor Ag0 CytoOn unprimed": 9,
+        "tumor AgHi CytoOn primed": 87,
+        "tumor AgHi CytoOn unprimed": 6
+      },
+      "retained_dead": 116,
+      "time_h": 29.0
+    },
+    {
+      "live_effectors": 817,
+      "live_targets": 401,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 301,
+        "tumor Ag0 CytoOn unprimed": 9,
+        "tumor AgHi CytoOn primed": 85,
+        "tumor AgHi CytoOn unprimed": 6
+      },
+      "retained_dead": 115,
+      "time_h": 30.0
+    },
+    {
+      "live_effectors": 818,
+      "live_targets": 392,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 298,
+        "tumor Ag0 CytoOn unprimed": 8,
+        "tumor AgHi CytoOn primed": 80,
+        "tumor AgHi CytoOn unprimed": 6
+      },
+      "retained_dead": 111,
+      "time_h": 31.0
+    },
+    {
+      "live_effectors": 819,
+      "live_targets": 382,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 296,
+        "tumor Ag0 CytoOn unprimed": 8,
+        "tumor AgHi CytoOn primed": 72,
+        "tumor AgHi CytoOn unprimed": 6
+      },
+      "retained_dead": 120,
+      "time_h": 32.0
+    },
+    {
+      "live_effectors": 824,
+      "live_targets": 373,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 293,
+        "tumor Ag0 CytoOn unprimed": 6,
+        "tumor AgHi CytoOn primed": 69,
+        "tumor AgHi CytoOn unprimed": 5
+      },
+      "retained_dead": 121,
+      "time_h": 33.0
+    },
+    {
+      "live_effectors": 826,
+      "live_targets": 362,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 294,
+        "tumor Ag0 CytoOn unprimed": 5,
+        "tumor AgHi CytoOn primed": 61,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "retained_dead": 130,
+      "time_h": 34.0
+    },
+    {
+      "live_effectors": 831,
+      "live_targets": 355,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 290,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 59,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "retained_dead": 127,
+      "time_h": 35.0
+    },
+    {
+      "live_effectors": 833,
+      "live_targets": 349,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 288,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 57,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "retained_dead": 125,
+      "time_h": 36.0
+    },
+    {
+      "live_effectors": 836,
+      "live_targets": 341,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 285,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 52,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "retained_dead": 120,
+      "time_h": 37.0
+    },
+    {
+      "live_effectors": 835,
+      "live_targets": 336,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 283,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 50,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "retained_dead": 114,
+      "time_h": 38.0
+    },
+    {
+      "live_effectors": 830,
+      "live_targets": 329,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 278,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 48,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "retained_dead": 123,
+      "time_h": 39.0
+    },
+    {
+      "live_effectors": 829,
+      "live_targets": 327,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 276,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 49,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 112,
+      "time_h": 40.0
+    },
+    {
+      "live_effectors": 828,
+      "live_targets": 319,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 272,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 45,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 111,
+      "time_h": 41.0
+    },
+    {
+      "live_effectors": 829,
+      "live_targets": 310,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 267,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 41,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 114,
+      "time_h": 42.0
+    },
+    {
+      "live_effectors": 828,
+      "live_targets": 300,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 260,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 38,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 111,
+      "time_h": 43.0
+    },
+    {
+      "live_effectors": 832,
+      "live_targets": 297,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 258,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 37,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 109,
+      "time_h": 44.0
+    },
+    {
+      "live_effectors": 834,
+      "live_targets": 288,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 250,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 36,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 104,
+      "time_h": 45.0
+    },
+    {
+      "live_effectors": 839,
+      "live_targets": 284,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 246,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 36,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 99,
+      "time_h": 46.0
+    },
+    {
+      "live_effectors": 837,
+      "live_targets": 274,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 243,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 29,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 109,
+      "time_h": 47.0
+    },
+    {
+      "live_effectors": 843,
+      "live_targets": 266,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 236,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 28,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "retained_dead": 108,
+      "time_h": 48.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 261,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 233,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 27
+      },
+      "retained_dead": 103,
+      "time_h": 49.0
+    },
+    {
+      "live_effectors": 847,
+      "live_targets": 252,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 226,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 25
+      },
+      "retained_dead": 102,
+      "time_h": 50.0
+    },
+    {
+      "live_effectors": 848,
+      "live_targets": 249,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 224,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 24
+      },
+      "retained_dead": 93,
+      "time_h": 51.0
+    },
+    {
+      "live_effectors": 848,
+      "live_targets": 244,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 220,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 23
+      },
+      "retained_dead": 90,
+      "time_h": 52.0
+    },
+    {
+      "live_effectors": 849,
+      "live_targets": 237,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 214,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 22
+      },
+      "retained_dead": 92,
+      "time_h": 53.0
+    },
+    {
+      "live_effectors": 848,
+      "live_targets": 232,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 212,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 19
+      },
+      "retained_dead": 90,
+      "time_h": 54.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 228,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 209,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 18
+      },
+      "retained_dead": 91,
+      "time_h": 55.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 225,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 207,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17
+      },
+      "retained_dead": 87,
+      "time_h": 56.0
+    },
+    {
+      "live_effectors": 846,
+      "live_targets": 218,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 200,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17
+      },
+      "retained_dead": 88,
+      "time_h": 57.0
+    },
+    {
+      "live_effectors": 838,
+      "live_targets": 212,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 197,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 14
+      },
+      "retained_dead": 92,
+      "time_h": 58.0
+    },
+    {
+      "live_effectors": 841,
+      "live_targets": 203,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 190,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 12
+      },
+      "retained_dead": 95,
+      "time_h": 59.0
+    },
+    {
+      "live_effectors": 846,
+      "live_targets": 202,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 189,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 12
+      },
+      "retained_dead": 95,
+      "time_h": 60.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 199,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 186,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 12
+      },
+      "retained_dead": 92,
+      "time_h": 61.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 191,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 179,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 11
+      },
+      "retained_dead": 94,
+      "time_h": 62.0
+    },
+    {
+      "live_effectors": 841,
+      "live_targets": 185,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 174,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 10
+      },
+      "retained_dead": 97,
+      "time_h": 63.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 181,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 170,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 10
+      },
+      "retained_dead": 89,
+      "time_h": 64.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 180,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 169,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 10
+      },
+      "retained_dead": 84,
+      "time_h": 65.0
+    },
+    {
+      "live_effectors": 843,
+      "live_targets": 173,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 163,
+        "tumor AgHi CytoOn primed": 10
+      },
+      "retained_dead": 84,
+      "time_h": 66.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 166,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 156,
+        "tumor AgHi CytoOn primed": 10
+      },
+      "retained_dead": 83,
+      "time_h": 67.0
+    },
+    {
+      "live_effectors": 841,
+      "live_targets": 161,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 152,
+        "tumor AgHi CytoOn primed": 9
+      },
+      "retained_dead": 82,
+      "time_h": 68.0
+    },
+    {
+      "live_effectors": 843,
+      "live_targets": 157,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 148,
+        "tumor AgHi CytoOn primed": 9
+      },
+      "retained_dead": 85,
+      "time_h": 69.0
+    },
+    {
+      "live_effectors": 843,
+      "live_targets": 154,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 145,
+        "tumor AgHi CytoOn primed": 9
+      },
+      "retained_dead": 84,
+      "time_h": 70.0
+    },
+    {
+      "live_effectors": 846,
+      "live_targets": 150,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 141,
+        "tumor AgHi CytoOn primed": 9
+      },
+      "retained_dead": 73,
+      "time_h": 71.0
+    },
+    {
+      "live_effectors": 848,
+      "live_targets": 150,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 141,
+        "tumor AgHi CytoOn primed": 9
+      },
+      "retained_dead": 68,
+      "time_h": 72.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 147,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 139,
+        "tumor AgHi CytoOn primed": 8
+      },
+      "retained_dead": 73,
+      "time_h": 73.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 138,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 131,
+        "tumor AgHi CytoOn primed": 7
+      },
+      "retained_dead": 73,
+      "time_h": 74.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 136,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 129,
+        "tumor AgHi CytoOn primed": 7
+      },
+      "retained_dead": 70,
+      "time_h": 75.0
+    },
+    {
+      "live_effectors": 849,
+      "live_targets": 131,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 124,
+        "tumor AgHi CytoOn primed": 7
+      },
+      "retained_dead": 69,
+      "time_h": 76.0
+    },
+    {
+      "live_effectors": 847,
+      "live_targets": 126,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 120,
+        "tumor AgHi CytoOn primed": 6
+      },
+      "retained_dead": 68,
+      "time_h": 77.0
+    },
+    {
+      "live_effectors": 848,
+      "live_targets": 121,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 117,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "retained_dead": 69,
+      "time_h": 78.0
+    },
+    {
+      "live_effectors": 849,
+      "live_targets": 118,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 114,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "retained_dead": 67,
+      "time_h": 79.0
+    },
+    {
+      "live_effectors": 847,
+      "live_targets": 115,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 111,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "retained_dead": 72,
+      "time_h": 80.0
+    },
+    {
+      "live_effectors": 850,
+      "live_targets": 113,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 109,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "retained_dead": 70,
+      "time_h": 81.0
+    },
+    {
+      "live_effectors": 850,
+      "live_targets": 109,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 106,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "retained_dead": 65,
+      "time_h": 82.0
+    },
+    {
+      "live_effectors": 846,
+      "live_targets": 110,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 107,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "retained_dead": 65,
+      "time_h": 83.0
+    },
+    {
+      "live_effectors": 848,
+      "live_targets": 110,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 108,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 59,
+      "time_h": 84.0
+    },
+    {
+      "live_effectors": 851,
+      "live_targets": 107,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 105,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 55,
+      "time_h": 85.0
+    },
+    {
+      "live_effectors": 850,
+      "live_targets": 107,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 105,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 51,
+      "time_h": 86.0
+    },
+    {
+      "live_effectors": 843,
+      "live_targets": 105,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 103,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 52,
+      "time_h": 87.0
+    },
+    {
+      "live_effectors": 846,
+      "live_targets": 105,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 103,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 53,
+      "time_h": 88.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 102,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 100,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 52,
+      "time_h": 89.0
+    },
+    {
+      "live_effectors": 846,
+      "live_targets": 102,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 100,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 53,
+      "time_h": 90.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 100,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 98,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "retained_dead": 54,
+      "time_h": 91.0
+    },
+    {
+      "live_effectors": 841,
+      "live_targets": 97,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 96,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "retained_dead": 58,
+      "time_h": 92.0
+    },
+    {
+      "live_effectors": 839,
+      "live_targets": 98,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 97,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "retained_dead": 59,
+      "time_h": 93.0
+    },
+    {
+      "live_effectors": 842,
+      "live_targets": 92,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 91,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "retained_dead": 61,
+      "time_h": 94.0
+    },
+    {
+      "live_effectors": 845,
+      "live_targets": 88,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 87,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "retained_dead": 65,
+      "time_h": 95.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 86,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 85,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "retained_dead": 63,
+      "time_h": 96.0
+    }
+  ],
+  "exit_code": 0,
+  "fields": null,
+  "medium": {
+    "field_time_series": [
+      {
+        "ifng": {
+          "max": 0.0,
+          "min": 0.0,
+          "volume_weighted_mean": 0.0
+        },
+        "kind": "hourly",
+        "snapshot": "output00000000.xml",
+        "time_h": 0.0,
+        "tnf": {
+          "max": 0.0,
+          "min": 0.0,
+          "volume_weighted_mean": 0.0
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.46317900731431955,
+          "min": 6.309173667247853e-08,
+          "volume_weighted_mean": 0.0042305523504020705
+        },
+        "kind": "hourly",
+        "snapshot": "output00000001.xml",
+        "time_h": 1.0,
+        "tnf": {
+          "max": 0.46317900731431955,
+          "min": 6.309173667247853e-08,
+          "volume_weighted_mean": 0.0042305523504020705
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9305666363873953,
+          "min": 0.0001788573830781027,
+          "volume_weighted_mean": 0.04281947177389492
+        },
+        "kind": "hourly",
+        "snapshot": "output00000002.xml",
+        "time_h": 2.0,
+        "tnf": {
+          "max": 0.9305666363873953,
+          "min": 0.0001788573830781027,
+          "volume_weighted_mean": 0.04281947177389492
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.982693328087369,
+          "min": 0.0031335314794251486,
+          "volume_weighted_mean": 0.0702676161529895
+        },
+        "kind": "hourly",
+        "snapshot": "output00000003.xml",
+        "time_h": 3.0,
+        "tnf": {
+          "max": 0.982693328087369,
+          "min": 0.0031335314794251486,
+          "volume_weighted_mean": 0.0702676161529895
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9923547581542193,
+          "min": 0.011016851884311929,
+          "volume_weighted_mean": 0.08271270947285152
+        },
+        "kind": "hourly",
+        "snapshot": "output00000004.xml",
+        "time_h": 4.0,
+        "tnf": {
+          "max": 0.9923547581542193,
+          "min": 0.011016851884311929,
+          "volume_weighted_mean": 0.08271270947285152
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.996582743578999,
+          "min": 0.021243811720727694,
+          "volume_weighted_mean": 0.08850597644919568
+        },
+        "kind": "hourly",
+        "snapshot": "output00000005.xml",
+        "time_h": 5.0,
+        "tnf": {
+          "max": 0.996582743578999,
+          "min": 0.021243811720727694,
+          "volume_weighted_mean": 0.08850597644919568
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9978563935542212,
+          "min": 0.031435028568930865,
+          "volume_weighted_mean": 0.09096625370115033
+        },
+        "kind": "hourly",
+        "snapshot": "output00000006.xml",
+        "time_h": 6.0,
+        "tnf": {
+          "max": 0.9978563935542212,
+          "min": 0.031435028568930865,
+          "volume_weighted_mean": 0.09096625370115033
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9946617892063105,
+          "min": 0.04071808345532189,
+          "volume_weighted_mean": 0.09288644146055328
+        },
+        "kind": "hourly",
+        "snapshot": "output00000007.xml",
+        "time_h": 7.0,
+        "tnf": {
+          "max": 0.9946617892063105,
+          "min": 0.04071808345532189,
+          "volume_weighted_mean": 0.09288644146055328
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9683392758286469,
+          "min": 0.04887443932742092,
+          "volume_weighted_mean": 0.09622377767819836
+        },
+        "kind": "hourly",
+        "snapshot": "output00000008.xml",
+        "time_h": 8.0,
+        "tnf": {
+          "max": 0.9683392758286469,
+          "min": 0.04887443932742092,
+          "volume_weighted_mean": 0.09622377767819836
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9354542693135776,
+          "min": 0.05606643505047219,
+          "volume_weighted_mean": 0.10135888104005557
+        },
+        "kind": "hourly",
+        "snapshot": "output00000009.xml",
+        "time_h": 9.0,
+        "tnf": {
+          "max": 0.9354542693135776,
+          "min": 0.05606643505047219,
+          "volume_weighted_mean": 0.10135888104005557
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9133473196777259,
+          "min": 0.06271460722777437,
+          "volume_weighted_mean": 0.1074409673622532
+        },
+        "kind": "hourly",
+        "snapshot": "output00000010.xml",
+        "time_h": 10.0,
+        "tnf": {
+          "max": 0.9133473196777259,
+          "min": 0.06271460722777437,
+          "volume_weighted_mean": 0.1074409673622532
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8775565163948842,
+          "min": 0.06919349325636262,
+          "volume_weighted_mean": 0.11527411523775825
+        },
+        "kind": "hourly",
+        "snapshot": "output00000011.xml",
+        "time_h": 11.0,
+        "tnf": {
+          "max": 0.8775565163948842,
+          "min": 0.06919349325636262,
+          "volume_weighted_mean": 0.11527411523775825
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9150622412670014,
+          "min": 0.0757042628727763,
+          "volume_weighted_mean": 0.12337491876474044
+        },
+        "kind": "hourly",
+        "snapshot": "output00000012.xml",
+        "time_h": 12.0,
+        "tnf": {
+          "max": 0.9150622412670014,
+          "min": 0.0757042628727763,
+          "volume_weighted_mean": 0.12337491876474044
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8572523981998116,
+          "min": 0.08249185013528193,
+          "volume_weighted_mean": 0.13259695695539267
+        },
+        "kind": "hourly",
+        "snapshot": "output00000013.xml",
+        "time_h": 13.0,
+        "tnf": {
+          "max": 0.8572523981998116,
+          "min": 0.08249185013528193,
+          "volume_weighted_mean": 0.13259695695539267
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8973288370860717,
+          "min": 0.08959819543009193,
+          "volume_weighted_mean": 0.14120974513610132
+        },
+        "kind": "hourly",
+        "snapshot": "output00000014.xml",
+        "time_h": 14.0,
+        "tnf": {
+          "max": 0.8973288370860717,
+          "min": 0.08959819543009193,
+          "volume_weighted_mean": 0.14120974513610132
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.9152906387144529,
+          "min": 0.09702052713228193,
+          "volume_weighted_mean": 0.1491978754110321
+        },
+        "kind": "hourly",
+        "snapshot": "output00000015.xml",
+        "time_h": 15.0,
+        "tnf": {
+          "max": 0.9152906387144529,
+          "min": 0.09702052713228193,
+          "volume_weighted_mean": 0.1491978754110321
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8134659816539994,
+          "min": 0.10460468604470315,
+          "volume_weighted_mean": 0.1543937625028898
+        },
+        "kind": "hourly",
+        "snapshot": "output00000016.xml",
+        "time_h": 16.0,
+        "tnf": {
+          "max": 0.8134659816539994,
+          "min": 0.10460468604470315,
+          "volume_weighted_mean": 0.1543937625028898
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7892237966343902,
+          "min": 0.11212541225127673,
+          "volume_weighted_mean": 0.157668058461489
+        },
+        "kind": "hourly",
+        "snapshot": "output00000017.xml",
+        "time_h": 17.0,
+        "tnf": {
+          "max": 0.7892237966343902,
+          "min": 0.11212541225127673,
+          "volume_weighted_mean": 0.157668058461489
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7910789408131155,
+          "min": 0.11917719017138936,
+          "volume_weighted_mean": 0.160078317141276
+        },
+        "kind": "hourly",
+        "snapshot": "output00000018.xml",
+        "time_h": 18.0,
+        "tnf": {
+          "max": 0.7910789408131155,
+          "min": 0.11917719017138936,
+          "volume_weighted_mean": 0.160078317141276
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7520140784508231,
+          "min": 0.12558881475862557,
+          "volume_weighted_mean": 0.1636291776359411
+        },
+        "kind": "hourly",
+        "snapshot": "output00000019.xml",
+        "time_h": 19.0,
+        "tnf": {
+          "max": 0.7520140784508231,
+          "min": 0.12558881475862557,
+          "volume_weighted_mean": 0.1636291776359411
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7757528146172683,
+          "min": 0.13140610269523073,
+          "volume_weighted_mean": 0.1661843616196642
+        },
+        "kind": "hourly",
+        "snapshot": "output00000020.xml",
+        "time_h": 20.0,
+        "tnf": {
+          "max": 0.7757528146172683,
+          "min": 0.13140610269523073,
+          "volume_weighted_mean": 0.1661843616196642
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8418727207461218,
+          "min": 0.13677405621125374,
+          "volume_weighted_mean": 0.16806270721616437
+        },
+        "kind": "hourly",
+        "snapshot": "output00000021.xml",
+        "time_h": 21.0,
+        "tnf": {
+          "max": 0.8418727207461218,
+          "min": 0.13677405621125374,
+          "volume_weighted_mean": 0.16806270721616437
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7714546579713341,
+          "min": 0.14164582742375198,
+          "volume_weighted_mean": 0.17136025014239378
+        },
+        "kind": "hourly",
+        "snapshot": "output00000022.xml",
+        "time_h": 22.0,
+        "tnf": {
+          "max": 0.7714546579713341,
+          "min": 0.14164582742375198,
+          "volume_weighted_mean": 0.17136025014239378
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.857430735100779,
+          "min": 0.14606744898202986,
+          "volume_weighted_mean": 0.1741402773325627
+        },
+        "kind": "hourly",
+        "snapshot": "output00000023.xml",
+        "time_h": 23.0,
+        "tnf": {
+          "max": 0.857430735100779,
+          "min": 0.14606744898202986,
+          "volume_weighted_mean": 0.1741402773325627
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8062344319708313,
+          "min": 0.15026791780707818,
+          "volume_weighted_mean": 0.1754737716410162
+        },
+        "kind": "hourly",
+        "snapshot": "output00000024.xml",
+        "time_h": 24.0,
+        "tnf": {
+          "max": 0.8062344319708313,
+          "min": 0.15026791780707818,
+          "volume_weighted_mean": 0.1754737716410162
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5459222190709189,
+          "min": 0.15418323259023498,
+          "volume_weighted_mean": 0.17434236592433594
+        },
+        "kind": "hourly",
+        "snapshot": "output00000025.xml",
+        "time_h": 25.0,
+        "tnf": {
+          "max": 0.5459222190709189,
+          "min": 0.15418323259023498,
+          "volume_weighted_mean": 0.17434236592433594
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5253761947039867,
+          "min": 0.15758141488310431,
+          "volume_weighted_mean": 0.1731392897630906
+        },
+        "kind": "hourly",
+        "snapshot": "output00000026.xml",
+        "time_h": 26.0,
+        "tnf": {
+          "max": 0.5253761947039867,
+          "min": 0.15758141488310431,
+          "volume_weighted_mean": 0.1731392897630906
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7054975033203703,
+          "min": 0.16028493399000102,
+          "volume_weighted_mean": 0.17296626808569188
+        },
+        "kind": "hourly",
+        "snapshot": "output00000027.xml",
+        "time_h": 27.0,
+        "tnf": {
+          "max": 0.7054975033203703,
+          "min": 0.16028493399000102,
+          "volume_weighted_mean": 0.17296626808569188
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7866029767174604,
+          "min": 0.1623949131536086,
+          "volume_weighted_mean": 0.17381730421638433
+        },
+        "kind": "hourly",
+        "snapshot": "output00000028.xml",
+        "time_h": 28.0,
+        "tnf": {
+          "max": 0.7866029767174604,
+          "min": 0.1623949131536086,
+          "volume_weighted_mean": 0.17381730421638433
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5197224031653325,
+          "min": 0.16415747319968174,
+          "volume_weighted_mean": 0.17439267358135305
+        },
+        "kind": "hourly",
+        "snapshot": "output00000029.xml",
+        "time_h": 29.0,
+        "tnf": {
+          "max": 0.5197224031653325,
+          "min": 0.16415747319968174,
+          "volume_weighted_mean": 0.17439267358135305
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5925646074625108,
+          "min": 0.16575591410219734,
+          "volume_weighted_mean": 0.17530417889721203
+        },
+        "kind": "hourly",
+        "snapshot": "output00000030.xml",
+        "time_h": 30.0,
+        "tnf": {
+          "max": 0.5925646074625108,
+          "min": 0.16575591410219734,
+          "volume_weighted_mean": 0.17530417889721203
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7975565906580072,
+          "min": 0.16720936474954934,
+          "volume_weighted_mean": 0.17848014578041987
+        },
+        "kind": "hourly",
+        "snapshot": "output00000031.xml",
+        "time_h": 31.0,
+        "tnf": {
+          "max": 0.7975565906580072,
+          "min": 0.16720936474954934,
+          "volume_weighted_mean": 0.17848014578041987
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8338792655745059,
+          "min": 0.1686732563029631,
+          "volume_weighted_mean": 0.18285106213473432
+        },
+        "kind": "hourly",
+        "snapshot": "output00000032.xml",
+        "time_h": 32.0,
+        "tnf": {
+          "max": 0.8338792655745059,
+          "min": 0.1686732563029631,
+          "volume_weighted_mean": 0.18285106213473432
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8455803145893258,
+          "min": 0.17042761091089456,
+          "volume_weighted_mean": 0.18784485605628823
+        },
+        "kind": "hourly",
+        "snapshot": "output00000033.xml",
+        "time_h": 33.0,
+        "tnf": {
+          "max": 0.8455803145893258,
+          "min": 0.17042761091089456,
+          "volume_weighted_mean": 0.18784485605628823
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.8141436681190724,
+          "min": 0.17263238034218054,
+          "volume_weighted_mean": 0.19338605745799556
+        },
+        "kind": "hourly",
+        "snapshot": "output00000034.xml",
+        "time_h": 34.0,
+        "tnf": {
+          "max": 0.8141436681190724,
+          "min": 0.17263238034218054,
+          "volume_weighted_mean": 0.19338605745799556
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6462056426311433,
+          "min": 0.17534041083350196,
+          "volume_weighted_mean": 0.19554192240903873
+        },
+        "kind": "hourly",
+        "snapshot": "output00000035.xml",
+        "time_h": 35.0,
+        "tnf": {
+          "max": 0.6462056426311433,
+          "min": 0.17534041083350196,
+          "volume_weighted_mean": 0.19554192240903873
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6544027515417378,
+          "min": 0.17839664331543376,
+          "volume_weighted_mean": 0.1958672436146321
+        },
+        "kind": "hourly",
+        "snapshot": "output00000036.xml",
+        "time_h": 36.0,
+        "tnf": {
+          "max": 0.6544027515417378,
+          "min": 0.17839664331543376,
+          "volume_weighted_mean": 0.1958672436146321
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6088531386863225,
+          "min": 0.18126969879727772,
+          "volume_weighted_mean": 0.1959453158564229
+        },
+        "kind": "hourly",
+        "snapshot": "output00000037.xml",
+        "time_h": 37.0,
+        "tnf": {
+          "max": 0.6088531386863225,
+          "min": 0.18126969879727772,
+          "volume_weighted_mean": 0.1959453158564229
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4537934991179448,
+          "min": 0.18370561396674187,
+          "volume_weighted_mean": 0.1953866306319554
+        },
+        "kind": "hourly",
+        "snapshot": "output00000038.xml",
+        "time_h": 38.0,
+        "tnf": {
+          "max": 0.4537934991179448,
+          "min": 0.18370561396674187,
+          "volume_weighted_mean": 0.1953866306319554
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.45521522894115823,
+          "min": 0.18572817055198865,
+          "volume_weighted_mean": 0.19459126090034828
+        },
+        "kind": "hourly",
+        "snapshot": "output00000039.xml",
+        "time_h": 39.0,
+        "tnf": {
+          "max": 0.45521522894115823,
+          "min": 0.18572817055198865,
+          "volume_weighted_mean": 0.19459126090034828
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5537725602336887,
+          "min": 0.1872932542548008,
+          "volume_weighted_mean": 0.1946032606432818
+        },
+        "kind": "hourly",
+        "snapshot": "output00000040.xml",
+        "time_h": 40.0,
+        "tnf": {
+          "max": 0.5537725602336887,
+          "min": 0.1872932542548008,
+          "volume_weighted_mean": 0.1946032606432818
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.615773404527587,
+          "min": 0.18850336145321353,
+          "volume_weighted_mean": 0.1956562613215438
+        },
+        "kind": "hourly",
+        "snapshot": "output00000041.xml",
+        "time_h": 41.0,
+        "tnf": {
+          "max": 0.615773404527587,
+          "min": 0.18850336145321353,
+          "volume_weighted_mean": 0.1956562613215438
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.48937862046885044,
+          "min": 0.18954592157367778,
+          "volume_weighted_mean": 0.19600476067511766
+        },
+        "kind": "hourly",
+        "snapshot": "output00000042.xml",
+        "time_h": 42.0,
+        "tnf": {
+          "max": 0.48937862046885044,
+          "min": 0.18954592157367778,
+          "volume_weighted_mean": 0.19600476067511766
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5304661241943567,
+          "min": 0.19054716981005815,
+          "volume_weighted_mean": 0.19754623532295398
+        },
+        "kind": "hourly",
+        "snapshot": "output00000043.xml",
+        "time_h": 43.0,
+        "tnf": {
+          "max": 0.5304661241943567,
+          "min": 0.19054716981005815,
+          "volume_weighted_mean": 0.19754623532295398
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7447972110696066,
+          "min": 0.19153869692288625,
+          "volume_weighted_mean": 0.1993477724116316
+        },
+        "kind": "hourly",
+        "snapshot": "output00000044.xml",
+        "time_h": 44.0,
+        "tnf": {
+          "max": 0.7447972110696066,
+          "min": 0.19153869692288625,
+          "volume_weighted_mean": 0.1993477724116316
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6934191713138985,
+          "min": 0.19259140652085063,
+          "volume_weighted_mean": 0.20278247705649888
+        },
+        "kind": "hourly",
+        "snapshot": "output00000045.xml",
+        "time_h": 45.0,
+        "tnf": {
+          "max": 0.6934191713138985,
+          "min": 0.19259140652085063,
+          "volume_weighted_mean": 0.20278247705649888
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.652160833100375,
+          "min": 0.19383138391136848,
+          "volume_weighted_mean": 0.2051963192783933
+        },
+        "kind": "hourly",
+        "snapshot": "output00000046.xml",
+        "time_h": 46.0,
+        "tnf": {
+          "max": 0.652160833100375,
+          "min": 0.19383138391136848,
+          "volume_weighted_mean": 0.2051963192783933
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6197032343800649,
+          "min": 0.1953755640834534,
+          "volume_weighted_mean": 0.2066441321538609
+        },
+        "kind": "hourly",
+        "snapshot": "output00000047.xml",
+        "time_h": 47.0,
+        "tnf": {
+          "max": 0.6197032343800649,
+          "min": 0.1953755640834534,
+          "volume_weighted_mean": 0.2066441321538609
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7188091358720943,
+          "min": 0.19707007147432462,
+          "volume_weighted_mean": 0.2075654114445765
+        },
+        "kind": "hourly",
+        "snapshot": "output00000048.xml",
+        "time_h": 48.0,
+        "tnf": {
+          "max": 0.7188091358720943,
+          "min": 0.19707007147432462,
+          "volume_weighted_mean": 0.2075654114445765
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6603835452608333,
+          "min": 0.19869836487542705,
+          "volume_weighted_mean": 0.20879879028338527
+        },
+        "kind": "hourly",
+        "snapshot": "output00000049.xml",
+        "time_h": 49.0,
+        "tnf": {
+          "max": 0.6603835452608333,
+          "min": 0.19869836487542705,
+          "volume_weighted_mean": 0.20879879028338527
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.48204107839614757,
+          "min": 0.20020197846466928,
+          "volume_weighted_mean": 0.20926716399173098
+        },
+        "kind": "hourly",
+        "snapshot": "output00000050.xml",
+        "time_h": 50.0,
+        "tnf": {
+          "max": 0.48204107839614757,
+          "min": 0.20020197846466928,
+          "volume_weighted_mean": 0.20926716399173098
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2466466251749927,
+          "min": 0.20163159311098372,
+          "volume_weighted_mean": 0.20815094730172096
+        },
+        "kind": "hourly",
+        "snapshot": "output00000051.xml",
+        "time_h": 51.0,
+        "tnf": {
+          "max": 0.2466466251749927,
+          "min": 0.20163159311098372,
+          "volume_weighted_mean": 0.20815094730172096
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4680222920155946,
+          "min": 0.2028314443418694,
+          "volume_weighted_mean": 0.20734446274091214
+        },
+        "kind": "hourly",
+        "snapshot": "output00000052.xml",
+        "time_h": 52.0,
+        "tnf": {
+          "max": 0.4680222920155946,
+          "min": 0.2028314443418694,
+          "volume_weighted_mean": 0.20734446274091214
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6411006451865316,
+          "min": 0.20367554230916501,
+          "volume_weighted_mean": 0.2082706265706916
+        },
+        "kind": "hourly",
+        "snapshot": "output00000053.xml",
+        "time_h": 53.0,
+        "tnf": {
+          "max": 0.6411006451865316,
+          "min": 0.20367554230916501,
+          "volume_weighted_mean": 0.2082706265706916
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4961488289945805,
+          "min": 0.2043262079323572,
+          "volume_weighted_mean": 0.2093161750402226
+        },
+        "kind": "hourly",
+        "snapshot": "output00000054.xml",
+        "time_h": 54.0,
+        "tnf": {
+          "max": 0.4961488289945805,
+          "min": 0.2043262079323572,
+          "volume_weighted_mean": 0.2093161750402226
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6290994056991156,
+          "min": 0.2049997785240416,
+          "volume_weighted_mean": 0.2093311744185319
+        },
+        "kind": "hourly",
+        "snapshot": "output00000055.xml",
+        "time_h": 55.0,
+        "tnf": {
+          "max": 0.6290994056991156,
+          "min": 0.2049997785240416,
+          "volume_weighted_mean": 0.2093311744185319
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6717214553204989,
+          "min": 0.20568474228862546,
+          "volume_weighted_mean": 0.20989148024372378
+        },
+        "kind": "hourly",
+        "snapshot": "output00000056.xml",
+        "time_h": 56.0,
+        "tnf": {
+          "max": 0.6717214553204989,
+          "min": 0.20568474228862546,
+          "volume_weighted_mean": 0.20989148024372378
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7953827313588496,
+          "min": 0.20631358382238957,
+          "volume_weighted_mean": 0.21162380181900706
+        },
+        "kind": "hourly",
+        "snapshot": "output00000057.xml",
+        "time_h": 57.0,
+        "tnf": {
+          "max": 0.7953827313588496,
+          "min": 0.20631358382238957,
+          "volume_weighted_mean": 0.21162380181900706
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6407453480539265,
+          "min": 0.20697353790330023,
+          "volume_weighted_mean": 0.2133361687244241
+        },
+        "kind": "hourly",
+        "snapshot": "output00000058.xml",
+        "time_h": 58.0,
+        "tnf": {
+          "max": 0.6407453480539265,
+          "min": 0.20697353790330023,
+          "volume_weighted_mean": 0.2133361687244241
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.29393709530246476,
+          "min": 0.20781986268746525,
+          "volume_weighted_mean": 0.21320688082197156
+        },
+        "kind": "hourly",
+        "snapshot": "output00000059.xml",
+        "time_h": 59.0,
+        "tnf": {
+          "max": 0.29393709530246476,
+          "min": 0.20781986268746525,
+          "volume_weighted_mean": 0.21320688082197156
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.3217029715812569,
+          "min": 0.20873126537225514,
+          "volume_weighted_mean": 0.21238100065441756
+        },
+        "kind": "hourly",
+        "snapshot": "output00000060.xml",
+        "time_h": 60.0,
+        "tnf": {
+          "max": 0.3217029715812569,
+          "min": 0.20873126537225514,
+          "volume_weighted_mean": 0.21238100065441756
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4980797506318145,
+          "min": 0.2094502899069317,
+          "volume_weighted_mean": 0.21215992588142402
+        },
+        "kind": "hourly",
+        "snapshot": "output00000061.xml",
+        "time_h": 61.0,
+        "tnf": {
+          "max": 0.4980797506318145,
+          "min": 0.2094502899069317,
+          "volume_weighted_mean": 0.21215992588142402
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.3705636276876283,
+          "min": 0.20995416591566896,
+          "volume_weighted_mean": 0.21222286184912417
+        },
+        "kind": "hourly",
+        "snapshot": "output00000062.xml",
+        "time_h": 62.0,
+        "tnf": {
+          "max": 0.3705636276876283,
+          "min": 0.20995416591566896,
+          "volume_weighted_mean": 0.21222286184912417
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.22180160437574029,
+          "min": 0.2103265593404952,
+          "volume_weighted_mean": 0.211915297460938
+        },
+        "kind": "hourly",
+        "snapshot": "output00000063.xml",
+        "time_h": 63.0,
+        "tnf": {
+          "max": 0.22180160437574029,
+          "min": 0.2103265593404952,
+          "volume_weighted_mean": 0.211915297460938
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2157672699789253,
+          "min": 0.21061948816008158,
+          "volume_weighted_mean": 0.21163232790803427
+        },
+        "kind": "hourly",
+        "snapshot": "output00000064.xml",
+        "time_h": 64.0,
+        "tnf": {
+          "max": 0.2157672699789253,
+          "min": 0.21061948816008158,
+          "volume_weighted_mean": 0.21163232790803427
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4057610911590574,
+          "min": 0.21082062629234827,
+          "volume_weighted_mean": 0.21149434229115377
+        },
+        "kind": "hourly",
+        "snapshot": "output00000065.xml",
+        "time_h": 65.0,
+        "tnf": {
+          "max": 0.4057610911590574,
+          "min": 0.21082062629234827,
+          "volume_weighted_mean": 0.21149434229115377
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4401043420290353,
+          "min": 0.21094953642274547,
+          "volume_weighted_mean": 0.2118030542542403
+        },
+        "kind": "hourly",
+        "snapshot": "output00000066.xml",
+        "time_h": 66.0,
+        "tnf": {
+          "max": 0.4401043420290353,
+          "min": 0.21094953642274547,
+          "volume_weighted_mean": 0.2118030542542403
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4582975811670608,
+          "min": 0.21105752296415903,
+          "volume_weighted_mean": 0.2121136778795399
+        },
+        "kind": "hourly",
+        "snapshot": "output00000067.xml",
+        "time_h": 67.0,
+        "tnf": {
+          "max": 0.4582975811670608,
+          "min": 0.21105752296415903,
+          "volume_weighted_mean": 0.2121136778795399
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.28560002976797577,
+          "min": 0.21118331905602464,
+          "volume_weighted_mean": 0.2125066448709681
+        },
+        "kind": "hourly",
+        "snapshot": "output00000068.xml",
+        "time_h": 68.0,
+        "tnf": {
+          "max": 0.28560002976797577,
+          "min": 0.21118331905602464,
+          "volume_weighted_mean": 0.2125066448709681
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.21902111775474647,
+          "min": 0.21134465881421005,
+          "volume_weighted_mean": 0.21234932771860532
+        },
+        "kind": "hourly",
+        "snapshot": "output00000069.xml",
+        "time_h": 69.0,
+        "tnf": {
+          "max": 0.21902111775474647,
+          "min": 0.21134465881421005,
+          "volume_weighted_mean": 0.21234932771860532
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.215040437255349,
+          "min": 0.21152387083119403,
+          "volume_weighted_mean": 0.21218076427702334
+        },
+        "kind": "hourly",
+        "snapshot": "output00000070.xml",
+        "time_h": 70.0,
+        "tnf": {
+          "max": 0.215040437255349,
+          "min": 0.21152387083119403,
+          "volume_weighted_mean": 0.21218076427702334
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2135895596001691,
+          "min": 0.21166135973591266,
+          "volume_weighted_mean": 0.21206207648620695
+        },
+        "kind": "hourly",
+        "snapshot": "output00000071.xml",
+        "time_h": 71.0,
+        "tnf": {
+          "max": 0.2135895596001691,
+          "min": 0.21166135973591266,
+          "volume_weighted_mean": 0.21206207648620695
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.21285873340627515,
+          "min": 0.2117471637198766,
+          "volume_weighted_mean": 0.21198707870079436
+        },
+        "kind": "hourly",
+        "snapshot": "output00000072.xml",
+        "time_h": 72.0,
+        "tnf": {
+          "max": 0.21285873340627515,
+          "min": 0.2117471637198766,
+          "volume_weighted_mean": 0.21198707870079436
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.21244954137237285,
+          "min": 0.2117981767169188,
+          "volume_weighted_mean": 0.21194136097008734
+        },
+        "kind": "hourly",
+        "snapshot": "output00000073.xml",
+        "time_h": 73.0,
+        "tnf": {
+          "max": 0.21244954137237285,
+          "min": 0.2117981767169188,
+          "volume_weighted_mean": 0.21194136097008734
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2122134947976231,
+          "min": 0.21182846654320087,
+          "volume_weighted_mean": 0.2119138250783775
+        },
+        "kind": "hourly",
+        "snapshot": "output00000074.xml",
+        "time_h": 74.0,
+        "tnf": {
+          "max": 0.2122134947976231,
+          "min": 0.21182846654320087,
+          "volume_weighted_mean": 0.2119138250783775
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.28654451507659207,
+          "min": 0.21184641414609398,
+          "volume_weighted_mean": 0.21199095010167526
+        },
+        "kind": "hourly",
+        "snapshot": "output00000075.xml",
+        "time_h": 75.0,
+        "tnf": {
+          "max": 0.28654451507659207,
+          "min": 0.21184641414609398,
+          "volume_weighted_mean": 0.21199095010167526
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6820018348058663,
+          "min": 0.21186003464476785,
+          "volume_weighted_mean": 0.2129386684421488
+        },
+        "kind": "hourly",
+        "snapshot": "output00000076.xml",
+        "time_h": 76.0,
+        "tnf": {
+          "max": 0.6820018348058663,
+          "min": 0.21186003464476785,
+          "volume_weighted_mean": 0.2129386684421488
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7156904834271688,
+          "min": 0.21190334512158873,
+          "volume_weighted_mean": 0.21469276793475062
+        },
+        "kind": "hourly",
+        "snapshot": "output00000077.xml",
+        "time_h": 77.0,
+        "tnf": {
+          "max": 0.7156904834271688,
+          "min": 0.21190334512158873,
+          "volume_weighted_mean": 0.21469276793475062
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5033900144689192,
+          "min": 0.21210983871763353,
+          "volume_weighted_mean": 0.21630946487069413
+        },
+        "kind": "hourly",
+        "snapshot": "output00000078.xml",
+        "time_h": 78.0,
+        "tnf": {
+          "max": 0.5033900144689192,
+          "min": 0.21210983871763353,
+          "volume_weighted_mean": 0.21630946487069413
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.24452516461953688,
+          "min": 0.21257190802067177,
+          "volume_weighted_mean": 0.21601449746383825
+        },
+        "kind": "hourly",
+        "snapshot": "output00000079.xml",
+        "time_h": 79.0,
+        "tnf": {
+          "max": 0.24452516461953688,
+          "min": 0.21257190802067177,
+          "volume_weighted_mean": 0.21601449746383825
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.4070740165037889,
+          "min": 0.21316473103896172,
+          "volume_weighted_mean": 0.2155354308946578
+        },
+        "kind": "hourly",
+        "snapshot": "output00000080.xml",
+        "time_h": 80.0,
+        "tnf": {
+          "max": 0.4070740165037889,
+          "min": 0.21316473103896172,
+          "volume_weighted_mean": 0.2155354308946578
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6088350770767336,
+          "min": 0.21364797583488204,
+          "volume_weighted_mean": 0.215960998357561
+        },
+        "kind": "hourly",
+        "snapshot": "output00000081.xml",
+        "time_h": 81.0,
+        "tnf": {
+          "max": 0.6088350770767336,
+          "min": 0.21364797583488204,
+          "volume_weighted_mean": 0.215960998357561
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.6533921059485791,
+          "min": 0.21400900251226065,
+          "volume_weighted_mean": 0.21749871347550764
+        },
+        "kind": "hourly",
+        "snapshot": "output00000082.xml",
+        "time_h": 82.0,
+        "tnf": {
+          "max": 0.6533921059485791,
+          "min": 0.21400900251226065,
+          "volume_weighted_mean": 0.21749871347550764
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.7301521805541473,
+          "min": 0.21440109386590478,
+          "volume_weighted_mean": 0.2182951452073815
+        },
+        "kind": "hourly",
+        "snapshot": "output00000083.xml",
+        "time_h": 83.0,
+        "tnf": {
+          "max": 0.7301521805541473,
+          "min": 0.21440109386590478,
+          "volume_weighted_mean": 0.2182951452073815
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.3351125254875412,
+          "min": 0.21493369737186407,
+          "volume_weighted_mean": 0.218660906568146
+        },
+        "kind": "hourly",
+        "snapshot": "output00000084.xml",
+        "time_h": 84.0,
+        "tnf": {
+          "max": 0.3351125254875412,
+          "min": 0.21493369737186407,
+          "volume_weighted_mean": 0.218660906568146
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.23265656150174244,
+          "min": 0.21550525441944296,
+          "volume_weighted_mean": 0.21813547532086996
+        },
+        "kind": "hourly",
+        "snapshot": "output00000085.xml",
+        "time_h": 85.0,
+        "tnf": {
+          "max": 0.23265656150174244,
+          "min": 0.21550525441944296,
+          "volume_weighted_mean": 0.21813547532086996
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.22446385112583817,
+          "min": 0.21600021784209408,
+          "volume_weighted_mean": 0.2176741526189079
+        },
+        "kind": "hourly",
+        "snapshot": "output00000086.xml",
+        "time_h": 86.0,
+        "tnf": {
+          "max": 0.22446385112583817,
+          "min": 0.21600021784209408,
+          "volume_weighted_mean": 0.2176741526189079
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2211235098291685,
+          "min": 0.21634377201525404,
+          "volume_weighted_mean": 0.21736300108460171
+        },
+        "kind": "hourly",
+        "snapshot": "output00000087.xml",
+        "time_h": 87.0,
+        "tnf": {
+          "max": 0.2211235098291685,
+          "min": 0.21634377201525404,
+          "volume_weighted_mean": 0.21736300108460171
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.21935158598263613,
+          "min": 0.21655748366399258,
+          "volume_weighted_mean": 0.2171690167997582
+        },
+        "kind": "hourly",
+        "snapshot": "output00000088.xml",
+        "time_h": 88.0,
+        "tnf": {
+          "max": 0.21935158598263613,
+          "min": 0.21655748366399258,
+          "volume_weighted_mean": 0.2171690167997582
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.21833709232535645,
+          "min": 0.21668601643156968,
+          "volume_weighted_mean": 0.21705128900493378
+        },
+        "kind": "hourly",
+        "snapshot": "output00000089.xml",
+        "time_h": 89.0,
+        "tnf": {
+          "max": 0.21833709232535645,
+          "min": 0.21668601643156968,
+          "volume_weighted_mean": 0.21705128900493378
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.217745132072014,
+          "min": 0.2167625002672672,
+          "volume_weighted_mean": 0.21698048632016653
+        },
+        "kind": "hourly",
+        "snapshot": "output00000090.xml",
+        "time_h": 90.0,
+        "tnf": {
+          "max": 0.217745132072014,
+          "min": 0.2167625002672672,
+          "volume_weighted_mean": 0.21698048632016653
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.3676976779616144,
+          "min": 0.21680790357644625,
+          "volume_weighted_mean": 0.2169727829631204
+        },
+        "kind": "hourly",
+        "snapshot": "output00000091.xml",
+        "time_h": 91.0,
+        "tnf": {
+          "max": 0.3676976779616144,
+          "min": 0.21680790357644625,
+          "volume_weighted_mean": 0.2169727829631204
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.5866703883260214,
+          "min": 0.21683645740376414,
+          "volume_weighted_mean": 0.21792764457952005
+        },
+        "kind": "hourly",
+        "snapshot": "output00000092.xml",
+        "time_h": 92.0,
+        "tnf": {
+          "max": 0.5866703883260214,
+          "min": 0.21683645740376414,
+          "volume_weighted_mean": 0.21792764457952005
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2560995274198845,
+          "min": 0.21689169857992321,
+          "volume_weighted_mean": 0.21833796491578195
+        },
+        "kind": "hourly",
+        "snapshot": "output00000093.xml",
+        "time_h": 93.0,
+        "tnf": {
+          "max": 0.2560995274198845,
+          "min": 0.21689169857992321,
+          "volume_weighted_mean": 0.21833796491578195
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.22472923460205713,
+          "min": 0.21705918798792279,
+          "volume_weighted_mean": 0.21815116209285423
+        },
+        "kind": "hourly",
+        "snapshot": "output00000094.xml",
+        "time_h": 94.0,
+        "tnf": {
+          "max": 0.22472923460205713,
+          "min": 0.21705918798792279,
+          "volume_weighted_mean": 0.21815116209285423
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.22100327755006122,
+          "min": 0.2172645694003994,
+          "volume_weighted_mean": 0.21796741806121037
+        },
+        "kind": "hourly",
+        "snapshot": "output00000095.xml",
+        "time_h": 95.0,
+        "tnf": {
+          "max": 0.22100327755006122,
+          "min": 0.2172645694003994,
+          "volume_weighted_mean": 0.21796741806121037
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.2194753880526509,
+          "min": 0.21741360925629608,
+          "volume_weighted_mean": 0.21783971379779873
+        },
+        "kind": "hourly",
+        "snapshot": "output00000096.xml",
+        "time_h": 96.0,
+        "tnf": {
+          "max": 0.2194753880526509,
+          "min": 0.21741360925629608,
+          "volume_weighted_mean": 0.21783971379779873
+        }
+      },
+      {
+        "ifng": {
+          "max": 0.21947521318439828,
+          "min": 0.2174136287609423,
+          "volume_weighted_mean": 0.21783969693444877
+        },
+        "kind": "post_loop_terminal",
+        "snapshot": "final.xml",
+        "time_h": 96.00016666666667,
+        "tnf": {
+          "max": 0.21947521318439828,
+          "min": 0.2174136287609423,
+          "volume_weighted_mean": 0.21783969693444877
+        }
+      }
+    ],
+    "hourly_frame_count": 97,
+    "interpretation": "Conservative transport and saved-output checks. Numbered frames end at96h; final.xml follows one diffusion step later and is independently audited, not used as the96h figure frame. No biological validation implied.",
+    "passed": true,
+    "species": {
+      "ifng": {
+        "hourly_rows": 97,
+        "last_hourly": {
+          "balance_residual": 0.02061784267425537,
+          "domain_amount": 376427025.4425962,
+          "external_net_export": 0.0,
+          "max_abs_residual": 0.02061784267425537,
+          "native_net_change": 752154364.8602068,
+          "reservoir_amount": 375727339.43822855,
+          "reservoir_concentration": 0.21743480291564152,
+          "reservoir_decay_loss": 0.0,
+          "time_min": 5760.000000079307
+        },
+        "ledger_rows": 98,
+        "max_relative_residual": 2.741171707575695e-11,
+        "post_loop_terminal_rows": 1,
+        "terminal": {
+          "balance_residual": 0.02061784267425537,
+          "domain_amount": 376426996.30272746,
+          "external_net_export": 0.0,
+          "max_abs_residual": 0.02061784267425537,
+          "native_net_change": 752154364.8602078,
+          "reservoir_amount": 375727368.5780982,
+          "reservoir_concentration": 0.217434819778992,
+          "reservoir_decay_loss": 0.0,
+          "time_min": 5760.010000079307
+        }
+      },
+      "tnf": {
+        "hourly_rows": 97,
+        "last_hourly": {
+          "balance_residual": 0.02061784267425537,
+          "domain_amount": 376427025.4425962,
+          "external_net_export": 0.0,
+          "max_abs_residual": 0.02061784267425537,
+          "native_net_change": 752154364.8602068,
+          "reservoir_amount": 375727339.43822855,
+          "reservoir_concentration": 0.21743480291564152,
+          "reservoir_decay_loss": 0.0,
+          "time_min": 5760.000000079307
+        },
+        "ledger_rows": 98,
+        "max_relative_residual": 2.741171707575695e-11,
+        "post_loop_terminal_rows": 1,
+        "terminal": {
+          "balance_residual": 0.02061784267425537,
+          "domain_amount": 376426996.30272746,
+          "external_net_export": 0.0,
+          "max_abs_residual": 0.02061784267425537,
+          "native_net_change": 752154364.8602078,
+          "reservoir_amount": 375727368.5780982,
+          "reservoir_concentration": 0.217434819778992,
+          "reservoir_decay_loss": 0.0,
+          "time_min": 5760.010000079307
+        }
+      }
+    },
+    "terminal_time_min": 5760.01,
+    "validator_version": 2
+  }
+}

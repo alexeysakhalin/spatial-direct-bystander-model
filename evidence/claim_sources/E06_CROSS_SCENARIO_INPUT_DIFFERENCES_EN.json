@@ -1,0 +1,2630 @@
+[
+  {
+    "ratio": 2,
+    "seed": 0,
+    "from_arm": "2d",
+    "to_arm": "3d",
+    "from_case": "turnover0_2d_seed0",
+    "to_case": "turnover0_3d_seed0",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-ac33cbe0a56061bc6abe",
+        "to": "source-07933cfe4fd6d51a817e",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-ac33cbe0a56061bc6abe",
+        "to": "source-07933cfe4fd6d51a817e",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-1b02505429f796da4090",
+        "to": "source-40e226018ef2a688bf1c",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "3331000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 0,
+    "from_arm": "2d",
+    "to_arm": "local_entry",
+    "from_case": "turnover0_2d_seed0",
+    "to_case": "turnover10_local_entry_seed0",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-ac33cbe0a56061bc6abe",
+        "to": "source-cf74e46d9bb9d6c32dad",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-ac33cbe0a56061bc6abe",
+        "to": "source-cf74e46d9bb9d6c32dad",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-1b02505429f796da4090",
+        "to": "source-11153610e133a27535b9",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 0,
+    "from_arm": "3d",
+    "to_arm": "local_entry",
+    "from_case": "turnover0_3d_seed0",
+    "to_case": "turnover10_local_entry_seed0",
+    "XML_differences": [
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-07933cfe4fd6d51a817e",
+        "to": "source-cf74e46d9bb9d6c32dad",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-07933cfe4fd6d51a817e",
+        "to": "source-cf74e46d9bb9d6c32dad",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-40e226018ef2a688bf1c",
+        "to": "source-11153610e133a27535b9",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3331000000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 1,
+    "from_arm": "2d",
+    "to_arm": "3d",
+    "from_case": "turnover0_2d_repeat_seed1",
+    "to_case": "turnover0_3d_repeat_seed1",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-d2f6ab2ee373f0e9b7f4",
+        "to": "source-e4588d24296c3a0759f8",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-d2f6ab2ee373f0e9b7f4",
+        "to": "source-e4588d24296c3a0759f8",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-086663f7a2e809d4f8c3",
+        "to": "source-3f75b07bba3fd8e1a517",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "3331000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 1,
+    "from_arm": "2d",
+    "to_arm": "local_entry",
+    "from_case": "turnover0_2d_repeat_seed1",
+    "to_case": "turnover10_local_entry_repeat_seed1",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-d2f6ab2ee373f0e9b7f4",
+        "to": "source-4e66670f4db7f6b32320",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-d2f6ab2ee373f0e9b7f4",
+        "to": "source-4e66670f4db7f6b32320",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-086663f7a2e809d4f8c3",
+        "to": "source-c16783530eac0a7d8a40",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 1,
+    "from_arm": "3d",
+    "to_arm": "local_entry",
+    "from_case": "turnover0_3d_repeat_seed1",
+    "to_case": "turnover10_local_entry_repeat_seed1",
+    "XML_differences": [
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-e4588d24296c3a0759f8",
+        "to": "source-4e66670f4db7f6b32320",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-e4588d24296c3a0759f8",
+        "to": "source-4e66670f4db7f6b32320",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-3f75b07bba3fd8e1a517",
+        "to": "source-c16783530eac0a7d8a40",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3331000000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 2,
+    "from_arm": "2d",
+    "to_arm": "3d",
+    "from_case": "turnover0_2d_repeat_seed2",
+    "to_case": "turnover0_3d_repeat_seed2",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-da829c8fd2060b4a9fe8",
+        "to": "source-63d16338c8dfeba10001",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-da829c8fd2060b4a9fe8",
+        "to": "source-63d16338c8dfeba10001",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-508438fb71adc87caeb0",
+        "to": "source-1dd6bc7835bee52c22dd",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "3331000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 2,
+    "from_arm": "2d",
+    "to_arm": "local_entry",
+    "from_case": "turnover0_2d_repeat_seed2",
+    "to_case": "turnover10_local_entry_repeat_seed2",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-da829c8fd2060b4a9fe8",
+        "to": "source-49278e4bbf235dd9842c",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-da829c8fd2060b4a9fe8",
+        "to": "source-49278e4bbf235dd9842c",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-508438fb71adc87caeb0",
+        "to": "source-0d4584482994c7dd0a98",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 2,
+    "seed": 2,
+    "from_arm": "3d",
+    "to_arm": "local_entry",
+    "from_case": "turnover0_3d_repeat_seed2",
+    "to_case": "turnover10_local_entry_repeat_seed2",
+    "XML_differences": [
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-63d16338c8dfeba10001",
+        "to": "source-49278e4bbf235dd9842c",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-63d16338c8dfeba10001",
+        "to": "source-49278e4bbf235dd9842c",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-1dd6bc7835bee52c22dd",
+        "to": "source-0d4584482994c7dd0a98",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3331000000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 0,
+    "from_arm": "2d",
+    "to_arm": "3d",
+    "from_case": "te5_2d_seed0",
+    "to_case": "te5_3d_seed0",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-be89e091147f33cfb1fa",
+        "to": "source-5de0b5420fcb7fee3165",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-be89e091147f33cfb1fa",
+        "to": "source-5de0b5420fcb7fee3165",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-c125e9cc39729dd33219",
+        "to": "source-c18dc388b6d382d2c258",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "3331000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 0,
+    "from_arm": "2d",
+    "to_arm": "local_entry",
+    "from_case": "te5_2d_seed0",
+    "to_case": "te5_local_entry_seed0",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-be89e091147f33cfb1fa",
+        "to": "source-6677c4c113025767831d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-be89e091147f33cfb1fa",
+        "to": "source-6677c4c113025767831d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-c125e9cc39729dd33219",
+        "to": "source-1ec00aeab4afc7c07c39",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 0,
+    "from_arm": "3d",
+    "to_arm": "local_entry",
+    "from_case": "te5_3d_seed0",
+    "to_case": "te5_local_entry_seed0",
+    "XML_differences": [
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-5de0b5420fcb7fee3165",
+        "to": "source-6677c4c113025767831d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-5de0b5420fcb7fee3165",
+        "to": "source-6677c4c113025767831d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-c18dc388b6d382d2c258",
+        "to": "source-1ec00aeab4afc7c07c39",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3331000000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 1,
+    "from_arm": "2d",
+    "to_arm": "3d",
+    "from_case": "te5_2d_seed1",
+    "to_case": "te5_3d_seed1",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-1f38f08f3f2a41505a18",
+        "to": "source-623376c392b5717c3aa9",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-1f38f08f3f2a41505a18",
+        "to": "source-623376c392b5717c3aa9",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-004f45420a93c8f4637b",
+        "to": "source-cf159432bafb10aa883c",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "3331000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 1,
+    "from_arm": "2d",
+    "to_arm": "local_entry",
+    "from_case": "te5_2d_seed1",
+    "to_case": "te5_local_entry_seed1",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-1f38f08f3f2a41505a18",
+        "to": "source-d364ae84093c60b74ea2",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-1f38f08f3f2a41505a18",
+        "to": "source-d364ae84093c60b74ea2",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-004f45420a93c8f4637b",
+        "to": "source-f9c4fe22f94c6bdddfb7",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 1,
+    "from_arm": "3d",
+    "to_arm": "local_entry",
+    "from_case": "te5_3d_seed1",
+    "to_case": "te5_local_entry_seed1",
+    "XML_differences": [
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-623376c392b5717c3aa9",
+        "to": "source-d364ae84093c60b74ea2",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-623376c392b5717c3aa9",
+        "to": "source-d364ae84093c60b74ea2",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-cf159432bafb10aa883c",
+        "to": "source-f9c4fe22f94c6bdddfb7",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3331000000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 2,
+    "from_arm": "2d",
+    "to_arm": "3d",
+    "from_case": "te5_2d_seed2",
+    "to_case": "te5_3d_seed2",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-5682b71a3fba348e0813",
+        "to": "source-40191728aeaa6a32be76",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-250",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-5682b71a3fba348e0813",
+        "to": "source-40191728aeaa6a32be76",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-9dfed4a3057657f9d34e",
+        "to": "source-6e57643870baddc8246f",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "3331000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 2,
+    "from_arm": "2d",
+    "to_arm": "local_entry",
+    "from_case": "te5_2d_seed2",
+    "to_case": "te5_local_entry_seed2",
+    "XML_differences": [
+      {
+        "path": "/cell_definitions/cell_definition[10]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[11]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_definitions/cell_definition[9]/phenotype/motility/options/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "motility_dimension_option"
+      },
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-5682b71a3fba348e0813",
+        "to": "source-fd704405eb5387d2557d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/use_2D",
+        "from": "true",
+        "to": "false",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "1180",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-1180",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "10",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-10",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-5682b71a3fba348e0813",
+        "to": "source-fd704405eb5387d2557d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-9dfed4a3057657f9d34e",
+        "to": "source-4de38c9ea12d142685f0",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3344608000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/max_position_CD4_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_CD8_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_exhausted_CAR_T",
+        "from": "1111",
+        "to": "240",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgHi_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOff",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/max_position_tumor_AgLo_BrakeOn",
+        "from": "833",
+        "to": "180",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD4_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_CD8_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      },
+      {
+        "path": "/user_parameters/min_position_exhausted_CAR_T",
+        "from": "926",
+        "to": "200",
+        "classification": "fallback_position_setting_not_actual_CSV_coordinates"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  },
+  {
+    "ratio": 5,
+    "seed": 2,
+    "from_arm": "3d",
+    "to_arm": "local_entry",
+    "from_case": "te5_3d_seed2",
+    "to_case": "te5_local_entry_seed2",
+    "XML_differences": [
+      {
+        "path": "/cell_rules/rulesets/ruleset/folder",
+        "from": "source-40191728aeaa6a32be76",
+        "to": "source-fd704405eb5387d2557d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/domain/dx",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dy",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/dz",
+        "from": "20",
+        "to": "40",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/x_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/y_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_max",
+        "from": "250",
+        "to": "600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/domain/z_min",
+        "from": "-250",
+        "to": "-600",
+        "classification": "spatial_domain_or_grid"
+      },
+      {
+        "path": "/initial_conditions/cell_positions/folder",
+        "from": "source-40191728aeaa6a32be76",
+        "to": "source-fd704405eb5387d2557d",
+        "classification": "file_location"
+      },
+      {
+        "path": "/save/folder",
+        "from": "source-6e57643870baddc8246f",
+        "to": "source-4de38c9ea12d142685f0",
+        "classification": "file_location"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_external_flow_um3_per_min",
+        "from": "0.0",
+        "to": "6000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      },
+      {
+        "path": "/user_parameters/ikm_medium_reservoir_volume_um3",
+        "from": "3331000000.0",
+        "to": "1728000000.0",
+        "classification": "bulk_medium_volume_or_exchange"
+      }
+    ],
+    "actual_CSV_rows_equal": false,
+    "actual_CSV_coordinates_equal_in_row_order": false,
+    "rules_byte_identical": true,
+    "matched_single_factor_control": false
+  }
+]

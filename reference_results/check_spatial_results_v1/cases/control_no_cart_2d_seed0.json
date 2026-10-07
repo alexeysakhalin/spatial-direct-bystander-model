@@ -1,0 +1,4974 @@
+{
+  "access": {
+    "first_saved_positive_hours": {
+      "living_effectors_inside_initial_target_hull": null,
+      "living_effectors_touching_living_target_spheres": null,
+      "living_effectors_with_positive_recent_activity_memory": null,
+      "living_effectors_with_saved_live_target_attack_link": null
+    },
+    "initial_target_envelope": {
+      "dimension": 2,
+      "halfspace_equations": [
+        [
+          -0.16288878028731182,
+          0.986644437098042,
+          -818.594442039282
+        ],
+        [
+          0.4972867968253017,
+          -0.8675862157176261,
+          -819.732825097373
+        ],
+        [
+          -0.999999403373958,
+          0.0010923606219336631,
+          -825.253430111253
+        ],
+        [
+          -0.9902021020465585,
+          0.13964167394648747,
+          -810.8922175622721
+        ],
+        [
+          -0.8643909184738523,
+          0.5028203854856426,
+          -819.3257874806189
+        ],
+        [
+          -0.9189707179274998,
+          0.39432577850276973,
+          -824.5777506272507
+        ],
+        [
+          -0.7032555333061792,
+          0.7109371666147729,
+          -828.6330279559131
+        ],
+        [
+          -0.4866253957170543,
+          0.8736107395420573,
+          -818.4564736642008
+        ],
+        [
+          0.9971774280476324,
+          0.07508113606165502,
+          -811.6548123231779
+        ],
+        [
+          0.9722526928098236,
+          0.2339331129277059,
+          -813.2242590064582
+        ],
+        [
+          0.7856861525194248,
+          0.6186253064167543,
+          -821.0124841098811
+        ],
+        [
+          0.09935093178985668,
+          0.9950524570857996,
+          -821.4706125192864
+        ],
+        [
+          0.2986138080782002,
+          0.9543740323505433,
+          -822.1709220815455
+        ],
+        [
+          0.5730031247731849,
+          0.8195531825331203,
+          -813.2872378923171
+        ],
+        [
+          -0.8928355630011727,
+          -0.4503827899025217,
+          -822.3975423524221
+        ],
+        [
+          -0.8430993736454597,
+          -0.5377577950700795,
+          -825.7276028883114
+        ],
+        [
+          -0.13414890569700363,
+          -0.9909611854660588,
+          -820.1742497184797
+        ],
+        [
+          -0.1852180105604845,
+          -0.9826974552546762,
+          -820.3472288452351
+        ],
+        [
+          -0.4874810112783228,
+          -0.8731335886581525,
+          -827.5306676451023
+        ],
+        [
+          -0.4162451839867122,
+          -0.9092524109442152,
+          -829.3413440017457
+        ],
+        [
+          0.9891409001698642,
+          -0.14697033582036384,
+          -825.7654403235834
+        ],
+        [
+          0.7329691703450409,
+          -0.680261857907455,
+          -809.8672643563832
+        ],
+        [
+          0.777699266103543,
+          -0.6286365018848415,
+          -816.3756597313713
+        ],
+        [
+          0.14570298407207785,
+          -0.9893283784631329,
+          -818.2379165765551
+        ],
+        [
+          0.2776173913118021,
+          -0.9606917216470795,
+          -821.5383194509373
+        ],
+        [
+          0.8739251637683426,
+          0.486060498428411,
+          -830.3726990973158
+        ],
+        [
+          0.6820519900880455,
+          0.7313036871347885,
+          -803.9196327103377
+        ],
+        [
+          0.6807499056236272,
+          0.7325159151809759,
+          -804.0347597049498
+        ],
+        [
+          -0.9779561875150967,
+          -0.20881018964824763,
+          -825.4449733119828
+        ],
+        [
+          -0.9736796529008936,
+          -0.2279208931335505,
+          -826.0955346412396
+        ],
+        [
+          -0.669386166972059,
+          -0.7429146380752333,
+          -821.4337567708403
+        ],
+        [
+          -0.682468447452833,
+          -0.7309150554143209,
+          -820.2607901820159
+        ],
+        [
+          0.9258725907061507,
+          -0.37783587148268594,
+          -822.3100741963926
+        ],
+        [
+          0.9290100012396025,
+          -0.3700546143433341,
+          -823.0172031873115
+        ],
+        [
+          0.9574472865510459,
+          0.28860820063892706,
+          -821.348790492624
+        ],
+        [
+          0.9126286250015336,
+          0.40878966820090984,
+          -831.1597044075912
+        ]
+      ],
+      "numerical_boundary_tolerance_um": 1e-08
+    },
+    "rows": [
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1200,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 0.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1214,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 1.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1232,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 2.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1235,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 3.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1254,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 4.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1265,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 5.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1280,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 6.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1293,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 7.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1297,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 8.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1307,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 9.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1316,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 10.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1327,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 11.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1337,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 12.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1346,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 13.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1365,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 14.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1375,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 15.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1380,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 16.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1388,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 17.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1394,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 18.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1397,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 19.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1414,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 20.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1435,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 21.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1447,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 22.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1458,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 23.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1467,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 24.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1481,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 25.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1489,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 26.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1514,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 27.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1519,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 28.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1526,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 29.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1546,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 30.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1560,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 31.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1579,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 32.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1591,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 33.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1608,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 34.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1620,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 35.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1626,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 36.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1628,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 37.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1634,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 38.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1652,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 39.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1657,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 40.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1673,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 41.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1681,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 42.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1693,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 43.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1705,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 44.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1717,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 45.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1730,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 46.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1747,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 47.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1761,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 48.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1773,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 49.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1789,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 50.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1802,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 51.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1816,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 52.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1836,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 53.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1851,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 54.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1871,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 55.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1885,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 56.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1902,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 57.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1914,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 58.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1939,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 59.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1947,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 60.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1961,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 61.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1969,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 62.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1981,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 63.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 1998,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 64.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2026,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 65.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2045,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 66.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2054,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 67.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2072,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 68.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2076,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 69.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2097,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 70.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2115,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 71.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2128,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 72.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2146,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 73.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2159,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 74.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2173,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 75.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2191,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 76.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2209,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 77.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2219,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 78.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2232,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 79.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2248,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 80.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2266,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 81.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2279,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 82.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2294,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 83.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2310,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 84.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2323,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 85.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2350,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 86.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2373,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 87.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2382,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 88.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2398,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 89.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2409,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 90.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2423,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 91.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2450,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 92.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2454,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 93.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2473,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 94.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2493,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 95.0
+      },
+      {
+        "fraction_living_effectors_inside_initial_target_hull": null,
+        "living_effectors": 0,
+        "living_effectors_inside_initial_target_hull": 0,
+        "living_effectors_touching_living_target_spheres": 0,
+        "living_effectors_with_positive_recent_activity_memory": 0,
+        "living_effectors_with_saved_dead_target_attack_link": 0,
+        "living_effectors_with_saved_live_target_attack_link": 0,
+        "living_targets": 2518,
+        "nearest_living_target_centre_distance_quantiles_um": null,
+        "time_h": 96.0
+      }
+    ]
+  },
+  "arm": "2d",
+  "case": "control_no_cart_2d_seed0",
+  "gradients": {
+    "D_um2_min": 312.0,
+    "decay_only_half_life_min": 6.931471805599452,
+    "grid_xyz": [
+      118,
+      118,
+      1
+    ],
+    "homogeneous_diffusion_loss_length_um": 55.85696017507576,
+    "loss_per_min": 0.1,
+    "rows": [
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 360,
+          "live_Ag_positive": 840,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1200,
+          "live_unprimed_targets": 1200,
+          "retained_dead": 0
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 0.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 365,
+          "live_Ag_positive": 849,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1214,
+          "live_unprimed_targets": 1214,
+          "retained_dead": 4
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 1.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 368,
+          "live_Ag_positive": 864,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1232,
+          "live_unprimed_targets": 1232,
+          "retained_dead": 6
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 2.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 369,
+          "live_Ag_positive": 866,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1235,
+          "live_unprimed_targets": 1235,
+          "retained_dead": 13
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 3.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 376,
+          "live_Ag_positive": 878,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1254,
+          "live_unprimed_targets": 1254,
+          "retained_dead": 16
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 4.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 377,
+          "live_Ag_positive": 888,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1265,
+          "live_unprimed_targets": 1265,
+          "retained_dead": 19
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 5.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 382,
+          "live_Ag_positive": 898,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1280,
+          "live_unprimed_targets": 1280,
+          "retained_dead": 23
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 6.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 385,
+          "live_Ag_positive": 908,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1293,
+          "live_unprimed_targets": 1293,
+          "retained_dead": 24
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 7.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 388,
+          "live_Ag_positive": 909,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1297,
+          "live_unprimed_targets": 1297,
+          "retained_dead": 31
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 8.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 390,
+          "live_Ag_positive": 917,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1307,
+          "live_unprimed_targets": 1307,
+          "retained_dead": 32
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 9.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 393,
+          "live_Ag_positive": 923,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1316,
+          "live_unprimed_targets": 1316,
+          "retained_dead": 34
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 10.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 401,
+          "live_Ag_positive": 926,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1327,
+          "live_unprimed_targets": 1327,
+          "retained_dead": 37
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 11.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 404,
+          "live_Ag_positive": 933,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1337,
+          "live_unprimed_targets": 1337,
+          "retained_dead": 35
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 12.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 408,
+          "live_Ag_positive": 938,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1346,
+          "live_unprimed_targets": 1346,
+          "retained_dead": 36
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 13.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 410,
+          "live_Ag_positive": 955,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1365,
+          "live_unprimed_targets": 1365,
+          "retained_dead": 39
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 14.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 413,
+          "live_Ag_positive": 962,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1375,
+          "live_unprimed_targets": 1375,
+          "retained_dead": 40
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 15.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 415,
+          "live_Ag_positive": 965,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1380,
+          "live_unprimed_targets": 1380,
+          "retained_dead": 42
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 16.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 419,
+          "live_Ag_positive": 969,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1388,
+          "live_unprimed_targets": 1388,
+          "retained_dead": 48
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 17.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 421,
+          "live_Ag_positive": 973,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1394,
+          "live_unprimed_targets": 1394,
+          "retained_dead": 49
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 18.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 425,
+          "live_Ag_positive": 972,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1397,
+          "live_unprimed_targets": 1397,
+          "retained_dead": 51
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 19.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 437,
+          "live_Ag_positive": 977,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1414,
+          "live_unprimed_targets": 1414,
+          "retained_dead": 47
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 20.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 447,
+          "live_Ag_positive": 988,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1435,
+          "live_unprimed_targets": 1435,
+          "retained_dead": 50
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 21.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 450,
+          "live_Ag_positive": 997,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1447,
+          "live_unprimed_targets": 1447,
+          "retained_dead": 51
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 22.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 459,
+          "live_Ag_positive": 999,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1458,
+          "live_unprimed_targets": 1458,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 23.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 456,
+          "live_Ag_positive": 1011,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1467,
+          "live_unprimed_targets": 1467,
+          "retained_dead": 55
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 24.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 463,
+          "live_Ag_positive": 1018,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1481,
+          "live_unprimed_targets": 1481,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 25.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 465,
+          "live_Ag_positive": 1024,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1489,
+          "live_unprimed_targets": 1489,
+          "retained_dead": 49
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 26.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 471,
+          "live_Ag_positive": 1043,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1514,
+          "live_unprimed_targets": 1514,
+          "retained_dead": 46
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 27.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 472,
+          "live_Ag_positive": 1047,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1519,
+          "live_unprimed_targets": 1519,
+          "retained_dead": 47
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 28.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 473,
+          "live_Ag_positive": 1053,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1526,
+          "live_unprimed_targets": 1526,
+          "retained_dead": 46
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 29.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 482,
+          "live_Ag_positive": 1064,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1546,
+          "live_unprimed_targets": 1546,
+          "retained_dead": 44
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 30.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 484,
+          "live_Ag_positive": 1076,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1560,
+          "live_unprimed_targets": 1560,
+          "retained_dead": 45
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 31.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 488,
+          "live_Ag_positive": 1091,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1579,
+          "live_unprimed_targets": 1579,
+          "retained_dead": 44
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 32.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 493,
+          "live_Ag_positive": 1098,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1591,
+          "live_unprimed_targets": 1591,
+          "retained_dead": 44
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 33.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 496,
+          "live_Ag_positive": 1112,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1608,
+          "live_unprimed_targets": 1608,
+          "retained_dead": 42
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 34.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 498,
+          "live_Ag_positive": 1122,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1620,
+          "live_unprimed_targets": 1620,
+          "retained_dead": 47
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 35.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 500,
+          "live_Ag_positive": 1126,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1626,
+          "live_unprimed_targets": 1626,
+          "retained_dead": 51
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 36.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 499,
+          "live_Ag_positive": 1129,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1628,
+          "live_unprimed_targets": 1628,
+          "retained_dead": 51
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 37.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 499,
+          "live_Ag_positive": 1135,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1634,
+          "live_unprimed_targets": 1634,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 38.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 508,
+          "live_Ag_positive": 1144,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1652,
+          "live_unprimed_targets": 1652,
+          "retained_dead": 50
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 39.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 510,
+          "live_Ag_positive": 1147,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1657,
+          "live_unprimed_targets": 1657,
+          "retained_dead": 49
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 40.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 516,
+          "live_Ag_positive": 1157,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1673,
+          "live_unprimed_targets": 1673,
+          "retained_dead": 50
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 41.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 521,
+          "live_Ag_positive": 1160,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1681,
+          "live_unprimed_targets": 1681,
+          "retained_dead": 53
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 42.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 526,
+          "live_Ag_positive": 1167,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1693,
+          "live_unprimed_targets": 1693,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 43.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 528,
+          "live_Ag_positive": 1177,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1705,
+          "live_unprimed_targets": 1705,
+          "retained_dead": 54
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 44.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 533,
+          "live_Ag_positive": 1184,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1717,
+          "live_unprimed_targets": 1717,
+          "retained_dead": 48
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 45.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 539,
+          "live_Ag_positive": 1191,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1730,
+          "live_unprimed_targets": 1730,
+          "retained_dead": 47
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 46.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 545,
+          "live_Ag_positive": 1202,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1747,
+          "live_unprimed_targets": 1747,
+          "retained_dead": 47
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 47.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 549,
+          "live_Ag_positive": 1212,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1761,
+          "live_unprimed_targets": 1761,
+          "retained_dead": 46
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 48.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 551,
+          "live_Ag_positive": 1222,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1773,
+          "live_unprimed_targets": 1773,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 49.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 558,
+          "live_Ag_positive": 1231,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1789,
+          "live_unprimed_targets": 1789,
+          "retained_dead": 46
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 50.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 563,
+          "live_Ag_positive": 1239,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1802,
+          "live_unprimed_targets": 1802,
+          "retained_dead": 48
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 51.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 569,
+          "live_Ag_positive": 1247,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1816,
+          "live_unprimed_targets": 1816,
+          "retained_dead": 47
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 52.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 573,
+          "live_Ag_positive": 1263,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1836,
+          "live_unprimed_targets": 1836,
+          "retained_dead": 43
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 53.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 581,
+          "live_Ag_positive": 1270,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1851,
+          "live_unprimed_targets": 1851,
+          "retained_dead": 45
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 54.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 586,
+          "live_Ag_positive": 1285,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1871,
+          "live_unprimed_targets": 1871,
+          "retained_dead": 43
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 55.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 590,
+          "live_Ag_positive": 1295,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1885,
+          "live_unprimed_targets": 1885,
+          "retained_dead": 46
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 56.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 593,
+          "live_Ag_positive": 1309,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1902,
+          "live_unprimed_targets": 1902,
+          "retained_dead": 50
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 57.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 597,
+          "live_Ag_positive": 1317,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1914,
+          "live_unprimed_targets": 1914,
+          "retained_dead": 46
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 58.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 604,
+          "live_Ag_positive": 1335,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1939,
+          "live_unprimed_targets": 1939,
+          "retained_dead": 45
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 59.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 604,
+          "live_Ag_positive": 1343,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1947,
+          "live_unprimed_targets": 1947,
+          "retained_dead": 41
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 60.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 608,
+          "live_Ag_positive": 1353,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1961,
+          "live_unprimed_targets": 1961,
+          "retained_dead": 49
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 61.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 611,
+          "live_Ag_positive": 1358,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1969,
+          "live_unprimed_targets": 1969,
+          "retained_dead": 51
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 62.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 613,
+          "live_Ag_positive": 1368,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1981,
+          "live_unprimed_targets": 1981,
+          "retained_dead": 53
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 63.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 613,
+          "live_Ag_positive": 1385,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 1998,
+          "live_unprimed_targets": 1998,
+          "retained_dead": 55
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 64.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 625,
+          "live_Ag_positive": 1401,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2026,
+          "live_unprimed_targets": 2026,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 65.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 629,
+          "live_Ag_positive": 1416,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2045,
+          "live_unprimed_targets": 2045,
+          "retained_dead": 48
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 66.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 628,
+          "live_Ag_positive": 1426,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2054,
+          "live_unprimed_targets": 2054,
+          "retained_dead": 57
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 67.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 634,
+          "live_Ag_positive": 1438,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2072,
+          "live_unprimed_targets": 2072,
+          "retained_dead": 60
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 68.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 633,
+          "live_Ag_positive": 1443,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2076,
+          "live_unprimed_targets": 2076,
+          "retained_dead": 64
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 69.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 643,
+          "live_Ag_positive": 1454,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2097,
+          "live_unprimed_targets": 2097,
+          "retained_dead": 65
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 70.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 652,
+          "live_Ag_positive": 1463,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2115,
+          "live_unprimed_targets": 2115,
+          "retained_dead": 66
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 71.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 653,
+          "live_Ag_positive": 1475,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2128,
+          "live_unprimed_targets": 2128,
+          "retained_dead": 69
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 72.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 658,
+          "live_Ag_positive": 1488,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2146,
+          "live_unprimed_targets": 2146,
+          "retained_dead": 67
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 73.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 662,
+          "live_Ag_positive": 1497,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2159,
+          "live_unprimed_targets": 2159,
+          "retained_dead": 68
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 74.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 666,
+          "live_Ag_positive": 1507,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2173,
+          "live_unprimed_targets": 2173,
+          "retained_dead": 67
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 75.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 670,
+          "live_Ag_positive": 1521,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2191,
+          "live_unprimed_targets": 2191,
+          "retained_dead": 63
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 76.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 673,
+          "live_Ag_positive": 1536,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2209,
+          "live_unprimed_targets": 2209,
+          "retained_dead": 63
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 77.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 679,
+          "live_Ag_positive": 1540,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2219,
+          "live_unprimed_targets": 2219,
+          "retained_dead": 62
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 78.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 685,
+          "live_Ag_positive": 1547,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2232,
+          "live_unprimed_targets": 2232,
+          "retained_dead": 61
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 79.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 690,
+          "live_Ag_positive": 1558,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2248,
+          "live_unprimed_targets": 2248,
+          "retained_dead": 56
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 80.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 696,
+          "live_Ag_positive": 1570,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2266,
+          "live_unprimed_targets": 2266,
+          "retained_dead": 52
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 81.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 702,
+          "live_Ag_positive": 1577,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2279,
+          "live_unprimed_targets": 2279,
+          "retained_dead": 58
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 82.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 704,
+          "live_Ag_positive": 1590,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2294,
+          "live_unprimed_targets": 2294,
+          "retained_dead": 61
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 83.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 711,
+          "live_Ag_positive": 1599,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2310,
+          "live_unprimed_targets": 2310,
+          "retained_dead": 58
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 84.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 713,
+          "live_Ag_positive": 1610,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2323,
+          "live_unprimed_targets": 2323,
+          "retained_dead": 60
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 85.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 721,
+          "live_Ag_positive": 1629,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2350,
+          "live_unprimed_targets": 2350,
+          "retained_dead": 56
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 86.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 729,
+          "live_Ag_positive": 1644,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2373,
+          "live_unprimed_targets": 2373,
+          "retained_dead": 57
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 87.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 737,
+          "live_Ag_positive": 1645,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2382,
+          "live_unprimed_targets": 2382,
+          "retained_dead": 65
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 88.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 740,
+          "live_Ag_positive": 1658,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2398,
+          "live_unprimed_targets": 2398,
+          "retained_dead": 68
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 89.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 743,
+          "live_Ag_positive": 1666,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2409,
+          "live_unprimed_targets": 2409,
+          "retained_dead": 70
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 90.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 742,
+          "live_Ag_positive": 1681,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2423,
+          "live_unprimed_targets": 2423,
+          "retained_dead": 63
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 91.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 751,
+          "live_Ag_positive": 1699,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2450,
+          "live_unprimed_targets": 2450,
+          "retained_dead": 62
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 92.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 752,
+          "live_Ag_positive": 1702,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2454,
+          "live_unprimed_targets": 2454,
+          "retained_dead": 64
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 93.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 755,
+          "live_Ag_positive": 1718,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2473,
+          "live_unprimed_targets": 2473,
+          "retained_dead": 65
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 94.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 763,
+          "live_Ag_positive": 1730,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2493,
+          "live_unprimed_targets": 2493,
+          "retained_dead": 71
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 95.0
+      },
+      {
+        "CXCL_domain_concentration_quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "CXCL_domain_gradient_magnitude_quantiles_per_um": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "counts": {
+          "live_Ag_negative": 776,
+          "live_Ag_positive": 1742,
+          "live_effectors": 0,
+          "live_primed_targets": 0,
+          "live_targets": 2518,
+          "live_unprimed_targets": 2518,
+          "retained_dead": 65
+        },
+        "effectors_with_direction_norm_at_least_0_99": 0,
+        "effectors_with_exact_zero_gradient": 0,
+        "effectors_with_gradient_below_numeric_diagnostics": {
+          "1e-08": 0,
+          "1e-12": 0,
+          "1e-16": 0
+        },
+        "effectors_with_numerically_zero_direction": 0,
+        "living_effector_direction_norm_quantiles": null,
+        "living_effector_local_concentration_quantiles": null,
+        "living_effector_local_gradient_magnitude_quantiles_per_um": null,
+        "time_h": 96.0
+      }
+    ],
+    "spacing_xyz_um": [
+      20.0,
+      20.0,
+      null
+    ]
+  },
+  "native_spatial_reference": true,
+  "ratio": null,
+  "seed": 0
+}

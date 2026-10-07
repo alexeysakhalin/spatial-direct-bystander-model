@@ -1,0 +1,33 @@
+{
+  "N3_scenario_metric_summaries": 354,
+  "case_metric_values": 1062,
+  "central_cases": 18,
+  "consumed_raw_bytes_hash_verified": 6268356135,
+  "consumed_raw_files_hash_verified": 5274,
+  "experimental_validation_established": false,
+  "geometry_and_gradient_selftests": [
+    "touching_and_distant_spheres",
+    "all_candidate_radii_not_only_nearest_centre",
+    "no_targets_distance_undefined",
+    "fixed_hull_inside_edge_outside",
+    "living_and_dead_attack_target_distinguished",
+    "missing_attack_target_rejected",
+    "3D_linear_field_exact_interior_and_endcaps",
+    "all_voxel_centres_map_to_storage_indices",
+    "constant_field_zero_gradient",
+    "2D_gradient_z_is_zero",
+    "zero_vector_stays_zero",
+    "normalization_amplitude_loss_and_numerical_regularization",
+    "shuffled_storage_rejected"
+  ],
+  "hourly_CXCL_field_states": 1746,
+  "hourly_access_states": 1746,
+  "initial_target_hulls": 18,
+  "new_simulations": 0,
+  "numerical_convergence_established": false,
+  "paired_ratio_N3_summaries": 177,
+  "paired_ratio_metric_differences": 531,
+  "passed": true,
+  "portable_input_files_verified": 54,
+  "prior_technical_acceptance_bound": true
+}

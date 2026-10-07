@@ -1,0 +1,75 @@
+[BEHAV3D2022] Dekkers JF, Alieva M, Cleven A, Keramati F, Wezenaar AKL, van Vliet EJ, Puschhof J, Brazda P, Johanna I, Meringa AD, Rebel HG, Buchholz MB, Barrera Román M, Zeeman AL, de Blank S, Fasci D, Geurts MH, Cornel AM, Driehuis E, Millen R, Straetemans T, Nicolasen MJT, Aarts-Riemens T, Ariese HCR, Johnson HR, van Ineveld RL, Karaiskaki F, Kopper O, Bar-Ephraim YE, Kretzschmar K, Eggermont AMM, Nierkens S, Wehrens EJ, Stunnenberg HG, Clevers H, Kuball J, Sebestyen Z, Rios AC. Uncovering the mode of action of engineered T cells in patient cancer organoids. Nature Biotechnology. 2023;41(1):60–69. https://doi.org/10.1038/s41587-022-01397-w
+
+[BIOFVM2016] Ghaffarizadeh A, Friedman SH, Macklin P. BioFVM: an efficient, parallelized diffusive transport solver for 3-D biological simulations. Bioinformatics. 2016;32(8):1256–1258. https://doi.org/10.1093/bioinformatics/btv730
+
+[BORDEL_VOZMEDIANO2025] Bordel-Vozmediano S, Sabir S, Benito-Barca L, Weigelin B, Pérez-García VM. Geometric immunosuppression in CAR T-cell treatment: Insights from mathematical modeling. Computers in Biology and Medicine. 2025;194:110427. https://doi.org/10.1016/j.compbiomed.2025.110427
+
+[BUSSE2010] Busse D, de la Rosa M, Hobiger K, Thurley K, Flossdorf M, Scheffold A, Höfer T. Competing feedback loops shape IL-2 signaling between helper and regulatory T lymphocytes in cellular microenvironments. Proceedings of the National Academy of Sciences. 2010;107(7):3058–3063. https://doi.org/10.1073/pnas.0812851107
+
+[CAZAUX2019] Cazaux M, Grandjean CL, Lemaître F, Garcia Z, Beck RJ, Milo I, Postat J, Beltman JB, Cheadle EJ, Bousso P. Single-cell imaging of CAR T cell activity in vivo reveals extensive functional and anatomical heterogeneity. Journal of Experimental Medicine. 2019;216(5):1038–1049. https://doi.org/10.1084/jem.20182375
+
+[CENTOFANTI2023] Centofanti E, Wang C, Iyer S, Krichevsky O, Oyler-Yaniv A, Oyler-Yaniv J. The spread of interferon-γ in melanomas is highly spatially confined, driving nongenetic variability in tumor cells. Proceedings of the National Academy of Sciences. 2023;120(35):e2304190120. https://doi.org/10.1073/pnas.2304190120
+
+[DAVENPORT2015] Davenport AJ, Jenkins MR, Cross RS, Yong CS, Prince HM, Ritchie DS, Trapani JA, Kershaw MH, Darcy PK, Neeson PJ. CAR-T Cells Inflict Sequential Killing of Multiple Tumor Target Cells. Cancer Immunology Research. 2015;3(5):483–494. https://doi.org/10.1158/2326-6066.CIR-15-0048
+
+[DAVENPORT2015_CORRECTION2018] Correction: CAR-T Cells Inflict Sequential Killing of Multiple Tumor Target Cells. Cancer Immunology Research. 2018;6(3):370–370. https://doi.org/10.1158/2326-6066.CIR-18-0027
+
+[DAVENPORT2018] Davenport AJ, Cross RS, Watson KA, Liao Y, Shi W, Prince HM, Beavis PA, Trapani JA, Kershaw MH, Ritchie DS, Darcy PK, Neeson PJ, Jenkins MR. Chimeric antigen receptor T cells form nonclassical and potent immune synapses driving rapid cytotoxicity. Proceedings of the National Academy of Sciences. 2018;115(9):E2068–E2076. https://doi.org/10.1073/pnas.1716266115
+
+[FALLAHI2012] Fallahi-Sichani M, Kirschner DE, Linderman JJ. NF-κB Signaling Dynamics Play a Key Role in Infection Control in Tuberculosis. Frontiers in Physiology. 2012;3:170. https://doi.org/10.3389/fphys.2012.00170
+
+[FEINERMAN2010] Feinerman O, Jentsch G, Tkach KE, Coward JW, Hathorn MM, Sneddon MW, Emonet T, Smith KA, Altan‐Bonnet G. Single‐cell quantification of IL‐2 response by effector and regulatory T cells reveals critical plasticity in immune response. Molecular Systems Biology. 2010;6(1):437. https://doi.org/10.1038/msb.2010.90
+
+[GHIRARDELLI2026] Ghirardelli Smith OC, Dao TT, Gavil NV, O’Flanagan SD, Rubin AJ, Nguyen S, Watowich MB, Liu N, Weyu E, Quarnstrom CF, Soerens AG, Joag V, Rosato PC, Krummel MF, Geller MA, Miller JS, Giubellino A, Vezys V, Shalek AK, Masopust D. Intratumoral T cell activation kills tumors regardless of T cell specificity. Nature Immunology. 2026;27(10):2134–2142. https://doi.org/10.1038/s41590-026-02642-z
+
+[GORDON2017] Gordon-Alonso M, Hirsch T, Wildmann C, van der Bruggen P. Galectin-3 captures interferon-gamma in the tumor matrix reducing chemokine gradient production and T-cell tumor infiltration. Nature Communications. 2017;8(1):793. https://doi.org/10.1038/s41467-017-00925-6
+
+[GRIMES2014] Grimes DR, Kelly C, Bloch K, Partridge M. A method for estimating the oxygen consumption rate in multicellular tumour spheroids. Journal of The Royal Society Interface. 2014;11(92):20131124. https://doi.org/10.1098/rsif.2013.1124
+
+[HAN2012] Han Q, Bagheri N, Bradshaw EM, Hafler DA, Lauffenburger DA, Love JC. Polyfunctional responses by human T cells result from sequential release of cytokines. Proceedings of the National Academy of Sciences. 2012;109(5):1607–1612. https://doi.org/10.1073/pnas.1117194109
+
+[HARRIS2021] Harris MJ, Fuyal M, James JR. Quantifying persistence in the T‐cell signaling network using an optically controllable antigen receptor. Molecular Systems Biology. 2021;17(5):e10091. https://doi.org/10.15252/msb.202010091
+
+[HEGDE2013] Hegde M, Corder A, Chow KK, Mukherjee M, Ashoori A, Kew Y, Zhang YJ, Baskin DS, Merchant FA, Brawley VS, Byrd TT, Krebs S, Wu MF, Liu H, Heslop HE, Gottachalk S, Yvon E, Ahmed N. Combinational Targeting Offsets Antigen Escape and Enhances Effector Functions of Adoptively Transferred T Cells in Glioblastoma. Molecular Therapy. 2013;21(11):2087–2101. https://doi.org/10.1038/mt.2013.185
+
+[HICKEY2024] Hickey JW, Agmon E, Horowitz N, Tan TK, Lamore M, Sunwoo JB, Covert MW, Nolan GP. Integrating multiplexed imaging and multiscale modeling identifies tumor phenotype conversion as a critical component of therapeutic T cell efficacy. Cell Systems. 2024;15(4):322–338.e5. https://doi.org/10.1016/j.cels.2024.03.004
+
+[JOHNSON2025] Johnson JAI, Bergman DR, Rocha HL, Zhou DL, Cramer E, Mclean IC, Dance YW, Booth M, Nicholas Z, Lopez-Vidal T, Deshpande A, Heiland R, Bucher E, Shojaeian F, Dunworth M, Forjaz A, Getz M, Godet I, Kurtoglu F, Lyman M, Metzcar J, Mitchell JT, Raddatz A, Solorzano J, Sundus A, Wang Y, DeNardo DG, Ewald AJ, Gilkes DM, Kagohara LT, Kiemen AL, Thompson ED, Wirtz D, Wood LD, Wu PH, Zaidi N, Zheng L, Zimmerman JW, Phillip JM, Jaffee EM, Gray JW, Coussens LM, Chang YH, Heiser LM, Stein-O’Brien GL, Fertig EJ, Macklin P. Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories. Cell. 2025;188(17):4711–4733.e37. https://doi.org/10.1016/j.cell.2025.06.048
+
+[LIADI2015] Liadi I, Singh H, Romain G, Rey-Villamizar N, Merouane A, Adolacion JRT, Kebriaei P, Huls H, Qiu P, Roysam B, Cooper LJN, Varadarajan N. Individual Motile CD4+ T Cells Can Participate in Efficient Multikilling through Conjugation to Multiple Tumor Cells. Cancer Immunology Research. 2015;3(5):473–482. https://doi.org/10.1158/2326-6066.CIR-14-0195
+
+[LIAO2025] Liao CY, Engelberts P, van Dijk M, Timmermans A, Martens JWM, Neubert E, Danen EHJ. CD3xHER2 bsAb‐Mediated Activation of Resting T‐cells at HER2 Positive Tumor Clusters Is Sufficient to Trigger Bystander Eradication of Distant HER2 Negative Clusters Through IFNγ and TNFα. European Journal of Immunology. 2025;55(4):e202451589. https://doi.org/10.1002/eji.202451589
+
+[MELANOMA2016] Mauldin IS, Wages NA, Stowman AM, Wang E, Smolkin ME, Olson WC, Deacon DH, Smith KT, Galeassi NV, Chianese‐Bullock KA, Dengel LT, Marincola FM, Petroni GR, Mullins DW, Slingluff CL. Intratumoral interferon-gamma increases chemokine production but fails to increase T cell infiltration of human melanoma metastases. Cancer Immunology, Immunotherapy. 2016;65(10):1189–1199. https://doi.org/10.1007/s00262-016-1881-y
+
+[OYLER2017] Oyler-Yaniv A, Oyler-Yaniv J, Whitlock BM, Liu Z, Germain RN, Huse M, Altan-Bonnet G, Krichevsky O. A Tunable Diffusion-Consumption Mechanism of Cytokine Propagation Enables Plasticity in Cell-to-Cell Communication in the Immune System. Immunity. 2017;46(4):609–620. https://doi.org/10.1016/j.immuni.2017.03.011
+
+[OYLER2017_CATCH_RELEASE] Oyler-Yaniv J, Oyler-Yaniv A, Shakiba M, Min NK, Chen YH, Cheng Sy, Krichevsky O, Altan-Bonnet N, Altan-Bonnet G. Catch and Release of Cytokines Mediated by Tumor Phosphatidylserine Converts Transient Exposure into Long-Lived Inflammation. Molecular Cell. 2017;66(5):635–647.e7. https://doi.org/10.1016/j.molcel.2017.05.011
+
+[PATEL2024] Patel A, Kutuzov MA, Dustin ML, van der Merwe PA, Dushek O. Regulation of temporal cytokine production by co-stimulation receptors in TCR-T cells is lost in CAR-T cells. Immunotherapy Advances. 2024;4(1):ltae004. https://doi.org/10.1093/immadv/ltae004
+
+[PHYSICELL2018] Ghaffarizadeh A, Heiland R, Friedman SH, Mumenthaler SM, Macklin P. PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems. PLOS Computational Biology. 2018;14(2):e1005991. https://doi.org/10.1371/journal.pcbi.1005991
+
+[PLUEN2001] Pluen A, Boucher Y, Ramanujan S, McKee TD, Gohongi T, di Tomaso E, Brown EB, Izumi Y, Campbell RB, Berk DA, Jain RK. Role of tumor–host interactions in interstitial diffusion of macromolecules: Cranial vs. subcutaneous tumors. Proceedings of the National Academy of Sciences. 2001;98(8):4628–4633. https://doi.org/10.1073/pnas.081626898
+
+[PRYBUTOK2022] Prybutok AN, Yu JS, Leonard JN, Bagheri N. Mapping CAR T-Cell Design Space Using Agent-Based Models. Frontiers in Molecular Biosciences. 2022;9:849363. https://doi.org/10.3389/fmolb.2022.849363
+
+[ROSS2018] Ross AE, Pompano RR. Diffusion of cytokines in live lymph node tissue using microfluidic integrated optical imaging. Analytica Chimica Acta. 2018;1000:205–213. https://doi.org/10.1016/j.aca.2017.11.048
+
+[SADJADI2020] Sadjadi Z, Zhao R, Hoth M, Qu B, Rieger H. Migration of Cytotoxic T Lymphocytes in 3D Collagen Matrices. Biophysical Journal. 2020;119(11):2141–2152. https://doi.org/10.1016/j.bpj.2020.10.020
+
+[SAHOO2020] Sahoo P, Yang X, Abler D, Maestrini D, Adhikarla V, Frankhouser D, Cho H, Machuca V, Wang D, Barish M, Gutova M, Branciamore S, Brown CE, Rockne RC. Mathematical deconvolution of CAR T-cell proliferation and exhaustion from real-time killing assay data. Journal of The Royal Society Interface. 2020;17(162):20190734. https://doi.org/10.1098/rsif.2019.0734
+
+[SLIFKA1999] Slifka MK, Rodriguez F, Whitton JL. Rapid on/off cycling of cytokine production by virus-specific CD8+ T cells. Nature. 1999;401(6748):76–79. https://doi.org/10.1038/43454
+
+[THURLEY2015] Thurley K, Gerecht D, Friedmann E, Höfer T. Three-Dimensional Gradients of Cytokine Signaling between T Cells. PLOS Computational Biology. 2015;11(4):e1004206. https://doi.org/10.1371/journal.pcbi.1004206
+
+[WANG2024] Wang Z, Wang J, Zhao Y, Jin J, Si W, Chen L, Zhang M, Zhou Y, Mao S, Zheng C, Zhang Y, Chen L, Fei P. 3D live imaging and phenotyping of CAR-T cell mediated-cytotoxicity using high-throughput Bessel oblique plane microscopy. Nature Communications. 2024;15(1):6677. https://doi.org/10.1038/s41467-024-51039-9
+
+[WEBER2021] Weber EW, Parker KR, Sotillo E, Lynn RC, Anbunathan H, Lattin J, Good Z, Belk JA, Daniel B, Klysz D, Malipatlolla M, Xu P, Bashti M, Heitzeneder S, Labanieh L, Vandris P, Majzner RG, Qi Y, Sandor K, Chen LC, Prabhu S, Gentles AJ, Wandless TJ, Satpathy AT, Chang HY, Mackall CL. Transient rest restores functionality in exhausted CAR-T cells through epigenetic remodeling. Science. 2021;372(6537):eaba1786. https://doi.org/10.1126/science.aba1786
+
+[WEIGELIN2021] Weigelin B, den Boer AT, Wagena E, Broen K, Dolstra H, de Boer RJ, Figdor CG, Textor J, Friedl P. Cytotoxic T cells are able to efficiently eliminate cancer cells by additive cytotoxicity. Nature Communications. 2021;12(1):5217. https://doi.org/10.1038/s41467-021-25282-3
+
+[WOZNICKI2020] Woznicki JA, Flood P, Bustamante-Garrido M, Stamou P, Moloney G, Fanning A, Zulquernain SA, McCarthy J, Shanahan F, Melgar S, Nally K. Human BCL-G regulates secretion of inflammatory chemokines but is dispensable for induction of apoptosis by IFN-γ and TNF-α in intestinal epithelial cells. Cell Death & Disease. 2020;11(1):68. https://doi.org/10.1038/s41419-020-2263-0
+
+[WOZNICKI2021] Woznicki JA, Saini N, Flood P, Rajaram S, Lee CM, Stamou P, Skowyra A, Bustamante-Garrido M, Regazzoni K, Crawford N, McDade SS, Longley DB, Aza-Blanc P, Shanahan F, Zulquernain SA, McCarthy J, Melgar S, McRae BL, Nally K. TNF-α synergises with IFN-γ to induce caspase-8-JAK1/2-STAT1-dependent death of intestinal epithelial cells. Cell Death & Disease. 2021;12(10):864. https://doi.org/10.1038/s41419-021-04151-3

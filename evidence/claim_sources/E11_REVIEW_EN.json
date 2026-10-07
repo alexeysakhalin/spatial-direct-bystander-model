@@ -1,0 +1,20 @@
+{
+  "utc": "2026-10-06T15:23:12.171442+00:00",
+  "substantive_review_complete": true,
+  "cases_newly_technically_accepted": 4,
+  "native_frames": 388,
+  "native_field_states": 396,
+  "native_ledger_rows": 784,
+  "raw_files_verified_by_completed_collector": 2432,
+  "N3_groups_reviewed": 2,
+  "scalar_group_values_independently_reconciled": 300,
+  "hourly_count_vectors_independently_reconciled": 1164,
+  "retained_seed0_reports_preserved": true,
+  "same_seed_screen_not_confused_with_original_seed0_screen": true,
+  "scientific_convergence_accepted": false,
+  "kinetic_gate_released": false,
+  "remaining_numerical_decision": "Synthesize with TE5 3D meshN3, TE5local-entry meshscreen (followups only if triggered), and TE2fine-grid time-stepN3 before a further bounded refinement or claim-scope decision. This review alone neither expands calculations nor grants convergence.",
+  "all_core_runs_invalidated": false,
+  "project_complete": false,
+  "evidence": "source-f47cfbaa5749bbafb6a8"
+}

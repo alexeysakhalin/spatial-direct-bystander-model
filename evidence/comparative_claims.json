@@ -1,0 +1,1002 @@
+{
+  "utc": "2026-10-07T01:31:04.701852+00:00",
+  "scope": "Conditional comparisons of configured 2D, 3D and local tissue-entry simulations at initial target-to-effector ratios 2:1 and 5:1. All 33 numerical cases are represented; baseline and numerical-sensitivity results are distinguished.",
+  "rows": [
+    {
+      "id": "SC1",
+      "claim": "At a 2:1 initial target-to-effector ratio, mean target burden over 0–96 h is 278.234 cells in 2D, 301.964 in 3D and 354.651 in the local-entry scenario.",
+      "evidence": [
+        "E01",
+        "E03",
+        "E07",
+        "E18",
+        "E27",
+        "E28"
+      ],
+      "checks": "Reconstructed all central hourly integrals, normalized trajectories and three-seed means; reconciled baseline contrasts with the numerical and transport reviews.",
+      "conditions_of_applicability": "These are the configured baseline results. The refined-grid 3D-minus-2D burden differences are −2.943, +6.661 and +27.438 cells for seeds 0, 1 and 2. The common sign of the baseline comparison is therefore not preserved in every refined-grid seed.",
+      "disposition": "retain_baseline_description; reject_universal_order",
+      "quantitative_evidence": {
+        "baseline_groups": [
+          {
+            "arm": "2d",
+            "normalized_target_AUC_hours": 22.258750000000003,
+            "ratio": 2,
+            "target_fraction_96h": 0.04472222222222222,
+            "targets_96h": {
+              "max": 64,
+              "mean": 53.666666666666664,
+              "min": 47
+            },
+            "time_average_targets_0_96h": {
+              "max": 285.6510416666667,
+              "mean": 278.234375,
+              "min": 268.21875
+            }
+          },
+          {
+            "arm": "3d",
+            "normalized_target_AUC_hours": 24.157083333333333,
+            "ratio": 2,
+            "target_fraction_96h": 0.07027777777777777,
+            "targets_96h": {
+              "max": 90,
+              "mean": 84.33333333333333,
+              "min": 81
+            },
+            "time_average_targets_0_96h": {
+              "max": 307.96875,
+              "mean": 301.9635416666667,
+              "min": 296.7291666666667
+            }
+          },
+          {
+            "arm": "local_entry",
+            "normalized_target_AUC_hours": 28.372083333333336,
+            "ratio": 2,
+            "target_fraction_96h": 0.13027777777777777,
+            "targets_96h": {
+              "max": 164,
+              "mean": 156.33333333333334,
+              "min": 147
+            },
+            "time_average_targets_0_96h": {
+              "max": 373.4166666666667,
+              "mean": 354.6510416666667,
+              "min": 340.9114583333333
+            }
+          }
+        ],
+        "refined_3D_minus_2D": [
+          -2.9427083333333144,
+          6.661458333333314,
+          27.4375
+        ]
+      },
+      "related_original_claims": [
+        "SC1"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC2",
+      "claim": "At 5:1, mean target burden is 402.938 cells in 2D, 365.689 in 3D and 469.175 in the local-entry scenario. The baseline 2D/3D integral ordering reverses relative to 2:1.",
+      "evidence": [
+        "E01",
+        "E03",
+        "E12",
+        "E13",
+        "E18",
+        "E27",
+        "E28"
+      ],
+      "checks": "Reconstructed central integrals and all 97 hourly 3D-minus-2D contrasts at each tested grid for all three seeds.",
+      "conditions_of_applicability": "The 5:1 3D-minus-2D burden remains negative in all three seeds at both tested grids (baseline −37.089, −41.432, −33.224 cells; refined −42.464, −46.474, −42.401). This supports a conditional comparison at these settings; two grids and three seeds do not establish convergence or a general biological ranking.",
+      "disposition": "retain_tested_integral_sign_with_limits",
+      "quantitative_evidence": {
+        "baseline_threeD_minus_twoD_cells": [
+          -37.088541666666686,
+          -41.432291666666686,
+          -33.223958333333314
+        ],
+        "refined_threeD_minus_twoD_cells": [
+          -42.46354166666663,
+          -46.473958333333314,
+          -42.401041666666686
+        ],
+        "normalization_initial_targets": 1200
+      },
+      "related_original_claims": [
+        "SC2"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC3",
+      "claim": "Similar 96 h endpoints do not imply similar trajectories or equal accumulated target burden. At 5:1 the central 2D and 3D endpoint means are 75.333 and 75.000 cells.",
+      "evidence": [
+        "E01",
+        "E04",
+        "E12",
+        "E13",
+        "E27",
+        "E28"
+      ],
+      "checks": "Checked endpoint ranges and every hourly contrast. The central 3D-minus-2D endpoint differences are −15, +11 and +3 cells; refined differences are −7, −3 and −3.",
+      "conditions_of_applicability": "The observed baseline ranges, 62–84 cells in 2D and 69–83 in 3D, are not confidence intervals. Neither statistical significance nor equivalence has been established. All six 5:1 grid/seed 3D-minus-2D trajectories contain both positive and negative hourly differences.",
+      "disposition": "retain_endpoint_and_trajectory_distinction",
+      "quantitative_evidence": {
+        "baseline_threeD_minus_twoD_at_96h_cells": [
+          -15,
+          11,
+          3
+        ],
+        "refined_threeD_minus_twoD_at_96h_cells": [
+          -7,
+          -3,
+          -3
+        ]
+      },
+      "related_original_claims": [
+        "SC3"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC4",
+      "claim": "The local-entry scenario has the largest baseline mean endpoint and interval-average target count at both ratios. On the refined grid, its 5:1 integral contrast with 2D has mixed signs across the three seeds.",
+      "evidence": [
+        "E01",
+        "E25",
+        "E27",
+        "E28",
+        "E29"
+      ],
+      "checks": "At 5:1 the refined entry-minus-2D interval-average differences are −15.8125, +1.630208 and +5.546875 cells; endpoint differences are +120, +123 and +123. Entry-minus-3D interval-average differences remain positive, +26.651042, +48.104167 and +47.947917 cells.",
+      "conditions_of_applicability": "The mixed 2D contrast does not establish either a stable reverse ranking or a grid-invariant high entry burden. At 2:1, entry endpoint and integral contrasts are positive against both representations in the baseline and refined-grid N3 sets and in the coupled entry transport-step comparison. The coupled comparison uses a smaller diffusion step only for entry. These are tested configurations, not a continuum or biological ordering.",
+      "disposition": "retain_baseline_description; reject_grid_invariant_tissue_rank",
+      "quantitative_evidence": {
+        "TE5_fine_entry_minus_2D": {
+          "ratio": 5,
+          "setting": "mesh_half",
+          "contrast": "local_entry minus 2d",
+          "seeds": [
+            0,
+            1,
+            2
+          ],
+          "n": 3,
+          "time_average_differences": [
+            -15.8125,
+            1.6302083333333333,
+            5.546875
+          ],
+          "endpoint_differences": [
+            120,
+            123,
+            123
+          ],
+          "hourly_crossings": [
+            true,
+            true,
+            true
+          ],
+          "all_integral_differences_positive": false,
+          "all_integral_differences_negative": false,
+          "convergence_or_significance_claim": false
+        },
+        "TE5_fine_entry_minus_3D": {
+          "ratio": 5,
+          "setting": "mesh_half",
+          "contrast": "local_entry minus 3d",
+          "seeds": [
+            0,
+            1,
+            2
+          ],
+          "n": 3,
+          "time_average_differences": [
+            26.651041666666668,
+            48.104166666666664,
+            47.947916666666664
+          ],
+          "endpoint_differences": [
+            127,
+            126,
+            126
+          ],
+          "hourly_crossings": [
+            true,
+            true,
+            true
+          ],
+          "all_integral_differences_positive": true,
+          "all_integral_differences_negative": false,
+          "convergence_or_significance_claim": false
+        }
+      },
+      "related_original_claims": [
+        "SC4"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC5",
+      "claim": "All 96 h surviving targets are assigned antigen-negative states in the central 2:1 cases and central 5:1 2D/3D cases. Central 5:1 local entry retains 8–22 antigen-positive targets (mean 13.333).",
+      "evidence": [
+        "E02",
+        "E03",
+        "E08",
+        "E10",
+        "E13",
+        "E25",
+        "E29",
+        "E30"
+      ],
+      "checks": "Reconciled all 18 central endpoints with their hourly population records and checked refined-grid and reduced-step composition summaries.",
+      "conditions_of_applicability": "The zero-antigen-positive endpoint is a baseline observation: the 5:1 refined 2D mesh leaves 1, 1 and 0 antigen-positive targets, refined entry leaves 1, 0 and 0, and reduced-step entry leaves 16, 10 and 18. Coupled 2:1 entry leaves no antigen-positive targets but retains 14, 23 and 20 unprimed targets. Assigned antigen and priming states do not measure biological death mechanisms; population change also includes growth and background loss.",
+      "disposition": "retain_composition_with_refinement_qualification",
+      "quantitative_evidence": {
+        "TE5_refined_2D_antigen_positive": [
+          1,
+          1,
+          0
+        ],
+        "TE5_reduced_step_entry_antigen_positive": [
+          16,
+          10,
+          18
+        ],
+        "TE5_refined_entry_antigen_positive": [
+          1,
+          0,
+          0
+        ],
+        "TE2_coupled_entry_unprimed": [
+          14,
+          23,
+          20
+        ]
+      },
+      "related_original_claims": [
+        "SC5"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC6",
+      "claim": "The comparisons concern three configured representations with several differing initial and environmental conditions. They do not isolate dimensionality.",
+      "evidence": [
+        "E06",
+        "E20",
+        "E42"
+      ],
+      "checks": "All 18 cross-scenario input comparisons show multiple differences and differing actual coordinate arrays. The assigned rule files are identical in these comparisons.",
+      "conditions_of_applicability": "Domain, grid, coordinates, reservoir and imposed medium exchange must be reported with the representation. Within-scenario paired medium-exchange controls address a different question. Repeated random seeds on a fixed coordinate scaffold are not independent samples of tissue geometry. Local entry does not validate vessels, extravasation or in-vivo behaviour; ECM and Tregs are absent and CD4/CD8 use the same assigned laws. Separate matched medium-exchange pairs isolate the bath-flow input within each representation; their spatial results are reported in SC21–SC24.",
+      "disposition": "retain_verified_design_boundary",
+      "quantitative_evidence": {
+        "audited_cross_scenario_input_comparisons": 18
+      },
+      "related_original_claims": [
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC7",
+      "claim": "Integral ranks cannot be interpreted as an ordering maintained throughout the simulated interval. Fifteen of the 18 central seed-specific cross-scenario contrasts contain both positive and negative saved hourly differences.",
+      "evidence": [
+        "E03",
+        "E04",
+        "E27",
+        "E28"
+      ],
+      "checks": "Recomputed the sign at all 97 saved hours for each of the 18 contrasts, preserving zeros.",
+      "conditions_of_applicability": "The remaining three contrasts are also retained. These are sampled trajectories; no exact crossing time between saved hours is inferred. All comparisons use the same initial-target normalization (1,200 targets).",
+      "disposition": "retain_temporal_qualification",
+      "quantitative_evidence": {
+        "all_contrasts": [
+          {
+            "ratio": 2,
+            "left": "3d",
+            "right": "2d",
+            "seed": 0,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "3d",
+            "right": "2d",
+            "seed": 1,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "3d",
+            "right": "2d",
+            "seed": 2,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "local_entry",
+            "right": "2d",
+            "seed": 0,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "local_entry",
+            "right": "2d",
+            "seed": 1,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "local_entry",
+            "right": "2d",
+            "seed": 2,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "local_entry",
+            "right": "3d",
+            "seed": 0,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "local_entry",
+            "right": "3d",
+            "seed": 1,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 2,
+            "left": "local_entry",
+            "right": "3d",
+            "seed": 2,
+            "has_both_signs": false
+          },
+          {
+            "ratio": 5,
+            "left": "3d",
+            "right": "2d",
+            "seed": 0,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "3d",
+            "right": "2d",
+            "seed": 1,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "3d",
+            "right": "2d",
+            "seed": 2,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "local_entry",
+            "right": "2d",
+            "seed": 0,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "local_entry",
+            "right": "2d",
+            "seed": 1,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "local_entry",
+            "right": "2d",
+            "seed": 2,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "local_entry",
+            "right": "3d",
+            "seed": 0,
+            "has_both_signs": true
+          },
+          {
+            "ratio": 5,
+            "left": "local_entry",
+            "right": "3d",
+            "seed": 1,
+            "has_both_signs": false
+          },
+          {
+            "ratio": 5,
+            "left": "local_entry",
+            "right": "3d",
+            "seed": 2,
+            "has_both_signs": false
+          }
+        ]
+      },
+      "related_original_claims": [
+        "SC1",
+        "SC2",
+        "SC3",
+        "SC4"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC8",
+      "claim": "At 2:1, the local-entry residual population remains materially dependent on grid resolution after reducing the fine-grid diffusion step.",
+      "evidence": [
+        "E08",
+        "E25",
+        "E26",
+        "E27",
+        "E30"
+      ],
+      "checks": "Baseline endpoints are 158, 164 and 147; fine-grid endpoints are 284, 295 and 306; fine-grid endpoints with a halved diffusion step are 256, 279 and 232. All coupled endpoints exceed the complete baseline N3 range. Coupled-minus-baseline mean absolute hourly differences are 67.292, 82.141 and 56.589 cells, despite signed interval-average differences of −3.375, −10.964 and −4.141 cells.",
+      "conditions_of_applicability": "Reducing the transport step changes the fine-grid result but does not recover the baseline trajectory or establish convergence. All three trajectories and both positive and negative differences are retained. A small net integral can result from cancellation and is not an adequacy criterion. Residual counts are conditional on the stated grid and steps.",
+      "disposition": "retain_measured_numerical_dependence; exclude_continuum_residual_prediction",
+      "quantitative_evidence": {
+        "coarse_endpoints": [
+          158,
+          164,
+          147
+        ],
+        "fine_endpoints": [
+          284,
+          295,
+          306
+        ],
+        "coupled_endpoints": [
+          256,
+          279,
+          232
+        ],
+        "coupled_minus_coarse_time_average_cells": [
+          -3.375,
+          -10.963541666666666,
+          -4.140625
+        ],
+        "coupled_minus_coarse_mean_absolute_hourly_difference_cells": [
+          67.29166666666667,
+          82.140625,
+          56.588541666666664
+        ]
+      },
+      "related_original_claims": [
+        "SC1",
+        "SC4",
+        "SC5"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC9",
+      "claim": "The 2:1 3D-minus-2D integral comparison is sensitive to the tested common diffusion multiplier.",
+      "evidence": [
+        "E07",
+        "E09"
+      ],
+      "checks": "At multiplier 10 the seed-specific burden differences are +3.630, −10.328 and −7.766 cells; at multiplier 50 they are −58.297, −29.250 and −51.078.",
+      "conditions_of_applicability": "Both mixed and reversed signs are retained. A common multiplier is an assumption check, not an independent calibration of each cytokine or evidence for a preferred biological ordering.",
+      "disposition": "retain_transport_dependence",
+      "quantitative_evidence": {
+        "contrasts": [
+          {
+            "contrast": "3d minus 2d",
+            "diffusion_multiplier": 10,
+            "metric": "count/live_targets/time_average_0_96h",
+            "variant_seeds_0_1_2": [
+              3.6302083333333144,
+              -10.328125,
+              -7.765625
+            ],
+            "baseline_seeds_0_1_2": [
+              20.359375,
+              39.75,
+              11.078125
+            ],
+            "paired_deltas": [
+              -16.729166666666686,
+              -50.078125,
+              -18.84375
+            ],
+            "complete_metric": true,
+            "statistical_significance_claim": false,
+            "variant_mean": -4.821180555555562,
+            "baseline_mean": 23.729166666666668,
+            "mean_paired_delta": -28.55034722222223,
+            "variant_range": [
+              -10.328125,
+              3.6302083333333144
+            ],
+            "baseline_range": [
+              11.078125,
+              39.75
+            ],
+            "paired_delta_range": [
+              -50.078125,
+              -16.729166666666686
+            ],
+            "same_nonzero_direction_all_three": true
+          },
+          {
+            "contrast": "3d minus 2d",
+            "diffusion_multiplier": 50,
+            "metric": "count/live_targets/time_average_0_96h",
+            "variant_seeds_0_1_2": [
+              -58.296875,
+              -29.25,
+              -51.078125
+            ],
+            "baseline_seeds_0_1_2": [
+              20.359375,
+              39.75,
+              11.078125
+            ],
+            "paired_deltas": [
+              -78.65625,
+              -69.0,
+              -62.15625
+            ],
+            "complete_metric": true,
+            "statistical_significance_claim": false,
+            "variant_mean": -46.208333333333336,
+            "baseline_mean": 23.729166666666668,
+            "mean_paired_delta": -69.9375,
+            "variant_range": [
+              -58.296875,
+              -29.25
+            ],
+            "baseline_range": [
+              11.078125,
+              39.75
+            ],
+            "paired_delta_range": [
+              -78.65625,
+              -62.15625
+            ],
+            "same_nonzero_direction_all_three": true
+          }
+        ]
+      },
+      "related_original_claims": [
+        "SC1",
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC10",
+      "claim": "A stable target-count summary does not establish convergence of exposure fields or spatial access.",
+      "evidence": [
+        "E10",
+        "E11",
+        "E13",
+        "E14",
+        "E26",
+        "E35"
+      ],
+      "checks": "The 5:1 refined 3D group has no primary count flags, but its 48 h IFNγ exposure maximum shifts from a baseline range of 0.633–0.690 to 0.338–0.462. The fraction inside the initial target hull falls in all three seeds, while current-target contact counts rise. The 5:1 2D mesh and local-entry time-step reviews also retain repeated exposure flags.",
+      "conditions_of_applicability": "The initial hull is a fixed reference region; contact refers to current target spheres. These observables answer different questions. IFNγ and TNF are identical dimensionless fields in this version and do not supply two independent observations. Of 132 paired first-positive saved onset comparisons, 131 retain the same hourly bin. At 5:1 refined 3D seed 2, first initial-hull occupancy is saved at 1 h rather than the same-seed baseline 2 h; both lie within the baseline N3 range. Saved bins do not establish exact continuous onset times or subsequent trajectories.",
+      "disposition": "retain_exposure_and_access_resolution_dependence",
+      "quantitative_evidence": {
+        "primary_count_screen_flags": 0,
+        "IFNG_maximum_at_48h": {
+          "refined_seeds_0_1_2": [
+            0.4623372301399748,
+            0.3383506215318791,
+            0.3818992000352007
+          ],
+          "baseline_seeds_0_1_2": [
+            0.6329138845454547,
+            0.6616128691123989,
+            0.6903503327189139
+          ],
+          "paired_deltas": [
+            -0.17057665440547992,
+            -0.3232622475805198,
+            -0.30845113268371316
+          ],
+          "complete_metric": true,
+          "statistical_significance_claim": false,
+          "refined_mean": 0.39419568390235155,
+          "baseline_mean": 0.6616256954589225,
+          "mean_paired_delta": -0.2674300115565709,
+          "refined_range": [
+            0.3383506215318791,
+            0.4623372301399748
+          ],
+          "baseline_range": [
+            0.6329138845454547,
+            0.6903503327189139
+          ],
+          "paired_delta_range": [
+            -0.3232622475805198,
+            -0.17057665440547992
+          ],
+          "same_nonzero_direction_all_three": true
+        },
+        "spatial_at_48h": {
+          "access/fraction_living_effectors_inside_initial_target_hull/at_48h": {
+            "refined_seeds_0_1_2": [
+              0.5142045454545454,
+              0.47318611987381703,
+              0.4
+            ],
+            "baseline_seeds_0_1_2": [
+              0.8888888888888888,
+              0.8333333333333334,
+              0.8387096774193549
+            ],
+            "paired_deltas": [
+              -0.3746843434343434,
+              -0.36014721345951634,
+              -0.43870967741935485
+            ],
+            "complete_metric": true,
+            "statistical_significance_claim": false,
+            "refined_mean": 0.4624635551094542,
+            "baseline_mean": 0.8536439665471924,
+            "mean_paired_delta": -0.3911804114377382,
+            "refined_range": [
+              0.4,
+              0.5142045454545454
+            ],
+            "baseline_range": [
+              0.8333333333333334,
+              0.8888888888888888
+            ],
+            "paired_delta_range": [
+              -0.43870967741935485,
+              -0.36014721345951634
+            ],
+            "same_nonzero_direction_all_three": true
+          },
+          "access/living_effectors_touching_living_target_spheres/at_48h": {
+            "refined_seeds_0_1_2": [
+              240,
+              229,
+              229
+            ],
+            "baseline_seeds_0_1_2": [
+              95,
+              90,
+              96
+            ],
+            "paired_deltas": [
+              145,
+              139,
+              133
+            ],
+            "complete_metric": true,
+            "statistical_significance_claim": false,
+            "refined_mean": 232.66666666666666,
+            "baseline_mean": 93.66666666666667,
+            "mean_paired_delta": 139.0,
+            "refined_range": [
+              229,
+              240
+            ],
+            "baseline_range": [
+              90,
+              96
+            ],
+            "paired_delta_range": [
+              133,
+              145
+            ],
+            "same_nonzero_direction_all_three": true
+          }
+        }
+      },
+      "related_original_claims": [
+        "SC2",
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC11",
+      "claim": "At 6 h, the fraction of living effectors touching living target spheres is higher at 5:1 than at 2:1 in every corresponding central seed and representation.",
+      "evidence": [
+        "E05",
+        "E19",
+        "E22"
+      ],
+      "checks": "Checked all nine paired contact fractions and all nine saved-link fractions; both are higher at 5:1 at this saved time.",
+      "conditions_of_applicability": "This is a per-living-effector fraction, not an absolute contact count, killing rate or measured function. The late local-entry contact comparison is mixed across seeds: its mean is higher at 5:1 at 96 h but the seed 1 difference is negative. The ratios start with different effector counts.",
+      "disposition": "retain_spatial_observable_with_denominator",
+      "quantitative_evidence": {
+        "contact_means_at_6h": [
+          {
+            "arm": "2d",
+            "TE2_contact_mean": 0.5361882863202595,
+            "TE5_contact_mean": 0.6143628540687365
+          },
+          {
+            "arm": "3d",
+            "TE2_contact_mean": 0.633873130254193,
+            "TE5_contact_mean": 0.7795162861084853
+          },
+          {
+            "arm": "local_entry",
+            "TE2_contact_mean": 0.5422514855899695,
+            "TE5_contact_mean": 0.6230243612596554
+          }
+        ],
+        "local_entry_touch_fraction_TE5_minus_TE2_at_96h": [
+          0.03977157421328614,
+          -0.0012580681771533833,
+          0.04976076555023924
+        ]
+      },
+      "related_original_claims": [
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC12",
+      "claim": "The saved CXCL gradient-direction diagnostic is saturated at the selected 6–96 h sampling times in all central cases.",
+      "evidence": [
+        "E05",
+        "E19",
+        "E22"
+      ],
+      "checks": "Checked that the fraction with direction norm at least 0.99 equals one at every selected time in all 18 cases.",
+      "conditions_of_applicability": "A normalized direction computed from saved fields is not actual migration speed, measured sensing, or the historical gradient cache used during integration. It cannot by itself explain the complete target trajectories or justify persistence and bias parameters.",
+      "disposition": "retain_diagnostic_scope",
+      "quantitative_evidence": {
+        "cases": 18,
+        "selected_times_h": [
+          6,
+          24,
+          48,
+          72,
+          96
+        ]
+      },
+      "related_original_claims": [
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC13",
+      "claim": "The present simulations cannot separately identify experimentally validated IFNγ and TNF contributions or measured fractions of mechanisms of target death.",
+      "evidence": [
+        "E16",
+        "E17",
+        "E57"
+      ],
+      "checks": "The model audit records identical dimensionless IFNγ/TNF fields with different assigned roles; the active parameter register distinguishes assumptions from measured quantities. In 1,940 saved frames from 20 cases, 3,379,896 IFN-gamma, TNF and IL-2 source coefficients agree with the assigned common activity-state law within floating-point rounding.",
+      "conditions_of_applicability": "Assigned pathways and states are model definitions. Literature context and completed sensitivity tests do not calibrate them in this system. Experimental comparison requires compatible observables and confirmed metadata; neither the experimental target-to-effector ratio nor the time of effector addition is inferred from an unspecified source.",
+      "disposition": "retain_mechanistic_inference_boundary",
+      "quantitative_evidence": {},
+      "related_original_claims": [
+        "SC5",
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC14",
+      "claim": "The findings describe the tested discrete model configurations; general numerical convergence and complete material-parameter support have not been established.",
+      "evidence": [
+        "E24",
+        "E31",
+        "E32",
+        "E35",
+        "E36",
+        "E45",
+        "E52",
+        "E37",
+        "E56"
+      ],
+      "checks": "All 33 numerical cases were evaluated in thirteen configuration groups: ten N3 groups and three seed-0 screens. All 661 primary flag entries, including repeated IFNγ/TNF entries, were retained and assigned explicit reporting consequences. The parameter register has seventeen key groups; four have an accepted numeric-choice basis within their stated scope. All 103 planned cases are technically accepted and all nine kinetic alternatives have substantive review. Four material parameter-choice bases remain accepted and thirteen remain unresolved; kinetic completion does not change that count.",
+      "conditions_of_applicability": "No material numerical flag is treated as proof of biological variation or dismissed because an integral is small. Quantitative predictions across untested discretizations and calibrated biological effects remain unsupported. The nine prespecified growth/background-loss checks are complete and interpreted; these conditional checks establish neither numerical convergence nor experimental validation. Unresolved quantitative parameter bases limit biological transfer of the configured comparisons.",
+      "disposition": "retain_conditional_model_scope_and_unfinished_validation",
+      "quantitative_evidence": {
+        "parameter_groups": 17,
+        "accepted_choice_basis_groups": [
+          "finite_medium",
+          "tnf_transport",
+          "target_repair",
+          "geometry"
+        ],
+        "remaining_choice_basis_groups": [
+          "cytokine_loss",
+          "other_cytokine_transport",
+          "activity_memory",
+          "secretion",
+          "priming",
+          "target_response",
+          "attack_frequency",
+          "attack_duration",
+          "damage_death",
+          "motility",
+          "tumor_growth",
+          "effector_growth",
+          "baseline_death"
+        ]
+      },
+      "related_original_claims": [
+        "SC1",
+        "SC2",
+        "SC3",
+        "SC4",
+        "SC5",
+        "SC6"
+      ],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC15",
+      "claim": "Scalar and spatial analyses of all 103 accepted cases reproduce exactly after relocation of their analysis code and metadata.",
+      "evidence": [
+        "E18",
+        "E19",
+        "E33",
+        "E34",
+        "E53",
+        "E54",
+        "E55"
+      ],
+      "checks": "Qualified components cover 18 central and 85 noncentral cases. The spatial components comprise 18 central, 74 earlier noncentral, two numerical-extension and nine kinetic cases; scalar components comprise 18 central, 71 earlier noncentral, five numerical-extension and nine kinetic cases. Native reference coverage and newly derived observables are recorded separately.",
+      "conditions_of_applicability": "These checks use two code/metadata locations and already independently copied raw files. They do not establish a complete-package second transfer, scientific calibration or numerical convergence.",
+      "disposition": "retain_component_reproducibility_boundary",
+      "quantitative_evidence": {
+        "central_count_files": 8,
+        "central_spatial_files": 25,
+        "noncentral_spatial_files": 79,
+        "noncentral_spatial_cases": 74,
+        "raw_cases_in_stage": 94,
+        "raw_manifest_files": 57145,
+        "raw_bytes": 56450895092
+      },
+      "related_original_claims": [],
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC16",
+      "source_claim_id": "K1",
+      "claim": "All six prescribed growth alternatives show higher living-target counts than every corresponding baseline realization at each saved positive hour; interval and endpoint differences depend strongly on representation.",
+      "evidence": [
+        "E46",
+        "E49"
+      ],
+      "checks": "873 hourly population reconciliations; complete native acceptance; baseline seed-0 pairing and all three baseline trajectories retained.",
+      "conditions_of_applicability": "Observed TE2 seed-0 alternatives at the original numerical configuration and fixed scaffold. No replicated kinetic response distribution, calibrated growth rate or resolution-independent magnitude.",
+      "disposition": "retained_conditionally",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC17",
+      "source_claim_id": "K2",
+      "claim": "Lower assigned effector background loss increases effector abundance in all three configured representations; the paired target integral changes are small and have mixed signs across representations.",
+      "evidence": [
+        "E46",
+        "E47"
+      ],
+      "checks": "All effector sampled counts and integrals independently reconstructed; target signed and absolute integrals and crossing times retained.",
+      "conditions_of_applicability": "No biological efficacy, equivalence or stochastic robustness claim. Small target differences are not isolated from seeded variation or discretization sensitivity.",
+      "disposition": "retained_conditionally",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC18",
+      "source_claim_id": "K3",
+      "claim": "At these nine kinetic configurations, interval means and 96 h endpoints order local entry above 3D above 2D, while every pairwise full trajectory changes sign.",
+      "evidence": [
+        "E48"
+      ],
+      "checks": "Nine pairwise 97-hour contrasts, normalized integrals and baseline N3 contrasts reconstructed.",
+      "conditions_of_applicability": "Finite configured representation comparisons. Conditions change jointly, including geometry and medium exchange; no pure dimensionality or universal temporal ordering.",
+      "disposition": "retained_conditionally",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC19",
+      "source_claim_id": "K4",
+      "claim": "Residual target antigen and assigned priming compositions differ between alternatives; spatial occupancy, overlap and saved links can change in different directions.",
+      "evidence": [
+        "E46",
+        "E47",
+        "E49"
+      ],
+      "checks": "All hourly population partitions reconcile; 441 spatial readouts and 1323 baseline values reconcile; 36 saved-onset differences are zero.",
+      "conditions_of_applicability": "Assigned states are model variables; geometric overlap is not recognition, links are not observed kills, hull occupancy is not extravasation, and saved onsets do not resolve sub-hour dynamics.",
+      "disposition": "retained_conditionally",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC20",
+      "source_claim_id": "K5",
+      "claim": "The nine alternatives do not justify treating target growth, effector growth or baseline death choices as calibrated or adequately supported in the simulated biological system.",
+      "evidence": [
+        "E45",
+        "E50"
+      ],
+      "checks": "Explicit source contexts and one-factor design retained; all 191 flags interpreted, including 55 duplicated IFNG/TNF pairs.",
+      "conditions_of_applicability": "Four of seventeen existing choice bases remain accepted; thirteen remain unresolved. Completing a check changes evidence availability, not biological parameter support.",
+      "disposition": "limitation_retained",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "SC21",
+      "claim": "At the four prescribed seed-0 medium-exchange comparisons, target interval means and endpoints increase relative to the closed condition, but each full target trajectory contains differences of both signs.",
+      "checks": "Four 97-hour comparisons; signed interval-average differences +108.276, +85.510, +10.885 and +12.021 cells; endpoint differences +235, +246, +72 and +20 cells. Cells and rules are identical within each pair; only bath flow and output path differ.",
+      "conditions_of_applicability": "2:1 target-to-effector ratio, original discrete configurations, one seed per altered exchange condition. Closed 2D/3D N3 ranges provide context, not replicated treatment uncertainty. No vascular or experimental causal interpretation.",
+      "disposition": "retain_finite_matched_input_comparisons",
+      "evidence": [
+        "E39",
+        "E40",
+        "E41",
+        "E42"
+      ],
+      "final_scientific_acceptance": false,
+      "source_claim_id": "M1"
+    },
+    {
+      "id": "SC22",
+      "claim": "In the local-entry seed-0 runs, increasing exchange from one to ten total volumes gives a lower interval mean and a higher endpoint target count.",
+      "checks": "Interval averages 350.760 and 349.625 cells; endpoints 106 and 158 cells; signed interval difference −1.135 cells and mean absolute hourly difference 18.406 cells.",
+      "conditions_of_applicability": "Existing one-seed runs; no monotonic-response or equivalence inference. The comparison is an additional analysis of completed outputs.",
+      "disposition": "retain_opposite_integral_and_endpoint_signs",
+      "evidence": [
+        "E39",
+        "E40",
+        "E41",
+        "E42"
+      ],
+      "final_scientific_acceptance": false,
+      "source_claim_id": "M2"
+    },
+    {
+      "id": "SC23",
+      "claim": "Matched medium changes do not produce a uniform response across initial-hull occupancy, current-target contact and saved target links.",
+      "checks": "With exchange 10, average occupancy/contact fraction differences are −0.255/+4.722 percentage points in 2D, +5.849/−0.467 in 3D, and −6.625/+1.140 in local entry. All seven endpoints have zero saved live-target links.",
+      "conditions_of_applicability": "Different spatial observables have different denominators and biological interpretations. Contacts and distances depend on the surviving population; hull membership is a fixed geometric reference, not extravasation. None of these measures is a measured fraction of target deaths.",
+      "disposition": "retain_distinct_spatial_observables",
+      "evidence": [
+        "E39",
+        "E40",
+        "E41",
+        "E42"
+      ],
+      "final_scientific_acceptance": false,
+      "source_claim_id": "M3"
+    },
+    {
+      "id": "SC24",
+      "claim": "The normalized CXCL direction diagnostic remains saturated throughout positive saved hours despite large changes in local gradient magnitude under medium exchange.",
+      "checks": "672 positive case-hours in seven cases all have direction-norm fraction 1. At 96 h the 2D median gradient changes from 4.708e-3 to 3.979e-9 per µm and the 3D median from 2.232e-3 to 5.132e-10 per µm.",
+      "conditions_of_applicability": "Reconstructed instantaneous field diagnostic. It is not a trajectory, velocity, sensing-threshold or persistence measurement. It does not close the biological motility-parameter basis.",
+      "disposition": "retain_diagnostic_saturation_limit",
+      "evidence": [
+        "E39",
+        "E40",
+        "E41",
+        "E42"
+      ],
+      "final_scientific_acceptance": false,
+      "source_claim_id": "M4"
+    }
+  ],
+  "final_scientific_acceptance": false,
+  "kinetic_gate_released": true,
+  "project_complete": false,
+  "kinetic_scientific_review_complete": true,
+  "matched_medium_spatial_review_complete": true,
+  "version": 5
+}

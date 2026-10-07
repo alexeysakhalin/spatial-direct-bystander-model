@@ -1,0 +1,89 @@
+tumor AgHi CytoOff unprimed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgHi CytoOff unprimed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgHi CytoOff unprimed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgHi CytoOff unprimed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgHi CytoOff unprimed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgHi CytoOff unprimed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgHi CytoOff unprimed,IFN-gamma,increases,transform to tumor AgHi CytoOff primed,0.0029,0.25,2,0
+tumor AgHi CytoOn unprimed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgHi CytoOn unprimed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgHi CytoOn unprimed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgHi CytoOn unprimed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgHi CytoOn unprimed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgHi CytoOn unprimed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgHi CytoOn unprimed,IFN-gamma,increases,transform to tumor AgHi CytoOn primed,0.0029,0.25,2,0
+tumor AgLo CytoOff unprimed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgLo CytoOff unprimed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgLo CytoOff unprimed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgLo CytoOff unprimed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgLo CytoOff unprimed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgLo CytoOff unprimed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgLo CytoOff unprimed,IFN-gamma,increases,transform to tumor AgLo CytoOff primed,0.0029,0.25,2,0
+tumor AgLo CytoOn unprimed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgLo CytoOn unprimed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgLo CytoOn unprimed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgLo CytoOn unprimed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgLo CytoOn unprimed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgLo CytoOn unprimed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgLo CytoOn unprimed,IFN-gamma,increases,transform to tumor AgLo CytoOn primed,0.0029,0.25,2,0
+tumor AgHi CytoOff primed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgHi CytoOff primed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgHi CytoOff primed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgHi CytoOff primed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgHi CytoOff primed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgHi CytoOff primed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgHi CytoOn primed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgHi CytoOn primed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgHi CytoOn primed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgHi CytoOn primed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgHi CytoOn primed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgHi CytoOn primed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgLo CytoOff primed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgLo CytoOff primed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgLo CytoOff primed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgLo CytoOff primed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgLo CytoOff primed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgLo CytoOff primed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor AgLo CytoOn primed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor AgLo CytoOn primed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor AgLo CytoOn primed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor AgLo CytoOn primed,damage,increases,apoptosis,0.023,45,16,0
+tumor AgLo CytoOn primed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor AgLo CytoOn primed,dead,increases,debris secretion,0.017,0.1,10,1
+CD4 CAR T,custom:ikm_recent_activity,increases,TNF secretion,10.0,5,2,0
+CD4 CAR T,custom:ikm_recent_activity,increases,IFN-gamma secretion,10.0,5,2,0
+CD4 CAR T,custom:ikm_recent_activity,increases,IL-2 secretion,10.0,5,2,0
+CD4 CAR T,IL-2,increases,cycle entry,0.00041,0.25,2,0
+CD4 CAR T,dead,increases,debris secretion,0.017,0.1,10,1
+CD8 CAR T,custom:ikm_recent_activity,increases,TNF secretion,10.0,5,2,0
+CD8 CAR T,custom:ikm_recent_activity,increases,IFN-gamma secretion,10.0,5,2,0
+CD8 CAR T,custom:ikm_recent_activity,increases,IL-2 secretion,10.0,5,2,0
+CD8 CAR T,IL-2,increases,cycle entry,0.00041,0.25,2,0
+CD8 CAR T,dead,increases,debris secretion,0.017,0.1,10,1
+exhausted CAR T,dead,increases,debris secretion,0.017,0.1,10,1
+tumor Ag0 CytoOff unprimed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor Ag0 CytoOff unprimed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor Ag0 CytoOff unprimed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor Ag0 CytoOff unprimed,damage,increases,apoptosis,0.023,45,16,0
+tumor Ag0 CytoOff unprimed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor Ag0 CytoOff unprimed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor Ag0 CytoOff unprimed,IFN-gamma,increases,transform to tumor Ag0 CytoOff primed,0.0029,0.25,2,0
+tumor Ag0 CytoOn unprimed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor Ag0 CytoOn unprimed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor Ag0 CytoOn unprimed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor Ag0 CytoOn unprimed,damage,increases,apoptosis,0.023,45,16,0
+tumor Ag0 CytoOn unprimed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor Ag0 CytoOn unprimed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor Ag0 CytoOn unprimed,IFN-gamma,increases,transform to tumor Ag0 CytoOn primed,0.0029,0.25,2,0
+tumor Ag0 CytoOff primed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor Ag0 CytoOff primed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor Ag0 CytoOff primed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor Ag0 CytoOff primed,damage,increases,apoptosis,0.023,45,16,0
+tumor Ag0 CytoOff primed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor Ag0 CytoOff primed,dead,increases,debris secretion,0.017,0.1,10,1
+tumor Ag0 CytoOn primed,pressure,decreases,cycle entry,0,0.25,3,0
+tumor Ag0 CytoOn primed,oxygen,increases,cycle entry,0.00086891124640634757,21.5,4,0
+tumor Ag0 CytoOn primed,oxygen,decreases,necrosis,0,3.75,8,0
+tumor Ag0 CytoOn primed,damage,increases,apoptosis,0.023,45,16,0
+tumor Ag0 CytoOn primed,IFN-gamma,increases,CXCL9-11 secretion,10.0,0.25,2,0
+tumor Ag0 CytoOn primed,dead,increases,debris secretion,0.017,0.1,10,1

@@ -1,0 +1,361 @@
+{
+  "render_complete": true,
+  "PNG_count": 29,
+  "panel_PNG_count": 8,
+  "curve_PNG_count": 18,
+  "legend_PNG_count": 2,
+  "all_PNG_600dpi": true,
+  "PDF_count": 1,
+  "images": [
+    {
+      "path": "TE5_NUMERICAL_FOLLOWUPS_N3_600dpi.png",
+      "size_px": [
+        8640,
+        5160
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "4d06c8fee223b0c3ffd76d4942c5275fff0f1ac32e18e26be772981e770b8767"
+    },
+    {
+      "path": "curves/A_original_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "7b1084c2cb9df87bc241ee531e58b49cc941720fd4ae216e97380831f825de5a"
+    },
+    {
+      "path": "curves/A_refined_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "a1893119138eee6518580800c80dcec95107ab0b43f1492a936867e27258c7bf"
+    },
+    {
+      "path": "curves/B_seed0_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "888fff8c582a97a7a194ed142e50832d76edd816324b7b0819007bb9779620c8"
+    },
+    {
+      "path": "curves/B_seed1_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "d758ab8923c1990db31afde7aeb0cefec1b8bfe98eabd3fb1064bfd7bf26f543"
+    },
+    {
+      "path": "curves/B_seed2_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "5e7cf3fb3bc46b2787c4c21916054011d55f0881bc31f27d97374c9ff79a69d1"
+    },
+    {
+      "path": "curves/C_original_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "e4b0ef54e8b7e5ca7b016b42570515d5fab2f33b6cdb8fe04f294bf9832bffde"
+    },
+    {
+      "path": "curves/C_refined_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "2960c7c0d64a9a8e1fb05d2b1ab07845a36580c9f46f847726ccc5eeb10a28f6"
+    },
+    {
+      "path": "curves/D_original_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "eedcece6e929093c6f6c3b37233ec2e48b8fc3027edd8d0e7fa5d3f9ad492718"
+    },
+    {
+      "path": "curves/D_refined_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "5e4d1dd1ab59605d801a68304662231ca0e19680c87c122982c1f013749021ee"
+    },
+    {
+      "path": "curves/E_original_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "616b7b308b89132ce13f8a18da72e7ef7ce9201d6850b794a714c280fa0b498c"
+    },
+    {
+      "path": "curves/E_refined_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "51b63d9973731deb91472fde321f32c5e3001006c305fb44b69053b08bf47718"
+    },
+    {
+      "path": "curves/F_seed0_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "aa6fe7a0a3672cc2be5db18a4abcc4ef00632d9f68b7541d538a20508bcb520f"
+    },
+    {
+      "path": "curves/F_seed1_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "64131fa094757fb3677e1d93b1bdf7abf79ac3aafea104e16fd27c55c443633f"
+    },
+    {
+      "path": "curves/F_seed2_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "b43bf049222a41b8e213a3ebe2b459689a06a2e009b637c152d6d7f619274c6b"
+    },
+    {
+      "path": "curves/G_original_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "8a96d243516bc1550bedac552f7f5c32aedbb7e1ec4f658e048ed63d16394c77"
+    },
+    {
+      "path": "curves/G_refined_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "936f53196351287d065dbb7ac2e7b3d44303a93eb4e6b6e421db76e85edf0329"
+    },
+    {
+      "path": "curves/H_original_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "691d9622f2c8ebc530d63275a6f901aca91d89a13ecc7c30038d1f310e49b37e"
+    },
+    {
+      "path": "curves/H_refined_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "cbd04075120c94cded0ea972e4850b8ebb9e98c06387fd1de9b3804d85e31f32"
+    },
+    {
+      "path": "legends/seeds_600dpi.png",
+      "size_px": [
+        5040,
+        390
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "e0a658e5992ab293c0fe20f01c070ce78c39b0b749359b347370bed8f55d7f5e"
+    },
+    {
+      "path": "legends/setting_600dpi.png",
+      "size_px": [
+        3960,
+        390
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "46911d72284e2de450bed09aa4a8ee7ef3c9f4e29b3330b9185a8207464a851b"
+    },
+    {
+      "path": "panels/A_2d_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "c0eebfe00d1d8823e05328885410549eb95c6c0e3e734ef38c9f112d1d308493"
+    },
+    {
+      "path": "panels/B_2d_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "73852968117af589d5ba34b6986fee9098b4586e06e048dae500b0f2a507742a"
+    },
+    {
+      "path": "panels/C_2d_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "da7e2b3d6b96493016d16b4250f8f1ba194ce172c38c7004c247d342aaca7eae"
+    },
+    {
+      "path": "panels/D_2d_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "fc4e25630112578473c781fd64f253c9dae4bf18da0538d438213d7a9b8b1d78"
+    },
+    {
+      "path": "panels/E_local_entry_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "6d81a4f5a4f7b8da937c0952026401bb385a96815ad2f26a6b56d83c9f5e9b02"
+    },
+    {
+      "path": "panels/F_local_entry_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "d740a8e27b688352eeb25644cb447e63af7708e6aae91e6777fb683fc505e3fb"
+    },
+    {
+      "path": "panels/G_local_entry_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "08930eb1de9a1b807a805a5ac8c89904cb00e278459bb7eebca7305e1ff804ec"
+    },
+    {
+      "path": "panels/H_local_entry_600dpi.png",
+      "size_px": [
+        3120,
+        2100
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "8a43b2f86c0058c3873d008d7fbda26a504f0a28a86b32dbd67fbb33de12d834"
+    }
+  ],
+  "actual_visual_review_complete": false,
+  "scientific_convergence_accepted": false
+}

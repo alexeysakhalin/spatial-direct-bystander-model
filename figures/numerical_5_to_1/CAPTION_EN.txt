@@ -1,0 +1,5 @@
+TE5 numerical followups: two completed N3 comparisons.
+
+Initial targets:effectors=5:1. Three matched seeds0,1,2. Thin same-seed difference lines preserve sign changes; other panels show arithmetic means and descriptive min-max bands. The IFNG and TNF fields are identical model-relative variables, not independently validated concentrations. Passing population count screens does not establish whole-model convergence. Local-entry is not validated vasculature,extravasation or in-vivo physiology. No parameter or central comparison scope changed.
+
+The 2D rows compare the declared spatial-mesh refinement with their own original-setting trajectories. Local-entry rows compare the declared halving of all time steps with their own original-setting trajectories. Both original and refined runs retain exact seed identities. Neither comparison is a pure-dimensionality experiment. Other numerical checks and final scientific acceptance remain open.

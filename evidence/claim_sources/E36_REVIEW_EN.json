@@ -1,0 +1,32 @@
+{
+  "utc": "2026-10-06T23:02:58.440590+00:00",
+  "review_complete": true,
+  "scope": "Claim-specific assessment of the 18 central and 33 numerical cases at the tested grids, steps, seeds and fixed coordinate scaffolds.",
+  "primary_flag_entries_reviewed": 661,
+  "IFNg_TNF_flags_not_independent_replications": true,
+  "numerical_groups": 13,
+  "N3_groups": 10,
+  "N1_screens": 3,
+  "undefined_primary_metrics": 0,
+  "undefined_paired_spatial_metrics": 0,
+  "predeclared_rule_applied": "Persistent shifts require another level and/or revised figure interpretation. All flagged original configurations have seeds 0, 1 and 2. The coupled entry check supplies an additional transport-step comparison. Persistent shifts are retained and affected claims revised, with no tolerance or scientific input changed.",
+  "predeclared_rule_file": "source-d766bcd1ff3418b20ee5",
+  "reporting_resolution": "Finite-configuration descriptive comparisons and explicit numerical sensitivity replace invariant curve order, grid-independent residual predictions and exposure/access convergence claims. Central comparison of both ratios and all representations is preserved.",
+  "numerical_convergence_accepted": false,
+  "unresolved_numerical_properties": [
+    "Asymptotic convergence, convergence order and continuum error bounds are not established.",
+    "The separate contributions of spatial discretization, stochastic divergence and coupled dynamics to each observed difference are not isolated.",
+    "The numerical sensitivity of the nine kinetic alternatives is not known before they are run; the baseline screen is not an error bound for those alternatives."
+  ],
+  "kinetic_data_generation_eligible_with_revised_scope": true,
+  "kinetic_reporting_conditions": [
+    "Run only the nine already prepared cases, keeping all inputs and comparison controls fixed.",
+    "Describe the results as one-factor challenges of the configured model at TE2 seed 0; retain all signs, zeros and failures.",
+    "Report full trajectories, normalized integrals, composition and spatial access against the paired baseline and descriptive baseline N3 range.",
+    "Compare observed changes with the completed numerical screens without treating their ranges as confidence intervals or transferable error bars.",
+    "Do not interpret a kinetic contrast as resolution-invariant or calibrated biology. A new material conclusion that relies on a marginal sign or unresolved discretization interaction requires targeted review and, if needed, a specifically justified additional check.",
+    "No final adequacy, parameter calibration or publication approval follows from permission to generate these checks."
+  ],
+  "kinetic_gate_installed": false,
+  "whole_project_complete": false
+}

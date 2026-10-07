@@ -1,0 +1,63 @@
+[
+  {
+    "conclusion": "All22new followup cases and both full analyses are technically accepted.",
+    "evidence": [
+      "ACCEPTANCE_CHECKS_EN.json",
+      "CHECKS_EN.json",
+      "EARLY_REVIEW_RECONCILIATION_EN.json"
+    ],
+    "checks": "22exit0 cases;2134numbered frames;2178field states;4312ledger rows. Independent scalar,spatial,hourly,balance-class and contrast checks all pass. Ten prior early groups exactly reconcile.",
+    "conditions": "Technical integrity, not numerical convergence or biological validation. Original failed analysis attempts occurred before raw reading due a transient foreign-process gate and are preserved."
+  },
+  {
+    "conclusion": "The local-entry mesh effect is persistent acrossN3 and materially changes the96h residual composition.",
+    "evidence": [
+      "ENTRY_MESH_SELECTED_METRICS_EN.json",
+      "ENTRY_MESH_SPATIAL_METRICS_EN.json",
+      "GROUP_CHECKS_EN.json"
+    ],
+    "checks": "96h live targets284/295/306 versus158/164/147; all above the full baselineN3range;60common flags and65original flags with common paired direction.",
+    "conditions": "TE2, fixed scaffold, grid40to20um, fixed physical domain/medium volumes and flow. Counts are conditional simulated observables, not measured treatment effects; repeated shifts do not establish their cause."
+  },
+  {
+    "conclusion": "The small+5.22%net target integral does not imply agreement of full local-entry trajectories.",
+    "evidence": [
+      "GROUP_CHECKS_EN.json",
+      "ENTRY_MESH_SELECTED_METRICS_EN.json"
+    ],
+    "checks": "All three hourly paired differences change sign; mean absolute differences81.27,71.63,89.01cells versus signed means18.67,-1.85,38.73.",
+    "conditions": "Compare complete normalized curves and antigen composition, not only endpoints or net integrals."
+  },
+  {
+    "conclusion": "Fine-grid local-entry-minus-2D and local-entry-minus-3D endpoint and integral contrasts remain positive in all three seeds.",
+    "evidence": [
+      "CONTRAST_CHECKS_EN.json"
+    ],
+    "checks": "297matched mesh contrast rows independently reconstructed, including all97hours for three contrasts.",
+    "conditions": "An observed sign within tested grids/scaffolds, not an accepted grid-independent quantitative effect. Eight of nine hourly mesh-contrast trajectories cross sign; no claim of an all-time order, pure dimensionality or in-vivo validity."
+  },
+  {
+    "conclusion": "A universal3D-versus2Dintegral ordering is unsupported under tested discretization and transport choices.",
+    "evidence": [
+      "CONTRAST_CHECKS_EN.json"
+    ],
+    "checks": "Fine-grid signs mixed; common-diffusionx10 signs mixed; common-diffusionx50 contrasts are negative in all three seeds. Endpoints and hourly signs are reported separately.",
+    "conditions": "Model adequacy and assumption sensitivity, no fitting to a preferred order. A shared multiplier is not independent molecular calibration."
+  },
+  {
+    "conclusion": "Both-ratio central comparisons remain required, with numerical applicability toTE5still open.",
+    "evidence": [
+      "source-828496eff078a61349af"
+    ],
+    "checks": "Existing18core cases and both-ratio descriptive figures remain available; all current numericalN3followups useTE2.",
+    "conditions": "Do not inferTE5numerical robustness fromTE2or silently drop the5:1comparison. Existing figures are conditional candidates until final integration."
+  },
+  {
+    "conclusion": "The nine kinetic checks and final publication-readiness decision remain gated.",
+    "evidence": [
+      "NUMERICAL_DECISION_EN.json"
+    ],
+    "checks": "Persistent mesh and exposure effects explicitly reviewed; positive gate not generated.",
+    "conditions": "No common software defect requiring all18core runs to restart has been established. Targeted followup or affected-claim revision remains necessary; complete project duration is currently unvalidated."
+  }
+]

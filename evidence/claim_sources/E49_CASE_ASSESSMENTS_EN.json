@@ -1,0 +1,255 @@
+[
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "interpretation": "The 0.72 growth alternative in 2D has no primary screen flags at the declared sampled times and interval summary, but its living-target count exceeds the entire baseline N3 envelope at all 96 positive saved hours. Its largest paired difference is 71 targets at 6 h, outside the four declared screening times. The interval mean increases by 32.8594 targets, while the endpoint increases by 9 to 73. Absence of a primary flag therefore does not mean absence of a trajectory change. This interval shift is of similar scale to the largest completed baseline 2D mesh shift (+29.7344); that comparison is context, not an error estimate for this alternative.",
+    "primary_flag_entries": 0,
+    "count_flags": 0,
+    "exposure_flags": 0,
+    "undefined_primary": 0,
+    "signed_flag_entries": {},
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 313.6927083333333,
+    "paired_interval_mean_change": 32.859375,
+    "endpoint_targets": 73,
+    "paired_endpoint_change": 9,
+    "baseline_interval_mean_range": [
+      268.21875,
+      285.6510416666667
+    ],
+    "baseline_endpoint_range": [
+      47,
+      64
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "interpretation": "The 0.72 growth alternative in 3D increases the interval mean by 80.9479 targets and the endpoint by 88 to 169, above all three baseline values for both summaries. Fourteen count flags include later target and effector populations. Eight exposure entries represent four duplicated IFNG/TNF readouts at 24 h, all increased. At 48 h sphere contacts increase by 31 while saved links are unchanged. These observables do not identify a change in measured recognition or death mechanisms.",
+    "primary_flag_entries": 22,
+    "count_flags": 14,
+    "exposure_flags": 8,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 22
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 382.140625,
+    "paired_interval_mean_change": 80.94791666666667,
+    "endpoint_targets": 169,
+    "paired_endpoint_change": 88,
+    "baseline_interval_mean_range": [
+      296.7291666666667,
+      307.96875
+    ],
+    "baseline_endpoint_range": [
+      81,
+      90
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "interpretation": "The 0.72 growth alternative in local entry increases the interval mean by 118.9792 and the endpoint by 210 to 368. Living targets rise from 321 at 72 h to 368 at 96 h, while the paired baseline falls from 167 to 158. Thirteen positive population flags accompany one negative effector endpoint flag; all 28 flagged exposure entries decrease. However, integrated target-local IFNG increases slightly (+0.1269 relative-unit hours) while its values at 24, 48 and 72 h decrease. A single field time point cannot substitute for the full exposure history. Initial-hull occupancy and its fraction decrease at 48 h, with four fewer contacts and four fewer saved links. Residual targets comprise 364 assigned Ag0 primed, two Ag0 unprimed and two AgHi primed agents.",
+    "primary_flag_entries": 42,
+    "count_flags": 14,
+    "exposure_flags": 28,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 13,
+      "negative": 29
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 468.6041666666667,
+    "paired_interval_mean_change": 118.97916666666667,
+    "endpoint_targets": 368,
+    "paired_endpoint_change": 210,
+    "baseline_interval_mean_range": [
+      340.9114583333333,
+      373.4166666666667
+    ],
+    "baseline_endpoint_range": [
+      147,
+      164
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "interpretation": "The 1.07 growth alternative in 2D increases the interval mean by 86.9323 targets and the endpoint by only 11 to 75. Its nine flags concern total, Ag0 and primed targets at 24/48 h and their interval averages. The endpoint alone substantially understates this trajectory difference; the maximum paired difference is 144 at 14 h. At 48 h occupancy fraction increases by 0.0346 while sphere contacts fall by 25. This does not support treating occupancy as a direct proxy for access-related function.",
+    "primary_flag_entries": 9,
+    "count_flags": 9,
+    "exposure_flags": 0,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 9
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 367.765625,
+    "paired_interval_mean_change": 86.93229166666667,
+    "endpoint_targets": 75,
+    "paired_endpoint_change": 11,
+    "baseline_interval_mean_range": [
+      268.21875,
+      285.6510416666667
+    ],
+    "baseline_endpoint_range": [
+      47,
+      64
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "interpretation": "The 1.07 growth alternative in 3D increases the interval mean by 152.8906 and the endpoint by 213 to 294, above the baseline N3 ranges. Fourteen count flags and two duplicated field-maximum flags are present. All endpoint targets are assigned Ag0 primed. At 48 h occupancy fraction decreases by 0.0510, whereas sphere contacts increase by 38 and saved links by two. Differences between these spatial measures are retained; none is a measured mechanistic fraction.",
+    "primary_flag_entries": 16,
+    "count_flags": 14,
+    "exposure_flags": 2,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 16
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 454.0833333333333,
+    "paired_interval_mean_change": 152.890625,
+    "endpoint_targets": 294,
+    "paired_endpoint_change": 213,
+    "baseline_interval_mean_range": [
+      296.7291666666667,
+      307.96875
+    ],
+    "baseline_endpoint_range": [
+      81,
+      90
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "interpretation": "The 1.07 growth alternative in local entry increases the interval mean by 192.3333 and the endpoint by 360 to 518; living targets rise from 411 at 72 h to 518 at 96 h. Fifteen count flags and 32 duplicated exposure entries occur. Twenty-eight exposure entries increase and four decrease, so the field response is not uniformly shifted. Target-local IFNG decreases at 48 h but increases at 72/96 h; the integrated change is +3.0165 relative-unit hours. The endpoint contains 514 assigned Ag0 primed, two Ag0 unprimed and two AgHi primed agents. At 48 h occupancy fraction decreases by 0.0408, while contacts rise by 45 and saved links by six.",
+    "primary_flag_entries": 47,
+    "count_flags": 15,
+    "exposure_flags": 32,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 43,
+      "negative": 4
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 541.9583333333334,
+    "paired_interval_mean_change": 192.33333333333334,
+    "endpoint_targets": 518,
+    "paired_endpoint_change": 360,
+    "baseline_interval_mean_range": [
+      340.9114583333333,
+      373.4166666666667
+    ],
+    "baseline_endpoint_range": [
+      147,
+      164
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "interpretation": "The low background-loss alternative in 2D raises endpoint effectors by 359 to 1120 and their interval mean by 172.4427. All five flags are effector counts. The living-target interval mean changes by -4.8490 and the endpoint by -9 to 55; both remain inside the baseline N3 ranges. The target difference changes sign over time and has a maximum absolute value of 25. At 48 h the number of effectors within the initial hull increases by 80 but the occupancy fraction falls by 0.0631, reflecting the different denominator as the effector population grows. This result does not establish improved efficacy.",
+    "primary_flag_entries": 5,
+    "count_flags": 5,
+    "exposure_flags": 0,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 5
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 275.984375,
+    "paired_interval_mean_change": -4.848958333333333,
+    "endpoint_targets": 55,
+    "paired_endpoint_change": -9,
+    "baseline_interval_mean_range": [
+      268.21875,
+      285.6510416666667
+    ],
+    "baseline_endpoint_range": [
+      47,
+      64
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "interpretation": "The low background-loss alternative in 3D raises endpoint effectors by 397 to 1108 and their interval mean by 183.7656. All five flags concern effectors. The target interval mean changes by +5.1823 and the endpoint by +7 to 88, both within the baseline N3 ranges. The paired target trajectory changes sign, with maximum absolute difference 38. Contacts increase by 77 at 48 h, while saved links are unchanged. An increase in effector number or geometric contacts does not imply a matching decrease in residual targets in this configured realization.",
+    "primary_flag_entries": 5,
+    "count_flags": 5,
+    "exposure_flags": 0,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 5
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 306.375,
+    "paired_interval_mean_change": 5.182291666666667,
+    "endpoint_targets": 88,
+    "paired_endpoint_change": 7,
+    "baseline_interval_mean_range": [
+      296.7291666666667,
+      307.96875
+    ],
+    "baseline_endpoint_range": [
+      81,
+      90
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "interpretation": "The low background-loss alternative in local entry raises endpoint effectors by 371 to 1312 and their interval mean by 172.9323. The target interval mean changes by +3.0938 within the baseline N3 range; the endpoint changes by +18 to 176, above its baseline range 147-164 but below the 60-target reporting tolerance. The target trajectory changes sign and its maximum absolute difference is 32. Five effector flags accompany 40 duplicated exposure entries, 38 decreasing and two increasing. Target-local IFNG is lower at 24/72/96 h but slightly higher at 48 h; its integral falls by 0.9539 relative-unit hours. At 48 h occupancy count rises by 85 while its fraction falls by 0.0622; contacts and saved links increase by 13 and three. A small net target difference therefore does not establish unchanged fields or spatial dynamics.",
+    "primary_flag_entries": 45,
+    "count_flags": 5,
+    "exposure_flags": 40,
+    "undefined_primary": 0,
+    "signed_flag_entries": {
+      "positive": 7,
+      "negative": 38
+    },
+    "reference_ratio": 2,
+    "seed": 0,
+    "target_interval_mean": 352.71875,
+    "paired_interval_mean_change": 3.09375,
+    "endpoint_targets": 176,
+    "paired_endpoint_change": 18,
+    "baseline_interval_mean_range": [
+      340.9114583333333,
+      373.4166666666667
+    ],
+    "baseline_endpoint_range": [
+      147,
+      164
+    ],
+    "primary_flag_disposition": "Retained as model dependence at the specified seed and configuration; no parameter adequacy or resolution-independent robustness accepted.",
+    "full_trajectory_reference": "CASE_READOUTS_EN.json",
+    "spatial_and_field_reference": "ALL_PAIRED_METRICS_EN.json"
+  }
+]

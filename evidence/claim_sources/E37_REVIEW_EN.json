@@ -1,0 +1,33 @@
+{
+  "utc": "2026-10-07T00:30:18.055922+00:00",
+  "substantive_review_complete": true,
+  "unique_cases": 7,
+  "previously_new_spatial_cases_reviewed": 4,
+  "original_pairs": 4,
+  "additional_existing_output_pairs": 1,
+  "arithmetic": {
+    "utc": "2026-10-07T00:27:42.139610+00:00",
+    "passed": true,
+    "hourly_population_reconciliations": 679,
+    "native_scalar_comparisons": 56,
+    "native_field_comparisons": 112,
+    "input_pairs": 5,
+    "paired_scalar_metrics": 750,
+    "paired_spatial_metrics": 295,
+    "full_hourly_contrasts": 160,
+    "same_saved_onsets": 20,
+    "fraction_trapezoids_verified": 160,
+    "source_hourly_files_manifest_verified": 26,
+    "new_simulations": 0,
+    "raw_files_modified": false
+  },
+  "all_full_target_contrasts_cross": true,
+  "normalized_direction_positive_case_hours": 672,
+  "matched_design_rechecked": true,
+  "new_simulations": 0,
+  "convergence_established": false,
+  "material_parameter_bases_accepted": 4,
+  "material_parameter_bases_unresolved": 13,
+  "whole_package_qualified": false,
+  "project_complete": false
+}

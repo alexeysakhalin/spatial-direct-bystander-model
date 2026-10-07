@@ -1,0 +1,1334 @@
+[
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover0_local_entry_seed0",
+    "native_spatial_reference": false,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "cf816c4cece7129790a19ef9599ffa33a8153230827d6eb0cb516f23b640e2c1"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "paired_medium_exchange"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover10_3d_seed0",
+    "native_spatial_reference": false,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "a6683943ccae7c9d15dfa0b1b47897a015b78365e782fe97c6bbe0ca7cfe606f"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "paired_medium_exchange"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "turnover10_2d_seed0",
+    "native_spatial_reference": false,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "b8bf6ea92ef767a9ebd1955b732887c09fcc8e866c69ecc161101c28c143c3fa"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "paired_medium_exchange"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover1_local_entry_seed0",
+    "native_spatial_reference": false,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "00e8c32ac089178e13858dfd785c3fe0492809834e2a8ea9d8c49fb6f5428cfa"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "paired_medium_exchange"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "turnover0_2d_dt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "58c6e3acc2b74f9cc43fbca46e0723507f976615ab993986d1c7984c35d8c9fa"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "original_repeats_or_resolution"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover0_3d_dt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "b1e016c96584a0c3da9df5a4dc09db9d06a77a9bc798a3f19c22eb58bcf8c19b"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "original_repeats_or_resolution"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover10_local_entry_dt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "497dca99829d19c06e2b55bfba7f9113d73abc315d997a03f57c7c5f93c7c328"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "original_repeats_or_resolution"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "turnover0_2d_mesh_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "d00233546b0d6eb206bace51d5015039ae5fad0a2ac47b2579050c653150e8d4"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "original_repeats_or_resolution"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover0_3d_mesh_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "72a285b7734b3a15c07e2c76ec348785f10171307242f90d1c741d3e1a858323"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "original_repeats_or_resolution"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover10_local_entry_mesh_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "0b06686f4797c9c196f03dbcd5f48338c76ec5a0d2e733a1f60d3e0eaa0a8342"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "original_repeats_or_resolution"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_loss_both_half96h_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "14b77ce54a6224880ea506ec8ae46ac0ebcb7435cb82ad1e6ccb1c6b163eb994"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_loss_both_half9p6h_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "b538f6a12ff9488f4e5bb5594d2e9c1ed94eaed08a0e1fc719c2018eed1aa7c6"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_loss_ifng_half96h_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8d285e79006438796a9c86d40722d2ebdedaa6651d6b2038cf31e2667b6a0246"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_loss_tnf_half96h_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8048bc184256d470dd8b3c36e753f3426d3fe6d6a7eaaea877bd0a6cecc5a074"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_volume_half_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "777b9899fe696799498c5270468b262f8c019d3b21de70360b9b99580a432920"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_volume_double_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "6adbfb98928dc601803cd10bfcfb4e9b818aaee891810b7a29d48c60b900c8b2"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_memory_gate_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "303e0ea3b9c7e8c9b1ce338548521d6410065c2604e4bcc9aa1510b84a490fcd"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_memory_150min_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8e68b90535883efdd9e00630771188df36e2d90ebb77043f417312237e75d321"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_stage_360min_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "5e030739a54ef17f3c9c09088b78622bd8024c9349085cb4d55fff42b9cb7679"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_stage_1440min_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "3d36efbbc4dc5906d16a7476dbb41637b32d7156517c76be5424d94c9d73cbe1"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_hazard_half_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "f987881a843d128854524bdd9b798bdfddf65d577a012530c7e6a65fbe7640ab"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_hazard_double_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "1af8182fb73a1ca37684ebac996daf432c2a2145a0ac09f4a00cd6f6ac7d1883"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_chemokine_loss_0p01_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "ba1149ab8beba8d3ba9116f6693b63a6c040bc0f82ac5ebe6995739714740ef8"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_chemokine_loss_1_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "0bd7df4b2947d77eca05bf4b4c3c7c40ed53c5ee7364a7515ab5569a8a8d5f53"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_speed_half_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "761ab2097e5386b114c219c7ebee16794fd96a8ecdc3e3c93f5301e924b2bb9c"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_speed_double_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "c656fa899b2462e4b21012cfa1b629c345a28e9baac7be14c2c5e292572db4a0"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "sensitivity"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 0,
+    "id": "control_no_cart_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "4154d19c0ec1db897ea783d66e7e6ff7dcb60d0a7cfd56f6b6770f8569c37db6",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "e63263322a0abad45a8b0ec4a6ce9cc57d875b3c9dad926e2942ff2df6903175"
+    },
+    "ratio": null,
+    "reference_ratio": 2,
+    "roles": [
+      "controls"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 0,
+    "id": "control_no_cart_3d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "b8c816fbc945bcbe95150448a5b95c079a78f5f3d60ab99fa07cc248b1ba1465",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "65f6e19ba9fa0484b8d68eaa344ef94a4c52aecd7d083dfca5ee99c4270cdde4"
+    },
+    "ratio": null,
+    "reference_ratio": 2,
+    "roles": [
+      "controls"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 0,
+    "id": "control_no_cart_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "d44487567ffd0820daa4e61821201e51e2b1c3d7fdf5b3a48bcdf6a9f76b4551",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "399aad2cf5ef3a308fdf0d17ecd72e8a8ccc1a9d606014c8534d3eb8aad6d556"
+    },
+    "ratio": null,
+    "reference_ratio": 2,
+    "roles": [
+      "controls"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_il2_loss_0p01_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8ac31f9eef47e632bc1addbe8007e67d8f81888bda2ce3658a3b126242691e75"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "controls"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_il2_loss_zero_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "54f8ba7b363c7972b9787982e7d3d889fbfef2cf20d17533b495dfa969bd3528"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "controls"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "86305d71d950caff2b960d16b178ab80e1847a7ea18f50013205554a152a0b11"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "diffusion"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_2d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "fd0e28547e85977b09d73e94baf84f42f1102377b96a94fa7481e49c878f7abe"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "diffusion"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_3d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "458a79fff77f78b9eec164765f8ac6deb37104e2f07e3bdefefb47ee2dea676b"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "diffusion"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_3d_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "f8bd668943bc3d0ce9ecfacc4514367d6db3c2828c62c4a5dc281a3eb27c6a18"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "diffusion"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "4fceada1a7ded5148f26c9c17ed9e4c67f4f3a127a37a36bc4cc921cd184fb9b"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "diffusion"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_local_entry_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "f3c44096cf37e5d5aee947be93b1e67d729eb407f92c94a81c0247c92cc45f77"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "diffusion"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover0_3d_dt_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "3caf61ead8fa5bd3fd08f8da7535467f545e5fd1794512a94bd57554b7c2490b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "49daa2e232aacd1f54e956c56741a7ab48dd478194825275a34db1060a750c64"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover0_3d_dt_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "67cc6c19e0453f75e531ec60dc30169701552a2d71d220f77557f4ed3983304f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "90bc208ffded7fd6d4dfadf71d7e97419f4f41af6c2617aee17ba0c8ae0f2f8f"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover10_local_entry_dt_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "2245e1f5c5e93a1e5cd51d5253bb0c4404125453a47a521779e3a6ae37ed0f67"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover10_local_entry_dt_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "4a160f89a06b89aa26a2dd97b759cba2a28495dabc30da3fe6c210941bcf22d4"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "turnover0_2d_mesh_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "cd194b4b554eedd24105038098cedaa6c29e98835889a0dcf0c9e5817ad56aac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "18368108f76774cbe85659654fc8335978860d114fe3500f22673a6cd33b9d89"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "turnover0_2d_mesh_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "50ab09f332930e4181ee02a61fa778124ee2af58ca1d39680592d21fcf90dd5c",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "de20c6ecbee07e9f4f864b4e447024fdeab8ec69c864ba64f26587aa74a03184"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover0_3d_mesh_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "3caf61ead8fa5bd3fd08f8da7535467f545e5fd1794512a94bd57554b7c2490b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "7bd41dec9add9b76bc76fea836cbaf0e92eced834d6053f84cdb4fbe531497f0"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "turnover0_3d_mesh_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "67cc6c19e0453f75e531ec60dc30169701552a2d71d220f77557f4ed3983304f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "c27dc5e7e4d6f608f2e1b41d0a0565b9a6a7302f1dbe2b3bf32b803526410a48"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover10_local_entry_mesh_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "ed3eacf81c07c8af6d64e6164dee324afe1129f097d62928cec227a77efd86e1"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "turnover10_local_entry_mesh_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "dc308170270d4b6a74bee0008d630b9a1845377dc5c7ff7d307f333a188a04b3"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "numerical_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_2d_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "cd194b4b554eedd24105038098cedaa6c29e98835889a0dcf0c9e5817ad56aac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "fcbf9dba9a2b60f97b5f5a7da56e8a5bbbd1969825755ef6b4ccede6e1fb320e"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_2d_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "50ab09f332930e4181ee02a61fa778124ee2af58ca1d39680592d21fcf90dd5c",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "30d624d0102a4223590ec2ba0e6d3d55db064ee5bccc2d56d46b36e5787a50cd"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_2d_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "cd194b4b554eedd24105038098cedaa6c29e98835889a0dcf0c9e5817ad56aac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "3faffafe0347c54047448f59057f7686244f1e0cd89f682b88817f3c30555db4"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_2d_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "50ab09f332930e4181ee02a61fa778124ee2af58ca1d39680592d21fcf90dd5c",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "b1beaeacb19311aa64ff7b7827ec60d733e9c8c3a472a36ea620843d7ee4fecf"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_3d_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "3caf61ead8fa5bd3fd08f8da7535467f545e5fd1794512a94bd57554b7c2490b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8426b469840ad618c1ddf36be5748ab7e58697f920840d8fbbbfa9db1fc9e0ea"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_3d_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "67cc6c19e0453f75e531ec60dc30169701552a2d71d220f77557f4ed3983304f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "0b2136428532772ded8a9b5a8d90b57aaef17bbc8954f26e8e4df281db607f62"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_3d_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "3caf61ead8fa5bd3fd08f8da7535467f545e5fd1794512a94bd57554b7c2490b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "badc2b4ed7fe22eab0aeb89b6ce5198a9318c6ba57a0454387452d00bbb8935b"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_3d_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "67cc6c19e0453f75e531ec60dc30169701552a2d71d220f77557f4ed3983304f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "b4563b05c932ba414e41a639a33a61735722e21147178f1c91802f82eb245a0e"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_local_entry_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "3056c4fbd2f96bf1671745ad25ce3b1375ada42b94c876ffc97d14dbf2f4a550"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x10_local_entry_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "dcf0b2d8f3d73acd53a99511d62d3b1626e6374bb54073249b3c06457b081a0e"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_local_entry_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "bbaa0b7d6793f184e8c153acbda70a216e570cb55ee6c5a5f2c83ea703a5e673"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "sensitivity_diffusion_x50_local_entry_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "690dd29f09fc08a2ba2943051bea5d4a70483ec2bce948b0dcde4cfb9011f55a"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "transport_N3_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "te2_local_entry_mesh20_diffdt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8e4036a3577a77bcf62b555f94ae741ee65f593a4987db84c527889ec49a7842"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "te2_local_entry_mesh20_diffdt_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "e8af774b1b947b9dc3922647e8fe803625efa4f3720d72a2b665224fbc416a90"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 600,
+    "id": "te2_local_entry_mesh20_diffdt_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "f65b289f34b93e7dc8adae127b9da8db465bcf242478560eca35f5fc46214674"
+    },
+    "ratio": 2,
+    "reference_ratio": 2,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 240,
+    "id": "te5_2d_dt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "ba461b7b40a2b21b5bbca2a7338f574b7eb877f3dc924d7573b2b2ee90cc9df6",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "276a12ac38ed1f9116e9d9b6e8492a41e9d52c5853966409aa4689fdc46e936c"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 240,
+    "id": "te5_2d_mesh_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "ba461b7b40a2b21b5bbca2a7338f574b7eb877f3dc924d7573b2b2ee90cc9df6",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "d2d82067a74edbc35fe55ea2a0a02c1ba79a37534e69a05cb06e7faee3f8b456"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 240,
+    "id": "te5_3d_dt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "bb41cee3466e1cbe13357347c4031a36b91ee1d14becffeda6db6ed1d3c289cf",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8747365a27204c2debbfb70b88fce1a5e8794ac6c8274a0d0669327ea3c127e4"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 240,
+    "id": "te5_3d_mesh_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "bb41cee3466e1cbe13357347c4031a36b91ee1d14becffeda6db6ed1d3c289cf",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "46f2a75aea671ffde3c501121459225086a32d7718507314aeb5b6e1fc76aed9"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 240,
+    "id": "te5_local_entry_dt_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "b437379a613e4c251eb4a1707ffcedb65dad7df9c100491c8296a7b768536c17",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "ddb268e535b8fe7458db1d85c37b3135f23de9f7696b1d44c73e1081db7aa628"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 240,
+    "id": "te5_local_entry_mesh_half_seed0",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "b437379a613e4c251eb4a1707ffcedb65dad7df9c100491c8296a7b768536c17",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "5e8dc418624693fc908d344a21ca66b4032f278753e063d79fe6f80ca5ef4022"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "new_numerical_gap_followup"
+    ],
+    "seed": 0,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 240,
+    "id": "te5_2d_mesh_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "db4aa31b749a0c43c4710b652301bd95d284a0138e824f34cd8204a0046ad6ea",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "4d84ffe598df74eef26895f7a1aed4c239829ce8b674ef58888cedc9694c000c"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_numerical_seed_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "2d",
+    "effectors": 240,
+    "id": "te5_2d_mesh_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "68830fbc1cd519bca99a754733637060a1aa2ca0c772773cb05193ae0eb4f049",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "4e50055558d50c32b036259ce34835476814068ab42117a7ee0c61d35bc3b4f5"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_numerical_seed_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 240,
+    "id": "te5_local_entry_dt_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "ca428ff08889cca924a92b0a083e524edfb77e503fda82cc1911dff8a32e6f65",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "52ebb33f71ce17a83b9845f5708f5b60364550f6251c94512447e698ef09794d"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_numerical_seed_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 240,
+    "id": "te5_local_entry_dt_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "ac11313ad5dedced243dfb010f9b9fb701fe16d099e97d9508b96ed545145580",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "21a615ebf8375df68c3ff4ba7badd240524b5c3f38f3273598508db10f190292"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_numerical_seed_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 240,
+    "id": "te5_3d_mesh_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "0aa363efc336ac561001d0c8dd70298ac5972d752ba47479c8e91799538f5327",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "0ac46932d4ebdee1e712acfef185220449a0d69981240f59a2e95c994c0ae67f"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_3dmesh_seed_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "3d",
+    "effectors": 240,
+    "id": "te5_3d_mesh_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "77130bfac37a6182f467a6351be4298daa4fa8c7dfad0db7c959915e1085228b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "0db6207aa0c8efcc2cafd129f854de718044434348b52077c4c1b01bcbf2db73"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_3dmesh_seed_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  }
+]

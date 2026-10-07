@@ -1,0 +1,182 @@
+[
+  {
+    "arm": "2d",
+    "domain_volume_um3": 111392000.0,
+    "effectors": 600,
+    "id": "kinetics_growth_0p72_2d_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "f290d01de64547d1088a002814bd0ed54840643a9990f3fbe845183b37f86e77",
+      "settings.xml": "492610f369eb585322e4a2a8bf338cafa6f7593951dc454a85db59bfb2aab745"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 3344608000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "3d",
+    "domain_volume_um3": 125000000.0,
+    "effectors": 600,
+    "id": "kinetics_growth_0p72_3d_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "f290d01de64547d1088a002814bd0ed54840643a9990f3fbe845183b37f86e77",
+      "settings.xml": "f99dfdf08d394735bd04c49615361fb63ae57694d51a31aee89258a3443f7007"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 3331000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 600,
+    "id": "kinetics_growth_0p72_local_entry_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "f290d01de64547d1088a002814bd0ed54840643a9990f3fbe845183b37f86e77",
+      "settings.xml": "6547e9b894b5ace42ce46847f33abbab3ff76a404eff4b5dce462f674be77dc3"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "2d",
+    "domain_volume_um3": 111392000.0,
+    "effectors": 600,
+    "id": "kinetics_growth_1p07_2d_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "11e691953aaece81173ce7a57eea0672c20c333074fbb382cc1787f36e2595a9",
+      "settings.xml": "982bd0caef0bede622971610efb6fb985af4ed24a67b694acfa21138109f9c3d"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 3344608000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "3d",
+    "domain_volume_um3": 125000000.0,
+    "effectors": 600,
+    "id": "kinetics_growth_1p07_3d_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "11e691953aaece81173ce7a57eea0672c20c333074fbb382cc1787f36e2595a9",
+      "settings.xml": "0569f208f0a94a6fe62cbd386286ec227f0f5308a85c6de79640f18758d8409c"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 3331000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 600,
+    "id": "kinetics_growth_1p07_local_entry_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "11e691953aaece81173ce7a57eea0672c20c333074fbb382cc1787f36e2595a9",
+      "settings.xml": "fc5d0f69c488299f8112a195b542b89f78fc3a37255436ad187f5ae39962efbe"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "2d",
+    "domain_volume_um3": 111392000.0,
+    "effectors": 600,
+    "id": "kinetics_effector_background_loss_2d_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "bfaae6569e9f02c2e0d840661a877435004bf193632dc9f2545c841a6700c940"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 3344608000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "3d",
+    "domain_volume_um3": 125000000.0,
+    "effectors": 600,
+    "id": "kinetics_effector_background_loss_3d_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "b52ad134080a811682f969b600eeec9935162d6ba59b3ac83782d4a070f2774a"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 3331000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 600,
+    "id": "kinetics_effector_background_loss_local_entry_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "87be9a263a13d172cd4046d48227bd186fff1f6cc491c25eadf0e3f43a707dab"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  }
+]

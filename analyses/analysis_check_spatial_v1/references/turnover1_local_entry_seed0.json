@@ -1,0 +1,1221 @@
+{
+  "acceptance": {
+    "end_h": 96,
+    "exit_code": 0,
+    "frames": 97,
+    "last": {
+      "live_effectors": 843,
+      "live_targets": 106,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 105,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 50,
+      "time_h": 96.0
+    },
+    "medium_audit_passed": true
+  },
+  "counts": [
+    {
+      "live_effectors": 600,
+      "live_targets": 1200,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn unprimed": 360,
+        "tumor AgHi CytoOn unprimed": 840
+      },
+      "oxygen_max_absolute_error": 0.0,
+      "retained_dead": 0,
+      "time_h": 0.0
+    },
+    {
+      "live_effectors": 598,
+      "live_targets": 1204,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 1,
+        "tumor Ag0 CytoOn unprimed": 358,
+        "tumor AgHi CytoOn unprimed": 845
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 9,
+      "time_h": 1.0
+    },
+    {
+      "live_effectors": 609,
+      "live_targets": 1191,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 47,
+        "tumor Ag0 CytoOn unprimed": 311,
+        "tumor AgHi CytoOn primed": 98,
+        "tumor AgHi CytoOn unprimed": 735
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 28,
+      "time_h": 2.0
+    },
+    {
+      "live_effectors": 619,
+      "live_targets": 1105,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 95,
+        "tumor Ag0 CytoOn unprimed": 264,
+        "tumor AgHi CytoOn primed": 165,
+        "tumor AgHi CytoOn unprimed": 581
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 118,
+      "time_h": 3.0
+    },
+    {
+      "live_effectors": 629,
+      "live_targets": 974,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 125,
+        "tumor Ag0 CytoOn unprimed": 234,
+        "tumor AgHi CytoOn primed": 213,
+        "tumor AgHi CytoOn unprimed": 402
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 253,
+      "time_h": 4.0
+    },
+    {
+      "live_effectors": 642,
+      "live_targets": 839,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 156,
+        "tumor Ag0 CytoOn unprimed": 200,
+        "tumor AgHi CytoOn primed": 219,
+        "tumor AgHi CytoOn unprimed": 264
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 388,
+      "time_h": 5.0
+    },
+    {
+      "live_effectors": 660,
+      "live_targets": 759,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 186,
+        "tumor Ag0 CytoOn unprimed": 172,
+        "tumor AgHi CytoOn primed": 209,
+        "tumor AgHi CytoOn unprimed": 192
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 471,
+      "time_h": 6.0
+    },
+    {
+      "live_effectors": 673,
+      "live_targets": 712,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 206,
+        "tumor Ag0 CytoOn unprimed": 151,
+        "tumor AgHi CytoOn primed": 209,
+        "tumor AgHi CytoOn unprimed": 146
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 525,
+      "time_h": 7.0
+    },
+    {
+      "live_effectors": 686,
+      "live_targets": 698,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 221,
+        "tumor Ag0 CytoOn unprimed": 135,
+        "tumor AgHi CytoOn primed": 227,
+        "tumor AgHi CytoOn unprimed": 115
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 544,
+      "time_h": 8.0
+    },
+    {
+      "live_effectors": 694,
+      "live_targets": 683,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 239,
+        "tumor Ag0 CytoOn unprimed": 116,
+        "tumor AgHi CytoOn primed": 226,
+        "tumor AgHi CytoOn unprimed": 102
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 562,
+      "time_h": 9.0
+    },
+    {
+      "live_effectors": 700,
+      "live_targets": 663,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 253,
+        "tumor Ag0 CytoOn unprimed": 99,
+        "tumor AgHi CytoOn primed": 227,
+        "tumor AgHi CytoOn unprimed": 84
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 578,
+      "time_h": 10.0
+    },
+    {
+      "live_effectors": 710,
+      "live_targets": 637,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 262,
+        "tumor Ag0 CytoOn unprimed": 88,
+        "tumor AgHi CytoOn primed": 214,
+        "tumor AgHi CytoOn unprimed": 73
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 565,
+      "time_h": 11.0
+    },
+    {
+      "live_effectors": 718,
+      "live_targets": 619,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 272,
+        "tumor Ag0 CytoOn unprimed": 78,
+        "tumor AgHi CytoOn primed": 210,
+        "tumor AgHi CytoOn unprimed": 59
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 460,
+      "time_h": 12.0
+    },
+    {
+      "live_effectors": 724,
+      "live_targets": 591,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 276,
+        "tumor Ag0 CytoOn unprimed": 72,
+        "tumor AgHi CytoOn primed": 196,
+        "tumor AgHi CytoOn unprimed": 47
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 357,
+      "time_h": 13.0
+    },
+    {
+      "live_effectors": 727,
+      "live_targets": 573,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 280,
+        "tumor Ag0 CytoOn unprimed": 66,
+        "tumor AgHi CytoOn primed": 189,
+        "tumor AgHi CytoOn unprimed": 38
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 262,
+      "time_h": 14.0
+    },
+    {
+      "live_effectors": 738,
+      "live_targets": 558,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 285,
+        "tumor Ag0 CytoOn unprimed": 58,
+        "tumor AgHi CytoOn primed": 183,
+        "tumor AgHi CytoOn unprimed": 32
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 206,
+      "time_h": 15.0
+    },
+    {
+      "live_effectors": 742,
+      "live_targets": 538,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 286,
+        "tumor Ag0 CytoOn unprimed": 54,
+        "tumor AgHi CytoOn primed": 174,
+        "tumor AgHi CytoOn unprimed": 24
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 205,
+      "time_h": 16.0
+    },
+    {
+      "live_effectors": 747,
+      "live_targets": 525,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 297,
+        "tumor Ag0 CytoOn unprimed": 43,
+        "tumor AgHi CytoOn primed": 165,
+        "tumor AgHi CytoOn unprimed": 20
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 202,
+      "time_h": 17.0
+    },
+    {
+      "live_effectors": 750,
+      "live_targets": 513,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 300,
+        "tumor Ag0 CytoOn unprimed": 38,
+        "tumor AgHi CytoOn primed": 157,
+        "tumor AgHi CytoOn unprimed": 18
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 193,
+      "time_h": 18.0
+    },
+    {
+      "live_effectors": 753,
+      "live_targets": 503,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 306,
+        "tumor Ag0 CytoOn unprimed": 31,
+        "tumor AgHi CytoOn primed": 150,
+        "tumor AgHi CytoOn unprimed": 16
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 186,
+      "time_h": 19.0
+    },
+    {
+      "live_effectors": 758,
+      "live_targets": 491,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 304,
+        "tumor Ag0 CytoOn unprimed": 29,
+        "tumor AgHi CytoOn primed": 145,
+        "tumor AgHi CytoOn unprimed": 13
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 171,
+      "time_h": 20.0
+    },
+    {
+      "live_effectors": 758,
+      "live_targets": 487,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 308,
+        "tumor Ag0 CytoOn unprimed": 22,
+        "tumor AgHi CytoOn primed": 146,
+        "tumor AgHi CytoOn unprimed": 11
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 160,
+      "time_h": 21.0
+    },
+    {
+      "live_effectors": 765,
+      "live_targets": 479,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 308,
+        "tumor Ag0 CytoOn unprimed": 21,
+        "tumor AgHi CytoOn primed": 140,
+        "tumor AgHi CytoOn unprimed": 10
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 146,
+      "time_h": 22.0
+    },
+    {
+      "live_effectors": 768,
+      "live_targets": 474,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 311,
+        "tumor Ag0 CytoOn unprimed": 19,
+        "tumor AgHi CytoOn primed": 135,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 133,
+      "time_h": 23.0
+    },
+    {
+      "live_effectors": 766,
+      "live_targets": 466,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 312,
+        "tumor Ag0 CytoOn unprimed": 15,
+        "tumor AgHi CytoOn primed": 130,
+        "tumor AgHi CytoOn unprimed": 9
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 130,
+      "time_h": 24.0
+    },
+    {
+      "live_effectors": 761,
+      "live_targets": 455,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 309,
+        "tumor Ag0 CytoOn unprimed": 12,
+        "tumor AgHi CytoOn primed": 127,
+        "tumor AgHi CytoOn unprimed": 7
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 122,
+      "time_h": 25.0
+    },
+    {
+      "live_effectors": 760,
+      "live_targets": 445,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 309,
+        "tumor Ag0 CytoOn unprimed": 12,
+        "tumor AgHi CytoOn primed": 118,
+        "tumor AgHi CytoOn unprimed": 6
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 126,
+      "time_h": 26.0
+    },
+    {
+      "live_effectors": 766,
+      "live_targets": 432,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 303,
+        "tumor Ag0 CytoOn unprimed": 12,
+        "tumor AgHi CytoOn primed": 111,
+        "tumor AgHi CytoOn unprimed": 6
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 130,
+      "time_h": 27.0
+    },
+    {
+      "live_effectors": 767,
+      "live_targets": 427,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 300,
+        "tumor Ag0 CytoOn unprimed": 12,
+        "tumor AgHi CytoOn primed": 110,
+        "tumor AgHi CytoOn unprimed": 5
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 121,
+      "time_h": 28.0
+    },
+    {
+      "live_effectors": 767,
+      "live_targets": 421,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 296,
+        "tumor Ag0 CytoOn unprimed": 11,
+        "tumor AgHi CytoOn primed": 109,
+        "tumor AgHi CytoOn unprimed": 5
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 121,
+      "time_h": 29.0
+    },
+    {
+      "live_effectors": 767,
+      "live_targets": 415,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 296,
+        "tumor Ag0 CytoOn unprimed": 9,
+        "tumor AgHi CytoOn primed": 105,
+        "tumor AgHi CytoOn unprimed": 5
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 120,
+      "time_h": 30.0
+    },
+    {
+      "live_effectors": 768,
+      "live_targets": 408,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 293,
+        "tumor Ag0 CytoOn unprimed": 8,
+        "tumor AgHi CytoOn primed": 105,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 118,
+      "time_h": 31.0
+    },
+    {
+      "live_effectors": 765,
+      "live_targets": 405,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 295,
+        "tumor Ag0 CytoOn unprimed": 8,
+        "tumor AgHi CytoOn primed": 100,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 126,
+      "time_h": 32.0
+    },
+    {
+      "live_effectors": 763,
+      "live_targets": 399,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 296,
+        "tumor Ag0 CytoOn unprimed": 8,
+        "tumor AgHi CytoOn primed": 93,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 122,
+      "time_h": 33.0
+    },
+    {
+      "live_effectors": 765,
+      "live_targets": 396,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 295,
+        "tumor Ag0 CytoOn unprimed": 6,
+        "tumor AgHi CytoOn primed": 93,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 118,
+      "time_h": 34.0
+    },
+    {
+      "live_effectors": 767,
+      "live_targets": 392,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 290,
+        "tumor Ag0 CytoOn unprimed": 6,
+        "tumor AgHi CytoOn primed": 94,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 106,
+      "time_h": 35.0
+    },
+    {
+      "live_effectors": 772,
+      "live_targets": 382,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 287,
+        "tumor Ag0 CytoOn unprimed": 6,
+        "tumor AgHi CytoOn primed": 87,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 107,
+      "time_h": 36.0
+    },
+    {
+      "live_effectors": 769,
+      "live_targets": 368,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 282,
+        "tumor Ag0 CytoOn unprimed": 5,
+        "tumor AgHi CytoOn primed": 79,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 110,
+      "time_h": 37.0
+    },
+    {
+      "live_effectors": 777,
+      "live_targets": 358,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 278,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 74,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 113,
+      "time_h": 38.0
+    },
+    {
+      "live_effectors": 776,
+      "live_targets": 344,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 269,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 69,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 121,
+      "time_h": 39.0
+    },
+    {
+      "live_effectors": 778,
+      "live_targets": 337,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 263,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 68,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 121,
+      "time_h": 40.0
+    },
+    {
+      "live_effectors": 780,
+      "live_targets": 335,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 262,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 67,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 118,
+      "time_h": 41.0
+    },
+    {
+      "live_effectors": 779,
+      "live_targets": 327,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 257,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 64,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 117,
+      "time_h": 42.0
+    },
+    {
+      "live_effectors": 780,
+      "live_targets": 317,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 251,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 60,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 118,
+      "time_h": 43.0
+    },
+    {
+      "live_effectors": 785,
+      "live_targets": 316,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 249,
+        "tumor Ag0 CytoOn unprimed": 4,
+        "tumor AgHi CytoOn primed": 61,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 109,
+      "time_h": 44.0
+    },
+    {
+      "live_effectors": 785,
+      "live_targets": 306,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 246,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 56,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 109,
+      "time_h": 45.0
+    },
+    {
+      "live_effectors": 789,
+      "live_targets": 298,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 242,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 52,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 106,
+      "time_h": 46.0
+    },
+    {
+      "live_effectors": 791,
+      "live_targets": 284,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 235,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 45,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 111,
+      "time_h": 47.0
+    },
+    {
+      "live_effectors": 793,
+      "live_targets": 278,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 231,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 43,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 107,
+      "time_h": 48.0
+    },
+    {
+      "live_effectors": 799,
+      "live_targets": 263,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 220,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 39,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 113,
+      "time_h": 49.0
+    },
+    {
+      "live_effectors": 801,
+      "live_targets": 256,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 215,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 37,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 111,
+      "time_h": 50.0
+    },
+    {
+      "live_effectors": 803,
+      "live_targets": 250,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 212,
+        "tumor Ag0 CytoOn unprimed": 2,
+        "tumor AgHi CytoOn primed": 34,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 104,
+      "time_h": 51.0
+    },
+    {
+      "live_effectors": 804,
+      "live_targets": 244,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 212,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 29,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 109,
+      "time_h": 52.0
+    },
+    {
+      "live_effectors": 805,
+      "live_targets": 237,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 209,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 25,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 110,
+      "time_h": 53.0
+    },
+    {
+      "live_effectors": 809,
+      "live_targets": 232,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 207,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 22,
+        "tumor AgHi CytoOn unprimed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 104,
+      "time_h": 54.0
+    },
+    {
+      "live_effectors": 814,
+      "live_targets": 228,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 206,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 20,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 98,
+      "time_h": 55.0
+    },
+    {
+      "live_effectors": 817,
+      "live_targets": 222,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 203,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 88,
+      "time_h": 56.0
+    },
+    {
+      "live_effectors": 822,
+      "live_targets": 220,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 201,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 84,
+      "time_h": 57.0
+    },
+    {
+      "live_effectors": 821,
+      "live_targets": 216,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 197,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 75,
+      "time_h": 58.0
+    },
+    {
+      "live_effectors": 824,
+      "live_targets": 216,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 197,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 67,
+      "time_h": 59.0
+    },
+    {
+      "live_effectors": 824,
+      "live_targets": 210,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 191,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 68,
+      "time_h": 60.0
+    },
+    {
+      "live_effectors": 826,
+      "live_targets": 204,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 185,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 17,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 64,
+      "time_h": 61.0
+    },
+    {
+      "live_effectors": 822,
+      "live_targets": 197,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 182,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 13,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 71,
+      "time_h": 62.0
+    },
+    {
+      "live_effectors": 821,
+      "live_targets": 189,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 175,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 12,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 80,
+      "time_h": 63.0
+    },
+    {
+      "live_effectors": 822,
+      "live_targets": 189,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 178,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 9,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 78,
+      "time_h": 64.0
+    },
+    {
+      "live_effectors": 819,
+      "live_targets": 184,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 174,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 8,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 81,
+      "time_h": 65.0
+    },
+    {
+      "live_effectors": 818,
+      "live_targets": 174,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 165,
+        "tumor Ag0 CytoOn unprimed": 1,
+        "tumor AgHi CytoOn primed": 7,
+        "tumor AgHi CytoOn unprimed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 90,
+      "time_h": 66.0
+    },
+    {
+      "live_effectors": 815,
+      "live_targets": 167,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 159,
+        "tumor AgHi CytoOn primed": 8
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 95,
+      "time_h": 67.0
+    },
+    {
+      "live_effectors": 816,
+      "live_targets": 163,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 156,
+        "tumor AgHi CytoOn primed": 7
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 99,
+      "time_h": 68.0
+    },
+    {
+      "live_effectors": 817,
+      "live_targets": 158,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 151,
+        "tumor AgHi CytoOn primed": 7
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 95,
+      "time_h": 69.0
+    },
+    {
+      "live_effectors": 815,
+      "live_targets": 153,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 148,
+        "tumor AgHi CytoOn primed": 5
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 92,
+      "time_h": 70.0
+    },
+    {
+      "live_effectors": 819,
+      "live_targets": 154,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 150,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 83,
+      "time_h": 71.0
+    },
+    {
+      "live_effectors": 820,
+      "live_targets": 151,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 147,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 78,
+      "time_h": 72.0
+    },
+    {
+      "live_effectors": 823,
+      "live_targets": 147,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 143,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 74,
+      "time_h": 73.0
+    },
+    {
+      "live_effectors": 823,
+      "live_targets": 147,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 143,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 72,
+      "time_h": 74.0
+    },
+    {
+      "live_effectors": 824,
+      "live_targets": 145,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 141,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 66,
+      "time_h": 75.0
+    },
+    {
+      "live_effectors": 827,
+      "live_targets": 147,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 143,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 62,
+      "time_h": 76.0
+    },
+    {
+      "live_effectors": 829,
+      "live_targets": 148,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 144,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 58,
+      "time_h": 77.0
+    },
+    {
+      "live_effectors": 827,
+      "live_targets": 143,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 139,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 62,
+      "time_h": 78.0
+    },
+    {
+      "live_effectors": 822,
+      "live_targets": 143,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 139,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 65,
+      "time_h": 79.0
+    },
+    {
+      "live_effectors": 823,
+      "live_targets": 140,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 136,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 63,
+      "time_h": 80.0
+    },
+    {
+      "live_effectors": 823,
+      "live_targets": 140,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 136,
+        "tumor AgHi CytoOn primed": 4
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 64,
+      "time_h": 81.0
+    },
+    {
+      "live_effectors": 821,
+      "live_targets": 137,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 134,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 62,
+      "time_h": 82.0
+    },
+    {
+      "live_effectors": 823,
+      "live_targets": 134,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 131,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 60,
+      "time_h": 83.0
+    },
+    {
+      "live_effectors": 821,
+      "live_targets": 132,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 129,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 59,
+      "time_h": 84.0
+    },
+    {
+      "live_effectors": 820,
+      "live_targets": 128,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 125,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 60,
+      "time_h": 85.0
+    },
+    {
+      "live_effectors": 822,
+      "live_targets": 127,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 124,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 59,
+      "time_h": 86.0
+    },
+    {
+      "live_effectors": 822,
+      "live_targets": 122,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 119,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 56,
+      "time_h": 87.0
+    },
+    {
+      "live_effectors": 828,
+      "live_targets": 123,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 120,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 50,
+      "time_h": 88.0
+    },
+    {
+      "live_effectors": 831,
+      "live_targets": 123,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 120,
+        "tumor AgHi CytoOn primed": 3
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 45,
+      "time_h": 89.0
+    },
+    {
+      "live_effectors": 832,
+      "live_targets": 122,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 120,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 48,
+      "time_h": 90.0
+    },
+    {
+      "live_effectors": 831,
+      "live_targets": 119,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 117,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 47,
+      "time_h": 91.0
+    },
+    {
+      "live_effectors": 834,
+      "live_targets": 112,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 110,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 51,
+      "time_h": 92.0
+    },
+    {
+      "live_effectors": 836,
+      "live_targets": 112,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 110,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 50,
+      "time_h": 93.0
+    },
+    {
+      "live_effectors": 840,
+      "live_targets": 114,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 112,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 43,
+      "time_h": 94.0
+    },
+    {
+      "live_effectors": 844,
+      "live_targets": 111,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 109,
+        "tumor AgHi CytoOn primed": 2
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 45,
+      "time_h": 95.0
+    },
+    {
+      "live_effectors": 843,
+      "live_targets": 106,
+      "live_targets_by_type": {
+        "tumor Ag0 CytoOn primed": 105,
+        "tumor AgHi CytoOn primed": 1
+      },
+      "oxygen_max_absolute_error": 2.842170943040401e-14,
+      "retained_dead": 50,
+      "time_h": 96.0
+    }
+  ],
+  "native_spatial_metrics": null,
+  "native_spatial_rows": null
+}

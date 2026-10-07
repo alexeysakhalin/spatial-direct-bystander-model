@@ -1,0 +1,42 @@
+{
+  "utc": "2026-10-07T00:04:17.139414+00:00",
+  "technical_validation_passed": true,
+  "substantive_review_complete_for_fixed_nine": true,
+  "cases": 9,
+  "hourly_states": 873,
+  "all_field_states": 891,
+  "ledger_rows": 1764,
+  "paired_scalar_metrics": 1350,
+  "paired_spatial_metrics": 441,
+  "primary_flag_entries": 191,
+  "count_flag_entries": 81,
+  "exposure_flag_entries": 110,
+  "IFNG_TNF_duplicated_flag_pairs": 55,
+  "flagged_cases": 8,
+  "unflagged_cases": 1,
+  "undefined_primary_metrics": 0,
+  "onset_comparisons_unchanged": 36,
+  "baseline_replicates_per_arm": 3,
+  "kinetic_replicates_per_alternative_arm": 1,
+  "growth_alternatives_above_baseline_envelope_at_all_96_positive_hours": true,
+  "all_nine_representation_contrasts_cross": true,
+  "parameter_choice_bases_accepted": 4,
+  "parameter_choice_bases_unresolved": 13,
+  "parameter_choice_bases_newly_accepted": 0,
+  "numerical_convergence_accepted": false,
+  "scientific_model_adequacy_accepted": false,
+  "scope": "Conditional TE2 one-factor checks at seed 0. All full normalized trajectories, signed and absolute integrals, antigen composition, fields, spatial observations, baseline N3 ranges and completed baseline numerical context are retained.",
+  "interpretation": [
+    "Growth alternatives materially change target trajectories and residuals; endpoint-only reporting misses substantial 2D changes.",
+    "A larger effector population under the background-loss alternative is accompanied by small target differences of mixed sign. Small target differences coexist with material local-entry field changes.",
+    "The tested interval and endpoint representation order persists in these nine finite configurations, but every pairwise curve crosses. This is not general robustness to parameter changes or a pure-dimensionality result.",
+    "IFNG and TNF fields remain identical relative-unit fields with different assigned roles. Their duplicate flags do not represent independent biological evidence.",
+    "Baseline numerical shifts are context only, not transferable kinetic error bars. No asymptotic convergence, biological calibration or in vivo inference follows."
+  ],
+  "basis_files": {
+    "source-952bb4f043c24f549073": "bf479ac8ad1b13fd67d72bae2f1af2313b2c9fe48ebf1fbdc4e7e6396d108859",
+    "source-f74720deb6fe00162b84": "1206cde1453719e0022fa797d8fe0337cb8778650c6c0a4e9dc9b800b49e71c2",
+    "source-d766bcd1ff3418b20ee5": "bad95c2bc9167a29db9e0d866b3a7f21ec70c70b4314d9e964b380fa424cc40d"
+  },
+  "parameter_basis_limitation": "Material parameter choices lack a complete quantitative basis for the present system. Literature findings from different systems do not establish calibration."
+}

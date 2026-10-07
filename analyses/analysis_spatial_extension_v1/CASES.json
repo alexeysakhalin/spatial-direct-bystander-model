@@ -1,0 +1,38 @@
+[
+  {
+    "arm": "local_entry",
+    "effectors": 240,
+    "id": "te5_local_entry_mesh_half_seed1",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "ca428ff08889cca924a92b0a083e524edfb77e503fda82cc1911dff8a32e6f65",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8d15c8aeae3798b3afc3723f64bb8481eda4a55b692cc8987aac855a761bc9d3"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_entrymesh_seed_followup"
+    ],
+    "seed": 1,
+    "targets": 1200
+  },
+  {
+    "arm": "local_entry",
+    "effectors": 240,
+    "id": "te5_local_entry_mesh_half_seed2",
+    "native_spatial_reference": true,
+    "portable_input_sha256": {
+      "cells.csv": "ac11313ad5dedced243dfb010f9b9fb701fe16d099e97d9508b96ed545145580",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "21ebd89ff0efda318cd10877d61d6e5b25632053509c9e971deb39ba6586695c"
+    },
+    "ratio": 5,
+    "reference_ratio": 5,
+    "roles": [
+      "TE5_rule_triggered_entrymesh_seed_followup"
+    ],
+    "seed": 2,
+    "targets": 1200
+  }
+]

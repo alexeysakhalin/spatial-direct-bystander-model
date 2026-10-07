@@ -1,0 +1,26 @@
+{
+  "utc": "2026-10-06T22:57:12.232129+00:00",
+  "passed": true,
+  "qualified_scientific_function_modules_retained_verbatim": 6,
+  "result_files_identical_in_two_code_metadata_locations": 79,
+  "cases": 74,
+  "hourly_access_and_field_count_reconciliations": 7178,
+  "all_summary_measures_independently_reconstructed": 4366,
+  "fractions_recomputed_with_rational_arithmetic": 1480,
+  "first_saved_onsets_recomputed": 296,
+  "native_summary_measures_reconciled": 3430,
+  "native_spatial_reference_cases": 70,
+  "additional_derived_medium_comparisons": 4,
+  "undefined_metric_values_retained": 132,
+  "signed_central_differences": {
+    "positive": 1274,
+    "negative": 1592,
+    "zero": 1368,
+    "undefined": 132
+  },
+  "source_and_result_manifests_verified": true,
+  "scope": "Independent saved-summary arithmetic and code/metadata relocation review. Geometry and gradients were reconstructed from hash-checked raw by the qualified readers. Additional derived medium-comparison results require substantive interpretation; this report does not grant numerical convergence, parameter calibration or final scientific acceptance.",
+  "scientific_review_complete": false,
+  "whole_package_qualified": false,
+  "project_complete": false
+}

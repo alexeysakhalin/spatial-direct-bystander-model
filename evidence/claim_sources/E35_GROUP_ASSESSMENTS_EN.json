@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "TE2_2d_dt_half",
+    "ratio": 2,
+    "arm": "2d",
+    "setting": "dt_half",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "finding": "The single reduced-step screen has no primary flags. Its target endpoint decreases from 64 to 48, while its interval-average target count increases by 11.698 cells; the sign therefore depends on the observable. This is a seed-0 screen, not an N3 adequacy result.",
+    "reporting_revision": "Report this tested step pair and retain both trajectories. Do not infer general time-step convergence from an unflagged single seed.",
+    "case_readouts": [
+      {
+        "case": "turnover0_2d_dt_half_seed0",
+        "seed": 0,
+        "endpoint": 48,
+        "reference_endpoint": 64,
+        "endpoint_difference": -16,
+        "time_average_difference": 11.697916666666666,
+        "time_average_absolute_difference": 15.427083333333334,
+        "max_absolute_hourly_difference": 32,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 0,
+        "flag_families": {},
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 48
+        },
+        "baseline_N3_endpoint_range": [
+          47,
+          64
+        ]
+      }
+    ],
+    "common_primary_flags": [],
+    "common_flags_with_consistent_nonzero_paired_sign": [],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE2_2d_mesh_half",
+    "ratio": 2,
+    "arm": "2d",
+    "setting": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "All three seeds flag the 24 h and 48 h IFNγ/TNF maxima; the duplicated fields are one numerical exposure pattern. Target-count summaries pass the prespecified screen, but their integral changes have mixed signs. At 48 h current-target contacts rise by 103–135 effectors although occupancy of the initial target hull decreases.",
+    "reporting_revision": "Retain finite-grid count comparisons with the exposure and access changes reported. Exclude resolution-invariant local exposure peaks and inferred migration or mechanism attribution.",
+    "case_readouts": [
+      {
+        "case": "turnover0_2d_mesh_half_seed0",
+        "seed": 0,
+        "endpoint": 56,
+        "reference_endpoint": 64,
+        "endpoint_difference": -8,
+        "time_average_difference": 3.90625,
+        "time_average_absolute_difference": 13.34375,
+        "max_absolute_hourly_difference": 45,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 56
+        },
+        "baseline_N3_endpoint_range": [
+          47,
+          64
+        ]
+      },
+      {
+        "case": "turnover0_2d_mesh_half_seed1",
+        "seed": 1,
+        "endpoint": 67,
+        "reference_endpoint": 50,
+        "endpoint_difference": 17,
+        "time_average_difference": 29.734375,
+        "time_average_absolute_difference": 30.296875,
+        "max_absolute_hourly_difference": 46,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 67
+        },
+        "baseline_N3_endpoint_range": [
+          47,
+          64
+        ]
+      },
+      {
+        "case": "turnover0_2d_mesh_half_seed2",
+        "seed": 2,
+        "endpoint": 57,
+        "reference_endpoint": 47,
+        "endpoint_difference": 10,
+        "time_average_difference": -12.291666666666666,
+        "time_average_absolute_difference": 12.979166666666666,
+        "max_absolute_hourly_difference": 35,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 57
+        },
+        "baseline_N3_endpoint_range": [
+          47,
+          64
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_100/at_48h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_100/at_48h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE2_3d_dt_half",
+    "ratio": 2,
+    "arm": "3d",
+    "setting": "dt_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "Seed 0 flags two effector-count summaries, seed 1 flags four duplicated IFNγ/TNF exposure summaries, and seed 2 has no primary flags. No metric is flagged in every seed. Target interval averages increase by 4.005–10.120 cells, while target endpoints differ by −3, +3 and +7. Absence of a common flag does not establish convergence.",
+    "reporting_revision": "Retain the full step-screen distribution. Do not convert a heterogeneous N3 result into a claim that all numerical effects are random or absent.",
+    "case_readouts": [
+      {
+        "case": "turnover0_3d_dt_half_seed0",
+        "seed": 0,
+        "endpoint": 78,
+        "reference_endpoint": 81,
+        "endpoint_difference": -3,
+        "time_average_difference": 4.005208333333333,
+        "time_average_absolute_difference": 10.432291666666666,
+        "max_absolute_hourly_difference": 60,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 2,
+        "flag_families": {
+          "count/live_effectors": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 77,
+          "tumor Ag0 CytoOn unprimed": 1
+        },
+        "baseline_N3_endpoint_range": [
+          81,
+          90
+        ]
+      },
+      {
+        "case": "turnover0_3d_dt_half_seed1",
+        "seed": 1,
+        "endpoint": 93,
+        "reference_endpoint": 90,
+        "endpoint_difference": 3,
+        "time_average_difference": 8.307291666666666,
+        "time_average_absolute_difference": 9.348958333333334,
+        "max_absolute_hourly_difference": 31,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 93
+        },
+        "baseline_N3_endpoint_range": [
+          81,
+          90
+        ]
+      },
+      {
+        "case": "turnover0_3d_dt_half_seed2",
+        "seed": 2,
+        "endpoint": 89,
+        "reference_endpoint": 82,
+        "endpoint_difference": 7,
+        "time_average_difference": 10.119791666666666,
+        "time_average_absolute_difference": 12.640625,
+        "max_absolute_hourly_difference": 31,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 0,
+        "flag_families": {},
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 89
+        },
+        "baseline_N3_endpoint_range": [
+          81,
+          90
+        ]
+      }
+    ],
+    "common_primary_flags": [],
+    "common_flags_with_consistent_nonzero_paired_sign": [],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE2_3d_mesh_half",
+    "ratio": 2,
+    "arm": "3d",
+    "setting": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "All three seeds share fourteen exposure flags: seven 24 h IFNγ observables and the identical TNF counterparts. Target integral differences have mixed signs. At 48 h initial-hull occupancy decreases by 0.219–0.282, whereas current-target contact counts rise by 216–226. The refined 3D-minus-2D integral has mixed signs across seeds.",
+    "reporting_revision": "Retain the baseline and refined comparisons separately. Reject an invariant positive 3D-minus-2D integral, convergence of local exposure, and a single spatial-access ranking.",
+    "case_readouts": [
+      {
+        "case": "turnover0_3d_mesh_half_seed0",
+        "seed": 0,
+        "endpoint": 61,
+        "reference_endpoint": 81,
+        "endpoint_difference": -20,
+        "time_average_difference": -19.395833333333332,
+        "time_average_absolute_difference": 20.0625,
+        "max_absolute_hourly_difference": 54,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 14,
+        "flag_families": {
+          "exposure/IFN-gamma": 7,
+          "exposure/TNF": 7
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 59,
+          "tumor Ag0 CytoOn unprimed": 2
+        },
+        "baseline_N3_endpoint_range": [
+          81,
+          90
+        ]
+      },
+      {
+        "case": "turnover0_3d_mesh_half_seed1",
+        "seed": 1,
+        "endpoint": 98,
+        "reference_endpoint": 90,
+        "endpoint_difference": 8,
+        "time_average_difference": -3.3541666666666665,
+        "time_average_absolute_difference": 10.708333333333334,
+        "max_absolute_hourly_difference": 27,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 14,
+        "flag_families": {
+          "exposure/IFN-gamma": 7,
+          "exposure/TNF": 7
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 98
+        },
+        "baseline_N3_endpoint_range": [
+          81,
+          90
+        ]
+      },
+      {
+        "case": "turnover0_3d_mesh_half_seed2",
+        "seed": 2,
+        "endpoint": 85,
+        "reference_endpoint": 82,
+        "endpoint_difference": 3,
+        "time_average_difference": 4.067708333333333,
+        "time_average_absolute_difference": 5.942708333333333,
+        "max_absolute_hourly_difference": 21,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 14,
+        "flag_families": {
+          "exposure/IFN-gamma": 7,
+          "exposure/TNF": 7
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 85
+        },
+        "baseline_N3_endpoint_range": [
+          81,
+          90
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_24h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+      "exposure/IFN-gamma/target_quantile_0/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_25/at_24h",
+      "exposure/IFN-gamma/target_quantile_50/at_24h",
+      "exposure/IFN-gamma/target_quantile_75/at_24h",
+      "exposure/TNF/domain_volume_weighted_mean/at_24h",
+      "exposure/TNF/target_nearest_voxel_mean/at_24h",
+      "exposure/TNF/target_quantile_0/at_24h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_25/at_24h",
+      "exposure/TNF/target_quantile_50/at_24h",
+      "exposure/TNF/target_quantile_75/at_24h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_24h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+      "exposure/IFN-gamma/target_quantile_0/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_25/at_24h",
+      "exposure/IFN-gamma/target_quantile_50/at_24h",
+      "exposure/IFN-gamma/target_quantile_75/at_24h",
+      "exposure/TNF/domain_volume_weighted_mean/at_24h",
+      "exposure/TNF/target_nearest_voxel_mean/at_24h",
+      "exposure/TNF/target_quantile_0/at_24h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_25/at_24h",
+      "exposure/TNF/target_quantile_50/at_24h",
+      "exposure/TNF/target_quantile_75/at_24h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE2_local_entry_dt_half",
+    "ratio": 2,
+    "arm": "local_entry",
+    "setting": "dt_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "Eighteen primary exposure entries are flagged in every seed, but only eight have a common nonzero direction. Effector-count flags occur in seeds 1 and 2. Target endpoints are 186, 154 and 167 versus 158, 164 and 147; interval-average changes have mixed signs. At 48 h hull occupancy and local CXCL medians decrease in all three seeds, while contact changes have mixed signs.",
+    "reporting_revision": "Retain step dependence for exposure, effector population and access. Do not claim stable field amplitudes or interpret the target endpoint range as a numerical error bound.",
+    "case_readouts": [
+      {
+        "case": "turnover10_local_entry_dt_half_seed0",
+        "seed": 0,
+        "endpoint": 186,
+        "reference_endpoint": 158,
+        "endpoint_difference": 28,
+        "time_average_difference": 23.447916666666668,
+        "time_average_absolute_difference": 24.864583333333332,
+        "max_absolute_hourly_difference": 56,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 28,
+        "flag_families": {
+          "exposure/IFN-gamma": 14,
+          "exposure/TNF": 14
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 186
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      },
+      {
+        "case": "turnover10_local_entry_dt_half_seed1",
+        "seed": 1,
+        "endpoint": 154,
+        "reference_endpoint": 164,
+        "endpoint_difference": -10,
+        "time_average_difference": -2.4791666666666665,
+        "time_average_absolute_difference": 15.9375,
+        "max_absolute_hourly_difference": 33,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 46,
+        "flag_families": {
+          "count/live_effectors": 4,
+          "exposure/IFN-gamma": 21,
+          "exposure/TNF": 21
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 152,
+          "tumor Ag0 CytoOn unprimed": 2
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      },
+      {
+        "case": "turnover10_local_entry_dt_half_seed2",
+        "seed": 2,
+        "endpoint": 167,
+        "reference_endpoint": 147,
+        "endpoint_difference": 20,
+        "time_average_difference": 13.927083333333334,
+        "time_average_absolute_difference": 15.53125,
+        "max_absolute_hourly_difference": 33,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 50,
+        "flag_families": {
+          "count/live_effectors": 2,
+          "exposure/IFN-gamma": 24,
+          "exposure/TNF": 24
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 166,
+          "tumor Ag0 CytoOn unprimed": 1
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+      "exposure/IFN-gamma/target_quantile_0/at_48h",
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_50/at_48h",
+      "exposure/IFN-gamma/target_quantile_50/at_72h",
+      "exposure/IFN-gamma/target_quantile_75/at_24h",
+      "exposure/IFN-gamma/target_quantile_75/at_48h",
+      "exposure/IFN-gamma/target_quantile_75/at_72h",
+      "exposure/TNF/target_nearest_voxel_mean/at_24h",
+      "exposure/TNF/target_nearest_voxel_mean/at_72h",
+      "exposure/TNF/target_quantile_0/at_48h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_50/at_48h",
+      "exposure/TNF/target_quantile_50/at_72h",
+      "exposure/TNF/target_quantile_75/at_24h",
+      "exposure/TNF/target_quantile_75/at_48h",
+      "exposure/TNF/target_quantile_75/at_72h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+      "exposure/IFN-gamma/target_quantile_50/at_48h",
+      "exposure/IFN-gamma/target_quantile_75/at_24h",
+      "exposure/IFN-gamma/target_quantile_75/at_48h",
+      "exposure/TNF/target_nearest_voxel_mean/at_24h",
+      "exposure/TNF/target_quantile_50/at_48h",
+      "exposure/TNF/target_quantile_75/at_24h",
+      "exposure/TNF/target_quantile_75/at_48h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE2_local_entry_mesh_half",
+    "ratio": 2,
+    "arm": "local_entry",
+    "setting": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "Sixty primary entries are flagged in every seed; fifty-six share a nonzero direction. Residual targets increase to 284–306 from 147–164. Mean absolute hourly target differences are 71.630–89.005 cells, much larger than some signed integral differences. At 48 h hull occupancy decreases by 0.408–0.521 and local CXCL medians decrease in all seeds, while current-target contacts increase.",
+    "reporting_revision": "Retain material grid dependence as a result. Report opposite early and late trajectory differences; reject continuum-level residual counts and grid-invariant exposure. The coupled transport-step check is evaluated separately and does not erase this result.",
+    "case_readouts": [
+      {
+        "case": "turnover10_local_entry_mesh_half_seed0",
+        "seed": 0,
+        "endpoint": 284,
+        "reference_endpoint": 158,
+        "endpoint_difference": 126,
+        "time_average_difference": 18.666666666666668,
+        "time_average_absolute_difference": 81.27083333333333,
+        "max_absolute_hourly_difference": 132,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 71,
+        "flag_families": {
+          "count/live_targets": 3,
+          "count/live_Ag_positive": 1,
+          "count/live_Ag_negative": 4,
+          "count/live_effectors": 4,
+          "count/live_primed_targets": 3,
+          "exposure/IFN-gamma": 28,
+          "exposure/TNF": 28
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 261,
+          "tumor Ag0 CytoOn unprimed": 23
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      },
+      {
+        "case": "turnover10_local_entry_mesh_half_seed1",
+        "seed": 1,
+        "endpoint": 295,
+        "reference_endpoint": 164,
+        "endpoint_difference": 131,
+        "time_average_difference": -1.8489583333333333,
+        "time_average_absolute_difference": 71.63020833333333,
+        "max_absolute_hourly_difference": 137,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 62,
+        "flag_families": {
+          "count/live_targets": 3,
+          "count/live_Ag_positive": 1,
+          "count/live_Ag_negative": 3,
+          "count/live_effectors": 4,
+          "count/live_primed_targets": 3,
+          "exposure/IFN-gamma": 24,
+          "exposure/TNF": 24
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 273,
+          "tumor Ag0 CytoOn unprimed": 22
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      },
+      {
+        "case": "turnover10_local_entry_mesh_half_seed2",
+        "seed": 2,
+        "endpoint": 306,
+        "reference_endpoint": 147,
+        "endpoint_difference": 159,
+        "time_average_difference": 38.734375,
+        "time_average_absolute_difference": 89.00520833333333,
+        "max_absolute_hourly_difference": 163,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 64,
+        "flag_families": {
+          "count/live_targets": 3,
+          "count/live_Ag_positive": 1,
+          "count/live_Ag_negative": 4,
+          "count/live_effectors": 5,
+          "count/live_primed_targets": 3,
+          "exposure/IFN-gamma": 24,
+          "exposure/TNF": 24
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 288,
+          "tumor Ag0 CytoOn unprimed": 18
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "count/live_Ag_negative/at_48h",
+      "count/live_Ag_negative/at_72h",
+      "count/live_Ag_negative/at_96h",
+      "count/live_Ag_positive/at_24h",
+      "count/live_effectors/at_48h",
+      "count/live_effectors/at_72h",
+      "count/live_effectors/at_96h",
+      "count/live_effectors/time_average_0_96h",
+      "count/live_primed_targets/at_24h",
+      "count/live_primed_targets/at_72h",
+      "count/live_primed_targets/at_96h",
+      "count/live_targets/at_24h",
+      "count/live_targets/at_72h",
+      "count/live_targets/at_96h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/AUC_0_96h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_48h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_72h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/AUC_0_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_48h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_48h",
+      "exposure/IFN-gamma/target_quantile_0/at_72h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/IFN-gamma/target_quantile_100/at_72h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_48h",
+      "exposure/IFN-gamma/target_quantile_25/at_72h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_48h",
+      "exposure/IFN-gamma/target_quantile_50/at_72h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_48h",
+      "exposure/IFN-gamma/target_quantile_75/at_72h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/TNF/domain_volume_weighted_mean/AUC_0_96h",
+      "exposure/TNF/domain_volume_weighted_mean/at_48h",
+      "exposure/TNF/domain_volume_weighted_mean/at_72h",
+      "exposure/TNF/domain_volume_weighted_mean/at_96h",
+      "exposure/TNF/target_nearest_voxel_mean/AUC_0_96h",
+      "exposure/TNF/target_nearest_voxel_mean/at_48h",
+      "exposure/TNF/target_nearest_voxel_mean/at_72h",
+      "exposure/TNF/target_nearest_voxel_mean/at_96h",
+      "exposure/TNF/target_quantile_0/at_48h",
+      "exposure/TNF/target_quantile_0/at_72h",
+      "exposure/TNF/target_quantile_0/at_96h",
+      "exposure/TNF/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_72h",
+      "exposure/TNF/target_quantile_100/at_96h",
+      "exposure/TNF/target_quantile_25/at_48h",
+      "exposure/TNF/target_quantile_25/at_72h",
+      "exposure/TNF/target_quantile_25/at_96h",
+      "exposure/TNF/target_quantile_50/at_48h",
+      "exposure/TNF/target_quantile_50/at_72h",
+      "exposure/TNF/target_quantile_50/at_96h",
+      "exposure/TNF/target_quantile_75/at_48h",
+      "exposure/TNF/target_quantile_75/at_72h",
+      "exposure/TNF/target_quantile_75/at_96h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "count/live_Ag_negative/at_48h",
+      "count/live_Ag_negative/at_72h",
+      "count/live_Ag_negative/at_96h",
+      "count/live_Ag_positive/at_24h",
+      "count/live_effectors/at_48h",
+      "count/live_effectors/at_72h",
+      "count/live_effectors/at_96h",
+      "count/live_effectors/time_average_0_96h",
+      "count/live_primed_targets/at_24h",
+      "count/live_primed_targets/at_72h",
+      "count/live_primed_targets/at_96h",
+      "count/live_targets/at_24h",
+      "count/live_targets/at_72h",
+      "count/live_targets/at_96h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/AUC_0_96h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_48h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_72h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/AUC_0_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_48h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_48h",
+      "exposure/IFN-gamma/target_quantile_0/at_72h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_48h",
+      "exposure/IFN-gamma/target_quantile_25/at_72h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_48h",
+      "exposure/IFN-gamma/target_quantile_50/at_72h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_48h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/TNF/domain_volume_weighted_mean/AUC_0_96h",
+      "exposure/TNF/domain_volume_weighted_mean/at_48h",
+      "exposure/TNF/domain_volume_weighted_mean/at_72h",
+      "exposure/TNF/domain_volume_weighted_mean/at_96h",
+      "exposure/TNF/target_nearest_voxel_mean/AUC_0_96h",
+      "exposure/TNF/target_nearest_voxel_mean/at_48h",
+      "exposure/TNF/target_nearest_voxel_mean/at_72h",
+      "exposure/TNF/target_nearest_voxel_mean/at_96h",
+      "exposure/TNF/target_quantile_0/at_48h",
+      "exposure/TNF/target_quantile_0/at_72h",
+      "exposure/TNF/target_quantile_0/at_96h",
+      "exposure/TNF/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_96h",
+      "exposure/TNF/target_quantile_25/at_48h",
+      "exposure/TNF/target_quantile_25/at_72h",
+      "exposure/TNF/target_quantile_25/at_96h",
+      "exposure/TNF/target_quantile_50/at_48h",
+      "exposure/TNF/target_quantile_50/at_72h",
+      "exposure/TNF/target_quantile_50/at_96h",
+      "exposure/TNF/target_quantile_75/at_48h",
+      "exposure/TNF/target_quantile_75/at_96h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE2_local_entry_mesh_half_diffusion_dt_half",
+    "ratio": 2,
+    "arm": "local_entry",
+    "setting": "mesh_half_diffusion_dt_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "Halving only the diffusion step on the fine entry grid lowers interval-average target counts by 9.115–42.875 cells and endpoints by 16–74 relative to the prior fine grid. Two duplicated 24 h maximum-exposure entries recur in all seeds but their directions differ. Residual targets remain 232–279, above the coarse-grid range 147–164. Against the coarse grid, mean absolute hourly differences remain 56.589–82.141 cells despite signed average differences of only −3.375 to −10.964 cells.",
+    "reporting_revision": "The coupled check does not restore coarse-grid trajectories and does not establish convergence. Retain its results and the persistent endpoint discrepancy. Comparisons with fine 2D/3D use different diffusion steps and must disclose that asymmetry.",
+    "case_readouts": [
+      {
+        "case": "te2_local_entry_mesh20_diffdt_half_seed0",
+        "seed": 0,
+        "endpoint": 256,
+        "reference_endpoint": 284,
+        "endpoint_difference": -28,
+        "time_average_difference": -22.041666666666668,
+        "time_average_absolute_difference": 24.75,
+        "max_absolute_hourly_difference": 44,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 2,
+        "flag_families": {
+          "exposure/IFN-gamma": 1,
+          "exposure/TNF": 1
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 242,
+          "tumor Ag0 CytoOn unprimed": 14
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      },
+      {
+        "case": "te2_local_entry_mesh20_diffdt_half_seed1",
+        "seed": 1,
+        "endpoint": 279,
+        "reference_endpoint": 295,
+        "endpoint_difference": -16,
+        "time_average_difference": -9.114583333333334,
+        "time_average_absolute_difference": 13.072916666666666,
+        "max_absolute_hourly_difference": 33,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 12,
+        "flag_families": {
+          "exposure/IFN-gamma": 6,
+          "exposure/TNF": 6
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 256,
+          "tumor Ag0 CytoOn unprimed": 23
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      },
+      {
+        "case": "te2_local_entry_mesh20_diffdt_half_seed2",
+        "seed": 2,
+        "endpoint": 232,
+        "reference_endpoint": 306,
+        "endpoint_difference": -74,
+        "time_average_difference": -42.875,
+        "time_average_absolute_difference": 44.5625,
+        "max_absolute_hourly_difference": 89,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 12,
+        "flag_families": {
+          "exposure/IFN-gamma": 6,
+          "exposure/TNF": 6
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 212,
+          "tumor Ag0 CytoOn unprimed": 20
+        },
+        "baseline_N3_endpoint_range": [
+          147,
+          164
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_100/at_24h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE5_2d_dt_half",
+    "ratio": 5,
+    "arm": "2d",
+    "setting": "dt_half",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "finding": "The seed-0 reduced-step screen has no primary flags. Its endpoint falls from 84 to 70 and its interval-average count falls by 20.719 cells; maximum sampled target displacement is 53 cells.",
+    "reporting_revision": "Report no primary screen flag at this tested seed and step pair. Three-seed and general convergence claims are not supported.",
+    "case_readouts": [
+      {
+        "case": "te5_2d_dt_half_seed0",
+        "seed": 0,
+        "endpoint": 70,
+        "reference_endpoint": 84,
+        "endpoint_difference": -14,
+        "time_average_difference": -20.71875,
+        "time_average_absolute_difference": 23.947916666666668,
+        "max_absolute_hourly_difference": 53,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 0,
+        "flag_families": {},
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 66,
+          "tumor AgHi CytoOn primed": 4
+        },
+        "baseline_N3_endpoint_range": [
+          62,
+          84
+        ]
+      }
+    ],
+    "common_primary_flags": [],
+    "common_flags_with_consistent_nonzero_paired_sign": [],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE5_2d_mesh_half",
+    "ratio": 5,
+    "arm": "2d",
+    "setting": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "All seeds flag the IFNγ/TNF maxima at 24 h and 48 h. Target-count summaries do not trigger primary flags; their integral changes are −14.354, +2.380 and +3.573 cells. Endpoints contain one, one and zero antigen-positive targets. At 48 h hull occupancy decreases, contacts increase and local CXCL medians decrease in all seeds.",
+    "reporting_revision": "Restrict the antigen-negative-only description to the original baseline. Retain grid dependence of exposure and access alongside the conditional target-count comparison.",
+    "case_readouts": [
+      {
+        "case": "te5_2d_mesh_half_seed0",
+        "seed": 0,
+        "endpoint": 72,
+        "reference_endpoint": 84,
+        "endpoint_difference": -12,
+        "time_average_difference": -14.354166666666666,
+        "time_average_absolute_difference": 14.583333333333334,
+        "max_absolute_hourly_difference": 36,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 71,
+          "tumor AgHi CytoOn primed": 1
+        },
+        "baseline_N3_endpoint_range": [
+          62,
+          84
+        ]
+      },
+      {
+        "case": "te5_2d_mesh_half_seed1",
+        "seed": 1,
+        "endpoint": 79,
+        "reference_endpoint": 62,
+        "endpoint_difference": 17,
+        "time_average_difference": 2.3802083333333335,
+        "time_average_absolute_difference": 11.755208333333334,
+        "max_absolute_hourly_difference": 36,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 78,
+          "tumor AgHi CytoOn primed": 1
+        },
+        "baseline_N3_endpoint_range": [
+          62,
+          84
+        ]
+      },
+      {
+        "case": "te5_2d_mesh_half_seed2",
+        "seed": 2,
+        "endpoint": 72,
+        "reference_endpoint": 80,
+        "endpoint_difference": -8,
+        "time_average_difference": 3.5729166666666665,
+        "time_average_absolute_difference": 9.364583333333334,
+        "max_absolute_hourly_difference": 30,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 4,
+        "flag_families": {
+          "exposure/IFN-gamma": 2,
+          "exposure/TNF": 2
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 72
+        },
+        "baseline_N3_endpoint_range": [
+          62,
+          84
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_100/at_48h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_24h",
+      "exposure/TNF/target_quantile_100/at_48h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE5_3d_dt_half",
+    "ratio": 5,
+    "arm": "3d",
+    "setting": "dt_half",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "finding": "The seed-0 reduced-step screen has no primary flags. Its target endpoint increases from 69 to 81 although its interval-average count decreases by 9.135 cells.",
+    "reporting_revision": "Retain the endpoint/integral distinction and single-seed coverage. Do not extrapolate absence of a flag to the other seeds or to convergence.",
+    "case_readouts": [
+      {
+        "case": "te5_3d_dt_half_seed0",
+        "seed": 0,
+        "endpoint": 81,
+        "reference_endpoint": 69,
+        "endpoint_difference": 12,
+        "time_average_difference": -9.135416666666666,
+        "time_average_absolute_difference": 14.364583333333334,
+        "max_absolute_hourly_difference": 37,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 0,
+        "flag_families": {},
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 81
+        },
+        "baseline_N3_endpoint_range": [
+          69,
+          83
+        ]
+      }
+    ],
+    "common_primary_flags": [],
+    "common_flags_with_consistent_nonzero_paired_sign": [],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE5_3d_mesh_half",
+    "ratio": 5,
+    "arm": "3d",
+    "setting": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "No target-count summary triggers the primary screen, but all seeds flag the 48 h IFNγ/TNF maximum. Other exposure flags vary by seed. At 48 h hull occupancy decreases by 0.360–0.439 while current-target contacts increase by 133–145 effectors; local CXCL medians fall. The 3D-minus-2D integral remains negative at both tested grids in all seeds.",
+    "reporting_revision": "Retain only the tested integral sign as a conditional comparison. Stable target burden does not justify resolution-invariant spatial access, exposure or a causal explanation of the integral difference.",
+    "case_readouts": [
+      {
+        "case": "te5_3d_mesh_half_seed0",
+        "seed": 0,
+        "endpoint": 65,
+        "reference_endpoint": 69,
+        "endpoint_difference": -4,
+        "time_average_difference": -19.729166666666668,
+        "time_average_absolute_difference": 20.0625,
+        "max_absolute_hourly_difference": 54,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 2,
+        "flag_families": {
+          "exposure/IFN-gamma": 1,
+          "exposure/TNF": 1
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 65
+        },
+        "baseline_N3_endpoint_range": [
+          69,
+          83
+        ]
+      },
+      {
+        "case": "te5_3d_mesh_half_seed1",
+        "seed": 1,
+        "endpoint": 76,
+        "reference_endpoint": 73,
+        "endpoint_difference": 3,
+        "time_average_difference": -2.6614583333333335,
+        "time_average_absolute_difference": 7.755208333333333,
+        "max_absolute_hourly_difference": 30,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 8,
+        "flag_families": {
+          "exposure/IFN-gamma": 4,
+          "exposure/TNF": 4
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 76
+        },
+        "baseline_N3_endpoint_range": [
+          69,
+          83
+        ]
+      },
+      {
+        "case": "te5_3d_mesh_half_seed2",
+        "seed": 2,
+        "endpoint": 69,
+        "reference_endpoint": 83,
+        "endpoint_difference": -14,
+        "time_average_difference": -5.604166666666667,
+        "time_average_absolute_difference": 12.416666666666666,
+        "max_absolute_hourly_difference": 29,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 20,
+        "flag_families": {
+          "exposure/IFN-gamma": 10,
+          "exposure/TNF": 10
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 69
+        },
+        "baseline_N3_endpoint_range": [
+          69,
+          83
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_48h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/TNF/target_quantile_100/at_48h"
+    ],
+    "saved_onset_interpretation": "At 5:1 refined 3D seed 2, the first saved positive initial-hull occupancy is at 1 h versus 2 h in the same-seed baseline; it remains within the baseline N3 range of 1–2 h. The other eleven onset comparisons in this group have unchanged saved bins. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE5_local_entry_dt_half",
+    "ratio": 5,
+    "arm": "local_entry",
+    "setting": "dt_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "Thirteen entries are flagged in every seed, but only the 96 h effector-count difference has a common nonzero direction. The twelve remaining entries describe duplicated late target-local IFNγ/TNF fields with mixed directions. Target endpoints are 146, 128 and 132; target integral changes are −2.021, −24.760 and −24.609 cells.",
+    "reporting_revision": "Retain effector and field time-step dependence. Mixed exposure signs and changing antigen composition prevent a single mechanistic explanation from these summaries.",
+    "case_readouts": [
+      {
+        "case": "te5_local_entry_dt_half_seed0",
+        "seed": 0,
+        "endpoint": 146,
+        "reference_endpoint": 146,
+        "endpoint_difference": 0,
+        "time_average_difference": -2.0208333333333335,
+        "time_average_absolute_difference": 12.645833333333334,
+        "max_absolute_hourly_difference": 46,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 22,
+        "flag_families": {
+          "count/live_effectors": 2,
+          "exposure/IFN-gamma": 10,
+          "exposure/TNF": 10
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 130,
+          "tumor AgHi CytoOn primed": 16
+        },
+        "baseline_N3_endpoint_range": [
+          119,
+          146
+        ]
+      },
+      {
+        "case": "te5_local_entry_dt_half_seed1",
+        "seed": 1,
+        "endpoint": 128,
+        "reference_endpoint": 144,
+        "endpoint_difference": -16,
+        "time_average_difference": -24.760416666666668,
+        "time_average_absolute_difference": 26.96875,
+        "max_absolute_hourly_difference": 62,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 27,
+        "flag_families": {
+          "count/live_effectors": 1,
+          "exposure/IFN-gamma": 13,
+          "exposure/TNF": 13
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 118,
+          "tumor AgHi CytoOn primed": 10
+        },
+        "baseline_N3_endpoint_range": [
+          119,
+          146
+        ]
+      },
+      {
+        "case": "te5_local_entry_dt_half_seed2",
+        "seed": 2,
+        "endpoint": 132,
+        "reference_endpoint": 119,
+        "endpoint_difference": 13,
+        "time_average_difference": -24.609375,
+        "time_average_absolute_difference": 30.619791666666668,
+        "max_absolute_hourly_difference": 73,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 28,
+        "flag_families": {
+          "count/live_effectors": 2,
+          "exposure/IFN-gamma": 13,
+          "exposure/TNF": 13
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 114,
+          "tumor AgHi CytoOn primed": 18
+        },
+        "baseline_N3_endpoint_range": [
+          119,
+          146
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "count/live_effectors/at_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/TNF/target_nearest_voxel_mean/at_96h",
+      "exposure/TNF/target_quantile_0/at_96h",
+      "exposure/TNF/target_quantile_100/at_96h",
+      "exposure/TNF/target_quantile_25/at_96h",
+      "exposure/TNF/target_quantile_50/at_96h",
+      "exposure/TNF/target_quantile_75/at_96h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "count/live_effectors/at_96h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  },
+  {
+    "id": "TE5_local_entry_mesh_half",
+    "ratio": 5,
+    "arm": "local_entry",
+    "setting": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "finding": "Thirty-eight entries are flagged in every seed with a common direction: ten population summaries and fourteen IFNγ exposure summaries duplicated as TNF. At 24 h targets decrease by 148–170 and at 48 h by 116–132, but 96 h endpoints increase by 46–76 to 192–202. Mean absolute hourly differences are 83.250–91.313 cells. At 48 h current-target contacts rise, initial-hull occupancy falls and local CXCL medians fall. Entry-minus-2D integrals are −15.8125, +1.630208 and +5.546875 cells; all three endpoint contrasts are positive.",
+    "reporting_revision": "Retain mixed integral signs, positive tested endpoint contrasts and the early/late reversal. Reject a stable reverse ordering and a grid-invariant high entry integral. A small ensemble mean contrast must not replace the individual trajectories.",
+    "case_readouts": [
+      {
+        "case": "te5_local_entry_mesh_half_seed0",
+        "seed": 0,
+        "endpoint": 192,
+        "reference_endpoint": 146,
+        "endpoint_difference": 46,
+        "time_average_difference": -74.02083333333333,
+        "time_average_absolute_difference": 83.25,
+        "max_absolute_hourly_difference": 157,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 49,
+        "flag_families": {
+          "count/live_targets": 3,
+          "count/live_Ag_positive": 3,
+          "count/live_effectors": 4,
+          "count/live_primed_targets": 3,
+          "exposure/IFN-gamma": 18,
+          "exposure/TNF": 18
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 188,
+          "tumor Ag0 CytoOn unprimed": 3,
+          "tumor AgHi CytoOn primed": 1
+        },
+        "baseline_N3_endpoint_range": [
+          119,
+          146
+        ]
+      },
+      {
+        "case": "te5_local_entry_mesh_half_seed1",
+        "seed": 1,
+        "endpoint": 202,
+        "reference_endpoint": 144,
+        "endpoint_difference": 58,
+        "time_average_difference": -70.0625,
+        "time_average_absolute_difference": 83.20833333333333,
+        "max_absolute_hourly_difference": 157,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 41,
+        "flag_families": {
+          "count/live_targets": 2,
+          "count/live_Ag_positive": 3,
+          "count/live_Ag_negative": 1,
+          "count/live_effectors": 3,
+          "count/live_primed_targets": 2,
+          "exposure/IFN-gamma": 15,
+          "exposure/TNF": 15
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 202
+        },
+        "baseline_N3_endpoint_range": [
+          119,
+          146
+        ]
+      },
+      {
+        "case": "te5_local_entry_mesh_half_seed2",
+        "seed": 2,
+        "endpoint": 195,
+        "reference_endpoint": 119,
+        "endpoint_difference": 76,
+        "time_average_difference": -71.66666666666667,
+        "time_average_absolute_difference": 91.3125,
+        "max_absolute_hourly_difference": 179,
+        "full_trajectory_has_positive_and_negative_differences": true,
+        "primary_flag_count": 45,
+        "flag_families": {
+          "count/live_targets": 2,
+          "count/live_Ag_positive": 3,
+          "count/live_effectors": 4,
+          "count/live_primed_targets": 2,
+          "exposure/IFN-gamma": 17,
+          "exposure/TNF": 17
+        },
+        "undefined_primary_metrics": [],
+        "final_registered_target_types": {
+          "tumor Ag0 CytoOn primed": 193,
+          "tumor Ag0 CytoOn unprimed": 2
+        },
+        "baseline_N3_endpoint_range": [
+          119,
+          146
+        ]
+      }
+    ],
+    "common_primary_flags": [
+      "count/live_Ag_positive/at_24h",
+      "count/live_Ag_positive/at_48h",
+      "count/live_Ag_positive/time_average_0_96h",
+      "count/live_effectors/at_72h",
+      "count/live_effectors/at_96h",
+      "count/live_effectors/time_average_0_96h",
+      "count/live_primed_targets/at_24h",
+      "count/live_primed_targets/at_48h",
+      "count/live_targets/at_24h",
+      "count/live_targets/at_48h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_72h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_72h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_72h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_72h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_72h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_72h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/TNF/domain_volume_weighted_mean/at_72h",
+      "exposure/TNF/domain_volume_weighted_mean/at_96h",
+      "exposure/TNF/target_nearest_voxel_mean/at_72h",
+      "exposure/TNF/target_nearest_voxel_mean/at_96h",
+      "exposure/TNF/target_quantile_0/at_72h",
+      "exposure/TNF/target_quantile_0/at_96h",
+      "exposure/TNF/target_quantile_100/at_72h",
+      "exposure/TNF/target_quantile_100/at_96h",
+      "exposure/TNF/target_quantile_25/at_72h",
+      "exposure/TNF/target_quantile_25/at_96h",
+      "exposure/TNF/target_quantile_50/at_72h",
+      "exposure/TNF/target_quantile_50/at_96h",
+      "exposure/TNF/target_quantile_75/at_72h",
+      "exposure/TNF/target_quantile_75/at_96h"
+    ],
+    "common_flags_with_consistent_nonzero_paired_sign": [
+      "count/live_Ag_positive/at_24h",
+      "count/live_Ag_positive/at_48h",
+      "count/live_Ag_positive/time_average_0_96h",
+      "count/live_effectors/at_72h",
+      "count/live_effectors/at_96h",
+      "count/live_effectors/time_average_0_96h",
+      "count/live_primed_targets/at_24h",
+      "count/live_primed_targets/at_48h",
+      "count/live_targets/at_24h",
+      "count/live_targets/at_48h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_72h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_72h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_72h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_72h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_72h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_72h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/TNF/domain_volume_weighted_mean/at_72h",
+      "exposure/TNF/domain_volume_weighted_mean/at_96h",
+      "exposure/TNF/target_nearest_voxel_mean/at_72h",
+      "exposure/TNF/target_nearest_voxel_mean/at_96h",
+      "exposure/TNF/target_quantile_0/at_72h",
+      "exposure/TNF/target_quantile_0/at_96h",
+      "exposure/TNF/target_quantile_100/at_72h",
+      "exposure/TNF/target_quantile_100/at_96h",
+      "exposure/TNF/target_quantile_25/at_72h",
+      "exposure/TNF/target_quantile_25/at_96h",
+      "exposure/TNF/target_quantile_50/at_72h",
+      "exposure/TNF/target_quantile_50/at_96h",
+      "exposure/TNF/target_quantile_75/at_72h",
+      "exposure/TNF/target_quantile_75/at_96h"
+    ],
+    "saved_onset_interpretation": "The four first-positive saved onset bins are unchanged in the tested seeds of this group. Saving is hourly; sampled bins do not establish exact continuous onset times, migration paths or subsequent access.",
+    "fixed_scaffold_seed_range_is_confidence_interval": false,
+    "numerical_convergence_accepted": false,
+    "assessment_complete": true
+  }
+]

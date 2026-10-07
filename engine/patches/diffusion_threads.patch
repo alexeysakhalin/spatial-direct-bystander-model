@@ -1,0 +1,68 @@
+--- original/main.cpp
++++ accelerated/main.cpp
+@@ -72,6 +72,8 @@
+ #include <cmath>
+ #include <omp.h>
+ #include <fstream>
++#include <cstdlib>
++#include <stdexcept>
+ 
+ #include "./core/PhysiCell.h"
+ #include "./modules/PhysiCell_standard_modules.h" 
+@@ -108,7 +110,21 @@
+ 	// OpenMP setup
+ 	omp_set_num_threads(PhysiCell_settings.omp_num_threads);
+ 	
+-	// time setup 
++	// Separately control only deterministic diffusion line sweeps.
++    int ikm_diffusion_threads = 1;
++    if (const char* value = std::getenv("IKM_DIFFUSION_THREADS")) {
++        char* end = nullptr;
++        long count = std::strtol(value, &end, 10);
++        if (!*value || *end || count < 1 || count > 30 || PhysiCell_settings.omp_num_threads != 1) {
++            std::cerr << "Invalid IKM_DIFFUSION_THREADS or nonserial cellular settings" << std::endl;
++            return 3;
++        }
++        ikm_diffusion_threads = (int)count;
++    }
++    omp_set_dynamic(0);
++    double ikm_diffusion_wall=0, ikm_cells_wall=0, ikm_medium_wall=0;
++    std::cout << "IKM deterministic diffusion threads " << ikm_diffusion_threads << std::endl;
++    // time setup 
+ 	std::string time_units = "min"; 
+ 
+ 	/* Microenvironment setup */ 
+@@ -216,7 +232,12 @@
+ 			}
+ 
+ 			// update the microenvironment
+-			microenvironment.simulate_diffusion_decay( diffusion_dt );
++			double ikm_tick=omp_get_wtime();
++            omp_set_num_threads(ikm_diffusion_threads);
++            microenvironment.simulate_diffusion_decay( diffusion_dt );
++            omp_set_num_threads(1);
++            ikm_diffusion_wall += omp_get_wtime()-ikm_tick;
++            ikm_tick=omp_get_wtime();
+ 			
+ 			// run PhysiCell 
+ 			((Cell_Container *)microenvironment.agent_container)->update_all_cells( PhysiCell_globals.current_time );
+@@ -225,7 +246,10 @@
+ 			  Custom add-ons could potentially go here. 
+ 			*/
+ 			
+-			medium.advance(diffusion_dt);
++			ikm_cells_wall += omp_get_wtime()-ikm_tick;
++            ikm_tick=omp_get_wtime();
++            medium.advance(diffusion_dt);
++            ikm_medium_wall += omp_get_wtime()-ikm_tick;
+ 			PhysiCell_globals.current_time += diffusion_dt;
+ 		}
+ 		
+@@ -241,6 +265,7 @@
+ 		return 2; // Preserve a failing return code for numerical or medium errors.
+ 	}
+ 	
++    std::cout << "IKM_PHASE_WALL_SECONDS " << ikm_diffusion_wall << " " << ikm_cells_wall << " " << ikm_medium_wall << std::endl;
+ 	medium.write(PhysiCell_globals.current_time);
+ 	// save a final simulation snapshot 
+ 	

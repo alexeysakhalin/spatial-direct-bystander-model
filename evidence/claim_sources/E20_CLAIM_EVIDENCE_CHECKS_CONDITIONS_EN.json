@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SC1",
+    "claim": "At2:1, the observed three-seed mean time-average live-target count over0-96h orders2D<3D<local-entry:278.234,301.964,354.651cells.",
+    "status": "descriptive_current_model",
+    "evidence": "source-3c16407c15fee59c9842",
+    "restriction": "Subject to resolution and model-adequacy checks; neither pure dimensionality nor general biological ordering.",
+    "evidence_sha256": "4d08b3c26def25f8c2f4313d14e02bba1bfc7cef67e82780f34216a254fd34ab",
+    "checks_completed": "18central-output acceptance, hash-bound case/group statistics and independent normalized-trajectory integral checks. Input-design claim SC6 additionally has exact XML/CSV difference audit.",
+    "checks_still_needed": "Complete and interpret resolution and prespecified adequacy checks. Review comparative signs directly; direct TE5 numerical coverage is absent from the current42case plan.",
+    "scope_of_retention": "Descriptive claim about the configured central model; no general biological rank, tissue resistance, statistical equivalence or experimental-validation claim.",
+    "final_scientific_acceptance": false
+  },
+  {
+    "id": "SC2",
+    "claim": "At5:1, the corresponding means order3D<2D<local-entry:365.689,402.938,469.175cells. The2D/3D ordering reverses relative to2:1.",
+    "status": "descriptive_current_model",
+    "evidence": "source-3c16407c15fee59c9842",
+    "restriction": "Retain the reverse result; no desired rank is an acceptance condition.",
+    "evidence_sha256": "4d08b3c26def25f8c2f4313d14e02bba1bfc7cef67e82780f34216a254fd34ab",
+    "checks_completed": "18central-output acceptance, hash-bound case/group statistics and independent normalized-trajectory integral checks. Input-design claim SC6 additionally has exact XML/CSV difference audit.",
+    "checks_still_needed": "Complete and interpret resolution and prespecified adequacy checks. Review comparative signs directly; direct TE5 numerical coverage is absent from the current42case plan.",
+    "scope_of_retention": "Descriptive claim about the configured central model; no general biological rank, tissue resistance, statistical equivalence or experimental-validation claim.",
+    "final_scientific_acceptance": false
+  },
+  {
+    "id": "SC3",
+    "claim": "At5:1,96h live-target means are75.3333(2D)and75(3D), with observed ranges62-84and69-83. Their whole-interval burdens differ despite similar endpoints.",
+    "status": "descriptive_current_model",
+    "evidence": "source-59b37e485a09d4c32658",
+    "restriction": "No equivalence or significance test; N3 ranges are not confidence intervals.",
+    "evidence_sha256": "71b11d94d93f2cdb2362bb810da2be52f6e9a75585b256be1d9b185f70c16b29",
+    "checks_completed": "18central-output acceptance, hash-bound case/group statistics and independent normalized-trajectory integral checks. Input-design claim SC6 additionally has exact XML/CSV difference audit.",
+    "checks_still_needed": "Complete and interpret resolution and prespecified adequacy checks. Review comparative signs directly; direct TE5 numerical coverage is absent from the current42case plan.",
+    "scope_of_retention": "Descriptive claim about the configured central model; no general biological rank, tissue resistance, statistical equivalence or experimental-validation claim.",
+    "final_scientific_acceptance": false
+  },
+  {
+    "id": "SC4",
+    "claim": "Local-entry has the highest observed mean endpoint and interval-average target count at both ratios among the three configured central representations.",
+    "status": "descriptive_current_model",
+    "evidence": "source-3c16407c15fee59c9842",
+    "restriction": "Domain,mesh,positions,reservoir and imposed medium exchange vary together; cannot assign this to tissue resistance,vasculature or dimensionality alone.",
+    "evidence_sha256": "4d08b3c26def25f8c2f4313d14e02bba1bfc7cef67e82780f34216a254fd34ab",
+    "checks_completed": "18central-output acceptance, hash-bound case/group statistics and independent normalized-trajectory integral checks. Input-design claim SC6 additionally has exact XML/CSV difference audit.",
+    "checks_still_needed": "Complete and interpret resolution and prespecified adequacy checks. Review comparative signs directly; direct TE5 numerical coverage is absent from the current42case plan.",
+    "scope_of_retention": "Descriptive claim about the configured central model; no general biological rank, tissue resistance, statistical equivalence or experimental-validation claim.",
+    "final_scientific_acceptance": false
+  },
+  {
+    "id": "SC5",
+    "claim": "At96h, all surviving targets are antigen-negative in all2:1cases and in5:1 2D/3D;5:1local-entry retains8-22antigen-positive targets(mean13.3333)across the three seeds.",
+    "status": "descriptive_current_model",
+    "evidence": "source-66891c793fb888e1ff9d",
+    "restriction": "Net population composition includes division and prescribed loss terms; it is not a measured fraction of death mechanisms.",
+    "evidence_sha256": "70804cebc89a5aab2fd98ae95d01864209cbb7bfe6f8d94f3bfae3fca431fea8",
+    "checks_completed": "18central-output acceptance, hash-bound case/group statistics and independent normalized-trajectory integral checks. Input-design claim SC6 additionally has exact XML/CSV difference audit.",
+    "checks_still_needed": "Complete and interpret resolution and prespecified adequacy checks. Review comparative signs directly; direct TE5 numerical coverage is absent from the current42case plan.",
+    "scope_of_retention": "Descriptive claim about the configured central model; no general biological rank, tissue resistance, statistical equivalence or experimental-validation claim.",
+    "final_scientific_acceptance": false
+  },
+  {
+    "id": "SC6",
+    "claim": "The central cross-scenario contrasts change multiple initial/environmental conditions. Existing within-arm medium-exchange pairs are distinct controls.",
+    "status": "input_design_verified",
+    "evidence": "source-f47f14a830285354b0e5",
+    "restriction": "Fixed-coordinate scaffold stochastic repeats are not independent geometry-population samples; even3D/local-entry actual coordinate arrays differ.",
+    "evidence_sha256": "e9b31035d79677efa49b7d76886d184a6febd104523bdf4bca3f50e7e5a2dc33",
+    "checks_completed": "18central-output acceptance, hash-bound case/group statistics and independent normalized-trajectory integral checks. Input-design claim SC6 additionally has exact XML/CSV difference audit.",
+    "checks_still_needed": "No claim of pure dimensionality follows from this input audit; output robustness remains a separate open issue.",
+    "scope_of_retention": "Descriptive claim about the configured central model; no general biological rank, tissue resistance, statistical equivalence or experimental-validation claim.",
+    "final_scientific_acceptance": false
+  }
+]

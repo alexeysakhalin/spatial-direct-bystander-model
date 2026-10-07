@@ -1,0 +1,127 @@
+{
+  "utc": "2026-10-06T22:45:42.464539+00:00",
+  "technical_validation_passed": true,
+  "substantive_review_complete_for_this_group": true,
+  "new_accepted_unique_cases": 2,
+  "retained_seed0_case": 1,
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "comparison": "Halve the Cartesian mesh spacing at unchanged biological inputs and numerical time steps, with same seed labels. The stochastic event history can change.",
+  "findings": [
+    "Both additional runs exited zero and reached 96 h. The accepted N3 group has 291 hourly states; the two new runs passed 198 all-field states and 392 ledger rows. The frozen runner omitted only the optional standalone exit sidecar for the last child; unchanged per-case and aggregate execution records retain its actual zero return code.",
+    "Fine-grid 96 h residual target counts are 192, 202 and 195, compared with original same-seed counts of 146, 144 and 119. All fine-grid endpoints exceed the entire original N3 endpoint range. The descriptive ranges are not confidence intervals.",
+    "Time-averaged live-target counts decrease from 456.0417, 476.3021 and 475.1823 to 382.0208, 406.2396 and 403.5156. Paired changes are -74.0208, -70.0625 and -71.6667 targets, despite higher final residual counts. Every full paired trajectory crosses: mean absolute differences are 83.2500, 83.2083 and 91.3125, with hourly maxima of 157, 157 and 179 targets.",
+    "The prespecified primary screen flags 49, 41 and 45 metrics, including 13, 11 and 11 count entries. Thirty-eight entries are common to all seeds and have consistent nonzero same-seed signs. These include early target and antigen-positive population changes, later effector counts and late IFNG/TNF readouts. IFNG and TNF are identical fields here, so duplicated field entries do not establish independent mechanisms.",
+    "Fine-grid local-entry minus fine-grid 2D time-averaged differences are -15.8125, +1.6302 and +5.5469 targets, compared with +43.8542, +74.0729 and +80.7865 in the original configurations. The original positive integral ordering is not retained across the refined N3 group. The first negative seed does not establish a stable reversed ordering; the refined signs are mixed.",
+    "At 96 h the fine-grid local-entry scenario still has 120, 123 and 123 more targets than fine-grid 2D, and 127, 126 and 126 more than fine-grid 3D. Its time-averaged excess over fine-grid 3D remains positive: 26.6510, 48.1042 and 47.9479. All six comparative trajectories cross, so this is not an ordering at every time.",
+    "The fine-grid endpoint contains one assigned antigen-positive target in seed 0 and none in seeds 1 and 2, compared with 10, 22 and 8 in the original local-entry runs. Unprimed residual counts are 3, 0 and 2. All remaining target states and the different direction of integral versus endpoint effects are retained.",
+    "At 48 h, initial-hull occupancy fractions decrease in all seeds by 0.1351, 0.0353 and 0.0258, while sphere-contact counts rise by 37, 54 and 56. Saved live-target links change by -10, -7 and 0. These are distinct spatial observables; occupancy cannot substitute for contacts or assigned target-link states. First saved positive access/activity times are unchanged, which does not resolve sub-hour event timing.",
+    "The N3 followup confirms material mesh dependence in populations, fields and spatial readouts. It does not establish quantitative grid convergence. Neither a universal local-entry-versus-2D integral ordering nor the opposite ordering is supported. Conditional comparisons must specify the configuration, numerical setting, time summary and sampled seeds."
+  ],
+  "trajectory_checks": [
+    {
+      "seed": 0,
+      "fine_endpoint": 192,
+      "baseline_endpoint": 146,
+      "fine_time_average": 382.0208333333333,
+      "baseline_time_average": 456.0416666666667,
+      "signed_time_average_difference": -74.02083333333333,
+      "mean_absolute_hourly_difference": 83.25,
+      "maximum_absolute_hourly_difference": 157,
+      "hourly_crossing": true,
+      "final_assigned_target_types": {
+        "tumor Ag0 CytoOn primed": 188,
+        "tumor Ag0 CytoOn unprimed": 3,
+        "tumor AgHi CytoOn primed": 1
+      }
+    },
+    {
+      "seed": 1,
+      "fine_endpoint": 202,
+      "baseline_endpoint": 144,
+      "fine_time_average": 406.2395833333333,
+      "baseline_time_average": 476.3020833333333,
+      "signed_time_average_difference": -70.0625,
+      "mean_absolute_hourly_difference": 83.20833333333333,
+      "maximum_absolute_hourly_difference": 157,
+      "hourly_crossing": true,
+      "final_assigned_target_types": {
+        "tumor Ag0 CytoOn primed": 202
+      }
+    },
+    {
+      "seed": 2,
+      "fine_endpoint": 195,
+      "baseline_endpoint": 119,
+      "fine_time_average": 403.515625,
+      "baseline_time_average": 475.1822916666667,
+      "signed_time_average_difference": -71.66666666666667,
+      "mean_absolute_hourly_difference": 91.3125,
+      "maximum_absolute_hourly_difference": 179,
+      "hourly_crossing": true,
+      "final_assigned_target_types": {
+        "tumor Ag0 CytoOn primed": 193,
+        "tumor Ag0 CytoOn unprimed": 2
+      }
+    }
+  ],
+  "primary_flags": [
+    {
+      "seed": 0,
+      "primary_metrics": 49,
+      "count_flags": 13,
+      "undefined": []
+    },
+    {
+      "seed": 1,
+      "primary_metrics": 41,
+      "count_flags": 11,
+      "undefined": []
+    },
+    {
+      "seed": 2,
+      "primary_metrics": 45,
+      "count_flags": 11,
+      "undefined": []
+    }
+  ],
+  "common_primary_flags": 38,
+  "comparative_fine_grid_TE5_entry_minus_2D": {
+    "ratio": 5,
+    "setting": "mesh_half",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      -15.8125,
+      1.6302083333333333,
+      5.546875
+    ],
+    "endpoint_differences": [
+      120,
+      123,
+      123
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": false,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  "technical_reconstruction": "source-b1c98e3ef2201852ffa9",
+  "exit_record_review": "source-b1093b5b847a61781cc7",
+  "scientific_convergence_accepted": false,
+  "kinetic_gate_released": false,
+  "remaining_decision": "Complete claim-specific synthesis of all ten N3 numerical groups and three single-seed screens. Persistent flags are interpreted here but no positive numerical gate is inferred. Any further simulation requires a concrete retained-claim gap and a bounded prior decision.",
+  "project_complete": false
+}

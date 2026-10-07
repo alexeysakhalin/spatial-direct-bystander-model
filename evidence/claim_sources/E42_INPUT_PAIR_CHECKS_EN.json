@@ -1,0 +1,87 @@
+[
+  {
+    "lower": "turnover0_2d_seed0",
+    "higher": "turnover10_2d_seed0",
+    "primary_preexisting_pair": true,
+    "exact_xml_differences": {
+      "/PhysiCell_settings[('version', 'devel-version')]/user_parameters[]/ikm_medium_external_flow_um3_per_min[('description', 'See FINITE_MEDIUM_CONTRAST_DESIGN_EN.json'), ('type', 'double'), ('units', 'micron^3/min')]": [
+        "0.0",
+        "6000000.0"
+      ],
+      "/PhysiCell_settings[('version', 'devel-version')]/save[]/folder[]": [
+        "../../reproduced/turnover0_2d_seed0/output",
+        "../../reproduced/turnover10_2d_seed0/output"
+      ]
+    },
+    "cells.csv_identical": true,
+    "rules.csv_identical": true
+  },
+  {
+    "lower": "turnover0_3d_seed0",
+    "higher": "turnover10_3d_seed0",
+    "primary_preexisting_pair": true,
+    "exact_xml_differences": {
+      "/PhysiCell_settings[('version', 'devel-version')]/user_parameters[]/ikm_medium_external_flow_um3_per_min[('description', 'See FINITE_MEDIUM_CONTRAST_DESIGN_EN.json'), ('type', 'double'), ('units', 'micron^3/min')]": [
+        "0.0",
+        "6000000.0"
+      ],
+      "/PhysiCell_settings[('version', 'devel-version')]/save[]/folder[]": [
+        "../../reproduced/turnover0_3d_seed0/output",
+        "../../reproduced/turnover10_3d_seed0/output"
+      ]
+    },
+    "cells.csv_identical": true,
+    "rules.csv_identical": true
+  },
+  {
+    "lower": "turnover0_local_entry_seed0",
+    "higher": "turnover10_local_entry_seed0",
+    "primary_preexisting_pair": true,
+    "exact_xml_differences": {
+      "/PhysiCell_settings[('version', 'devel-version')]/user_parameters[]/ikm_medium_external_flow_um3_per_min[('description', 'See FINITE_MEDIUM_CONTRAST_DESIGN_EN.json'), ('type', 'double'), ('units', 'micron^3/min')]": [
+        "0.0",
+        "6000000.0"
+      ],
+      "/PhysiCell_settings[('version', 'devel-version')]/save[]/folder[]": [
+        "../../reproduced/turnover0_local_entry_seed0/output",
+        "../../reproduced/turnover10_local_entry_seed0/output"
+      ]
+    },
+    "cells.csv_identical": true,
+    "rules.csv_identical": true
+  },
+  {
+    "lower": "turnover0_local_entry_seed0",
+    "higher": "turnover1_local_entry_seed0",
+    "primary_preexisting_pair": true,
+    "exact_xml_differences": {
+      "/PhysiCell_settings[('version', 'devel-version')]/user_parameters[]/ikm_medium_external_flow_um3_per_min[('description', 'See FINITE_MEDIUM_CONTRAST_DESIGN_EN.json'), ('type', 'double'), ('units', 'micron^3/min')]": [
+        "0.0",
+        "600000.0"
+      ],
+      "/PhysiCell_settings[('version', 'devel-version')]/save[]/folder[]": [
+        "../../reproduced/turnover0_local_entry_seed0/output",
+        "../../reproduced/turnover1_local_entry_seed0/output"
+      ]
+    },
+    "cells.csv_identical": true,
+    "rules.csv_identical": true
+  },
+  {
+    "lower": "turnover1_local_entry_seed0",
+    "higher": "turnover10_local_entry_seed0",
+    "primary_preexisting_pair": false,
+    "exact_xml_differences": {
+      "/PhysiCell_settings[('version', 'devel-version')]/user_parameters[]/ikm_medium_external_flow_um3_per_min[('description', 'See FINITE_MEDIUM_CONTRAST_DESIGN_EN.json'), ('type', 'double'), ('units', 'micron^3/min')]": [
+        "600000.0",
+        "6000000.0"
+      ],
+      "/PhysiCell_settings[('version', 'devel-version')]/save[]/folder[]": [
+        "../../reproduced/turnover1_local_entry_seed0/output",
+        "../../reproduced/turnover10_local_entry_seed0/output"
+      ]
+    },
+    "cells.csv_identical": true,
+    "rules.csv_identical": true
+  }
+]

@@ -1,0 +1,4250 @@
+[
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -10,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 673,
+    "value": 663
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.002870126763932168,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.9926253687315634,
+    "value": 0.9954954954954955
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 34,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 348,
+    "value": 382
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 8,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 147,
+    "value": 155
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.7398763042865681,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 16.191017893659144,
+    "value": 15.451141589372575
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.01899921535996507,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.6526084292941141,
+    "value": 0.6716076446540792
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.000275327795677462,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004336373997746347,
+    "value": 0.004061046202068885
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -2,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 679,
+    "value": 677
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.009531531531531523,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.9053333333333333,
+    "value": 0.9148648648648648
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -9,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 331,
+    "value": 322
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 9,
+    "value": 9
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.23851387470248397,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 18.005513258423438,
+    "value": 18.244027133125922
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.041128889574769234,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.5026382852883956,
+    "value": 0.5437671748631648
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.00015641180992062142,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004739014455198623,
+    "value": 0.004582602645278002
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 13,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 627,
+    "value": 640
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.020632083835169346,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.8315649867374005,
+    "value": 0.8521970705725699
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 294,
+    "value": 294
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -1,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.011490335570663035,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 19.782213590651303,
+    "value": 19.77072325508064
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.022048302142091247,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.38370896629141626,
+    "value": 0.4057572684335075
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.0005688067011304426,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.005489809438708215,
+    "value": 0.004921002737577772
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -23,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 601,
+    "value": 578
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.017018316635654118,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.7887139107611548,
+    "value": 0.7716955941255007
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 6,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 230,
+    "value": 236
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.9002484080448419,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 24.737532100501994,
+    "value": 23.837283692457152
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.010964745386750241,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.2854510940514936,
+    "value": 0.29641583943824384
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.0001850180318608936,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0050032118435465265,
+    "value": 0.004818193811685633
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -47,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 558,
+    "value": 511
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.058212704204472665,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.7332457293035479,
+    "value": 0.6750330250990753
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 22,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 172,
+    "value": 194
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -1.0496542342056472,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 28.407916103878062,
+    "value": 27.358261869672415
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.02870840464890337,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.22932313811410684,
+    "value": 0.2580315427630102
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -3.2688581440955614e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004707948703257026,
+    "value": 0.004675260121816071
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.060299237290387664,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.5132743362831859,
+    "value": 0.5735735735735735
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.01591857344069733,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.2168141592920354,
+    "value": 0.23273273273273273
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.006198198198198224,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.44133333333333336,
+    "value": 0.43513513513513513
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0001621621621621626,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.012,
+    "value": 0.012162162162162163
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0015576048910912466,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.38992042440318303,
+    "value": 0.3914780292942743
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": -0.001326259946949602,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.001326259946949602,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.013249512035294675,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.30183727034120733,
+    "value": 0.315086782376502
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.03025637197805156,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.22601839684625494,
+    "value": 0.2562747688243065
+  },
+  {
+    "case": "kinetics_growth_0p72_2d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 17,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 638,
+    "value": 655
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 25,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 426,
+    "value": 451
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 43,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 234,
+    "value": 277
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -0.3243904776925355,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 15.247102082725245,
+    "value": 14.92271160503271
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.020142613282907895,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.8114997006297318,
+    "value": 0.8316423139126397
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -0.0001857332866014405,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.003436263825880345,
+    "value": 0.0032505305392789047
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 55,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 679,
+    "value": 734
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.020808168768785662,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.9250681198910081,
+    "value": 0.9458762886597938
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 34,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 237,
+    "value": 271
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 16,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 4,
+    "value": 20
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -0.640741752999098,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 19.52386791255241,
+    "value": 18.883126159553314
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.06947839351946011,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.4312695117061059,
+    "value": 0.500747905225566
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 8.723294550121163e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.003384730269200207,
+    "value": 0.0034719632147014188
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 28,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 336,
+    "value": 364
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.003114086794047677,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.4559023066485753,
+    "value": 0.45901639344262296
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 31,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 207,
+    "value": 238
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -1.0644640241811558,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 20.906334775794154,
+    "value": 19.841870751612998
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.06133706803889505,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.20455753113629632,
+    "value": 0.26589459917519137
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0005403275573705756,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0020493676116693288,
+    "value": 0.0025896951690399044
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 51,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 203,
+    "value": 254
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.03870873705544298,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2803867403314917,
+    "value": 0.31909547738693467
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 41,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 203,
+    "value": 244
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -0.9514870781688387,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 21.488042644013007,
+    "value": 20.536555565844168
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.06692661616358077,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.11911822032504492,
+    "value": 0.1860448364886257
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.00010674574519500997,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0018739762405573842,
+    "value": 0.001980721985752394
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 43,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 105,
+    "value": 148
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.035488991937168396,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.14767932489451477,
+    "value": 0.18316831683168316
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 49,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 199,
+    "value": 248
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -1.1860170680960422,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 22.273963439428883,
+    "value": 21.08794637133284
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.04635686378082661,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.08970793267494696,
+    "value": 0.13606479645577357
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": -0.00029135985851734395,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.002232225831173459,
+    "value": 0.001940865972656115
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.020838019574529132,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.6677115987460815,
+    "value": 0.6885496183206107
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.056129603484170454,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.3667711598746082,
+    "value": 0.42290076335877863
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.026338520744964733,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.3228882833787466,
+    "value": 0.3492268041237113
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.020323604595634707,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.005449591280653951,
+    "value": 0.02577319587628866
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.01925771805879467,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2808683853459973,
+    "value": 0.30012610340479196
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.02614592298509122,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2803867403314917,
+    "value": 0.3065326633165829
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.02704321065017895,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.279887482419128,
+    "value": 0.3069306930693069
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -6,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 662,
+    "value": 656
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 8,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 333,
+    "value": 341
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -22,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 202,
+    "value": 180
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.2871409338569215,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 16.51630651214993,
+    "value": 16.22916557829301
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.006219280443284458,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.8682594378462059,
+    "value": 0.8620401574029214
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.00011587051620832057,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0016130091866717912,
+    "value": 0.0014971386704634706
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 3,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 777,
+    "value": 780
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 30,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 112,
+    "value": 142
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 3,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 2,
+    "value": 5
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.5040443732824009,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 24.526548562535453,
+    "value": 24.022504189253052
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.03132493449959051,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.61564857300722,
+    "value": 0.5843236385076295
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.00011233622740659528,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0016766066219588874,
+    "value": 0.001564270394552292
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -96,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 869,
+    "value": 773
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.04624405816138111,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.9742152466367713,
+    "value": 0.9279711884753902
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -4,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 87,
+    "value": 83
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -4,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 9,
+    "value": 5
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.17364899862148775,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 28.603062333384322,
+    "value": 28.77671133200581
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.06759432272380561,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.4403099019687749,
+    "value": 0.3727155792449693
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.000688703125717748,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.002560540413717402,
+    "value": 0.001871837287999654
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -136,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 708,
+    "value": 572
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.12005620608899303,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.7737704918032787,
+    "value": 0.6537142857142857
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 65,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 40,
+    "value": 105
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 2,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0,
+    "value": 2
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -9.539270067552717,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 36.35661267766968,
+    "value": 26.817342610116963
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.0253210042813906,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.04341875226288919,
+    "value": 0.018097747981498588
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.0004519596396185086,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0006593320010099469,
+    "value": 0.00020737236139143833
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 17,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 439,
+    "value": 456
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.05882064868729703,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.4665249734325186,
+    "value": 0.5253456221198156
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 29,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 36,
+    "value": 65
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -3.682145074079301,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 33.62504031086132,
+    "value": 29.94289523678202
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 4.565491334892741e-05,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 8.992315043774509e-05,
+    "value": 0.0001355780637866725
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 1.0296892695210055e-07,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 6.831664040261639e-07,
+    "value": 7.861353309782644e-07
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.016795925134477918,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.5030211480362538,
+    "value": 0.5198170731707317
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.030745707759192387,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.30513595166163143,
+    "value": 0.27439024390243905
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0379071379071379,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.14414414414414414,
+    "value": 0.18205128205128204
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.003836253836253836,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.002574002574002574,
+    "value": 0.00641025641025641
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.002106223655381434,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.09753363228699552,
+    "value": 0.09963985594237695
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": -0.004087285138270554,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.010089686098654708,
+    "value": 0.006002400960384154
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.07628415300546448,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.04371584699453552,
+    "value": 0.12
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.002285714285714286,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0,
+    "value": 0.002285714285714286
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.03662761940674936,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.03825717321997875,
+    "value": 0.0748847926267281
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -28,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 673,
+    "value": 645
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.012382207637338438,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.9926253687315634,
+    "value": 0.9802431610942249
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 26,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 348,
+    "value": 374
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 13,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 147,
+    "value": 160
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.718167495079225,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 16.191017893659144,
+    "value": 15.472850398579919
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.033367133331713594,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.6526084292941141,
+    "value": 0.6859755626258277
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.0004099515695316098,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004336373997746347,
+    "value": 0.003926422428214737
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 14,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 679,
+    "value": 693
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.016209219858156043,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.9053333333333333,
+    "value": 0.9215425531914894
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -5,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 331,
+    "value": 326
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 2,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 9,
+    "value": 11
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.038415879362698746,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 18.005513258423438,
+    "value": 17.96709737906074
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.06961493831960419,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.5026382852883956,
+    "value": 0.5722532236079998
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.0005992986040183716,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004739014455198623,
+    "value": 0.004139715851180252
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 20,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 627,
+    "value": 647
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.03456620469499572,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.8315649867374005,
+    "value": 0.8661311914323963
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -25,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 294,
+    "value": 269
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -1,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.09436013976359447,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 19.782213590651303,
+    "value": 19.876573730414897
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0678894901396268,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.38370896629141626,
+    "value": 0.45159845643104307
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.0007505141753516957,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.005489809438708215,
+    "value": 0.004739295263356519
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 7,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 601,
+    "value": 608
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.019796727536717462,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.7887139107611548,
+    "value": 0.8085106382978723
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 11,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 230,
+    "value": 241
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -1.9922801817699352,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 24.737532100501994,
+    "value": 22.74525191873206
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.036184312483103,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.2854510940514936,
+    "value": 0.3216354065345966
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.00042205596844890024,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0050032118435465265,
+    "value": 0.004581155875097626
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 8,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 558,
+    "value": 566
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.009536422927423183,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.7332457293035479,
+    "value": 0.7427821522309711
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 10,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 172,
+    "value": 182
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.4797010935997257,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 28.407916103878062,
+    "value": 27.928215010278336
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.02281946410553773,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.22932313811410684,
+    "value": 0.2521426022196446
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.00015442838217795147,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004707948703257026,
+    "value": 0.004553520321079075
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.05511472146757401,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.5132743362831859,
+    "value": 0.5683890577507599
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.026346934932888616,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.2168141592920354,
+    "value": 0.24316109422492402
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.007822695035461014,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.44133333333333336,
+    "value": 0.43351063829787234
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.002627659574468085,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.012,
+    "value": 0.014627659574468085
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.029813329356328966,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.38992042440318303,
+    "value": 0.36010709504685406
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": -0.001326259946949602,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.001326259946949602,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.018641453063047986,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.30183727034120733,
+    "value": 0.3204787234042553
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.012826747510700454,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.22601839684625494,
+    "value": 0.2388451443569554
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 8,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 638,
+    "value": 646
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 16,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 426,
+    "value": 442
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 30,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 234,
+    "value": 264
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -0.19415577170682496,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 15.247102082725245,
+    "value": 15.05294631101842
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.00017204379060420383,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.8114997006297318,
+    "value": 0.811671744420336
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 3.921986062530806e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.003436263825880345,
+    "value": 0.0034754836865056532
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 21,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 679,
+    "value": 700
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -0.007636927230457613,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.9250681198910081,
+    "value": 0.9174311926605505
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -1,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 237,
+    "value": 236
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 2,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 4,
+    "value": 6
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -0.19679866361967058,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 19.52386791255241,
+    "value": 19.32706924893274
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.029445857927566044,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.4312695117061059,
+    "value": 0.46071536963367193
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -4.882612478343757e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.003384730269200207,
+    "value": 0.0033359041444167696
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -25,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 336,
+    "value": 311
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -0.0509543899819086,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.4559023066485753,
+    "value": 0.4049479166666667
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 38,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 207,
+    "value": 245
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 2,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 2
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -1.5229524922454232,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 20.906334775794154,
+    "value": 19.38338228354873
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.1026422772908196,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.20455753113629632,
+    "value": 0.3071998084271159
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.001095871093095167,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0020493676116693288,
+    "value": 0.0031452387047644957
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 96,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 203,
+    "value": 299
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.10541971128141153,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2803867403314917,
+    "value": 0.3858064516129032
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 29,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 203,
+    "value": 232
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -1.5078351369717105,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 21.488042644013007,
+    "value": 19.980207507041296
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.1278761660290036,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.11911822032504492,
+    "value": 0.2469943863540485
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.00036829992318900516,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0018739762405573842,
+    "value": 0.0022422761637463894
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 49,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 105,
+    "value": 154
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.050264119835562365,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.14767932489451477,
+    "value": 0.19794344473007713
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 35,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 199,
+    "value": 234
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -1.7943430007101036,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 22.273963439428883,
+    "value": 20.47962043871878
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.11013037622848286,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.08970793267494696,
+    "value": 0.19983830890342982
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.00020874643666004243,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.002232225831173459,
+    "value": 0.0024409722678335015
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.016498927569707944,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.6677115987460815,
+    "value": 0.6842105263157895
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.04189757077554662,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.3667711598746082,
+    "value": 0.4086687306501548
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": -0.013582909853189551,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.3228882833787466,
+    "value": 0.30930537352555704
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.002414104656436481,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.005449591280653951,
+    "value": 0.007863695937090432
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0381420313206694,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2808683853459973,
+    "value": 0.3190104166666667
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0026041666666666665,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0026041666666666665
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.01896809837818575,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2803867403314917,
+    "value": 0.29935483870967744
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.02088372580709308,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.279887482419128,
+    "value": 0.30077120822622105
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -17,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 662,
+    "value": 645
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 20,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 333,
+    "value": 353
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 2,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 202,
+    "value": 204
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -0.538764697723936,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 16.51630651214993,
+    "value": 15.977541814425996
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.010460378996305364,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.8682594378462059,
+    "value": 0.8787198168425112
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -0.00012268481391116142,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0016130091866717912,
+    "value": 0.0014903243727606298
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 4,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 777,
+    "value": 781
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -3,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 112,
+    "value": 109
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 8,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 2,
+    "value": 10
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 1.300464652454373,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 24.526548562535453,
+    "value": 25.827013214989826
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.03655374677212608,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.61564857300722,
+    "value": 0.6522023197793461
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -7.2396846593652565e-06,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0016766066219588874,
+    "value": 0.001669366937299522
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -70,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 869,
+    "value": 799
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -0.04080403168350022,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.9742152466367713,
+    "value": 0.9334112149532711
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 45,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 87,
+    "value": 132
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 6,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 9,
+    "value": 15
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -2.6866689833879995,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 28.603062333384322,
+    "value": 25.916393349996323
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.030890706334244733,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.4403099019687749,
+    "value": 0.47120060830301963
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -0.0002049107924457453,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.002560540413717402,
+    "value": 0.0023556296212716567
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -283,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 708,
+    "value": 425
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -0.33060052308586474,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.7737704918032787,
+    "value": 0.443169968717414
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 57,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 40,
+    "value": 97
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -6.615911273722862,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 36.35661267766968,
+    "value": 29.74070140394682
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.19520301020196637,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.04341875226288919,
+    "value": 0.23862176246485556
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0015074517023242777,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0006593320010099469,
+    "value": 0.0021667837033342244
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 45,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 439,
+    "value": 484
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.03659352968598456,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.4665249734325186,
+    "value": 0.5031185031185031
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 88,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 36,
+    "value": 124
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -6.255784516462157,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 33.62504031086132,
+    "value": 27.369255794399166
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.006022768143407366,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 8.992315043774509e-05,
+    "value": 0.006112691293845111
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 3.481791273106882e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 6.831664040261639e-07,
+    "value": 3.5501079135094986e-05
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.044265673669172556,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.5030211480362538,
+    "value": 0.5472868217054263
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.011143118105810423,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.30513595166163143,
+    "value": 0.31627906976744186
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": -0.004579483452722882,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.14414414414414414,
+    "value": 0.13956466069142126
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.01023009473713699,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.002574002574002574,
+    "value": 0.012804097311139564
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.056671975189639984,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.09753363228699552,
+    "value": 0.1542056074766355
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.007433678387326599,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.010089686098654708,
+    "value": 0.017523364485981307
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.05743118115979191,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.04371584699453552,
+    "value": 0.10114702815432743
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.09064095567815016,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.03825717321997875,
+    "value": 0.1288981288981289
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 8,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 673,
+    "value": 681
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.004236399210518327,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.9926253687315634,
+    "value": 0.988388969521045
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -4,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 348,
+    "value": 344
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -4,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 147,
+    "value": 143
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.44175150916609596,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 16.191017893659144,
+    "value": 16.63276940282524
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.0029939950472017696,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.6526084292941141,
+    "value": 0.6496144342469123
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.00034435892732681897,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004336373997746347,
+    "value": 0.003992015070419528
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 57,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 679,
+    "value": 736
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.01321212121212123,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.9053333333333333,
+    "value": 0.8921212121212121
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 22,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 331,
+    "value": 353
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -6,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 9,
+    "value": 3
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.5332555904564096,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 18.005513258423438,
+    "value": 18.538768848879847
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.010086683653163175,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.5026382852883956,
+    "value": 0.49255160163523243
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.00018763958438936055,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004739014455198623,
+    "value": 0.004926654039587984
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 80,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 627,
+    "value": 707
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.06308672586783537,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.8315649867374005,
+    "value": 0.7684782608695652
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 33,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 294,
+    "value": 327
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -1,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 1.2989053703322853,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 19.782213590651303,
+    "value": 21.081118960983588
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.012744435799312503,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.38370896629141626,
+    "value": 0.37096453049210376
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.0006206846694468519,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.005489809438708215,
+    "value": 0.004869124769261363
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 110,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 601,
+    "value": 711
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.09028561999494655,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.7887139107611548,
+    "value": 0.6984282907662083
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 52,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 230,
+    "value": 282
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.9978998404422157,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 24.737532100501994,
+    "value": 25.73543194094421
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.0037975092798366306,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.2854510940514936,
+    "value": 0.281653584771657
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.00013723763866588246,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0050032118435465265,
+    "value": 0.004865974204880644
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 156,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 558,
+    "value": 714
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.09574572930354797,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.7332457293035479,
+    "value": 0.6375
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 6,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 172,
+    "value": 178
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 4.984897454340068,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 28.407916103878062,
+    "value": 33.39281355821813
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.035642832732653146,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.22932313811410684,
+    "value": 0.1936803053814537
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.00027513241022283745,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.004707948703257026,
+    "value": 0.004432816293034189
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.014000025688120532,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.5132743362831859,
+    "value": 0.49927431059506533
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.009266989480714638,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.2168141592920354,
+    "value": 0.20754716981132076
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.013454545454545497,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.44133333333333336,
+    "value": 0.42787878787878786
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.008363636363636365,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.012,
+    "value": 0.0036363636363636364
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.034485641794487376,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.38992042440318303,
+    "value": 0.35543478260869565
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.001326259946949602,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.001326259946949602,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.02482351788541165,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.30183727034120733,
+    "value": 0.2770137524557957
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": -0.06708982541768352,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.22601839684625494,
+    "value": 0.15892857142857142
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_2d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 32,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 638,
+    "value": 670
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 12,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 426,
+    "value": 438
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 24,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 234,
+    "value": 258
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.19018165324786906,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 15.247102082725245,
+    "value": 15.056920429477376
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.003068213502039896,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.8114997006297318,
+    "value": 0.8145679141317717
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 1.0810946911092925e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.003436263825880345,
+    "value": 0.003447074772791438
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 81,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 679,
+    "value": 760
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.00859281376992549,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.9250681198910081,
+    "value": 0.9336609336609336
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 60,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 237,
+    "value": 297
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 4,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 4,
+    "value": 8
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.30560659511862553,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 19.52386791255241,
+    "value": 19.218261317433786
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.02836385924516055,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.4312695117061059,
+    "value": 0.40290565246094534
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.00034706840118797853,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.003384730269200207,
+    "value": 0.0030376618680122286
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 98,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 336,
+    "value": 434
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.021020770274501666,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.4559023066485753,
+    "value": 0.47692307692307695
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 77,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 207,
+    "value": 284
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.4396748220394109,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 20.906334775794154,
+    "value": 20.466659953754743
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.006125216815208584,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.20455753113629632,
+    "value": 0.19843231432108774
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 8.057087680239444e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0020493676116693288,
+    "value": 0.002129938488471723
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 27,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 203,
+    "value": 230
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.05061651056126193,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2803867403314917,
+    "value": 0.22977022977022976
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 72,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 203,
+    "value": 275
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 1.2416254447610449,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 21.488042644013007,
+    "value": 22.72966808877405
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.004349199889380623,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.11911822032504492,
+    "value": 0.1147690204356643
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.00016673136394754163,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0018739762405573842,
+    "value": 0.002040707604504926
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 64,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 105,
+    "value": 169
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.004847750917759602,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.14767932489451477,
+    "value": 0.15252707581227437
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 102,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 199,
+    "value": 301
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 1.4523880873333113,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 22.273963439428883,
+    "value": 23.726351526762194
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0005856608267416491,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.08970793267494696,
+    "value": 0.09029359350168861
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.00013371681775479257,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.002232225831173459,
+    "value": 0.0020985090134186665
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.01398025546249948,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.6677115987460815,
+    "value": 0.6537313432835821
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.018303466991063444,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.3667711598746082,
+    "value": 0.3850746268656716
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.04197658148611827,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.3228882833787466,
+    "value": 0.36486486486486486
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.004378418547355877,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.005449591280653951,
+    "value": 0.009828009828009828
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.031219526741914805,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2808683853459973,
+    "value": 0.3120879120879121
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.005661465606216942,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.2803867403314917,
+    "value": 0.27472527472527475
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": -0.008226832599633416,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.279887482419128,
+    "value": 0.27166064981949456
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover0_3d_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 9,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 662,
+    "value": 671
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -5,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 333,
+    "value": 328
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -20,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 202,
+    "value": 182
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.4075112400269916,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 16.51630651214993,
+    "value": 16.923817752176923
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.01928709495013481,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.8682594378462059,
+    "value": 0.848972342896071
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 7.838631365828441e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0016130091866717912,
+    "value": 0.0016913955003300756
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 72,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 777,
+    "value": 849
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -9,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 112,
+    "value": 103
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 1,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 2,
+    "value": 3
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 1.8642628711128033,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 24.526548562535453,
+    "value": 26.390811433648256
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.10982874362429851,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.61564857300722,
+    "value": 0.5058198293829215
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 8.299182912344604e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0016766066219588874,
+    "value": 0.0017595984510823334
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 85,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 869,
+    "value": 954
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.062169357535432845,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.9742152466367713,
+    "value": 0.9120458891013384
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 13,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 87,
+    "value": 100
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 3,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 9,
+    "value": 12
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.810654038231597,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 28.603062333384322,
+    "value": 29.41371637161592
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.061552295789419176,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.4403099019687749,
+    "value": 0.3787576061793557
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -9.841437792179131e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.002560540413717402,
+    "value": 0.0024621260357956106
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 18,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 708,
+    "value": 726
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.16265938069216757,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.7737704918032787,
+    "value": 0.6111111111111112
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 47,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 40,
+    "value": 87
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -5.030737094448497,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 36.35661267766968,
+    "value": 31.325875583221183
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.0408588709140059,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.04341875226288919,
+    "value": 0.0025598813488832877
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.0006412173044069279,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0006593320010099469,
+    "value": 1.8114696603018988e-05
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 294,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 439,
+    "value": 733
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.09216405095772534,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.4665249734325186,
+    "value": 0.5586890243902439
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 41,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 36,
+    "value": 77
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0,
+    "value": 0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -1.135375138736464,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 33.62504031086132,
+    "value": 32.48966517212486
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -5.186288908370925e-05,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 8.992315043774509e-05,
+    "value": 3.8060261354035844e-05
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -3.754483667345031e-07,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 6.831664040261639e-07,
+    "value": 3.077180372916608e-07
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 1.0,
+    "value": 1.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.014198495279174772,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.5030211480362538,
+    "value": 0.488822652757079
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.0338989919000815,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.30513595166163143,
+    "value": 0.27123695976154993
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.022824945086429183,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.14414414414414414,
+    "value": 0.12131919905771496
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0009595663305910656,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.002574002574002574,
+    "value": 0.0035335689045936395
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": -0.0019313378319286006,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.09753363228699552,
+    "value": 0.09560229445506692
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.001382589235953323,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.010089686098654708,
+    "value": 0.011472275334608031
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.029516476237787713,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.04371584699453552,
+    "value": 0.07323232323232323
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.02043185117026515,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.03825717321997875,
+    "value": 0.0586890243902439
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "difference": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "reference_case": "turnover10_local_entry_seed0",
+    "reference_value": 0.0,
+    "value": 0.0
+  }
+]

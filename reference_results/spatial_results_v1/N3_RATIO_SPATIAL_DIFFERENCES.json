@@ -1,0 +1,2834 @@
+[
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -389,
+    "mean": -404.6666666666667,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "min": -420,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -420,
+      -405,
+      -389
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.004497751124437732,
+    "mean": 0.00236089341749209,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "min": -0.0004685059864653063,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.0004685059864653063,
+      0.004497751124437732,
+      0.003053435114503844
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -192,
+    "mean": -198.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "min": -207,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -192,
+      -207,
+      -195
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -62,
+    "mean": -70.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "min": -77,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -62,
+      -71,
+      -77
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -0.6045884232525456,
+    "mean": -0.7935928887631984,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "min": -0.9462649886545194,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.8299252543825304,
+      -0.9462649886545194,
+      -0.6045884232525456
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -0.005205811816579975,
+    "mean": -0.013150065270367032,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "min": -0.023601413850548703,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.005205811816579975,
+      -0.023601413850548703,
+      -0.010642970143972419
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0001782832406891392,
+    "mean": -0.00022242278222281927,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "min": -0.0004550021716104879,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.0004550021716104879,
+      -0.00039054941574710907,
+      0.0001782832406891392
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -343,
+    "mean": -364.0,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "min": -386,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -386,
+      -363,
+      -343
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.06564920044252232,
+    "mean": 0.05617977715338307,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "min": 0.04288673139158572,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.04288673139158572,
+      0.060003399626041176,
+      0.06564920044252232
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -158,
+    "mean": -166.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "min": -180,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -180,
+      -158,
+      -160
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 45,
+    "mean": 27.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "min": 14,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      14,
+      45,
+      22
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -0.7962114835278378,
+    "mean": -1.074193156720759,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "min": -1.4065784324622967,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -1.0197895541721422,
+      -0.7962114835278378,
+      -1.4065784324622967
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.11773251957818931,
+    "mean": 0.10945540908561906,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "min": 0.09369364621164966,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.11694006146701819,
+      0.11773251957818931,
+      0.09369364621164966
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -0.000781162048260859,
+    "mean": -0.0010125865186330532,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "min": -0.0013357001132713407,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.000781162048260859,
+      -0.0013357001132713407,
+      -0.0009208973943669596
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -278,
+    "mean": -321.6666666666667,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "min": -360,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -327,
+      -278,
+      -360
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.11227922624053832,
+    "mean": 0.061246069484062006,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "min": 0.018068216736658815,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.05339076547498889,
+      0.11227922624053832,
+      0.018068216736658815
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -110,
+    "mean": -138.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "min": -155,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -149,
+      -110,
+      -155
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 6,
+    "mean": 5.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "min": 4,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      5,
+      6,
+      4
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -1.2989182009488438,
+    "mean": -2.1310002397550556,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "min": -3.026664014066604,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -2.0674185042497193,
+      -3.026664014066604,
+      -1.2989182009488438
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.1089942530616827,
+    "mean": 0.09304922233283758,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "min": 0.06181971703024497,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.10833369690658506,
+      0.1089942530616827,
+      0.06181971703024497
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 3.6584415384521146e-05,
+    "mean": -0.0003169584816477058,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "min": -0.0009351042904929292,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.0009351042904929292,
+      -5.235556983470939e-05,
+      3.6584415384521146e-05
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -209,
+    "mean": -280.3333333333333,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "min": -323,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -323,
+      -209,
+      -309
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.14741236122038637,
+    "mean": 0.07632154420271468,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "min": 0.031345086288992685,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.031345086288992685,
+      0.14741236122038637,
+      0.050207185098764984
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -73,
+    "mean": -102.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "min": -117,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -117,
+      -73,
+      -116
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 3,
+    "mean": 1.3333333333333333,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "min": 0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0,
+      3,
+      1
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -3.5525696661816966,
+    "mean": -4.388850933673804,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "min": -4.811553809181042,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -4.811553809181042,
+      -4.802429325658672,
+      -3.5525696661816966
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0740218596491079,
+    "mean": 0.06621649554068294,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "min": 0.062031446951188174,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.06259618002175277,
+      0.0740218596491079,
+      0.062031446951188174
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0003190666003037171,
+    "mean": 0.00022182146818871344,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "min": 0.00012119203683406271,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.00022520576742836047,
+      0.00012119203683406271,
+      0.0003190666003037171
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -163,
+    "mean": -251.66666666666666,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "min": -307,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -307,
+      -163,
+      -285
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.1411242324043458,
+    "mean": 0.05141671589831909,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "min": 0.002824651928123645,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.002824651928123645,
+      0.1411242324043458,
+      0.010301263362487822
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -32,
+    "mean": -42.666666666666664,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "min": -50,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -50,
+      -46,
+      -32
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0,
+    "mean": 0.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "min": 0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0,
+      0,
+      0
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": -5.154844776242211,
+    "mean": -7.216117033760764,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "min": -9.722773987735327,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -6.770732337304754,
+      -5.154844776242211,
+      -9.722773987735327
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0790163153163064,
+    "mean": 0.06436796436113422,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "min": 0.051758424253316976,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.051758424253316976,
+      0.06232915351377927,
+      0.0790163153163064
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0007519324830407657,
+    "mean": 0.0005586345129204659,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "min": 0.00042815396522680963,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.00042815396522680963,
+      0.0004958170904938225,
+      0.0007519324830407657
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.09849036959916713,
+    "mean": 0.07817456774847698,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "min": 0.06517397671820457,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.09849036959916713,
+      0.06517397671820457,
+      0.07085935692805923
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.11651917404129791,
+    "mean": 0.09183764040938742,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "min": 0.0730464883388422,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.11651917404129791,
+      0.0730464883388422,
+      0.08594725884802218
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.05534044051091219,
+    "mean": 0.045547503495699436,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "min": 0.03396226415094339,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.04733980582524272,
+      0.03396226415094339,
+      0.05534044051091219
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.14509603943566207,
+    "mean": 0.09564130335942006,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "min": 0.06243365695792881,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.06243365695792881,
+      0.14509603943566207,
+      0.07939421368466928
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0756938603868797,
+    "mean": 0.04990544265035054,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "min": 0.03621427839803343,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.037808189166138484,
+      0.0756938603868797,
+      0.03621427839803343
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.020278478646855433,
+    "mean": 0.01631967535061531,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "min": 0.012307692307692308,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.016372855097298186,
+      0.020278478646855433,
+      0.012307692307692308
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.09572515079989508,
+    "mean": 0.05742765567349597,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "min": 0.031496062992125984,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.031496062992125984,
+      0.09572515079989508,
+      0.04506175322846684
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.008064516129032258,
+    "mean": 0.003683196918632643,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.008064516129032258,
+      0.0029850746268656717
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.13994169096209913,
+    "mean": 0.11657650341269626,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "min": 0.07803495512517714,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.13175286415081253,
+      0.07803495512517714,
+      0.13994169096209913
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "2d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -384,
+    "mean": -391.6666666666667,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "min": -398,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -384,
+      -393,
+      -398
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -191,
+    "mean": -210.66666666666666,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "min": -229,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -229,
+      -191,
+      -212
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -58,
+    "mean": -81.33333333333333,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "min": -95,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -95,
+      -58,
+      -91
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -0.4180120355644714,
+    "mean": -0.5106978621138367,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "min": -0.6499091988995218,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.4180120355644714,
+      -0.6499091988995218,
+      -0.46417235187751693
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.05715579037834306,
+    "mean": 0.05445770912014928,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "min": 0.050816544629887606,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.05715579037834306,
+      0.055400792352217176,
+      0.050816544629887606
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -0.0006777895010674352,
+    "mean": -0.0008611213339462276,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "min": -0.001213538230733553,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.0006920362700376945,
+      -0.001213538230733553,
+      -0.0006777895010674352
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -357,
+    "mean": -368.6666666666667,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "min": -377,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -377,
+      -372,
+      -357
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.07163155007598854,
+    "mean": 0.06523791201703004,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "min": 0.05303894410949972,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.07163155007598854,
+      0.07104324186560185,
+      0.05303894410949972
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -118,
+    "mean": -127.33333333333333,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "min": -138,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -118,
+      -138,
+      -126
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 29,
+    "mean": 22.666666666666668,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "min": 17,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      17,
+      22,
+      29
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -1.0732889579992104,
+    "mean": -1.2917728094235013,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "min": -1.5745429714476558,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -1.5745429714476558,
+      -1.2274864988236374,
+      -1.0732889579992104
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.20467552322076393,
+    "mean": 0.19783706020231825,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "min": 0.19234989828243976,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.19648575910375105,
+      0.20467552322076393,
+      0.19234989828243976
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0005795605484015475,
+    "mean": 0.00020506860699864922,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "min": -0.00012126128225306869,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.00012126128225306869,
+      0.0001569065548474688,
+      0.0005795605484015475
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -31,
+    "mean": -52.333333333333336,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "min": -78,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -48,
+      -31,
+      -78
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.43298658224031356,
+    "mean": 0.40292000757778457,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "min": 0.3520786613765741,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.43298658224031356,
+      0.4236947791164659,
+      0.3520786613765741
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -112,
+    "mean": -125.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "min": -132,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -112,
+      -132,
+      -131
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 3,
+    "mean": 2.3333333333333335,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "min": 2,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      2,
+      2,
+      3
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.2960378264927854,
+    "mean": -0.25559360228042277,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "min": -0.9017297478787505,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.9017297478787505,
+      0.2960378264927854,
+      -0.1610888854553032
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.19926842822482987,
+    "mean": 0.155820087788758,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "min": 0.12798021383732244,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.19926842822482987,
+      0.12798021383732244,
+      0.14021162130412168
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0017761603087429964,
+    "mean": 0.0015117647026537267,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "min": 0.0011458722518219045,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0016132615473962793,
+      0.0017761603087429964,
+      0.0011458722518219045
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 11,
+    "mean": 3.0,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "min": -8,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -8,
+      11,
+      6
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.32146511152036017,
+    "mean": 0.28484493875504313,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "min": 0.23922364290636242,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.32146511152036017,
+      0.29384606183840684,
+      0.23922364290636242
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -100,
+    "mean": -127.33333333333333,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "min": -170,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -112,
+      -100,
+      -170
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0,
+    "mean": 0.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "min": 0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0,
+      0,
+      0
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.85032693069369,
+    "mean": -0.4533474163448676,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "min": -1.3684314309547787,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.841937748773514,
+      -1.3684314309547787,
+      0.85032693069369
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.09635404112954084,
+    "mean": 0.07738221253789862,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "min": 0.06691183077223216,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.09635404112954084,
+      0.06888076571192285,
+      0.06691183077223216
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0017695254540375702,
+    "mean": 0.0008945577676766531,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "min": 0.00034770333365048527,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0017695254540375702,
+      0.00034770333365048527,
+      0.0005664445153419038
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -17,
+    "mean": -32.333333333333336,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "min": -43,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -17,
+      -43,
+      -37
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.123089905874716,
+    "mean": 0.10317279602615703,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "min": 0.088843537414966,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.123089905874716,
+      0.0975849447887891,
+      0.088843537414966
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -86,
+    "mean": -94.66666666666667,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "min": -104,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -94,
+      -86,
+      -104
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0,
+    "mean": 0.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "min": 0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0,
+      0,
+      0
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": -1.1524230997972822,
+    "mean": -1.9809937778884408,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "min": -3.2557667566111625,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -1.5347914772568778,
+      -1.1524230997972822,
+      -3.2557667566111625
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.04924201283090432,
+    "mean": 0.034624817702155676,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "min": 0.02683385033962904,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.027798589935933662,
+      0.02683385033962904,
+      0.04924201283090432
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0008981589912053722,
+    "mean": 0.0006221305434868223,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "min": 0.0001396108192040146,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0001396108192040146,
+      0.0008286218200510801,
+      0.0008981589912053722
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 1.0,
+    "mean": 0.3333333333333333,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.19329832458114526,
+    "mean": 0.1456431558542924,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "min": 0.10787895243502077,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.10787895243502077,
+      0.19329832458114526,
+      0.13575219054671117
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.26890651234237134,
+    "mean": 0.21277393799350366,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "min": 0.18047293461358083,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.18047293461358083,
+      0.26890651234237134,
+      0.18894236702455885
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.06985099054864613,
+    "mean": 0.04587303872679349,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "min": 0.03250773993808048,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.06985099054864613,
+      0.03526038569365386,
+      0.03250773993808048
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.09662701645755255,
+    "mean": 0.07852381142767231,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "min": 0.06385733941241536,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.06385733941241536,
+      0.07508707841304903,
+      0.09662701645755255
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.012341491197212617,
+    "mean": -0.011357000079418311,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "min": -0.02446148229280759,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.012341491197212617,
+      -0.02446148229280759,
+      -0.02195100914265996
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.008797653958944282,
+    "mean": 0.007010366508574394,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "min": 0.006060606060606061,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.006172839506172839,
+      0.006060606060606061,
+      0.008797653958944282
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.03150529274564917,
+    "mean": -0.021470364774725564,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "min": -0.09639384426919839,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.00047745719937253295,
+      0.03150529274564917,
+      -0.09639384426919839
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.05398472502727669,
+    "mean": 0.04060000534173595,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "min": 0.024625850340136035,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.04318944065779512,
+      0.05398472502727669,
+      0.024625850340136035
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "3d",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -398,
+    "mean": -401.6666666666667,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_6h",
+    "min": -407,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -398,
+      -400,
+      -407
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -175,
+    "mean": -197.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_6h",
+    "min": -217,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -175,
+      -199,
+      -217
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -73,
+    "mean": -81.66666666666667,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_6h",
+    "min": -86,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -73,
+      -86,
+      -86
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0655451189204328,
+    "mean": -0.4075155071666696,
+    "metric": "access/nearest_living_target_centre_median_um/at_6h",
+    "min": -0.6712440349533928,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.6712440349533928,
+      -0.6168476054670489,
+      0.0655451189204328
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.03636137550434648,
+    "mean": 0.027597113612852553,
+    "metric": "CXCL/median_living_effector_local_concentration/at_6h",
+    "min": 0.02316692918654062,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.03636137550434648,
+      0.023263036147670557,
+      0.02316692918654062
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -0.0003359226702687665,
+    "mean": -0.0004985781690343163,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h",
+    "min": -0.0006042673722791267,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.0005555444645550557,
+      -0.0003359226702687665,
+      -0.0006042673722791267
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_6h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -435,
+    "mean": -449.3333333333333,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_24h",
+    "min": -460,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -435,
+      -453,
+      -460
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0025188916876573986,
+    "mean": -0.00014656273133314043,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_24h",
+    "min": -0.00295857988165682,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0025188916876573986,
+      -0.00295857988165682
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -43,
+    "mean": -61.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_24h",
+    "min": -71,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -71,
+      -43,
+      -69
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 24,
+    "mean": 10.0,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_24h",
+    "min": -5,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      24,
+      11,
+      -5
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -1.271310586164077,
+    "mean": -2.114013133031753,
+    "metric": "access/nearest_living_target_centre_median_um/at_24h",
+    "min": -2.6254251855748265,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -1.271310586164077,
+      -2.6254251855748265,
+      -2.445303627356356
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.18960309104709372,
+    "mean": 0.15244158862582916,
+    "metric": "CXCL/median_living_effector_local_concentration/at_24h",
+    "min": 0.11586225905835124,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.11586225905835124,
+      0.15185941577204254,
+      0.18960309104709372
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 6.677883526191582e-05,
+    "mean": -0.00013267474037591034,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h",
+    "min": -0.00023413141458219285,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      6.677883526191582e-05,
+      -0.00023413141458219285,
+      -0.00023067164180745397
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_24h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_24h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -440,
+    "mean": -469.3333333333333,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_48h",
+    "min": -485,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -485,
+      -440,
+      -483
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.02095683811085014,
+    "mean": 0.009869728008618961,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_48h",
+    "min": 0.0032757558170841694,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.005376590097922573,
+      0.0032757558170841694,
+      0.02095683811085014
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -27,
+    "mean": -42.0,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_48h",
+    "min": -52,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -27,
+      -52,
+      -47
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 5,
+    "mean": 2.6666666666666665,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_48h",
+    "min": 0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      5,
+      0,
+      3
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -1.280614504708467,
+    "mean": -1.6240843854934752,
+    "metric": "access/nearest_living_target_centre_median_um/at_48h",
+    "min": -1.8523448601283086,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -1.8523448601283086,
+      -1.280614504708467,
+      -1.7392937916436502
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.18450891671870162,
+    "mean": 0.1067793962005842,
+    "metric": "CXCL/median_living_effector_local_concentration/at_48h",
+    "min": 0.020627355815140247,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.020627355815140247,
+      0.18450891671870162,
+      0.11520191606791075
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0002193796254075361,
+    "mean": -4.130972565578279e-05,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h",
+    "min": -0.000273985766369085,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.000273985766369085,
+      0.0002193796254075361,
+      -6.932303600579951e-05
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_48h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_48h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -240,
+    "mean": -256.0,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_72h",
+    "min": -275,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -253,
+      -275,
+      -240
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.24948730641397365,
+    "mean": 0.21722141263193354,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_72h",
+    "min": 0.1974527996291917,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.20472413185263527,
+      0.1974527996291917,
+      0.24948730641397365
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -5,
+    "mean": -6.666666666666667,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_72h",
+    "min": -8,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -5,
+      -8,
+      -7
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 7,
+    "mean": 4.333333333333333,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_72h",
+    "min": 2,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      4,
+      2,
+      7
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -2.68658067403641,
+    "mean": -3.900340763725662,
+    "metric": "access/nearest_living_target_centre_median_um/at_72h",
+    "min": -6.109653227549138,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -6.109653227549138,
+      -2.68658067403641,
+      -2.904788389591438
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.34734494845989516,
+    "mean": 0.2651267475331145,
+    "metric": "CXCL/median_living_effector_local_concentration/at_72h",
+    "min": 0.2044042240219428,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.2044042240219428,
+      0.34734494845989516,
+      0.24363107011750548
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.002717598909260386,
+    "mean": 0.002105538661165294,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h",
+    "min": 0.0017548528772815142,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.001844164196953982,
+      0.0017548528772815142,
+      0.002717598909260386
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_72h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": -47,
+    "mean": -98.66666666666667,
+    "metric": "access/living_effectors_inside_initial_target_hull/at_96h",
+    "min": -191,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -58,
+      -47,
+      -191
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.40063313910950016,
+    "mean": 0.29876450856921166,
+    "metric": "access/fraction_living_effectors_inside_initial_target_hull/at_96h",
+    "min": 0.17984449760765542,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.31581588899047935,
+      0.40063313910950016,
+      0.17984449760765542
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 4,
+    "mean": -3.6666666666666665,
+    "metric": "access/living_effectors_touching_living_target_spheres/at_96h",
+    "min": -17,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      2,
+      -17,
+      4
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 1,
+    "mean": 0.3333333333333333,
+    "metric": "access/living_effectors_with_saved_live_target_attack_link/at_96h",
+    "min": 0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0,
+      1,
+      0
+    ],
+    "unit": "cells"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 2.79878933178518,
+    "mean": -0.433244371301182,
+    "metric": "access/nearest_living_target_centre_median_um/at_96h",
+    "min": -2.512281926726711,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -1.5862405189620148,
+      2.79878933178518,
+      -2.512281926726711
+    ],
+    "unit": "um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.03315639728792785,
+    "mean": 0.02215001185070978,
+    "metric": "CXCL/median_living_effector_local_concentration/at_96h",
+    "min": 0.008972392078308267,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.03315639728792785,
+      0.024321246185893233,
+      0.008972392078308267
+    ],
+    "unit": "relative concentration"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.00031526551698102864,
+    "mean": 0.00021389094315109322,
+    "metric": "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h",
+    "min": 6.725183005735419e-05,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.00031526551698102864,
+      0.00025915548241489683,
+      6.725183005735419e-05
+    ],
+    "unit": "relative concentration / um"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/median_living_effector_direction_norm/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "CXCL/fraction_direction_norm_ge_0_99/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_inside_initial_target_hull",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_touching_living_target_spheres",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_saved_live_target_attack_link",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0,
+    "mean": 0.0,
+    "metric": "first_saved_positive_h/living_effectors_with_positive_recent_activity_memory",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "unit": "h"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.09612333483011526,
+    "mean": 0.08077287566968594,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_6h",
+    "min": 0.0507315917303478,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.09546370044859476,
+      0.09612333483011526,
+      0.0507315917303478
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.1872174824128125,
+    "mean": 0.1694763101545355,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_6h",
+    "min": 0.13771103607606183,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.1835004119747322,
+      0.1872174824128125,
+      0.13771103607606183
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.011769688593655958,
+    "mean": -0.0012163614261403537,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_24h",
+    "min": -0.024261103208471635,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      -0.024261103208471635,
+      0.011769688593655958,
+      0.008842330336394616
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.07344938923886292,
+    "mean": 0.04568071498382503,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_24h",
+    "min": 0.022692344813761665,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.07344938923886292,
+      0.04090041089885052,
+      0.022692344813761665
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0555275922028004,
+    "mean": 0.01591729809614624,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_48h",
+    "min": -0.005845503987746581,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0555275922028004,
+      -0.005845503987746581,
+      -0.0019301939266151008
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.025624599615631002,
+    "mean": 0.018249807380884744,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_48h",
+    "min": 0.014481146979418564,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.025624599615631002,
+      0.01464367554760466,
+      0.014481146979418564
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.051360113349363065,
+    "mean": 0.0429454285319199,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_72h",
+    "min": 0.03155297020976556,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.03155297020976556,
+      0.051360113349363065,
+      0.04592320203663107
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.017721518987341773,
+    "mean": 0.010321346918224852,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_72h",
+    "min": 0.004640371229698376,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.008602150537634409,
+      0.004640371229698376,
+      0.017721518987341773
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.04976076555023924,
+    "mean": 0.02942475719545733,
+    "metric": "access/fraction_living_effectors_touching_living_target_spheres/at_96h",
+    "min": -0.0012580681771533833,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.03977157421328614,
+      -0.0012580681771533833,
+      0.04976076555023924
+    ],
+    "unit": "dimensionless"
+  },
+  {
+    "arm": "local_entry",
+    "is_confidence_interval": false,
+    "max": 0.0021321961620469083,
+    "mean": 0.0007107320540156361,
+    "metric": "access/fraction_living_effectors_with_saved_live_target_attack_link/at_96h",
+    "min": 0.0,
+    "n_available": 3,
+    "n_expected": 3,
+    "same_seed_differences": [
+      0.0,
+      0.0021321961620469083,
+      0.0
+    ],
+    "unit": "dimensionless"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "CASES.json": "a8bab4633dac3528880b89c01824f7a1130cae66ec8bfb9d38241c983d6bf5b8",
+  "CELL_STATES.json": "c6796e69d021ad837854e7245ca0e1c96277b743fcf60489e552792ac68084a8",
+  "EXPECTED_COUNTS.json": "6ce59a747a7fdd4a951a9245a087758bdcef6ba4e1c2622f6420f5472b43c0d7",
+  "EXPECTED_HOURLY_ROWS.json": "abd504d8c0fbca572a5ea1a3f1bdfe45b90d50c49a7a1df54604e355287d325a",
+  "RAW_FILES.json": "b3bd35ea8b696c33afe776767d4de700be7a1bf5dfb269c75e3b432dbcefa94c",
+  "README.txt": "3967b2df54b3b22a8db2ffb7c6b6f23143e4d4f8dd7e6c4b7c834d73c580daf7",
+  "TECHNICAL_ACCEPTANCE.json": "6fa8bfaba5413176ed46f0600de375ab5d98c729e528d05cdeab73c890f0ba9c",
+  "ensemble_stats.py": "6d2851e236da125e8970b72d0def5dd4ae88ee851874232d2cbbafcf153d98c5",
+  "read_counts.py": "ff165fe9c0ce6efee56c4d8c3d007aebb06df2c28003deefd94dbe653600f677",
+  "replay.py": "0389ecf188c8b14fd1f805c59b20697cc91eabe16a05d67ac2c02b486af74dc9",
+  "requirements.txt": "621b2928d1ee285c01cfe851c6929434fe3f183bff52fadc00baa0c6f2b22602",
+  "saved_fields.py": "6fe18ac308c72e76d88f6ba44974fedf997c2fab4dd0b4825ffa7d69e8a8b743",
+  "saved_frames.py": "d52ce3d8d3947b3d90cd1f7883d3382a971c2021c853090e14071bb5af3c39c5",
+  "scalar_metrics.py": "c7c31da7029c06798794d5f3891a0b6154344b9409248d62f5b909be53115579"
+}

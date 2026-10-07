@@ -1,0 +1,866 @@
+TY  - JOUR
+ID  - BEHAV3D2022
+TI  - Uncovering the mode of action of engineered T cells in patient cancer organoids
+AU  - Dekkers, Johanna F.
+AU  - Alieva, Maria
+AU  - Cleven, Astrid
+AU  - Keramati, Farid
+AU  - Wezenaar, Amber K. L.
+AU  - van Vliet, Esmée J.
+AU  - Puschhof, Jens
+AU  - Brazda, Peter
+AU  - Johanna, Inez
+AU  - Meringa, Angelo D.
+AU  - Rebel, Heggert G.
+AU  - Buchholz, Maj-Britt
+AU  - Barrera Román, Mario
+AU  - Zeeman, Amber L.
+AU  - de Blank, Sam
+AU  - Fasci, Domenico
+AU  - Geurts, Maarten H.
+AU  - Cornel, Annelisa M.
+AU  - Driehuis, Else
+AU  - Millen, Rosemary
+AU  - Straetemans, Trudy
+AU  - Nicolasen, Mara J. T.
+AU  - Aarts-Riemens, Tineke
+AU  - Ariese, Hendrikus C. R.
+AU  - Johnson, Hannah R.
+AU  - van Ineveld, Ravian L.
+AU  - Karaiskaki, Froso
+AU  - Kopper, Oded
+AU  - Bar-Ephraim, Yotam E.
+AU  - Kretzschmar, Kai
+AU  - Eggermont, Alexander M. M.
+AU  - Nierkens, Stefan
+AU  - Wehrens, Ellen J.
+AU  - Stunnenberg, Henk G.
+AU  - Clevers, Hans
+AU  - Kuball, Jürgen
+AU  - Sebestyen, Zsolt
+AU  - Rios, Anne C.
+JO  - Nature Biotechnology
+PY  - 2023
+VL  - 41
+IS  - 1
+SP  - 60
+EP  - 69
+DO  - 10.1038/s41587-022-01397-w
+UR  - https://doi.org/10.1038/s41587-022-01397-w
+ER  - 
+
+TY  - JOUR
+ID  - BIOFVM2016
+TI  - BioFVM: an efficient, parallelized diffusive transport solver for 3-D biological simulations
+AU  - Ghaffarizadeh, Ahmadreza
+AU  - Friedman, Samuel H.
+AU  - Macklin, Paul
+JO  - Bioinformatics
+PY  - 2016
+VL  - 32
+IS  - 8
+SP  - 1256
+EP  - 1258
+DO  - 10.1093/bioinformatics/btv730
+UR  - https://doi.org/10.1093/bioinformatics/btv730
+ER  - 
+
+TY  - JOUR
+ID  - BORDEL_VOZMEDIANO2025
+TI  - Geometric immunosuppression in CAR T-cell treatment: Insights from mathematical modeling
+AU  - Bordel-Vozmediano, Silvia
+AU  - Sabir, Soukaina
+AU  - Benito-Barca, Lucía
+AU  - Weigelin, Bettina
+AU  - Pérez-García, Víctor M.
+JO  - Computers in Biology and Medicine
+PY  - 2025
+VL  - 194
+SP  - 110427
+DO  - 10.1016/j.compbiomed.2025.110427
+UR  - https://doi.org/10.1016/j.compbiomed.2025.110427
+ER  - 
+
+TY  - JOUR
+ID  - BUSSE2010
+TI  - Competing feedback loops shape IL-2 signaling between helper and regulatory T lymphocytes in cellular microenvironments
+AU  - Busse, Dorothea
+AU  - de la Rosa, Maurus
+AU  - Hobiger, Kirstin
+AU  - Thurley, Kevin
+AU  - Flossdorf, Michael
+AU  - Scheffold, Alexander
+AU  - Höfer, Thomas
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2010
+VL  - 107
+IS  - 7
+SP  - 3058
+EP  - 3063
+DO  - 10.1073/pnas.0812851107
+UR  - https://doi.org/10.1073/pnas.0812851107
+ER  - 
+
+TY  - JOUR
+ID  - CAZAUX2019
+TI  - Single-cell imaging of CAR T cell activity in vivo reveals extensive functional and anatomical heterogeneity
+AU  - Cazaux, Marine
+AU  - Grandjean, Capucine L.
+AU  - Lemaître, Fabrice
+AU  - Garcia, Zacarias
+AU  - Beck, Richard J.
+AU  - Milo, Idan
+AU  - Postat, Jérémy
+AU  - Beltman, Joost B.
+AU  - Cheadle, Eleanor J.
+AU  - Bousso, Philippe
+JO  - Journal of Experimental Medicine
+PY  - 2019
+VL  - 216
+IS  - 5
+SP  - 1038
+EP  - 1049
+DO  - 10.1084/jem.20182375
+UR  - https://doi.org/10.1084/jem.20182375
+ER  - 
+
+TY  - JOUR
+ID  - CENTOFANTI2023
+TI  - The spread of interferon-γ in melanomas is highly spatially confined, driving nongenetic variability in tumor cells
+AU  - Centofanti, Edoardo
+AU  - Wang, Chad
+AU  - Iyer, Sandhya
+AU  - Krichevsky, Oleg
+AU  - Oyler-Yaniv, Alon
+AU  - Oyler-Yaniv, Jennifer
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2023
+VL  - 120
+IS  - 35
+SP  - e2304190120
+DO  - 10.1073/pnas.2304190120
+UR  - https://doi.org/10.1073/pnas.2304190120
+ER  - 
+
+TY  - JOUR
+ID  - DAVENPORT2015
+TI  - CAR-T Cells Inflict Sequential Killing of Multiple Tumor Target Cells
+AU  - Davenport, Alexander J.
+AU  - Jenkins, Misty R.
+AU  - Cross, Ryan S.
+AU  - Yong, Carmen S.
+AU  - Prince, H. Miles
+AU  - Ritchie, David S.
+AU  - Trapani, Joseph A.
+AU  - Kershaw, Michael H.
+AU  - Darcy, Phillip K.
+AU  - Neeson, Paul J.
+JO  - Cancer Immunology Research
+PY  - 2015
+VL  - 3
+IS  - 5
+SP  - 483
+EP  - 494
+DO  - 10.1158/2326-6066.CIR-15-0048
+UR  - https://doi.org/10.1158/2326-6066.CIR-15-0048
+ER  - 
+
+TY  - JOUR
+ID  - DAVENPORT2015_CORRECTION2018
+TI  - Correction: CAR-T Cells Inflict Sequential Killing of Multiple Tumor Target Cells
+JO  - Cancer Immunology Research
+PY  - 2018
+VL  - 6
+IS  - 3
+SP  - 370
+EP  - 370
+DO  - 10.1158/2326-6066.CIR-18-0027
+UR  - https://doi.org/10.1158/2326-6066.CIR-18-0027
+ER  - 
+
+TY  - JOUR
+ID  - DAVENPORT2018
+TI  - Chimeric antigen receptor T cells form nonclassical and potent immune synapses driving rapid cytotoxicity
+AU  - Davenport, A. J.
+AU  - Cross, R. S.
+AU  - Watson, K. A.
+AU  - Liao, Y.
+AU  - Shi, W.
+AU  - Prince, H. M.
+AU  - Beavis, P. A.
+AU  - Trapani, J. A.
+AU  - Kershaw, M. H.
+AU  - Ritchie, D. S.
+AU  - Darcy, P. K.
+AU  - Neeson, P. J.
+AU  - Jenkins, M. R.
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2018
+VL  - 115
+IS  - 9
+SP  - E2068–E2076
+DO  - 10.1073/pnas.1716266115
+UR  - https://doi.org/10.1073/pnas.1716266115
+ER  - 
+
+TY  - JOUR
+ID  - FALLAHI2012
+TI  - NF-κB Signaling Dynamics Play a Key Role in Infection Control in Tuberculosis
+AU  - Fallahi-Sichani, Mohammad
+AU  - Kirschner, Denise E.
+AU  - Linderman, Jennifer J.
+JO  - Frontiers in Physiology
+PY  - 2012
+VL  - 3
+SP  - 170
+DO  - 10.3389/fphys.2012.00170
+UR  - https://doi.org/10.3389/fphys.2012.00170
+ER  - 
+
+TY  - JOUR
+ID  - FEINERMAN2010
+TI  - Single‐cell quantification of IL‐2 response by effector and regulatory T cells reveals critical plasticity in immune response
+AU  - Feinerman, Ofer
+AU  - Jentsch, Garrit
+AU  - Tkach, Karen E
+AU  - Coward, Jesse W
+AU  - Hathorn, Matthew M
+AU  - Sneddon, Michael W
+AU  - Emonet, Thierry
+AU  - Smith, Kendall A
+AU  - Altan‐Bonnet, Grégoire
+JO  - Molecular Systems Biology
+PY  - 2010
+VL  - 6
+IS  - 1
+SP  - 437
+DO  - 10.1038/msb.2010.90
+UR  - https://doi.org/10.1038/msb.2010.90
+ER  - 
+
+TY  - JOUR
+ID  - GHIRARDELLI2026
+TI  - Intratumoral T cell activation kills tumors regardless of T cell specificity
+AU  - Ghirardelli Smith, Olivia C.
+AU  - Dao, Tyler T.
+AU  - Gavil, Noah V.
+AU  - O’Flanagan, Stephen D.
+AU  - Rubin, Adam J.
+AU  - Nguyen, Son
+AU  - Watowich, Matthew B.
+AU  - Liu, Nuo
+AU  - Weyu, Eyob
+AU  - Quarnstrom, Clare F.
+AU  - Soerens, Andrew G.
+AU  - Joag, Vineet
+AU  - Rosato, Pamela C.
+AU  - Krummel, Matthew F.
+AU  - Geller, Melissa A.
+AU  - Miller, Jeffrey S.
+AU  - Giubellino, Alessio
+AU  - Vezys, Vaiva
+AU  - Shalek, Alex K.
+AU  - Masopust, David
+JO  - Nature Immunology
+PY  - 2026
+VL  - 27
+IS  - 10
+SP  - 2134
+EP  - 2142
+DO  - 10.1038/s41590-026-02642-z
+UR  - https://doi.org/10.1038/s41590-026-02642-z
+ER  - 
+
+TY  - JOUR
+ID  - GORDON2017
+TI  - Galectin-3 captures interferon-gamma in the tumor matrix reducing chemokine gradient production and T-cell tumor infiltration
+AU  - Gordon-Alonso, Monica
+AU  - Hirsch, Thibault
+AU  - Wildmann, Claude
+AU  - van der Bruggen, Pierre
+JO  - Nature Communications
+PY  - 2017
+VL  - 8
+IS  - 1
+SP  - 793
+DO  - 10.1038/s41467-017-00925-6
+UR  - https://doi.org/10.1038/s41467-017-00925-6
+ER  - 
+
+TY  - JOUR
+ID  - GRIMES2014
+TI  - A method for estimating the oxygen consumption rate in multicellular tumour spheroids
+AU  - Grimes, David Robert
+AU  - Kelly, Catherine
+AU  - Bloch, Katarzyna
+AU  - Partridge, Mike
+JO  - Journal of The Royal Society Interface
+PY  - 2014
+VL  - 11
+IS  - 92
+SP  - 20131124
+DO  - 10.1098/rsif.2013.1124
+UR  - https://doi.org/10.1098/rsif.2013.1124
+ER  - 
+
+TY  - JOUR
+ID  - HAN2012
+TI  - Polyfunctional responses by human T cells result from sequential release of cytokines
+AU  - Han, Qing
+AU  - Bagheri, Neda
+AU  - Bradshaw, Elizabeth M.
+AU  - Hafler, David A.
+AU  - Lauffenburger, Douglas A.
+AU  - Love, J. Christopher
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2012
+VL  - 109
+IS  - 5
+SP  - 1607
+EP  - 1612
+DO  - 10.1073/pnas.1117194109
+UR  - https://doi.org/10.1073/pnas.1117194109
+ER  - 
+
+TY  - JOUR
+ID  - HARRIS2021
+TI  - Quantifying persistence in the T‐cell signaling network using an optically controllable antigen receptor
+AU  - Harris, Michael J
+AU  - Fuyal, Muna
+AU  - James, John R
+JO  - Molecular Systems Biology
+PY  - 2021
+VL  - 17
+IS  - 5
+SP  - e10091
+DO  - 10.15252/msb.202010091
+UR  - https://doi.org/10.15252/msb.202010091
+ER  - 
+
+TY  - JOUR
+ID  - HEGDE2013
+TI  - Combinational Targeting Offsets Antigen Escape and Enhances Effector Functions of Adoptively Transferred T Cells in Glioblastoma
+AU  - Hegde, Meenakshi
+AU  - Corder, Amanda
+AU  - Chow, Kevin KH
+AU  - Mukherjee, Malini
+AU  - Ashoori, Aidin
+AU  - Kew, Yvonne
+AU  - Zhang, Yi Jonathan
+AU  - Baskin, David S
+AU  - Merchant, Fatima A
+AU  - Brawley, Vita S
+AU  - Byrd, Tiara T
+AU  - Krebs, Simone
+AU  - Wu, Meng Fen
+AU  - Liu, Hao
+AU  - Heslop, Helen E
+AU  - Gottachalk, Stephen
+AU  - Yvon, Eric
+AU  - Ahmed, Nabil
+JO  - Molecular Therapy
+PY  - 2013
+VL  - 21
+IS  - 11
+SP  - 2087
+EP  - 2101
+DO  - 10.1038/mt.2013.185
+UR  - https://doi.org/10.1038/mt.2013.185
+ER  - 
+
+TY  - JOUR
+ID  - HICKEY2024
+TI  - Integrating multiplexed imaging and multiscale modeling identifies tumor phenotype conversion as a critical component of therapeutic T cell efficacy
+AU  - Hickey, John W.
+AU  - Agmon, Eran
+AU  - Horowitz, Nina
+AU  - Tan, Tze-Kai
+AU  - Lamore, Matthew
+AU  - Sunwoo, John B.
+AU  - Covert, Markus W.
+AU  - Nolan, Garry P.
+JO  - Cell Systems
+PY  - 2024
+VL  - 15
+IS  - 4
+SP  - 322
+EP  - 338.e5
+DO  - 10.1016/j.cels.2024.03.004
+UR  - https://doi.org/10.1016/j.cels.2024.03.004
+ER  - 
+
+TY  - JOUR
+ID  - JOHNSON2025
+TI  - Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories
+AU  - Johnson, Jeanette A.I.
+AU  - Bergman, Daniel R.
+AU  - Rocha, Heber L.
+AU  - Zhou, David L.
+AU  - Cramer, Eric
+AU  - Mclean, Ian C.
+AU  - Dance, Yoseph W.
+AU  - Booth, Max
+AU  - Nicholas, Zachary
+AU  - Lopez-Vidal, Tamara
+AU  - Deshpande, Atul
+AU  - Heiland, Randy
+AU  - Bucher, Elmar
+AU  - Shojaeian, Fatemeh
+AU  - Dunworth, Matthew
+AU  - Forjaz, André
+AU  - Getz, Michael
+AU  - Godet, Inês
+AU  - Kurtoglu, Furkan
+AU  - Lyman, Melissa
+AU  - Metzcar, John
+AU  - Mitchell, Jacob T.
+AU  - Raddatz, Andrew
+AU  - Solorzano, Jacobo
+AU  - Sundus, Aneequa
+AU  - Wang, Yafei
+AU  - DeNardo, David G.
+AU  - Ewald, Andrew J.
+AU  - Gilkes, Daniele M.
+AU  - Kagohara, Luciane T.
+AU  - Kiemen, Ashley L.
+AU  - Thompson, Elizabeth D.
+AU  - Wirtz, Denis
+AU  - Wood, Laura D.
+AU  - Wu, Pei-Hsun
+AU  - Zaidi, Neeha
+AU  - Zheng, Lei
+AU  - Zimmerman, Jacquelyn W.
+AU  - Phillip, Jude M.
+AU  - Jaffee, Elizabeth M.
+AU  - Gray, Joe W.
+AU  - Coussens, Lisa M.
+AU  - Chang, Young Hwan
+AU  - Heiser, Laura M.
+AU  - Stein-O’Brien, Genevieve L.
+AU  - Fertig, Elana J.
+AU  - Macklin, Paul
+JO  - Cell
+PY  - 2025
+VL  - 188
+IS  - 17
+SP  - 4711
+EP  - 4733.e37
+DO  - 10.1016/j.cell.2025.06.048
+UR  - https://doi.org/10.1016/j.cell.2025.06.048
+ER  - 
+
+TY  - JOUR
+ID  - LIADI2015
+TI  - Individual Motile CD4+ T Cells Can Participate in Efficient Multikilling through Conjugation to Multiple Tumor Cells
+AU  - Liadi, Ivan
+AU  - Singh, Harjeet
+AU  - Romain, Gabrielle
+AU  - Rey-Villamizar, Nicolas
+AU  - Merouane, Amine
+AU  - Adolacion, Jay R T.
+AU  - Kebriaei, Partow
+AU  - Huls, Helen
+AU  - Qiu, Peng
+AU  - Roysam, Badrinath
+AU  - Cooper, Laurence J.N.
+AU  - Varadarajan, Navin
+JO  - Cancer Immunology Research
+PY  - 2015
+VL  - 3
+IS  - 5
+SP  - 473
+EP  - 482
+DO  - 10.1158/2326-6066.CIR-14-0195
+UR  - https://doi.org/10.1158/2326-6066.CIR-14-0195
+ER  - 
+
+TY  - JOUR
+ID  - LIAO2025
+TI  - CD3xHER2 bsAb‐Mediated Activation of Resting T‐cells at HER2 Positive Tumor Clusters Is Sufficient to Trigger Bystander Eradication of Distant HER2 Negative Clusters Through IFNγ and TNFα
+AU  - Liao, Chen‐Yi
+AU  - Engelberts, Patrick
+AU  - van Dijk, Michiel
+AU  - Timmermans, Annemieke
+AU  - Martens, John W. M.
+AU  - Neubert, Elsa
+AU  - Danen, Erik H.J.
+JO  - European Journal of Immunology
+PY  - 2025
+VL  - 55
+IS  - 4
+SP  - e202451589
+DO  - 10.1002/eji.202451589
+UR  - https://doi.org/10.1002/eji.202451589
+ER  - 
+
+TY  - JOUR
+ID  - MELANOMA2016
+TI  - Intratumoral interferon-gamma increases chemokine production but fails to increase T cell infiltration of human melanoma metastases
+AU  - Mauldin, Ileana S.
+AU  - Wages, Nolan A.
+AU  - Stowman, Anne M.
+AU  - Wang, Ena
+AU  - Smolkin, Mark E.
+AU  - Olson, Walter C.
+AU  - Deacon, Donna H.
+AU  - Smith, Kelly T.
+AU  - Galeassi, Nadedja V.
+AU  - Chianese‐Bullock, Kimberly A.
+AU  - Dengel, Lynn T.
+AU  - Marincola, Francesco M.
+AU  - Petroni, Gina R.
+AU  - Mullins, David W.
+AU  - Slingluff, Craig L.
+JO  - Cancer Immunology, Immunotherapy
+PY  - 2016
+VL  - 65
+IS  - 10
+SP  - 1189
+EP  - 1199
+DO  - 10.1007/s00262-016-1881-y
+UR  - https://doi.org/10.1007/s00262-016-1881-y
+ER  - 
+
+TY  - JOUR
+ID  - OYLER2017
+TI  - A Tunable Diffusion-Consumption Mechanism of Cytokine Propagation Enables Plasticity in Cell-to-Cell Communication in the Immune System
+AU  - Oyler-Yaniv, Alon
+AU  - Oyler-Yaniv, Jennifer
+AU  - Whitlock, Benjamin M.
+AU  - Liu, Zhiduo
+AU  - Germain, Ronald N.
+AU  - Huse, Morgan
+AU  - Altan-Bonnet, Grégoire
+AU  - Krichevsky, Oleg
+JO  - Immunity
+PY  - 2017
+VL  - 46
+IS  - 4
+SP  - 609
+EP  - 620
+DO  - 10.1016/j.immuni.2017.03.011
+UR  - https://doi.org/10.1016/j.immuni.2017.03.011
+ER  - 
+
+TY  - JOUR
+ID  - OYLER2017_CATCH_RELEASE
+TI  - Catch and Release of Cytokines Mediated by Tumor Phosphatidylserine Converts Transient Exposure into Long-Lived Inflammation
+AU  - Oyler-Yaniv, Jennifer
+AU  - Oyler-Yaniv, Alon
+AU  - Shakiba, Mojdeh
+AU  - Min, Nina K.
+AU  - Chen, Ying-Han
+AU  - Cheng, Sheue-yann
+AU  - Krichevsky, Oleg
+AU  - Altan-Bonnet, Nihal
+AU  - Altan-Bonnet, Grégoire
+JO  - Molecular Cell
+PY  - 2017
+VL  - 66
+IS  - 5
+SP  - 635
+EP  - 647.e7
+DO  - 10.1016/j.molcel.2017.05.011
+UR  - https://doi.org/10.1016/j.molcel.2017.05.011
+ER  - 
+
+TY  - JOUR
+ID  - PATEL2024
+TI  - Regulation of temporal cytokine production by co-stimulation receptors in TCR-T cells is lost in CAR-T cells
+AU  - Patel, Ashna
+AU  - Kutuzov, Mikhail A
+AU  - Dustin, Michael L
+AU  - van der Merwe, P Anton
+AU  - Dushek, Omer
+JO  - Immunotherapy Advances
+PY  - 2024
+VL  - 4
+IS  - 1
+SP  - ltae004
+DO  - 10.1093/immadv/ltae004
+UR  - https://doi.org/10.1093/immadv/ltae004
+ER  - 
+
+TY  - JOUR
+ID  - PHYSICELL2018
+TI  - PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems
+AU  - Ghaffarizadeh, Ahmadreza
+AU  - Heiland, Randy
+AU  - Friedman, Samuel H.
+AU  - Mumenthaler, Shannon M.
+AU  - Macklin, Paul
+JO  - PLOS Computational Biology
+PY  - 2018
+VL  - 14
+IS  - 2
+SP  - e1005991
+DO  - 10.1371/journal.pcbi.1005991
+UR  - https://doi.org/10.1371/journal.pcbi.1005991
+ER  - 
+
+TY  - JOUR
+ID  - PLUEN2001
+TI  - Role of tumor–host interactions in interstitial diffusion of macromolecules: Cranial vs. subcutaneous tumors
+AU  - Pluen, Alain
+AU  - Boucher, Yves
+AU  - Ramanujan, Saroja
+AU  - McKee, Trevor D.
+AU  - Gohongi, Takeshi
+AU  - di Tomaso, Emmanuelle
+AU  - Brown, Edward B.
+AU  - Izumi, Yotaro
+AU  - Campbell, Robert B.
+AU  - Berk, David A.
+AU  - Jain, Rakesh K.
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2001
+VL  - 98
+IS  - 8
+SP  - 4628
+EP  - 4633
+DO  - 10.1073/pnas.081626898
+UR  - https://doi.org/10.1073/pnas.081626898
+ER  - 
+
+TY  - JOUR
+ID  - PRYBUTOK2022
+TI  - Mapping CAR T-Cell Design Space Using Agent-Based Models
+AU  - Prybutok, Alexis N.
+AU  - Yu, Jessica S.
+AU  - Leonard, Joshua N.
+AU  - Bagheri, Neda
+JO  - Frontiers in Molecular Biosciences
+PY  - 2022
+VL  - 9
+SP  - 849363
+DO  - 10.3389/fmolb.2022.849363
+UR  - https://doi.org/10.3389/fmolb.2022.849363
+ER  - 
+
+TY  - JOUR
+ID  - ROSS2018
+TI  - Diffusion of cytokines in live lymph node tissue using microfluidic integrated optical imaging
+AU  - Ross, A.E.
+AU  - Pompano, R.R.
+JO  - Analytica Chimica Acta
+PY  - 2018
+VL  - 1000
+SP  - 205
+EP  - 213
+DO  - 10.1016/j.aca.2017.11.048
+UR  - https://doi.org/10.1016/j.aca.2017.11.048
+ER  - 
+
+TY  - JOUR
+ID  - SADJADI2020
+TI  - Migration of Cytotoxic T Lymphocytes in 3D Collagen Matrices
+AU  - Sadjadi, Zeinab
+AU  - Zhao, Renping
+AU  - Hoth, Markus
+AU  - Qu, Bin
+AU  - Rieger, Heiko
+JO  - Biophysical Journal
+PY  - 2020
+VL  - 119
+IS  - 11
+SP  - 2141
+EP  - 2152
+DO  - 10.1016/j.bpj.2020.10.020
+UR  - https://doi.org/10.1016/j.bpj.2020.10.020
+ER  - 
+
+TY  - JOUR
+ID  - SAHOO2020
+TI  - Mathematical deconvolution of CAR T-cell proliferation and exhaustion from real-time killing assay data
+AU  - Sahoo, Prativa
+AU  - Yang, Xin
+AU  - Abler, Daniel
+AU  - Maestrini, Davide
+AU  - Adhikarla, Vikram
+AU  - Frankhouser, David
+AU  - Cho, Heyrim
+AU  - Machuca, Vanessa
+AU  - Wang, Dongrui
+AU  - Barish, Michael
+AU  - Gutova, Margarita
+AU  - Branciamore, Sergio
+AU  - Brown, Christine E.
+AU  - Rockne, Russell C.
+JO  - Journal of The Royal Society Interface
+PY  - 2020
+VL  - 17
+IS  - 162
+SP  - 20190734
+DO  - 10.1098/rsif.2019.0734
+UR  - https://doi.org/10.1098/rsif.2019.0734
+ER  - 
+
+TY  - JOUR
+ID  - SLIFKA1999
+TI  - Rapid on/off cycling of cytokine production by virus-specific CD8+ T cells
+AU  - Slifka, Mark K.
+AU  - Rodriguez, Fernando
+AU  - Whitton, J. Lindsay
+JO  - Nature
+PY  - 1999
+VL  - 401
+IS  - 6748
+SP  - 76
+EP  - 79
+DO  - 10.1038/43454
+UR  - https://doi.org/10.1038/43454
+ER  - 
+
+TY  - JOUR
+ID  - THURLEY2015
+TI  - Three-Dimensional Gradients of Cytokine Signaling between T Cells
+AU  - Thurley, Kevin
+AU  - Gerecht, Daniel
+AU  - Friedmann, Elfriede
+AU  - Höfer, Thomas
+JO  - PLOS Computational Biology
+PY  - 2015
+VL  - 11
+IS  - 4
+SP  - e1004206
+DO  - 10.1371/journal.pcbi.1004206
+UR  - https://doi.org/10.1371/journal.pcbi.1004206
+ER  - 
+
+TY  - JOUR
+ID  - WANG2024
+TI  - 3D live imaging and phenotyping of CAR-T cell mediated-cytotoxicity using high-throughput Bessel oblique plane microscopy
+AU  - Wang, Zhaofei
+AU  - Wang, Jie
+AU  - Zhao, Yuxuan
+AU  - Jin, Jin
+AU  - Si, Wentian
+AU  - Chen, Longbiao
+AU  - Zhang, Man
+AU  - Zhou, Yao
+AU  - Mao, Shiqi
+AU  - Zheng, Chunhong
+AU  - Zhang, Yicheng
+AU  - Chen, Liting
+AU  - Fei, Peng
+JO  - Nature Communications
+PY  - 2024
+VL  - 15
+IS  - 1
+SP  - 6677
+DO  - 10.1038/s41467-024-51039-9
+UR  - https://doi.org/10.1038/s41467-024-51039-9
+ER  - 
+
+TY  - JOUR
+ID  - WEBER2021
+TI  - Transient rest restores functionality in exhausted CAR-T cells through epigenetic remodeling
+AU  - Weber, Evan W.
+AU  - Parker, Kevin R.
+AU  - Sotillo, Elena
+AU  - Lynn, Rachel C.
+AU  - Anbunathan, Hima
+AU  - Lattin, John
+AU  - Good, Zinaida
+AU  - Belk, Julia A.
+AU  - Daniel, Bence
+AU  - Klysz, Dorota
+AU  - Malipatlolla, Meena
+AU  - Xu, Peng
+AU  - Bashti, Malek
+AU  - Heitzeneder, Sabine
+AU  - Labanieh, Louai
+AU  - Vandris, Panayiotis
+AU  - Majzner, Robbie G.
+AU  - Qi, Yanyan
+AU  - Sandor, Katalin
+AU  - Chen, Ling-Chun
+AU  - Prabhu, Snehit
+AU  - Gentles, Andrew J.
+AU  - Wandless, Thomas J.
+AU  - Satpathy, Ansuman T.
+AU  - Chang, Howard Y.
+AU  - Mackall, Crystal L.
+JO  - Science
+PY  - 2021
+VL  - 372
+IS  - 6537
+SP  - eaba1786
+DO  - 10.1126/science.aba1786
+UR  - https://doi.org/10.1126/science.aba1786
+ER  - 
+
+TY  - JOUR
+ID  - WEIGELIN2021
+TI  - Cytotoxic T cells are able to efficiently eliminate cancer cells by additive cytotoxicity
+AU  - Weigelin, Bettina
+AU  - den Boer, Annemieke Th.
+AU  - Wagena, Esther
+AU  - Broen, Kelly
+AU  - Dolstra, Harry
+AU  - de Boer, Rob J.
+AU  - Figdor, Carl G.
+AU  - Textor, Johannes
+AU  - Friedl, Peter
+JO  - Nature Communications
+PY  - 2021
+VL  - 12
+IS  - 1
+SP  - 5217
+DO  - 10.1038/s41467-021-25282-3
+UR  - https://doi.org/10.1038/s41467-021-25282-3
+ER  - 
+
+TY  - JOUR
+ID  - WOZNICKI2020
+TI  - Human BCL-G regulates secretion of inflammatory chemokines but is dispensable for induction of apoptosis by IFN-γ and TNF-α in intestinal epithelial cells
+AU  - Woznicki, Jerzy A.
+AU  - Flood, Peter
+AU  - Bustamante-Garrido, Milan
+AU  - Stamou, Panagiota
+AU  - Moloney, Gerry
+AU  - Fanning, Aine
+AU  - Zulquernain, Syed Akbar
+AU  - McCarthy, Jane
+AU  - Shanahan, Fergus
+AU  - Melgar, Silvia
+AU  - Nally, Ken
+JO  - Cell Death & Disease
+PY  - 2020
+VL  - 11
+IS  - 1
+SP  - 68
+DO  - 10.1038/s41419-020-2263-0
+UR  - https://doi.org/10.1038/s41419-020-2263-0
+ER  - 
+
+TY  - JOUR
+ID  - WOZNICKI2021
+TI  - TNF-α synergises with IFN-γ to induce caspase-8-JAK1/2-STAT1-dependent death of intestinal epithelial cells
+AU  - Woznicki, Jerzy A.
+AU  - Saini, Nisha
+AU  - Flood, Peter
+AU  - Rajaram, Subhasree
+AU  - Lee, Ciaran M.
+AU  - Stamou, Panagiota
+AU  - Skowyra, Agnieszka
+AU  - Bustamante-Garrido, Milan
+AU  - Regazzoni, Karine
+AU  - Crawford, Nyree
+AU  - McDade, Simon S.
+AU  - Longley, Daniel B.
+AU  - Aza-Blanc, Pedro
+AU  - Shanahan, Fergus
+AU  - Zulquernain, Syed A.
+AU  - McCarthy, Jane
+AU  - Melgar, Silvia
+AU  - McRae, Bradford L.
+AU  - Nally, Ken
+JO  - Cell Death & Disease
+PY  - 2021
+VL  - 12
+IS  - 10
+SP  - 864
+DO  - 10.1038/s41419-021-04151-3
+UR  - https://doi.org/10.1038/s41419-021-04151-3
+ER  - 

@@ -1,0 +1,183 @@
+{
+  "utc": "2026-10-07T01:07:26.416966+00:00",
+  "groups": [
+    {
+      "parameter_id": "cytokine_loss",
+      "exact_values": "exact_parameter_values.json#cytokine_loss",
+      "prior_basis_decision": "source-702469cc9891e5c93f8b",
+      "current_evidence_and_remaining_uncertainty": "All prescribed cytokine-loss sentinels have been reviewed. Effector-local IL-2 exposure is quantified in the three baseline realizations and both IL-2 loss cases; this establishes the simulated exposure, without calibrating the response law. Bulk CXCL/IL2 loss of 0.1 min⁻¹ remains a quantitatively unsupported biological choice; the published-model value of 0.1 h⁻¹ reference is 60 times smaller. Joint and molecule-specific loss screens are not independent measured death fractions. Busse et al. (2010), Supplementary Table S1, is not used to establish a numerical parameter basis. Cell-mediated uptake, receptor-complex internalization and homogeneous extracellular loss are distinct quantities. The cited source does not identify the active bulk loss coefficient. The cited value of 0.1 h⁻¹ and the configured value of 0.1 min⁻¹ differ by a factor of 60; the comparison alone does not demonstrate a software unit error. Four matched-medium pairs and one additional pair of existing outputs have scalar and spatial analyses. Their trajectories cross, so integral, terminal and access differences describe distinct outcomes. Normalized gradient direction remains saturated even where gradient magnitude decreases substantially; this is not a biological sensing calibration.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_chemokine_loss_0p01_local_entry_seed0",
+        "sensitivity_chemokine_loss_1_local_entry_seed0",
+        "sensitivity_il2_loss_0p01_2d_seed0",
+        "sensitivity_il2_loss_zero_2d_seed0",
+        "sensitivity_loss_both_half96h_2d_seed0",
+        "sensitivity_loss_both_half9p6h_2d_seed0",
+        "sensitivity_loss_ifng_half96h_2d_seed0",
+        "sensitivity_loss_tnf_half96h_2d_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "other_cytokine_transport",
+      "exact_values": "exact_parameter_values.json#other_cytokine_transport",
+      "prior_basis_decision": "source-0f0f2ca66fffe901bdd4",
+      "current_evidence_and_remaining_uncertainty": "The common-D screens alter all four relative fields jointly and have full scalar/spatial review. All twelve prespecified repeats of the six variants have been analysed. Molecular equality, native-domain IL2 transport and the independently sourced IFNG scale remain separate assumptions; no molecule-specific calibration or both-ratio robustness is accepted. Nine mesh/baseline pairs preserve physical volumes, 2D sheet depth, initial cells/rules and imposed flow; discrete 3D boundary conductance changes with mesh width. Preservation of the initial configuration does not establish numerical convergence. Four matched-medium pairs and one additional pair of existing outputs have scalar and spatial analyses. Their trajectories cross, so integral, terminal and access differences describe distinct outcomes. Normalized gradient direction remains saturated even where gradient magnitude decreases substantially; this is not a biological sensing calibration.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_diffusion_x10_2d_seed0",
+        "sensitivity_diffusion_x10_3d_seed0",
+        "sensitivity_diffusion_x10_local_entry_seed0",
+        "sensitivity_diffusion_x50_2d_seed0",
+        "sensitivity_diffusion_x50_3d_seed0",
+        "sensitivity_diffusion_x50_local_entry_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "activity_memory",
+      "exact_values": "exact_parameter_values.json#activity_memory",
+      "prior_basis_decision": "source-309f18594e5173a710ea",
+      "current_evidence_and_remaining_uncertainty": "The zero-memory gate and 150 min latent-memory variants have scalar and spatial analyses. Their null and non-null results describe different perturbations: a structural gate and a positive memory half-life. They do not calibrate 15 min or establish shared withdrawal/rechallenge dynamics across cell types and cytokines. The 1,940-frame audit confirms the assigned common source law in 3,379,896 saved values. At the saved central states, the largest conditional no-input source half-time is 32.78765 minutes although the latent half-life is 15 minutes. This is a conditional mathematical continuation, not an observed decay trajectory. The primary source distinguishes signaling and mRNA observables; it does not calibrate the model damage-history state or a common cytokine secretion law.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_memory_150min_2d_seed0",
+        "sensitivity_memory_gate_2d_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "secretion",
+      "exact_values": "exact_parameter_values.json#secretion",
+      "prior_basis_decision": "source-27bb62758cae566254d2",
+      "current_evidence_and_remaining_uncertainty": "Completed memory/loss/volume challenges provide coupled-system evidence, not an isolated source-amplitude or activity-threshold test. Effector-local IL2 AUC is available. The source cap of 10 min⁻¹, activity threshold of 5 and response thresholds lack a complete quantitative basis for this system; saturation at 1 defines a relative concentration coordinate rather than a molecular flux. The two external IL-2 models concern different systems. Neither feedback structure, molecular secretion rate nor parameter regime has a quantitative mapping to the present observables. The 1,940-frame audit confirms the assigned common source law in 3,379,896 saved values. At the saved central states, the largest conditional no-input source half-time is 32.78765 minutes although the latent half-life is 15 minutes. This is a conditional mathematical continuation, not an observed decay trajectory. The primary source distinguishes signaling and mRNA observables; it does not calibrate the model damage-history state or a common cytokine secretion law. Four matched-medium pairs and one additional pair of existing outputs have scalar and spatial analyses. Their trajectories cross, so integral, terminal and access differences describe distinct outcomes. Normalized gradient direction remains saturated even where gradient magnitude decreases substantially; this is not a biological sensing calibration.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_chemokine_loss_0p01_local_entry_seed0",
+        "sensitivity_chemokine_loss_1_local_entry_seed0",
+        "sensitivity_il2_loss_0p01_2d_seed0",
+        "sensitivity_il2_loss_zero_2d_seed0",
+        "sensitivity_loss_both_half96h_2d_seed0",
+        "sensitivity_loss_both_half9p6h_2d_seed0",
+        "sensitivity_loss_ifng_half96h_2d_seed0",
+        "sensitivity_loss_tnf_half96h_2d_seed0",
+        "sensitivity_memory_150min_2d_seed0",
+        "sensitivity_memory_gate_2d_seed0",
+        "sensitivity_volume_double_2d_seed0",
+        "sensitivity_volume_half_2d_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "priming",
+      "exact_values": "exact_parameter_values.json#priming",
+      "prior_basis_decision": "source-2012dc4e054192f6f7b0",
+      "current_evidence_and_remaining_uncertainty": "Species-loss challenges provide indirect system-level evidence only. They do not perturb or justify irreversible 0.0029 min⁻¹ conversion, K = 0.25 or universal competence. Irreversibility is an explicit biological assumption, and these checks do not calibrate the priming parameters.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_loss_ifng_half96h_2d_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "target_response",
+      "exact_values": "exact_parameter_values.json#target_response",
+      "prior_basis_decision": "source-d3e9d9d1ba5bd62d5a17",
+      "current_evidence_and_remaining_uncertainty": "Both stage-time and hazard pairs have full scalar/spatial review. The short-stage sentinel retains zero primary scalar flags, alongside descriptive spatial differences; longer-stage/hazard effects remain conditional. These checks do not fit τ = 720 min, the added hazard, thresholds or priming sequence to HT29 or the current system.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_hazard_double_2d_seed0",
+        "sensitivity_hazard_half_2d_seed0",
+        "sensitivity_loss_both_half96h_2d_seed0",
+        "sensitivity_loss_both_half9p6h_2d_seed0",
+        "sensitivity_loss_ifng_half96h_2d_seed0",
+        "sensitivity_loss_tnf_half96h_2d_seed0",
+        "sensitivity_stage_1440min_2d_seed0",
+        "sensitivity_stage_360min_2d_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "attack_frequency",
+      "exact_values": "exact_parameter_values.json#attack_frequency",
+      "prior_basis_decision": "source-906141077888a7aadd76",
+      "current_evidence_and_remaining_uncertainty": "The 27 completed screens contain no direct AgHi encounter-initiation-hazard perturbation. The conditional rate of 0.1 min⁻¹ and Ag0 recognition gate retain their existing semantics; spatial contacts or speed challenges do not measure that hazard or close the coupled-law basis.",
+      "corresponding_completed_check_ids": [],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "attack_duration",
+      "exact_values": "exact_parameter_values.json#attack_duration",
+      "prior_basis_decision": "source-a1e40ef4bfdf82ab4749",
+      "current_evidence_and_remaining_uncertainty": "The 27 completed screens contain no direct dwell-time perturbation. The 15 min uncensored model mean and competing-termination semantics remain defined, but successful-event experimental latency does not calibrate its distribution.",
+      "corresponding_completed_check_ids": [],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "damage_death",
+      "exact_values": "exact_parameter_values.json#damage_death",
+      "prior_basis_decision": "source-e46ea289fc665675cca7",
+      "current_evidence_and_remaining_uncertainty": "The 27 completed screens do not directly perturb damage threshold of 45, Hill exponent of 16 or maximum damage-mediated hazard of 0.023 min⁻¹. The stage/hazard sentinels concern the separate cytokine-response law. Coordinate normalization and transferred repair timescale do not justify this nonlinear damage law.",
+      "corresponding_completed_check_ids": [],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "motility",
+      "exact_values": "exact_parameter_values.json#motility",
+      "prior_basis_decision": "source-2af77db4d7df5f2e192b",
+      "current_evidence_and_remaining_uncertainty": "The local-entry speed/CXCL-loss sentinels have full scalar/spatial review and mixed readouts. A rounded speed scale remains a partial hypothesis only. Persistence of 5 min, bias of 0.5, dimensional sampling, CD4/CD8 equality and broad comparative robustness remain unresolved; normalized direction length is not calibrated sensing. Four matched-medium pairs and one additional pair of existing outputs have scalar and spatial analyses. Their trajectories cross, so integral, terminal and access differences describe distinct outcomes. Normalized gradient direction remains saturated even where gradient magnitude decreases substantially; this is not a biological sensing calibration.",
+      "corresponding_completed_check_ids": [
+        "sensitivity_chemokine_loss_0p01_local_entry_seed0",
+        "sensitivity_chemokine_loss_1_local_entry_seed0",
+        "sensitivity_speed_double_local_entry_seed0",
+        "sensitivity_speed_half_local_entry_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "tumor_growth",
+      "exact_values": "exact_parameter_values.json#tumor_growth",
+      "prior_basis_decision": "source-db8a0dd3fc0c85a352cd",
+      "current_evidence_and_remaining_uncertainty": "All three no-CAR controls and six seed 0 control-normalized comparisons are complete, including spatial zero-effector invariants. These are single-seed conditional background trajectories, not measured or three-seed calibrated growth distributions. The nine fixed growth/background challenges have completed native validation and scientific review. All six prescribed growth alternatives are technically accepted and substantively reviewed. Each has higher living-target counts than the baseline three-seed envelope at all 96 positive saved hours. Their interval-average increases over the paired baseline are 32.8594, 80.9479 and 118.9792 for growth A, and 86.9323, 152.8906 and 192.3333 for growth B in 2D, 3D and local entry. The corresponding endpoints are 73/169/368 and 75/294/518. This establishes material dependence of these configured outputs on the assigned growth scale. The source quantities are net population growth fits in distinct systems, while the active model uses oxygen/pressure-modified single-cell cycle entry and cytokine effects. No compatible untreated growth/pressure/cytokine observation model or measured mapping is supplied by these checks.",
+      "corresponding_completed_check_ids": [
+        "control_no_cart_2d_seed0",
+        "control_no_cart_3d_seed0",
+        "control_no_cart_local_entry_seed0",
+        "kinetics_growth_0p72_2d_seed0",
+        "kinetics_growth_0p72_3d_seed0",
+        "kinetics_growth_0p72_local_entry_seed0",
+        "kinetics_growth_1p07_2d_seed0",
+        "kinetics_growth_1p07_3d_seed0",
+        "kinetics_growth_1p07_local_entry_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "effector_growth",
+      "exact_values": "exact_parameter_values.json#effector_growth",
+      "prior_basis_decision": "source-69a25ca02111982048f4",
+      "current_evidence_and_remaining_uncertainty": "The five-case, 485-frame IL2 effector-local exposure audit is complete. Loss of 0.01 min⁻¹ and zero yield 1.948 and 12.041 times baseline-seed 0 AUC of the current living-population mean. That is not tracked-cell dose or mean nonlinear response. The IL2-to-cycle K/Hill/cap and CD4/CD8 equality remain conditional; growth/background checks are complete and substantively reviewed. The cited source concerns a different observable. It neither validates the present constants nor justifies replacing n=2 with n=1. Molecular concentration scaling and the mapping to cycle entry remain absent. The three background-loss alternatives retain all effector division parameters. Endpoint effector counts increase by 359, 397 and 371 in 2D, 3D and local entry, while target interval means change by -4.8490, +5.1823 and +3.0938. The altered population balance materially affects effector counts without a uniformly signed target change. Changing death alone does not identify the IL2-to-cycle scale, response Hill law, cap or CD4/CD8 equality. The current living-population exposure audit remains distinct from tracked-cell dose and a calibrated division response.",
+      "corresponding_completed_check_ids": [
+        "kinetics_effector_background_loss_2d_seed0",
+        "kinetics_effector_background_loss_3d_seed0",
+        "kinetics_effector_background_loss_local_entry_seed0",
+        "sensitivity_il2_loss_0p01_2d_seed0",
+        "sensitivity_il2_loss_zero_2d_seed0"
+      ],
+      "closed_by_numerical_review": false
+    },
+    {
+      "parameter_id": "baseline_death",
+      "exact_values": "exact_parameter_values.json#baseline_death",
+      "prior_basis_decision": "source-f2a648e94c6e9bd4e268",
+      "current_evidence_and_remaining_uncertainty": "No-CAR controls and their zero-immune invariants are complete. They constrain net conditional trajectories, not individual apoptosis/necrosis hazards. Executed oxygen-modified rates remain distinct from XML constants; the nine kinetic challenges are complete; the quantitative background-loss basis remains unresolved. All three background-loss alternatives are technically accepted and substantively reviewed. They change the reference equality of unstimulated effector division and apoptosis as prescribed. Local-entry field changes are material even when target count changes are below the reporting tolerance. A bound fitted in another short population assay does not calibrate the active apoptosis hazard, target apoptosis/necrosis, or executed oxygen-dependent rates. The challenge does not identify separate growth and death hazards.",
+      "corresponding_completed_check_ids": [
+        "control_no_cart_2d_seed0",
+        "control_no_cart_3d_seed0",
+        "control_no_cart_local_entry_seed0",
+        "kinetics_effector_background_loss_2d_seed0",
+        "kinetics_effector_background_loss_3d_seed0",
+        "kinetics_effector_background_loss_local_entry_seed0"
+      ],
+      "closed_by_numerical_review": false
+    }
+  ],
+  "accepted_choice_bases": 4,
+  "unresolved_choice_bases": 13,
+  "newly_closed_groups": 0
+}

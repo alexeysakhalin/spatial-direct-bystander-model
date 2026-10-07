@@ -1,0 +1,23 @@
+{
+  "CASES.json": "c18bfb81087c525435f9cd2e4c0f45341f45554133d57062e3d3c9ffa197bfac",
+  "CELL_STATES.json": "c6796e69d021ad837854e7245ca0e1c96277b743fcf60489e552792ac68084a8",
+  "CENTRAL_METRICS.json": "1fb2137ad3cf2635b1e159cc7842951dff2b7d866f92c4c6650f7e189da8db6d",
+  "RAW_FILES.json": "992e16eae3d1643cad9835d3d45dccd82f4f98844f3e7e77e8978fe4ac36be4d",
+  "README.txt": "89b4bd052a8302671ad58a60bf72efeb04e40d9024af5efae577903775f098c7",
+  "medium.py": "ce62e85e8c450c5adc6cb3668c7682ad2210a383b3a8db9fe048e8519bc5af62",
+  "read_counts.py": "ff165fe9c0ce6efee56c4d8c3d007aebb06df2c28003deefd94dbe653600f677",
+  "references/kinetics_effector_background_loss_2d_seed0.json": "1c0d54f5f87909886478d181623cecbd05f6f952158d87365278dfa764df832f",
+  "references/kinetics_effector_background_loss_3d_seed0.json": "8546a9d8779a0eed2d6823483c56b18f90634ae6def499e1e88808bfba2d4ce0",
+  "references/kinetics_effector_background_loss_local_entry_seed0.json": "ff770ec49570b636bd2315ca85d6f838c597b684d73980833dd59421e17b2592",
+  "references/kinetics_growth_0p72_2d_seed0.json": "7d5830662c065462b2622454000d1b3c975224bf6bae7297195d664e3930bd02",
+  "references/kinetics_growth_0p72_3d_seed0.json": "d61494f0718ed3bd54cdbdf352c58d1c5630453c7af2baceeb804d42d87c2084",
+  "references/kinetics_growth_0p72_local_entry_seed0.json": "b9117ad60745e9352666d9f2c1947997629234e006b4ec01341dde050a2c294b",
+  "references/kinetics_growth_1p07_2d_seed0.json": "aa76335fe0338c2a06bd995c5d3c94c5197fed0d8e2b18e6c0462060ecf5a58c",
+  "references/kinetics_growth_1p07_3d_seed0.json": "ae2fdd65e01147dd935c25e370d8ae25b9694cba46523eb02b1a24a8df2fbaf2",
+  "references/kinetics_growth_1p07_local_entry_seed0.json": "93489194468462605729d9862fc0378385fefeeb1001c665320cd82d78ae5461",
+  "replay.py": "8708b4fdc877560f2dc8d0dc683e13e7ac8e9f79930725893e3ccb7a6457f7f1",
+  "requirements.txt": "621b2928d1ee285c01cfe851c6929434fe3f183bff52fadc00baa0c6f2b22602",
+  "saved_fields.py": "6fe18ac308c72e76d88f6ba44974fedf997c2fab4dd0b4825ffa7d69e8a8b743",
+  "saved_frames.py": "d52ce3d8d3947b3d90cd1f7883d3382a971c2021c853090e14071bb5af3c39c5",
+  "scalar_metrics.py": "c7c31da7029c06798794d5f3891a0b6154344b9409248d62f5b909be53115579"
+}

@@ -1,0 +1,269 @@
+{
+  "utc": "2026-10-06T18:32:55.596704+00:00",
+  "rows": [
+    {
+      "id": "TE5_3D_GRID_01",
+      "related_original_claims": [
+        "SC2",
+        "SC3"
+      ],
+      "claim": "For the configured 5:1 target-to-effector ratio, the 0–96 h time-average number of living targets is lower in 3D than in 2D for seeds 0, 1 and 2 at both tested mesh resolutions.",
+      "evidence": [
+        "source-780b42cfa36d373dc9e3",
+        "source-54b246b62a94933c2a2e"
+      ],
+      "quantitative_evidence": {
+        "baseline_threeD_minus_twoD_cells": [
+          -37.088541666666686,
+          -41.432291666666686,
+          -33.223958333333314
+        ],
+        "refined_threeD_minus_twoD_cells": [
+          -42.46354166666663,
+          -46.473958333333314,
+          -42.401041666666686
+        ],
+        "normalization_initial_targets": 1200
+      },
+      "checks": "All 97 hourly samples per trajectory; independent trapezoidal integrals and normalization; three corresponding seed comparisons at each mesh; completed native output validation.",
+      "conditions": "A descriptive comparison of configured representations at 5:1. The matched seed labels do not establish a general biological ordering or an isolated effect of dimensionality. N = 3 and two tested meshes do not establish convergence. The overall numerical and model-adequacy review remains open.",
+      "status": "conditional_comparative_result",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "TE5_3D_GRID_02",
+      "related_original_claims": [
+        "SC3"
+      ],
+      "claim": "The integral comparison does not imply a consistent ordering at the 96 h endpoint.",
+      "evidence": [
+        "source-780b42cfa36d373dc9e3",
+        "source-54b246b62a94933c2a2e"
+      ],
+      "quantitative_evidence": {
+        "baseline_threeD_minus_twoD_at_96h_cells": [
+          -15,
+          11,
+          3
+        ],
+        "refined_threeD_minus_twoD_at_96h_cells": [
+          -7,
+          -3,
+          -3
+        ]
+      },
+      "checks": "Compared all three endpoint differences at both meshes and retained positive, negative and zero hourly differences.",
+      "conditions": "Small endpoint differences and overlapping observed ranges do not demonstrate equivalence or statistical significance. The baseline endpoint signs differ across seeds.",
+      "status": "retained_limitation",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "TE5_3D_GRID_03",
+      "related_original_claims": [
+        "SC2",
+        "SC3"
+      ],
+      "claim": "The 3D and 2D trajectories change order during the simulated interval.",
+      "evidence": [
+        "source-54b246b62a94933c2a2e"
+      ],
+      "quantitative_evidence": {
+        "all_six_grid_seed_pairs_contain_positive_and_negative_hourly_contrasts": true,
+        "at_3h_refined_threeD_minus_twoD_cells": [
+          53,
+          42,
+          68
+        ],
+        "at_3h_baseline_threeD_minus_twoD_cells": [
+          37,
+          40,
+          27
+        ],
+        "at_24h_refined_threeD_minus_twoD_cells": [
+          -64,
+          -125,
+          -128
+        ]
+      },
+      "checks": "Examined the sign of every hourly difference in all six grid/seed pairs; preserved zeros and reversals.",
+      "conditions": "An hourly sampled ordering; no interpolation-based claim about exact crossing times. An integral difference is not a claim that one representation has fewer targets at every time.",
+      "status": "retained_temporal_qualification",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "TE5_3D_GRID_04",
+      "related_original_claims": [
+        "SC2",
+        "SC6"
+      ],
+      "claim": "The absence of primary count flags does not establish convergence of field exposure or spatial access in the 3D scenario.",
+      "evidence": [
+        "source-780b42cfa36d373dc9e3",
+        "source-370387f1d1648b8382aa"
+      ],
+      "quantitative_evidence": {
+        "primary_count_screen_flags": 0,
+        "IFNG_maximum_at_48h": {
+          "refined_seeds_0_1_2": [
+            0.4623372301399748,
+            0.3383506215318791,
+            0.3818992000352007
+          ],
+          "baseline_seeds_0_1_2": [
+            0.6329138845454547,
+            0.6616128691123989,
+            0.6903503327189139
+          ],
+          "paired_deltas": [
+            -0.17057665440547992,
+            -0.3232622475805198,
+            -0.30845113268371316
+          ],
+          "complete_metric": true,
+          "statistical_significance_claim": false,
+          "refined_mean": 0.39419568390235155,
+          "baseline_mean": 0.6616256954589225,
+          "mean_paired_delta": -0.2674300115565709,
+          "refined_range": [
+            0.3383506215318791,
+            0.4623372301399748
+          ],
+          "baseline_range": [
+            0.6329138845454547,
+            0.6903503327189139
+          ],
+          "paired_delta_range": [
+            -0.3232622475805198,
+            -0.17057665440547992
+          ],
+          "same_nonzero_direction_all_three": true
+        },
+        "spatial_at_48h": {
+          "access/fraction_living_effectors_inside_initial_target_hull/at_48h": {
+            "refined_seeds_0_1_2": [
+              0.5142045454545454,
+              0.47318611987381703,
+              0.4
+            ],
+            "baseline_seeds_0_1_2": [
+              0.8888888888888888,
+              0.8333333333333334,
+              0.8387096774193549
+            ],
+            "paired_deltas": [
+              -0.3746843434343434,
+              -0.36014721345951634,
+              -0.43870967741935485
+            ],
+            "complete_metric": true,
+            "statistical_significance_claim": false,
+            "refined_mean": 0.4624635551094542,
+            "baseline_mean": 0.8536439665471924,
+            "mean_paired_delta": -0.3911804114377382,
+            "refined_range": [
+              0.4,
+              0.5142045454545454
+            ],
+            "baseline_range": [
+              0.8333333333333334,
+              0.8888888888888888
+            ],
+            "paired_delta_range": [
+              -0.43870967741935485,
+              -0.36014721345951634
+            ],
+            "same_nonzero_direction_all_three": true
+          },
+          "access/living_effectors_touching_living_target_spheres/at_48h": {
+            "refined_seeds_0_1_2": [
+              240,
+              229,
+              229
+            ],
+            "baseline_seeds_0_1_2": [
+              95,
+              90,
+              96
+            ],
+            "paired_deltas": [
+              145,
+              139,
+              133
+            ],
+            "complete_metric": true,
+            "statistical_significance_claim": false,
+            "refined_mean": 232.66666666666666,
+            "baseline_mean": 93.66666666666667,
+            "mean_paired_delta": 139.0,
+            "refined_range": [
+              229,
+              240
+            ],
+            "baseline_range": [
+              90,
+              96
+            ],
+            "paired_delta_range": [
+              133,
+              145
+            ],
+            "same_nonzero_direction_all_three": true
+          }
+        }
+      },
+      "checks": "150 scalar and 49 spatial metrics in the N3 group; paired changes and baseline/refined ranges; the original field-exposure flag persists in all three seeds.",
+      "conditions": "IFNG and TNF are identical dimensionless fields in this version and are not independent observations. The initial target hull is a static reference volume, whereas contact is measured against current target spheres. These observables must remain separate.",
+      "status": "unresolved_numerical_dependence",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "TE5_3D_GRID_05",
+      "related_original_claims": [
+        "SC5"
+      ],
+      "claim": "The two additional refined 3D repeats end with 76 and 69 living targets; all are in the assigned antigen-negative, cytokine-responsive primed state.",
+      "evidence": [
+        "source-760426f0be011f288b83"
+      ],
+      "quantitative_evidence": {
+        "seeds": [
+          1,
+          2
+        ],
+        "living_targets_at_96h": [
+          76,
+          69
+        ],
+        "assigned_state": "tumor Ag0 CytoOn primed"
+      },
+      "checks": "Native cell-state validation and the complete 96 h endpoint, with fields and balance records for all 97 saved time points.",
+      "conditions": "An assigned model-state composition. It does not identify measured fractions of biological death mechanisms or independently validate phenotype dynamics.",
+      "status": "descriptive_model_composition",
+      "final_scientific_acceptance": false
+    },
+    {
+      "id": "TE5_3D_GRID_06",
+      "related_original_claims": [
+        "SC1",
+        "SC2",
+        "SC4",
+        "SC6"
+      ],
+      "claim": "The full comparison of 2D, 3D and the local tissue-entry scenario at both ratios remains under review.",
+      "evidence": [
+        "source-679064b4bb4f71a5619e",
+        "source-780b42cfa36d373dc9e3",
+        "source-b804a18f8e75c40fc8ba"
+      ],
+      "checks": "The new 3D result is integrated without dropping the tissue comparison, the 2:1 comparison or the previously observed reversals.",
+      "conditions": "Three 2:1 coupled numerical cases and two 5:1 local-entry mesh repeats remain active at this checkpoint. Nine kinetics checks await substantive numerical review. Significant parameter support and final reproducibility checks remain open. The local-entry scenario does not validate vessels, extravasation or in-vivo behaviour; ECM and Tregs are absent, and CD4/CD8 use the same assigned laws.",
+      "status": "completion_gate_open",
+      "final_scientific_acceptance": false
+    }
+  ],
+  "previous_frozen_table_preserved": true,
+  "central_comparison_objective_retained": true,
+  "scientific_convergence_accepted": false,
+  "kinetic_gate_released": false,
+  "project_complete": false
+}

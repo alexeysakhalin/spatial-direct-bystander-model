@@ -1,0 +1,2950 @@
+[
+  {
+    "group": "TE5_2d_mesh_half_N3_EN.json",
+    "arm": "2d",
+    "refinement": "mesh_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "scalar_metrics": 150,
+    "spatial_metrics": 49,
+    "duplicate_TNF_scalar_metrics": 30,
+    "highlights": {
+      "count/live_targets/at_96h": {
+        "refined_seeds_0_1_2": [
+          72,
+          79,
+          72
+        ],
+        "baseline_seeds_0_1_2": [
+          84,
+          62,
+          80
+        ],
+        "paired_deltas": [
+          -12,
+          17,
+          -8
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 74.33333333333333,
+        "baseline_mean": 75.33333333333333,
+        "mean_paired_delta": -1.0,
+        "refined_range": [
+          72,
+          79
+        ],
+        "baseline_range": [
+          62,
+          84
+        ],
+        "paired_delta_range": [
+          -12,
+          17
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_targets/time_average_0_96h": {
+        "refined_seeds_0_1_2": [
+          397.8333333333333,
+          404.609375,
+          397.96875
+        ],
+        "baseline_seeds_0_1_2": [
+          412.1875,
+          402.2291666666667,
+          394.3958333333333
+        ],
+        "paired_deltas": [
+          -14.354166666666686,
+          2.3802083333333144,
+          3.5729166666666856
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 400.13715277777777,
+        "baseline_mean": 402.9375,
+        "mean_paired_delta": -2.8003472222222285,
+        "refined_range": [
+          397.8333333333333,
+          404.609375
+        ],
+        "baseline_range": [
+          394.3958333333333,
+          412.1875
+        ],
+        "paired_delta_range": [
+          -14.354166666666686,
+          3.5729166666666856
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_Ag_positive/at_96h": {
+        "refined_seeds_0_1_2": [
+          1,
+          1,
+          0
+        ],
+        "baseline_seeds_0_1_2": [
+          0,
+          0,
+          0
+        ],
+        "paired_deltas": [
+          1,
+          1,
+          0
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.6666666666666666,
+        "baseline_mean": 0.0,
+        "mean_paired_delta": 0.6666666666666666,
+        "refined_range": [
+          0,
+          1
+        ],
+        "baseline_range": [
+          0,
+          0
+        ],
+        "paired_delta_range": [
+          0,
+          1
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_Ag_negative/at_96h": {
+        "refined_seeds_0_1_2": [
+          71,
+          78,
+          72
+        ],
+        "baseline_seeds_0_1_2": [
+          84,
+          62,
+          80
+        ],
+        "paired_deltas": [
+          -13,
+          16,
+          -8
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 73.66666666666667,
+        "baseline_mean": 75.33333333333333,
+        "mean_paired_delta": -1.6666666666666667,
+        "refined_range": [
+          71,
+          78
+        ],
+        "baseline_range": [
+          62,
+          84
+        ],
+        "paired_delta_range": [
+          -13,
+          16
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_effectors/at_96h": {
+        "refined_seeds_0_1_2": [
+          326,
+          340,
+          331
+        ],
+        "baseline_seeds_0_1_2": [
+          341,
+          365,
+          343
+        ],
+        "paired_deltas": [
+          -15,
+          -25,
+          -12
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 332.3333333333333,
+        "baseline_mean": 349.6666666666667,
+        "mean_paired_delta": -17.333333333333332,
+        "refined_range": [
+          326,
+          340
+        ],
+        "baseline_range": [
+          341,
+          365
+        ],
+        "paired_delta_range": [
+          -25,
+          -12
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "count/live_effectors/time_average_0_96h": {
+        "refined_seeds_0_1_2": [
+          306.9375,
+          328.4270833333333,
+          319.3385416666667
+        ],
+        "baseline_seeds_0_1_2": [
+          321.421875,
+          337.1197916666667,
+          319.140625
+        ],
+        "paired_deltas": [
+          -14.484375,
+          -8.692708333333371,
+          0.19791666666668561
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 318.234375,
+        "baseline_mean": 325.89409722222223,
+        "mean_paired_delta": -7.6597222222222285,
+        "refined_range": [
+          306.9375,
+          328.4270833333333
+        ],
+        "baseline_range": [
+          319.140625,
+          337.1197916666667
+        ],
+        "paired_delta_range": [
+          -14.484375,
+          0.19791666666668561
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_primed_targets/at_96h": {
+        "refined_seeds_0_1_2": [
+          72,
+          79,
+          72
+        ],
+        "baseline_seeds_0_1_2": [
+          84,
+          62,
+          80
+        ],
+        "paired_deltas": [
+          -12,
+          17,
+          -8
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 74.33333333333333,
+        "baseline_mean": 75.33333333333333,
+        "mean_paired_delta": -1.0,
+        "refined_range": [
+          72,
+          79
+        ],
+        "baseline_range": [
+          62,
+          84
+        ],
+        "paired_delta_range": [
+          -12,
+          17
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_unprimed_targets/at_96h": {
+        "refined_seeds_0_1_2": [
+          0,
+          0,
+          0
+        ],
+        "baseline_seeds_0_1_2": [
+          0,
+          0,
+          0
+        ],
+        "paired_deltas": [
+          0,
+          0,
+          0
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.0,
+        "baseline_mean": 0.0,
+        "mean_paired_delta": 0.0,
+        "refined_range": [
+          0,
+          0
+        ],
+        "baseline_range": [
+          0,
+          0
+        ],
+        "paired_delta_range": [
+          0,
+          0
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "exposure/IFN-gamma/target_quantile_100/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.566305721234344,
+          0.5132392497746407,
+          0.5570876533954943
+        ],
+        "baseline_seeds_0_1_2": [
+          0.7871202990629369,
+          0.794877267888342,
+          0.7183029379192228
+        ],
+        "paired_deltas": [
+          -0.22081457782859293,
+          -0.28163801811370126,
+          -0.16121528452372857
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.5455442081348263,
+        "baseline_mean": 0.766766834956834,
+        "mean_paired_delta": -0.22122262682200758,
+        "refined_range": [
+          0.5132392497746407,
+          0.566305721234344
+        ],
+        "baseline_range": [
+          0.7183029379192228,
+          0.794877267888342
+        ],
+        "paired_delta_range": [
+          -0.28163801811370126,
+          -0.16121528452372857
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "exposure/IFN-gamma/target_quantile_100/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.5542786871590517,
+          0.5008983099826573,
+          0.5319960500712971
+        ],
+        "baseline_seeds_0_1_2": [
+          0.7124185407859633,
+          0.7291923522044956,
+          0.736448379485353
+        ],
+        "paired_deltas": [
+          -0.15813985362691163,
+          -0.22829404222183836,
+          -0.2044523294140559
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.5290576824043354,
+        "baseline_mean": 0.7260197574919373,
+        "mean_paired_delta": -0.19696207508760197,
+        "refined_range": [
+          0.5008983099826573,
+          0.5542786871590517
+        ],
+        "baseline_range": [
+          0.7124185407859633,
+          0.736448379485353
+        ],
+        "paired_delta_range": [
+          -0.22829404222183836,
+          -0.15813985362691163
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "exposure/IFN-gamma/target_quantile_100/at_96h": {
+        "refined_seeds_0_1_2": [
+          0.44173074162040316,
+          0.4401090518964158,
+          0.44501496641715915
+        ],
+        "baseline_seeds_0_1_2": [
+          0.5212388232749113,
+          0.5279473344828943,
+          0.5298668783088238
+        ],
+        "paired_deltas": [
+          -0.07950808165450818,
+          -0.08783828258647852,
+          -0.08485191189166469
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.44228491997799274,
+        "baseline_mean": 0.5263510120222098,
+        "mean_paired_delta": -0.08406609204421713,
+        "refined_range": [
+          0.4401090518964158,
+          0.44501496641715915
+        ],
+        "baseline_range": [
+          0.5212388232749113,
+          0.5298668783088238
+        ],
+        "paired_delta_range": [
+          -0.08783828258647852,
+          -0.07950808165450818
+        ],
+        "same_nonzero_direction_all_three": true
+      }
+    },
+    "unique_primary_metrics_flagged_all_three_same_seeds": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h"
+    ],
+    "unique_primary_metrics_flagged_any_same_seed": [
+      "exposure/IFN-gamma/target_quantile_100/at_24h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/IFN-gamma/target_quantile_100/at_72h"
+    ],
+    "same_seed_trajectories": [
+      {
+        "seed": 0,
+        "positive_hourly_deltas": 3,
+        "negative_hourly_deltas": 91,
+        "equal_hourly_deltas": 3,
+        "sign_changes_ignoring_zeros": 2,
+        "maximum_absolute_delta": 36,
+        "hours_outside_baseline_N3_range": 29
+      },
+      {
+        "seed": 1,
+        "positive_hourly_deltas": 55,
+        "negative_hourly_deltas": 41,
+        "equal_hourly_deltas": 1,
+        "sign_changes_ignoring_zeros": 5,
+        "maximum_absolute_delta": 36,
+        "hours_outside_baseline_N3_range": 19
+      },
+      {
+        "seed": 2,
+        "positive_hourly_deltas": 62,
+        "negative_hourly_deltas": 32,
+        "equal_hourly_deltas": 3,
+        "sign_changes_ignoring_zeros": 9,
+        "maximum_absolute_delta": 30,
+        "hours_outside_baseline_N3_range": 13
+      }
+    ],
+    "hourly_all_three_target_delta_positive": 0,
+    "hourly_all_three_target_delta_negative": 12,
+    "spatial_same_direction_all_three": {
+      "access/fraction_living_effectors_inside_initial_target_hull/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.9694656488549618,
+          0.9925373134328358,
+          0.9807692307692307
+        ],
+        "baseline_seeds_0_1_2": [
+          0.9921568627450981,
+          1.0,
+          1.0
+        ],
+        "paired_deltas": [
+          -0.022691213890136286,
+          -0.007462686567164201,
+          -0.019230769230769273
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.9809240643523428,
+        "baseline_mean": 0.9973856209150327,
+        "mean_paired_delta": -0.01646155656268992,
+        "refined_range": [
+          0.9694656488549618,
+          0.9925373134328358
+        ],
+        "baseline_range": [
+          0.9921568627450981,
+          1.0
+        ],
+        "paired_delta_range": [
+          -0.022691213890136286,
+          -0.007462686567164201
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_6h": {
+        "refined_seeds_0_1_2": [
+          188,
+          203,
+          191
+        ],
+        "baseline_seeds_0_1_2": [
+          156,
+          159,
+          163
+        ],
+        "paired_deltas": [
+          32,
+          44,
+          28
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 194.0,
+        "baseline_mean": 159.33333333333334,
+        "mean_paired_delta": 34.666666666666664,
+        "refined_range": [
+          188,
+          203
+        ],
+        "baseline_range": [
+          156,
+          163
+        ],
+        "paired_delta_range": [
+          28,
+          44
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_with_saved_live_target_attack_link/at_6h": {
+        "refined_seeds_0_1_2": [
+          93,
+          79,
+          121
+        ],
+        "baseline_seeds_0_1_2": [
+          85,
+          76,
+          90
+        ],
+        "paired_deltas": [
+          8,
+          3,
+          31
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 97.66666666666667,
+        "baseline_mean": 83.66666666666667,
+        "mean_paired_delta": 14.0,
+        "refined_range": [
+          79,
+          121
+        ],
+        "baseline_range": [
+          76,
+          90
+        ],
+        "paired_delta_range": [
+          3,
+          31
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_6h": {
+        "refined_seeds_0_1_2": [
+          14.280564144523645,
+          14.24369773902379,
+          14.079030050362384
+        ],
+        "baseline_seeds_0_1_2": [
+          15.361092639276613,
+          14.963620897242215,
+          15.103413984300328
+        ],
+        "paired_deltas": [
+          -1.0805284947529685,
+          -0.7199231582184247,
+          -1.0243839339379441
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.201097311303272,
+        "baseline_mean": 15.142709173606386,
+        "mean_paired_delta": -0.9416118623031124,
+        "refined_range": [
+          14.079030050362384,
+          14.280564144523645
+        ],
+        "baseline_range": [
+          14.963620897242215,
+          15.361092639276613
+        ],
+        "paired_delta_range": [
+          -1.0805284947529685,
+          -0.7199231582184247
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.5498861048502166,
+          0.5699812899725909,
+          0.5924425582461044
+        ],
+        "baseline_seeds_0_1_2": [
+          0.6474026174775341,
+          0.6456382632720584,
+          0.6648456937837703
+        ],
+        "paired_deltas": [
+          -0.09751651262731753,
+          -0.07565697329946752,
+          -0.07240313553766597
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.570769984356304,
+        "baseline_mean": 0.6526288581777876,
+        "mean_paired_delta": -0.08185887382148367,
+        "refined_range": [
+          0.5498861048502166,
+          0.5924425582461044
+        ],
+        "baseline_range": [
+          0.6456382632720584,
+          0.6648456937837703
+        ],
+        "paired_delta_range": [
+          -0.09751651262731753,
+          -0.07240313553766597
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.004975322385178086,
+          0.004887491454770422,
+          0.0048103377245107635
+        ],
+        "baseline_seeds_0_1_2": [
+          0.0038813718261358587,
+          0.0035985537750359694,
+          0.004211716735761664
+        ],
+        "paired_deltas": [
+          0.0010939505590422277,
+          0.0012889376797344523,
+          0.0005986209887490993
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.004891050521486424,
+        "baseline_mean": 0.003897214112311164,
+        "mean_paired_delta": 0.0009938364091752598,
+        "refined_range": [
+          0.0048103377245107635,
+          0.004975322385178086
+        ],
+        "baseline_range": [
+          0.0035985537750359694,
+          0.004211716735761664
+        ],
+        "paired_delta_range": [
+          0.0005986209887490993,
+          0.0012889376797344523
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_24h": {
+        "refined_seeds_0_1_2": [
+          282,
+          301,
+          283
+        ],
+        "baseline_seeds_0_1_2": [
+          293,
+          307,
+          314
+        ],
+        "paired_deltas": [
+          -11,
+          -6,
+          -31
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 288.6666666666667,
+        "baseline_mean": 304.6666666666667,
+        "mean_paired_delta": -16.0,
+        "refined_range": [
+          282,
+          301
+        ],
+        "baseline_range": [
+          293,
+          314
+        ],
+        "paired_delta_range": [
+          -31,
+          -6
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/fraction_living_effectors_inside_initial_target_hull/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.9306930693069307,
+          0.9376947040498442,
+          0.9129032258064517
+        ],
+        "baseline_seeds_0_1_2": [
+          0.948220064724919,
+          0.9654088050314465,
+          0.9631901840490797
+        ],
+        "paired_deltas": [
+          -0.0175269954179883,
+          -0.02771410098160232,
+          -0.05028695824262808
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.9270969997210755,
+        "baseline_mean": 0.9589396846018151,
+        "mean_paired_delta": -0.03184268488073957,
+        "refined_range": [
+          0.9129032258064517,
+          0.9376947040498442
+        ],
+        "baseline_range": [
+          0.948220064724919,
+          0.9654088050314465
+        ],
+        "paired_delta_range": [
+          -0.05028695824262808,
+          -0.0175269954179883
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_24h": {
+        "refined_seeds_0_1_2": [
+          225,
+          231,
+          224
+        ],
+        "baseline_seeds_0_1_2": [
+          151,
+          138,
+          161
+        ],
+        "paired_deltas": [
+          74,
+          93,
+          63
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 226.66666666666666,
+        "baseline_mean": 150.0,
+        "mean_paired_delta": 76.66666666666667,
+        "refined_range": [
+          224,
+          231
+        ],
+        "baseline_range": [
+          138,
+          161
+        ],
+        "paired_delta_range": [
+          63,
+          93
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_24h": {
+        "refined_seeds_0_1_2": [
+          14.303746505919843,
+          14.575356833940267,
+          14.595986991521528
+        ],
+        "baseline_seeds_0_1_2": [
+          16.985723704251296,
+          17.55678462643963,
+          16.75742618867725
+        ],
+        "paired_deltas": [
+          -2.6819771983314524,
+          -2.981427792499362,
+          -2.1614391971557225
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.491696777127212,
+        "baseline_mean": 17.099978173122725,
+        "mean_paired_delta": -2.6082813959955122,
+        "refined_range": [
+          14.303746505919843,
+          14.595986991521528
+        ],
+        "baseline_range": [
+          16.75742618867725,
+          17.55678462643963
+        ],
+        "paired_delta_range": [
+          -2.981427792499362,
+          -2.1614391971557225
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.5251169711181272,
+          0.5245097885959854,
+          0.5298657602974932
+        ],
+        "baseline_seeds_0_1_2": [
+          0.6195783467554138,
+          0.6007966064398974,
+          0.613910357115395
+        ],
+        "paired_deltas": [
+          -0.09446137563728663,
+          -0.076286817843912,
+          -0.08404459681790177
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.5264975066705353,
+        "baseline_mean": 0.6114284367702354,
+        "mean_paired_delta": -0.08493093009970014,
+        "refined_range": [
+          0.5245097885959854,
+          0.5298657602974932
+        ],
+        "baseline_range": [
+          0.6007966064398974,
+          0.6195783467554138
+        ],
+        "paired_delta_range": [
+          -0.09446137563728663,
+          -0.076286817843912
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.005581706706516952,
+          0.005790596769051281,
+          0.0058652281717258194
+        ],
+        "baseline_seeds_0_1_2": [
+          0.003957852406937764,
+          0.004006208150766157,
+          0.003709617849002169
+        ],
+        "paired_deltas": [
+          0.001623854299579188,
+          0.001784388618285124,
+          0.0021556103227236504
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.005745843882431351,
+        "baseline_mean": 0.0038912261355686967,
+        "mean_paired_delta": 0.0018546177468626542,
+        "refined_range": [
+          0.005581706706516952,
+          0.0058652281717258194
+        ],
+        "baseline_range": [
+          0.003709617849002169,
+          0.004006208150766157
+        ],
+        "paired_delta_range": [
+          0.001623854299579188,
+          0.0021556103227236504
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/fraction_living_effectors_inside_initial_target_hull/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.8788819875776398,
+          0.8202898550724638,
+          0.8550295857988166
+        ],
+        "baseline_seeds_0_1_2": [
+          0.8849557522123894,
+          0.9252873563218391,
+          0.8769230769230769
+        ],
+        "paired_deltas": [
+          -0.006073764634749623,
+          -0.10499750124937535,
+          -0.02189349112426031
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.8514004761496401,
+        "baseline_mean": 0.8957220618191019,
+        "mean_paired_delta": -0.04432158566946176,
+        "refined_range": [
+          0.8202898550724638,
+          0.8788819875776398
+        ],
+        "baseline_range": [
+          0.8769230769230769,
+          0.9252873563218391
+        ],
+        "paired_delta_range": [
+          -0.10499750124937535,
+          -0.006073764634749623
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_48h": {
+        "refined_seeds_0_1_2": [
+          217,
+          226,
+          229
+        ],
+        "baseline_seeds_0_1_2": [
+          145,
+          148,
+          139
+        ],
+        "paired_deltas": [
+          72,
+          78,
+          90
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 224.0,
+        "baseline_mean": 144.0,
+        "mean_paired_delta": 80.0,
+        "refined_range": [
+          217,
+          229
+        ],
+        "baseline_range": [
+          139,
+          148
+        ],
+        "paired_delta_range": [
+          72,
+          90
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_with_saved_live_target_attack_link/at_48h": {
+        "refined_seeds_0_1_2": [
+          3,
+          3,
+          1
+        ],
+        "baseline_seeds_0_1_2": [
+          6,
+          8,
+          4
+        ],
+        "paired_deltas": [
+          -3,
+          -5,
+          -3
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 2.3333333333333335,
+        "baseline_mean": 6.0,
+        "mean_paired_delta": -3.6666666666666665,
+        "refined_range": [
+          1,
+          3
+        ],
+        "baseline_range": [
+          4,
+          8
+        ],
+        "paired_delta_range": [
+          -5,
+          -3
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_48h": {
+        "refined_seeds_0_1_2": [
+          15.09121833441263,
+          14.854663652289478,
+          14.798118461262678
+        ],
+        "baseline_seeds_0_1_2": [
+          17.714795086401583,
+          17.83020896974221,
+          18.00285058548693
+        ],
+        "paired_deltas": [
+          -2.623576751988953,
+          -2.975545317452731,
+          -3.2047321242242504
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.914666815988262,
+        "baseline_mean": 17.849284880543575,
+        "mean_paired_delta": -2.9346180645553113,
+        "refined_range": [
+          14.798118461262678,
+          15.09121833441263
+        ],
+        "baseline_range": [
+          17.714795086401583,
+          18.00285058548693
+        ],
+        "paired_delta_range": [
+          -3.2047321242242504,
+          -2.623576751988953
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.4100909884956181,
+          0.39865039907318983,
+          0.4042449379902132
+        ],
+        "baseline_seeds_0_1_2": [
+          0.49204266319800133,
+          0.4727682535502608,
+          0.4557593318812523
+        ],
+        "paired_deltas": [
+          -0.08195167470238324,
+          -0.07411785447707098,
+          -0.05151439389103907
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.4043287751863404,
+        "baseline_mean": 0.4735234162098381,
+        "mean_paired_delta": -0.06919464102349776,
+        "refined_range": [
+          0.39865039907318983,
+          0.4100909884956181
+        ],
+        "baseline_range": [
+          0.4557593318812523,
+          0.49204266319800133
+        ],
+        "paired_delta_range": [
+          -0.08195167470238324,
+          -0.05151439389103907
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.007281368764128395,
+          0.0070422759339812385,
+          0.007415047131250688
+        ],
+        "baseline_seeds_0_1_2": [
+          0.004554705148215286,
+          0.0053095307501981066,
+          0.005016223179741804
+        ],
+        "paired_deltas": [
+          0.0027266636159131094,
+          0.0017327451837831319,
+          0.0023988239515088843
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.007246230609786773,
+        "baseline_mean": 0.004960153026051732,
+        "mean_paired_delta": 0.0022860775837350417,
+        "refined_range": [
+          0.0070422759339812385,
+          0.007415047131250688
+        ],
+        "baseline_range": [
+          0.004554705148215286,
+          0.0053095307501981066
+        ],
+        "paired_delta_range": [
+          0.0017327451837831319,
+          0.0027266636159131094
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_72h": {
+        "refined_seeds_0_1_2": [
+          262,
+          268,
+          248
+        ],
+        "baseline_seeds_0_1_2": [
+          278,
+          323,
+          285
+        ],
+        "paired_deltas": [
+          -16,
+          -55,
+          -37
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 259.3333333333333,
+        "baseline_mean": 295.3333333333333,
+        "mean_paired_delta": -36.0,
+        "refined_range": [
+          248,
+          268
+        ],
+        "baseline_range": [
+          278,
+          323
+        ],
+        "paired_delta_range": [
+          -55,
+          -16
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_72h": {
+        "refined_seeds_0_1_2": [
+          187,
+          211,
+          193
+        ],
+        "baseline_seeds_0_1_2": [
+          113,
+          146,
+          123
+        ],
+        "paired_deltas": [
+          74,
+          65,
+          70
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 197.0,
+        "baseline_mean": 127.33333333333333,
+        "mean_paired_delta": 69.66666666666667,
+        "refined_range": [
+          187,
+          211
+        ],
+        "baseline_range": [
+          113,
+          146
+        ],
+        "paired_delta_range": [
+          65,
+          74
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_72h": {
+        "refined_seeds_0_1_2": [
+          15.225475274909883,
+          15.050651543960269,
+          15.402813619919243
+        ],
+        "baseline_seeds_0_1_2": [
+          19.925978291320952,
+          19.776597542714676,
+          20.340805335189845
+        ],
+        "paired_deltas": [
+          -4.700503016411069,
+          -4.725945998754407,
+          -4.937991715270602
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 15.226313479596465,
+        "baseline_mean": 20.014460389741824,
+        "mean_paired_delta": -4.788146910145359,
+        "refined_range": [
+          15.050651543960269,
+          15.402813619919243
+        ],
+        "baseline_range": [
+          19.776597542714676,
+          20.340805335189845
+        ],
+        "paired_delta_range": [
+          -4.937991715270602,
+          -4.700503016411069
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_72h": {
+        "refined_seeds_0_1_2": [
+          0.3119799576905812,
+          0.30159259484007517,
+          0.3057836549993622
+        ],
+        "baseline_seeds_0_1_2": [
+          0.34804727407324637,
+          0.3452134619388476,
+          0.3531084108632269
+        ],
+        "paired_deltas": [
+          -0.03606731638266519,
+          -0.04362086709877244,
+          -0.0473247558638647
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.30645206917667284,
+        "baseline_mean": 0.34878971562510697,
+        "mean_paired_delta": -0.04233764644843411,
+        "refined_range": [
+          0.30159259484007517,
+          0.3119799576905812
+        ],
+        "baseline_range": [
+          0.3452134619388476,
+          0.3531084108632269
+        ],
+        "paired_delta_range": [
+          -0.0473247558638647,
+          -0.03606731638266519
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h": {
+        "refined_seeds_0_1_2": [
+          0.00812715994576273,
+          0.00783503438122131,
+          0.0080726961107278
+        ],
+        "baseline_seeds_0_1_2": [
+          0.005228417610974887,
+          0.005177773805796655,
+          0.005225290428053207
+        ],
+        "paired_deltas": [
+          0.0028987423347878434,
+          0.0026572605754246557,
+          0.002847405682674592
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.008011630145903947,
+        "baseline_mean": 0.005210493948274916,
+        "mean_paired_delta": 0.0028011361976290304,
+        "refined_range": [
+          0.00783503438122131,
+          0.00812715994576273
+        ],
+        "baseline_range": [
+          0.005177773805796655,
+          0.005228417610974887
+        ],
+        "paired_delta_range": [
+          0.0026572605754246557,
+          0.0028987423347878434
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_96h": {
+        "refined_seeds_0_1_2": [
+          140,
+          144,
+          145
+        ],
+        "baseline_seeds_0_1_2": [
+          122,
+          104,
+          118
+        ],
+        "paired_deltas": [
+          18,
+          40,
+          27
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 143.0,
+        "baseline_mean": 114.66666666666667,
+        "mean_paired_delta": 28.333333333333332,
+        "refined_range": [
+          140,
+          145
+        ],
+        "baseline_range": [
+          104,
+          122
+        ],
+        "paired_delta_range": [
+          18,
+          40
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_96h": {
+        "refined_seeds_0_1_2": [
+          20.185649559450994,
+          21.362392904154802,
+          19.372373161015275
+        ],
+        "baseline_seeds_0_1_2": [
+          21.637183766573308,
+          25.058287737375846,
+          21.764424186112187
+        ],
+        "paired_deltas": [
+          -1.4515342071223145,
+          -3.6958948332210433,
+          -2.3920510250969116
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 20.306805208207024,
+        "baseline_mean": 22.819965230020447,
+        "mean_paired_delta": -2.513160021813423,
+        "refined_range": [
+          19.372373161015275,
+          21.362392904154802
+        ],
+        "baseline_range": [
+          21.637183766573308,
+          25.058287737375846
+        ],
+        "paired_delta_range": [
+          -3.6958948332210433,
+          -1.4515342071223145
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_96h": {
+        "refined_seeds_0_1_2": [
+          0.2397979840992019,
+          0.23609178719465054,
+          0.24185600481406208
+        ],
+        "baseline_seeds_0_1_2": [
+          0.2810815623674238,
+          0.25766473967599973,
+          0.2752430281826182
+        ],
+        "paired_deltas": [
+          -0.04128357826822193,
+          -0.02157295248134919,
+          -0.03338702336855612
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.23924859203597149,
+        "baseline_mean": 0.2713297767420139,
+        "mean_paired_delta": -0.03208118470604241,
+        "refined_range": [
+          0.23609178719465054,
+          0.24185600481406208
+        ],
+        "baseline_range": [
+          0.25766473967599973,
+          0.2810815623674238
+        ],
+        "paired_delta_range": [
+          -0.04128357826822193,
+          -0.02157295248134919
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h": {
+        "refined_seeds_0_1_2": [
+          0.0065616144235664565,
+          0.006558133828334646,
+          0.006558452542965711
+        ],
+        "baseline_seeds_0_1_2": [
+          0.005136102668483836,
+          0.00498707976166204,
+          0.00510231174653293
+        ],
+        "paired_deltas": [
+          0.0014255117550826205,
+          0.0015710540666726064,
+          0.0014561407964327807
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.006559400264955605,
+        "baseline_mean": 0.005075164725559602,
+        "mean_paired_delta": 0.0014842355393960025,
+        "refined_range": [
+          0.006558133828334646,
+          0.0065616144235664565
+        ],
+        "baseline_range": [
+          0.00498707976166204,
+          0.005136102668483836
+        ],
+        "paired_delta_range": [
+          0.0014255117550826205,
+          0.0015710540666726064
+        ],
+        "same_nonzero_direction_all_three": true
+      }
+    },
+    "spatial_ranges_disjoint": {
+      "access/living_effectors_touching_living_target_spheres/at_6h": {
+        "refined_seeds_0_1_2": [
+          188,
+          203,
+          191
+        ],
+        "baseline_seeds_0_1_2": [
+          156,
+          159,
+          163
+        ],
+        "paired_deltas": [
+          32,
+          44,
+          28
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 194.0,
+        "baseline_mean": 159.33333333333334,
+        "mean_paired_delta": 34.666666666666664,
+        "refined_range": [
+          188,
+          203
+        ],
+        "baseline_range": [
+          156,
+          163
+        ],
+        "paired_delta_range": [
+          28,
+          44
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_6h": {
+        "refined_seeds_0_1_2": [
+          14.280564144523645,
+          14.24369773902379,
+          14.079030050362384
+        ],
+        "baseline_seeds_0_1_2": [
+          15.361092639276613,
+          14.963620897242215,
+          15.103413984300328
+        ],
+        "paired_deltas": [
+          -1.0805284947529685,
+          -0.7199231582184247,
+          -1.0243839339379441
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.201097311303272,
+        "baseline_mean": 15.142709173606386,
+        "mean_paired_delta": -0.9416118623031124,
+        "refined_range": [
+          14.079030050362384,
+          14.280564144523645
+        ],
+        "baseline_range": [
+          14.963620897242215,
+          15.361092639276613
+        ],
+        "paired_delta_range": [
+          -1.0805284947529685,
+          -0.7199231582184247
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.5498861048502166,
+          0.5699812899725909,
+          0.5924425582461044
+        ],
+        "baseline_seeds_0_1_2": [
+          0.6474026174775341,
+          0.6456382632720584,
+          0.6648456937837703
+        ],
+        "paired_deltas": [
+          -0.09751651262731753,
+          -0.07565697329946752,
+          -0.07240313553766597
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.570769984356304,
+        "baseline_mean": 0.6526288581777876,
+        "mean_paired_delta": -0.08185887382148367,
+        "refined_range": [
+          0.5498861048502166,
+          0.5924425582461044
+        ],
+        "baseline_range": [
+          0.6456382632720584,
+          0.6648456937837703
+        ],
+        "paired_delta_range": [
+          -0.09751651262731753,
+          -0.07240313553766597
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.004975322385178086,
+          0.004887491454770422,
+          0.0048103377245107635
+        ],
+        "baseline_seeds_0_1_2": [
+          0.0038813718261358587,
+          0.0035985537750359694,
+          0.004211716735761664
+        ],
+        "paired_deltas": [
+          0.0010939505590422277,
+          0.0012889376797344523,
+          0.0005986209887490993
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.004891050521486424,
+        "baseline_mean": 0.003897214112311164,
+        "mean_paired_delta": 0.0009938364091752598,
+        "refined_range": [
+          0.0048103377245107635,
+          0.004975322385178086
+        ],
+        "baseline_range": [
+          0.0035985537750359694,
+          0.004211716735761664
+        ],
+        "paired_delta_range": [
+          0.0005986209887490993,
+          0.0012889376797344523
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/fraction_living_effectors_inside_initial_target_hull/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.9306930693069307,
+          0.9376947040498442,
+          0.9129032258064517
+        ],
+        "baseline_seeds_0_1_2": [
+          0.948220064724919,
+          0.9654088050314465,
+          0.9631901840490797
+        ],
+        "paired_deltas": [
+          -0.0175269954179883,
+          -0.02771410098160232,
+          -0.05028695824262808
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.9270969997210755,
+        "baseline_mean": 0.9589396846018151,
+        "mean_paired_delta": -0.03184268488073957,
+        "refined_range": [
+          0.9129032258064517,
+          0.9376947040498442
+        ],
+        "baseline_range": [
+          0.948220064724919,
+          0.9654088050314465
+        ],
+        "paired_delta_range": [
+          -0.05028695824262808,
+          -0.0175269954179883
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_24h": {
+        "refined_seeds_0_1_2": [
+          225,
+          231,
+          224
+        ],
+        "baseline_seeds_0_1_2": [
+          151,
+          138,
+          161
+        ],
+        "paired_deltas": [
+          74,
+          93,
+          63
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 226.66666666666666,
+        "baseline_mean": 150.0,
+        "mean_paired_delta": 76.66666666666667,
+        "refined_range": [
+          224,
+          231
+        ],
+        "baseline_range": [
+          138,
+          161
+        ],
+        "paired_delta_range": [
+          63,
+          93
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_24h": {
+        "refined_seeds_0_1_2": [
+          14.303746505919843,
+          14.575356833940267,
+          14.595986991521528
+        ],
+        "baseline_seeds_0_1_2": [
+          16.985723704251296,
+          17.55678462643963,
+          16.75742618867725
+        ],
+        "paired_deltas": [
+          -2.6819771983314524,
+          -2.981427792499362,
+          -2.1614391971557225
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.491696777127212,
+        "baseline_mean": 17.099978173122725,
+        "mean_paired_delta": -2.6082813959955122,
+        "refined_range": [
+          14.303746505919843,
+          14.595986991521528
+        ],
+        "baseline_range": [
+          16.75742618867725,
+          17.55678462643963
+        ],
+        "paired_delta_range": [
+          -2.981427792499362,
+          -2.1614391971557225
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.5251169711181272,
+          0.5245097885959854,
+          0.5298657602974932
+        ],
+        "baseline_seeds_0_1_2": [
+          0.6195783467554138,
+          0.6007966064398974,
+          0.613910357115395
+        ],
+        "paired_deltas": [
+          -0.09446137563728663,
+          -0.076286817843912,
+          -0.08404459681790177
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.5264975066705353,
+        "baseline_mean": 0.6114284367702354,
+        "mean_paired_delta": -0.08493093009970014,
+        "refined_range": [
+          0.5245097885959854,
+          0.5298657602974932
+        ],
+        "baseline_range": [
+          0.6007966064398974,
+          0.6195783467554138
+        ],
+        "paired_delta_range": [
+          -0.09446137563728663,
+          -0.076286817843912
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.005581706706516952,
+          0.005790596769051281,
+          0.0058652281717258194
+        ],
+        "baseline_seeds_0_1_2": [
+          0.003957852406937764,
+          0.004006208150766157,
+          0.003709617849002169
+        ],
+        "paired_deltas": [
+          0.001623854299579188,
+          0.001784388618285124,
+          0.0021556103227236504
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.005745843882431351,
+        "baseline_mean": 0.0038912261355686967,
+        "mean_paired_delta": 0.0018546177468626542,
+        "refined_range": [
+          0.005581706706516952,
+          0.0058652281717258194
+        ],
+        "baseline_range": [
+          0.003709617849002169,
+          0.004006208150766157
+        ],
+        "paired_delta_range": [
+          0.001623854299579188,
+          0.0021556103227236504
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_48h": {
+        "refined_seeds_0_1_2": [
+          217,
+          226,
+          229
+        ],
+        "baseline_seeds_0_1_2": [
+          145,
+          148,
+          139
+        ],
+        "paired_deltas": [
+          72,
+          78,
+          90
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 224.0,
+        "baseline_mean": 144.0,
+        "mean_paired_delta": 80.0,
+        "refined_range": [
+          217,
+          229
+        ],
+        "baseline_range": [
+          139,
+          148
+        ],
+        "paired_delta_range": [
+          72,
+          90
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_with_saved_live_target_attack_link/at_48h": {
+        "refined_seeds_0_1_2": [
+          3,
+          3,
+          1
+        ],
+        "baseline_seeds_0_1_2": [
+          6,
+          8,
+          4
+        ],
+        "paired_deltas": [
+          -3,
+          -5,
+          -3
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 2.3333333333333335,
+        "baseline_mean": 6.0,
+        "mean_paired_delta": -3.6666666666666665,
+        "refined_range": [
+          1,
+          3
+        ],
+        "baseline_range": [
+          4,
+          8
+        ],
+        "paired_delta_range": [
+          -5,
+          -3
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_48h": {
+        "refined_seeds_0_1_2": [
+          15.09121833441263,
+          14.854663652289478,
+          14.798118461262678
+        ],
+        "baseline_seeds_0_1_2": [
+          17.714795086401583,
+          17.83020896974221,
+          18.00285058548693
+        ],
+        "paired_deltas": [
+          -2.623576751988953,
+          -2.975545317452731,
+          -3.2047321242242504
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.914666815988262,
+        "baseline_mean": 17.849284880543575,
+        "mean_paired_delta": -2.9346180645553113,
+        "refined_range": [
+          14.798118461262678,
+          15.09121833441263
+        ],
+        "baseline_range": [
+          17.714795086401583,
+          18.00285058548693
+        ],
+        "paired_delta_range": [
+          -3.2047321242242504,
+          -2.623576751988953
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.4100909884956181,
+          0.39865039907318983,
+          0.4042449379902132
+        ],
+        "baseline_seeds_0_1_2": [
+          0.49204266319800133,
+          0.4727682535502608,
+          0.4557593318812523
+        ],
+        "paired_deltas": [
+          -0.08195167470238324,
+          -0.07411785447707098,
+          -0.05151439389103907
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.4043287751863404,
+        "baseline_mean": 0.4735234162098381,
+        "mean_paired_delta": -0.06919464102349776,
+        "refined_range": [
+          0.39865039907318983,
+          0.4100909884956181
+        ],
+        "baseline_range": [
+          0.4557593318812523,
+          0.49204266319800133
+        ],
+        "paired_delta_range": [
+          -0.08195167470238324,
+          -0.05151439389103907
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.007281368764128395,
+          0.0070422759339812385,
+          0.007415047131250688
+        ],
+        "baseline_seeds_0_1_2": [
+          0.004554705148215286,
+          0.0053095307501981066,
+          0.005016223179741804
+        ],
+        "paired_deltas": [
+          0.0027266636159131094,
+          0.0017327451837831319,
+          0.0023988239515088843
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.007246230609786773,
+        "baseline_mean": 0.004960153026051732,
+        "mean_paired_delta": 0.0022860775837350417,
+        "refined_range": [
+          0.0070422759339812385,
+          0.007415047131250688
+        ],
+        "baseline_range": [
+          0.004554705148215286,
+          0.0053095307501981066
+        ],
+        "paired_delta_range": [
+          0.0017327451837831319,
+          0.0027266636159131094
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_72h": {
+        "refined_seeds_0_1_2": [
+          262,
+          268,
+          248
+        ],
+        "baseline_seeds_0_1_2": [
+          278,
+          323,
+          285
+        ],
+        "paired_deltas": [
+          -16,
+          -55,
+          -37
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 259.3333333333333,
+        "baseline_mean": 295.3333333333333,
+        "mean_paired_delta": -36.0,
+        "refined_range": [
+          248,
+          268
+        ],
+        "baseline_range": [
+          278,
+          323
+        ],
+        "paired_delta_range": [
+          -55,
+          -16
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_72h": {
+        "refined_seeds_0_1_2": [
+          187,
+          211,
+          193
+        ],
+        "baseline_seeds_0_1_2": [
+          113,
+          146,
+          123
+        ],
+        "paired_deltas": [
+          74,
+          65,
+          70
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 197.0,
+        "baseline_mean": 127.33333333333333,
+        "mean_paired_delta": 69.66666666666667,
+        "refined_range": [
+          187,
+          211
+        ],
+        "baseline_range": [
+          113,
+          146
+        ],
+        "paired_delta_range": [
+          65,
+          74
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_72h": {
+        "refined_seeds_0_1_2": [
+          15.225475274909883,
+          15.050651543960269,
+          15.402813619919243
+        ],
+        "baseline_seeds_0_1_2": [
+          19.925978291320952,
+          19.776597542714676,
+          20.340805335189845
+        ],
+        "paired_deltas": [
+          -4.700503016411069,
+          -4.725945998754407,
+          -4.937991715270602
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 15.226313479596465,
+        "baseline_mean": 20.014460389741824,
+        "mean_paired_delta": -4.788146910145359,
+        "refined_range": [
+          15.050651543960269,
+          15.402813619919243
+        ],
+        "baseline_range": [
+          19.776597542714676,
+          20.340805335189845
+        ],
+        "paired_delta_range": [
+          -4.937991715270602,
+          -4.700503016411069
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_72h": {
+        "refined_seeds_0_1_2": [
+          0.3119799576905812,
+          0.30159259484007517,
+          0.3057836549993622
+        ],
+        "baseline_seeds_0_1_2": [
+          0.34804727407324637,
+          0.3452134619388476,
+          0.3531084108632269
+        ],
+        "paired_deltas": [
+          -0.03606731638266519,
+          -0.04362086709877244,
+          -0.0473247558638647
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.30645206917667284,
+        "baseline_mean": 0.34878971562510697,
+        "mean_paired_delta": -0.04233764644843411,
+        "refined_range": [
+          0.30159259484007517,
+          0.3119799576905812
+        ],
+        "baseline_range": [
+          0.3452134619388476,
+          0.3531084108632269
+        ],
+        "paired_delta_range": [
+          -0.0473247558638647,
+          -0.03606731638266519
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_72h": {
+        "refined_seeds_0_1_2": [
+          0.00812715994576273,
+          0.00783503438122131,
+          0.0080726961107278
+        ],
+        "baseline_seeds_0_1_2": [
+          0.005228417610974887,
+          0.005177773805796655,
+          0.005225290428053207
+        ],
+        "paired_deltas": [
+          0.0028987423347878434,
+          0.0026572605754246557,
+          0.002847405682674592
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.008011630145903947,
+        "baseline_mean": 0.005210493948274916,
+        "mean_paired_delta": 0.0028011361976290304,
+        "refined_range": [
+          0.00783503438122131,
+          0.00812715994576273
+        ],
+        "baseline_range": [
+          0.005177773805796655,
+          0.005228417610974887
+        ],
+        "paired_delta_range": [
+          0.0026572605754246557,
+          0.0028987423347878434
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_touching_living_target_spheres/at_96h": {
+        "refined_seeds_0_1_2": [
+          140,
+          144,
+          145
+        ],
+        "baseline_seeds_0_1_2": [
+          122,
+          104,
+          118
+        ],
+        "paired_deltas": [
+          18,
+          40,
+          27
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 143.0,
+        "baseline_mean": 114.66666666666667,
+        "mean_paired_delta": 28.333333333333332,
+        "refined_range": [
+          140,
+          145
+        ],
+        "baseline_range": [
+          104,
+          122
+        ],
+        "paired_delta_range": [
+          18,
+          40
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/nearest_living_target_centre_median_um/at_96h": {
+        "refined_seeds_0_1_2": [
+          20.185649559450994,
+          21.362392904154802,
+          19.372373161015275
+        ],
+        "baseline_seeds_0_1_2": [
+          21.637183766573308,
+          25.058287737375846,
+          21.764424186112187
+        ],
+        "paired_deltas": [
+          -1.4515342071223145,
+          -3.6958948332210433,
+          -2.3920510250969116
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 20.306805208207024,
+        "baseline_mean": 22.819965230020447,
+        "mean_paired_delta": -2.513160021813423,
+        "refined_range": [
+          19.372373161015275,
+          21.362392904154802
+        ],
+        "baseline_range": [
+          21.637183766573308,
+          25.058287737375846
+        ],
+        "paired_delta_range": [
+          -3.6958948332210433,
+          -1.4515342071223145
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_concentration/at_96h": {
+        "refined_seeds_0_1_2": [
+          0.2397979840992019,
+          0.23609178719465054,
+          0.24185600481406208
+        ],
+        "baseline_seeds_0_1_2": [
+          0.2810815623674238,
+          0.25766473967599973,
+          0.2752430281826182
+        ],
+        "paired_deltas": [
+          -0.04128357826822193,
+          -0.02157295248134919,
+          -0.03338702336855612
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.23924859203597149,
+        "baseline_mean": 0.2713297767420139,
+        "mean_paired_delta": -0.03208118470604241,
+        "refined_range": [
+          0.23609178719465054,
+          0.24185600481406208
+        ],
+        "baseline_range": [
+          0.25766473967599973,
+          0.2810815623674238
+        ],
+        "paired_delta_range": [
+          -0.04128357826822193,
+          -0.02157295248134919
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_96h": {
+        "refined_seeds_0_1_2": [
+          0.0065616144235664565,
+          0.006558133828334646,
+          0.006558452542965711
+        ],
+        "baseline_seeds_0_1_2": [
+          0.005136102668483836,
+          0.00498707976166204,
+          0.00510231174653293
+        ],
+        "paired_deltas": [
+          0.0014255117550826205,
+          0.0015710540666726064,
+          0.0014561407964327807
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.006559400264955605,
+        "baseline_mean": 0.005075164725559602,
+        "mean_paired_delta": 0.0014842355393960025,
+        "refined_range": [
+          0.006558133828334646,
+          0.0065616144235664565
+        ],
+        "baseline_range": [
+          0.00498707976166204,
+          0.005136102668483836
+        ],
+        "paired_delta_range": [
+          0.0014255117550826205,
+          0.0015710540666726064
+        ],
+        "same_nonzero_direction_all_three": true
+      }
+    },
+    "undefined_spatial_metrics": [],
+    "scientific_convergence_accepted": false
+  },
+  {
+    "group": "TE5_local_entry_dt_half_N3_EN.json",
+    "arm": "local_entry",
+    "refinement": "dt_half",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "scalar_metrics": 150,
+    "spatial_metrics": 49,
+    "duplicate_TNF_scalar_metrics": 30,
+    "highlights": {
+      "count/live_targets/at_96h": {
+        "refined_seeds_0_1_2": [
+          146,
+          128,
+          132
+        ],
+        "baseline_seeds_0_1_2": [
+          146,
+          144,
+          119
+        ],
+        "paired_deltas": [
+          0,
+          -16,
+          13
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 135.33333333333334,
+        "baseline_mean": 136.33333333333334,
+        "mean_paired_delta": -1.0,
+        "refined_range": [
+          128,
+          146
+        ],
+        "baseline_range": [
+          119,
+          146
+        ],
+        "paired_delta_range": [
+          -16,
+          13
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_targets/time_average_0_96h": {
+        "refined_seeds_0_1_2": [
+          454.0208333333333,
+          451.5416666666667,
+          450.5729166666667
+        ],
+        "baseline_seeds_0_1_2": [
+          456.0416666666667,
+          476.3020833333333,
+          475.1822916666667
+        ],
+        "paired_deltas": [
+          -2.0208333333333712,
+          -24.76041666666663,
+          -24.609375
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 452.0451388888889,
+        "baseline_mean": 469.17534722222223,
+        "mean_paired_delta": -17.130208333333332,
+        "refined_range": [
+          450.5729166666667,
+          454.0208333333333
+        ],
+        "baseline_range": [
+          456.0416666666667,
+          476.3020833333333
+        ],
+        "paired_delta_range": [
+          -24.76041666666663,
+          -2.0208333333333712
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "count/live_Ag_positive/at_96h": {
+        "refined_seeds_0_1_2": [
+          16,
+          10,
+          18
+        ],
+        "baseline_seeds_0_1_2": [
+          10,
+          22,
+          8
+        ],
+        "paired_deltas": [
+          6,
+          -12,
+          10
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 14.666666666666666,
+        "baseline_mean": 13.333333333333334,
+        "mean_paired_delta": 1.3333333333333333,
+        "refined_range": [
+          10,
+          18
+        ],
+        "baseline_range": [
+          8,
+          22
+        ],
+        "paired_delta_range": [
+          -12,
+          10
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_Ag_negative/at_96h": {
+        "refined_seeds_0_1_2": [
+          130,
+          118,
+          114
+        ],
+        "baseline_seeds_0_1_2": [
+          136,
+          122,
+          111
+        ],
+        "paired_deltas": [
+          -6,
+          -4,
+          3
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 120.66666666666667,
+        "baseline_mean": 123.0,
+        "mean_paired_delta": -2.3333333333333335,
+        "refined_range": [
+          114,
+          130
+        ],
+        "baseline_range": [
+          111,
+          136
+        ],
+        "paired_delta_range": [
+          -6,
+          3
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_effectors/at_96h": {
+        "refined_seeds_0_1_2": [
+          408,
+          412,
+          414
+        ],
+        "baseline_seeds_0_1_2": [
+          487,
+          469,
+          418
+        ],
+        "paired_deltas": [
+          -79,
+          -57,
+          -4
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 411.3333333333333,
+        "baseline_mean": 458.0,
+        "mean_paired_delta": -46.666666666666664,
+        "refined_range": [
+          408,
+          414
+        ],
+        "baseline_range": [
+          418,
+          487
+        ],
+        "paired_delta_range": [
+          -79,
+          -4
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "count/live_effectors/time_average_0_96h": {
+        "refined_seeds_0_1_2": [
+          340.0520833333333,
+          362.6145833333333,
+          348.2604166666667
+        ],
+        "baseline_seeds_0_1_2": [
+          390.0885416666667,
+          378.0364583333333,
+          357.1979166666667
+        ],
+        "paired_deltas": [
+          -50.03645833333337,
+          -15.421875,
+          -8.9375
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 350.30902777777777,
+        "baseline_mean": 375.1076388888889,
+        "mean_paired_delta": -24.798611111111125,
+        "refined_range": [
+          340.0520833333333,
+          362.6145833333333
+        ],
+        "baseline_range": [
+          357.1979166666667,
+          390.0885416666667
+        ],
+        "paired_delta_range": [
+          -50.03645833333337,
+          -8.9375
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "count/live_primed_targets/at_96h": {
+        "refined_seeds_0_1_2": [
+          146,
+          128,
+          132
+        ],
+        "baseline_seeds_0_1_2": [
+          145,
+          144,
+          119
+        ],
+        "paired_deltas": [
+          1,
+          -16,
+          13
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 135.33333333333334,
+        "baseline_mean": 136.0,
+        "mean_paired_delta": -0.6666666666666666,
+        "refined_range": [
+          128,
+          146
+        ],
+        "baseline_range": [
+          119,
+          145
+        ],
+        "paired_delta_range": [
+          -16,
+          13
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "count/live_unprimed_targets/at_96h": {
+        "refined_seeds_0_1_2": [
+          0,
+          0,
+          0
+        ],
+        "baseline_seeds_0_1_2": [
+          1,
+          0,
+          0
+        ],
+        "paired_deltas": [
+          -1,
+          0,
+          0
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.0,
+        "baseline_mean": 0.3333333333333333,
+        "mean_paired_delta": -0.3333333333333333,
+        "refined_range": [
+          0,
+          0
+        ],
+        "baseline_range": [
+          0,
+          1
+        ],
+        "paired_delta_range": [
+          -1,
+          0
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "exposure/IFN-gamma/target_quantile_100/at_24h": {
+        "refined_seeds_0_1_2": [
+          0.7853540396491191,
+          0.8143512962248299,
+          0.7725700414748551
+        ],
+        "baseline_seeds_0_1_2": [
+          0.8271536465097059,
+          0.80448519200409,
+          0.74912534385691
+        ],
+        "paired_deltas": [
+          -0.04179960686058681,
+          0.009866104220739969,
+          0.0234446976179451
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.790758459116268,
+        "baseline_mean": 0.7935880607902353,
+        "mean_paired_delta": -0.002829601673967249,
+        "refined_range": [
+          0.7725700414748551,
+          0.8143512962248299
+        ],
+        "baseline_range": [
+          0.74912534385691,
+          0.8271536465097059
+        ],
+        "paired_delta_range": [
+          -0.04179960686058681,
+          0.0234446976179451
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "exposure/IFN-gamma/target_quantile_100/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.6909056477296942,
+          0.6064189432327236,
+          0.7502635859195346
+        ],
+        "baseline_seeds_0_1_2": [
+          0.7712348144738419,
+          0.7183364901078828,
+          0.5588649277506864
+        ],
+        "paired_deltas": [
+          -0.0803291667441477,
+          -0.1119175468751592,
+          0.19139865816884816
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.6825293922939841,
+        "baseline_mean": 0.6828120774441371,
+        "mean_paired_delta": -0.00028268515015291335,
+        "refined_range": [
+          0.6064189432327236,
+          0.7502635859195346
+        ],
+        "baseline_range": [
+          0.5588649277506864,
+          0.7712348144738419
+        ],
+        "paired_delta_range": [
+          -0.1119175468751592,
+          0.19139865816884816
+        ],
+        "same_nonzero_direction_all_three": false
+      },
+      "exposure/IFN-gamma/target_quantile_100/at_96h": {
+        "refined_seeds_0_1_2": [
+          0.298566720711277,
+          0.0158022046939321,
+          0.38816276064488364
+        ],
+        "baseline_seeds_0_1_2": [
+          0.061788703845053645,
+          0.45527756817271453,
+          0.03030117360480655
+        ],
+        "paired_deltas": [
+          0.23677801686622335,
+          -0.4394753634787824,
+          0.3578615870400771
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.23417722868336424,
+        "baseline_mean": 0.18245581520752494,
+        "mean_paired_delta": 0.05172141347583934,
+        "refined_range": [
+          0.0158022046939321,
+          0.38816276064488364
+        ],
+        "baseline_range": [
+          0.03030117360480655,
+          0.45527756817271453
+        ],
+        "paired_delta_range": [
+          -0.4394753634787824,
+          0.3578615870400771
+        ],
+        "same_nonzero_direction_all_three": false
+      }
+    },
+    "unique_primary_metrics_flagged_all_three_same_seeds": [
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_48h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_48h",
+      "exposure/IFN-gamma/target_quantile_25/at_72h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h"
+    ],
+    "unique_primary_metrics_flagged_any_same_seed": [
+      "count/live_effectors/at_72h",
+      "count/live_effectors/at_96h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_48h",
+      "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_48h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+      "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+      "exposure/IFN-gamma/target_quantile_0/at_48h",
+      "exposure/IFN-gamma/target_quantile_0/at_72h",
+      "exposure/IFN-gamma/target_quantile_0/at_96h",
+      "exposure/IFN-gamma/target_quantile_25/at_48h",
+      "exposure/IFN-gamma/target_quantile_25/at_72h",
+      "exposure/IFN-gamma/target_quantile_25/at_96h",
+      "exposure/IFN-gamma/target_quantile_50/at_48h",
+      "exposure/IFN-gamma/target_quantile_50/at_72h",
+      "exposure/IFN-gamma/target_quantile_50/at_96h",
+      "exposure/IFN-gamma/target_quantile_75/at_48h",
+      "exposure/IFN-gamma/target_quantile_75/at_72h",
+      "exposure/IFN-gamma/target_quantile_75/at_96h",
+      "exposure/IFN-gamma/target_quantile_100/at_48h",
+      "exposure/IFN-gamma/target_quantile_100/at_72h",
+      "exposure/IFN-gamma/target_quantile_100/at_96h"
+    ],
+    "same_seed_trajectories": [
+      {
+        "seed": 0,
+        "positive_hourly_deltas": 34,
+        "negative_hourly_deltas": 55,
+        "equal_hourly_deltas": 8,
+        "sign_changes_ignoring_zeros": 12,
+        "maximum_absolute_delta": 46,
+        "hours_outside_baseline_N3_range": 43
+      },
+      {
+        "seed": 1,
+        "positive_hourly_deltas": 14,
+        "negative_hourly_deltas": 82,
+        "equal_hourly_deltas": 1,
+        "sign_changes_ignoring_zeros": 8,
+        "maximum_absolute_delta": 62,
+        "hours_outside_baseline_N3_range": 57
+      },
+      {
+        "seed": 2,
+        "positive_hourly_deltas": 22,
+        "negative_hourly_deltas": 72,
+        "equal_hourly_deltas": 3,
+        "sign_changes_ignoring_zeros": 3,
+        "maximum_absolute_delta": 73,
+        "hours_outside_baseline_N3_range": 49
+      }
+    ],
+    "hourly_all_three_target_delta_positive": 0,
+    "hourly_all_three_target_delta_negative": 39,
+    "spatial_same_direction_all_three": {
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.0009784066451943708,
+          0.0009722574622212679,
+          0.001022669469107036
+        ],
+        "baseline_seeds_0_1_2": [
+          0.0010574647221167355,
+          0.0011376097688893,
+          0.0010354933892235108
+        ],
+        "paired_deltas": [
+          -7.905807692236465e-05,
+          -0.00016535230666803213,
+          -1.2823920116474897e-05
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.000991111192174225,
+        "baseline_mean": 0.0010768559600765155,
+        "mean_paired_delta": -8.574476790229055e-05,
+        "refined_range": [
+          0.0009722574622212679,
+          0.001022669469107036
+        ],
+        "baseline_range": [
+          0.0010354933892235108,
+          0.0011376097688893
+        ],
+        "paired_delta_range": [
+          -0.00016535230666803213,
+          -1.2823920116474897e-05
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_24h": {
+        "refined_seeds_0_1_2": [
+          315,
+          326,
+          323
+        ],
+        "baseline_seeds_0_1_2": [
+          342,
+          339,
+          337
+        ],
+        "paired_deltas": [
+          -27,
+          -13,
+          -14
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 321.3333333333333,
+        "baseline_mean": 339.3333333333333,
+        "mean_paired_delta": -18.0,
+        "refined_range": [
+          315,
+          326
+        ],
+        "baseline_range": [
+          337,
+          342
+        ],
+        "paired_delta_range": [
+          -27,
+          -13
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_48h": {
+        "refined_seeds_0_1_2": [
+          337,
+          378,
+          345
+        ],
+        "baseline_seeds_0_1_2": [
+          384,
+          395,
+          365
+        ],
+        "paired_deltas": [
+          -47,
+          -17,
+          -20
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 353.3333333333333,
+        "baseline_mean": 381.3333333333333,
+        "mean_paired_delta": -28.0,
+        "refined_range": [
+          337,
+          378
+        ],
+        "baseline_range": [
+          365,
+          395
+        ],
+        "paired_delta_range": [
+          -47,
+          -17
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_48h": {
+        "refined_seeds_0_1_2": [
+          0.002331350611684777,
+          0.0021345668111704954,
+          0.002332617131807863
+        ],
+        "baseline_seeds_0_1_2": [
+          0.002286554647348317,
+          0.00210742330632519,
+          0.0017818294872911458
+        ],
+        "paired_deltas": [
+          4.4795964336459895e-05,
+          2.7143504845305623e-05,
+          0.0005507876445167174
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.0022661781848877117,
+        "baseline_mean": 0.002058602480321551,
+        "mean_paired_delta": 0.00020757570456616097,
+        "refined_range": [
+          0.0021345668111704954,
+          0.002332617131807863
+        ],
+        "baseline_range": [
+          0.0017818294872911458,
+          0.002286554647348317
+        ],
+        "paired_delta_range": [
+          2.7143504845305623e-05,
+          0.0005507876445167174
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_72h": {
+        "refined_seeds_0_1_2": [
+          375,
+          401,
+          311
+        ],
+        "baseline_seeds_0_1_2": [
+          455,
+          430,
+          366
+        ],
+        "paired_deltas": [
+          -80,
+          -29,
+          -55
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 362.3333333333333,
+        "baseline_mean": 417.0,
+        "mean_paired_delta": -54.666666666666664,
+        "refined_range": [
+          311,
+          401
+        ],
+        "baseline_range": [
+          366,
+          455
+        ],
+        "paired_delta_range": [
+          -80,
+          -29
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_96h": {
+        "refined_seeds_0_1_2": [
+          346,
+          349,
+          278
+        ],
+        "baseline_seeds_0_1_2": [
+          381,
+          454,
+          316
+        ],
+        "paired_deltas": [
+          -35,
+          -105,
+          -38
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 324.3333333333333,
+        "baseline_mean": 383.6666666666667,
+        "mean_paired_delta": -59.333333333333336,
+        "refined_range": [
+          278,
+          349
+        ],
+        "baseline_range": [
+          316,
+          454
+        ],
+        "paired_delta_range": [
+          -105,
+          -35
+        ],
+        "same_nonzero_direction_all_three": true
+      }
+    },
+    "spatial_ranges_disjoint": {
+      "CXCL/median_living_effector_local_gradient_magnitude_per_um/at_6h": {
+        "refined_seeds_0_1_2": [
+          0.0009784066451943708,
+          0.0009722574622212679,
+          0.001022669469107036
+        ],
+        "baseline_seeds_0_1_2": [
+          0.0010574647221167355,
+          0.0011376097688893,
+          0.0010354933892235108
+        ],
+        "paired_deltas": [
+          -7.905807692236465e-05,
+          -0.00016535230666803213,
+          -1.2823920116474897e-05
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 0.000991111192174225,
+        "baseline_mean": 0.0010768559600765155,
+        "mean_paired_delta": -8.574476790229055e-05,
+        "refined_range": [
+          0.0009722574622212679,
+          0.001022669469107036
+        ],
+        "baseline_range": [
+          0.0010354933892235108,
+          0.0011376097688893
+        ],
+        "paired_delta_range": [
+          -0.00016535230666803213,
+          -1.2823920116474897e-05
+        ],
+        "same_nonzero_direction_all_three": true
+      },
+      "access/living_effectors_inside_initial_target_hull/at_24h": {
+        "refined_seeds_0_1_2": [
+          315,
+          326,
+          323
+        ],
+        "baseline_seeds_0_1_2": [
+          342,
+          339,
+          337
+        ],
+        "paired_deltas": [
+          -27,
+          -13,
+          -14
+        ],
+        "complete_metric": true,
+        "statistical_significance_claim": false,
+        "refined_mean": 321.3333333333333,
+        "baseline_mean": 339.3333333333333,
+        "mean_paired_delta": -18.0,
+        "refined_range": [
+          315,
+          326
+        ],
+        "baseline_range": [
+          337,
+          342
+        ],
+        "paired_delta_range": [
+          -27,
+          -13
+        ],
+        "same_nonzero_direction_all_three": true
+      }
+    },
+    "undefined_spatial_metrics": [],
+    "scientific_convergence_accepted": false
+  }
+]

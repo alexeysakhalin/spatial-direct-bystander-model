@@ -1,0 +1,315 @@
+{
+  "utc": "2026-10-06T18:12:08.028177+00:00",
+  "native_execution_and_full_validation_passed": true,
+  "new_accepted_cases": 2,
+  "group_seeds": [
+    0,
+    1,
+    2
+  ],
+  "full_hourly_points": 291,
+  "primary_screen_flags_by_seed": [
+    2,
+    8,
+    20
+  ],
+  "primary_screen_entries_excluding_identical_TNF_duplicates_by_seed": [
+    1,
+    4,
+    10
+  ],
+  "primary_count_screen_flags": 0,
+  "undefined_primary_metrics": 0,
+  "disjoint_N3_ranges_descriptive_counts": {
+    "scalar": 106,
+    "spatial": 27
+  },
+  "target_metrics": {
+    "count/live_targets/at_24h": {
+      "refined_seeds_0_1_2": [
+        478,
+        467,
+        444
+      ],
+      "baseline_seeds_0_1_2": [
+        489,
+        459,
+        463
+      ],
+      "paired_deltas": [
+        -11,
+        8,
+        -19
+      ],
+      "complete_metric": true,
+      "statistical_significance_claim": false,
+      "refined_mean": 463.0,
+      "baseline_mean": 470.3333333333333,
+      "mean_paired_delta": -7.333333333333333,
+      "refined_range": [
+        444,
+        478
+      ],
+      "baseline_range": [
+        459,
+        489
+      ],
+      "paired_delta_range": [
+        -19,
+        8
+      ],
+      "same_nonzero_direction_all_three": false
+    },
+    "count/live_targets/at_48h": {
+      "refined_seeds_0_1_2": [
+        239,
+        239,
+        243
+      ],
+      "baseline_seeds_0_1_2": [
+        283,
+        243,
+        233
+      ],
+      "paired_deltas": [
+        -44,
+        -4,
+        10
+      ],
+      "complete_metric": true,
+      "statistical_significance_claim": false,
+      "refined_mean": 240.33333333333334,
+      "baseline_mean": 253.0,
+      "mean_paired_delta": -12.666666666666666,
+      "refined_range": [
+        239,
+        243
+      ],
+      "baseline_range": [
+        233,
+        283
+      ],
+      "paired_delta_range": [
+        -44,
+        10
+      ],
+      "same_nonzero_direction_all_three": false
+    },
+    "count/live_targets/at_72h": {
+      "refined_seeds_0_1_2": [
+        124,
+        136,
+        140
+      ],
+      "baseline_seeds_0_1_2": [
+        144,
+        134,
+        138
+      ],
+      "paired_deltas": [
+        -20,
+        2,
+        2
+      ],
+      "complete_metric": true,
+      "statistical_significance_claim": false,
+      "refined_mean": 133.33333333333334,
+      "baseline_mean": 138.66666666666666,
+      "mean_paired_delta": -5.333333333333333,
+      "refined_range": [
+        124,
+        140
+      ],
+      "baseline_range": [
+        134,
+        144
+      ],
+      "paired_delta_range": [
+        -20,
+        2
+      ],
+      "same_nonzero_direction_all_three": false
+    },
+    "count/live_targets/at_96h": {
+      "refined_seeds_0_1_2": [
+        65,
+        76,
+        69
+      ],
+      "baseline_seeds_0_1_2": [
+        69,
+        73,
+        83
+      ],
+      "paired_deltas": [
+        -4,
+        3,
+        -14
+      ],
+      "complete_metric": true,
+      "statistical_significance_claim": false,
+      "refined_mean": 70.0,
+      "baseline_mean": 75.0,
+      "mean_paired_delta": -5.0,
+      "refined_range": [
+        65,
+        76
+      ],
+      "baseline_range": [
+        69,
+        83
+      ],
+      "paired_delta_range": [
+        -14,
+        3
+      ],
+      "same_nonzero_direction_all_three": false
+    },
+    "count/live_targets/time_average_0_96h": {
+      "refined_seeds_0_1_2": [
+        355.3697916666667,
+        358.1354166666667,
+        355.5677083333333
+      ],
+      "baseline_seeds_0_1_2": [
+        375.0989583333333,
+        360.796875,
+        361.171875
+      ],
+      "paired_deltas": [
+        -19.72916666666663,
+        -2.6614583333333144,
+        -5.604166666666686
+      ],
+      "complete_metric": true,
+      "statistical_significance_claim": false,
+      "refined_mean": 356.3576388888889,
+      "baseline_mean": 365.6892361111111,
+      "mean_paired_delta": -9.331597222222209,
+      "refined_range": [
+        355.3697916666667,
+        358.1354166666667
+      ],
+      "baseline_range": [
+        360.796875,
+        375.0989583333333
+      ],
+      "paired_delta_range": [
+        -19.72916666666663,
+        -2.6614583333333144
+      ],
+      "same_nonzero_direction_all_three": true
+    }
+  },
+  "replicated_primary_field_flag": {
+    "refined_seeds_0_1_2": [
+      0.4623372301399748,
+      0.3383506215318791,
+      0.3818992000352007
+    ],
+    "baseline_seeds_0_1_2": [
+      0.6329138845454547,
+      0.6616128691123989,
+      0.6903503327189139
+    ],
+    "paired_deltas": [
+      -0.17057665440547992,
+      -0.3232622475805198,
+      -0.30845113268371316
+    ],
+    "complete_metric": true,
+    "statistical_significance_claim": false,
+    "refined_mean": 0.39419568390235155,
+    "baseline_mean": 0.6616256954589225,
+    "mean_paired_delta": -0.2674300115565709,
+    "refined_range": [
+      0.3383506215318791,
+      0.4623372301399748
+    ],
+    "baseline_range": [
+      0.6329138845454547,
+      0.6903503327189139
+    ],
+    "paired_delta_range": [
+      -0.3232622475805198,
+      -0.17057665440547992
+    ],
+    "same_nonzero_direction_all_three": true
+  },
+  "three_dimensional_minus_two_dimensional": {
+    "count/live_targets/at_24h": {
+      "refined_seeds_0_1_2": [
+        -64,
+        -125,
+        -128
+      ],
+      "baseline_seeds_0_1_2": [
+        -67,
+        -136,
+        -86
+      ]
+    },
+    "count/live_targets/at_48h": {
+      "refined_seeds_0_1_2": [
+        -53,
+        -46,
+        -44
+      ],
+      "baseline_seeds_0_1_2": [
+        -18,
+        -36,
+        -35
+      ]
+    },
+    "count/live_targets/at_72h": {
+      "refined_seeds_0_1_2": [
+        -24,
+        -15,
+        0
+      ],
+      "baseline_seeds_0_1_2": [
+        -25,
+        -9,
+        -8
+      ]
+    },
+    "count/live_targets/at_96h": {
+      "refined_seeds_0_1_2": [
+        -7,
+        -3,
+        -3
+      ],
+      "baseline_seeds_0_1_2": [
+        -15,
+        11,
+        3
+      ]
+    },
+    "count/live_targets/time_average_0_96h": {
+      "refined_seeds_0_1_2": [
+        -42.46354166666663,
+        -46.473958333333314,
+        -42.401041666666686
+      ],
+      "baseline_seeds_0_1_2": [
+        -37.088541666666686,
+        -41.432291666666686,
+        -33.223958333333314
+      ]
+    }
+  },
+  "interpretation": [
+    "The seeded repeat rule is complete for this grid variant. The original48hmaximum IFNG/TNF exposure flag persists in all three seeds; these two fields are identical and do not provide independent evidence.",
+    "The prespecified scalar count screen has no flags in these three cases. This is a limited screen, not a proof of convergence. Refined mean target burden is lower by9.3316targets averaged over96h; all three paired integral differences are negative, although below the primary count tolerance.",
+    "The96htarget ranges overlap and paired endpoint signs differ. All residual targets in the refined runs occupy the Ag0/CytoOn/primed model state; this is assigned state classification, not measured death attribution.",
+    "Spatial access changes persist across seeds: at48h the fraction of effectors inside the initial target hull is0.400-0.514 versus0.833-0.889, while effector contact counts increase. A static initial hull is not the same observable as current cell contact. Neither spatial access nor field exposure is accepted as grid-converged.",
+    "For TE5, time-averaged target counts remain lower in3Dthan2D in each of the three seeds at both tested grids. Fine-grid contrasts are approximately-42.40to-46.47targets versus-33.22to-41.43atbaseline. This is a conditional comparison of configured representations, not an isolated dimensionality effect or proof of biological ranking.",
+    "The96h3D-minus2Dcontrast is small and its sign varies across baseline seeds. Do not replace the full-trajectory result with a universal endpoint ordering.",
+    "These results cover this grid variant. Cross-variant numerical comparisons are reported separately; this variant alone does not establish convergence."
+  ],
+  "primary_flags_are_screening_entries_not_independent_observations": true,
+  "paired_comparison_source": "Use the group paired deltas; per-case primary screening references the fixed baseline envelope and its seed0 anchor.",
+  "scientific_convergence_accepted": false,
+  "kinetic_gate_released": false,
+  "whole_project_complete": false
+}

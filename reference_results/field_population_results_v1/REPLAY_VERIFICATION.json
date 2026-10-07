@@ -1,0 +1,32 @@
+{
+  "N3_difference_summaries": 1350,
+  "N3_metric_summaries": 900,
+  "all_field_states": 1782,
+  "case_metric_values": 2700,
+  "central_cases": 18,
+  "consumed_raw_bytes_hash_verified": 6348325833,
+  "consumed_raw_files_hash_verified": 5346,
+  "fields_per_state": 6,
+  "hourly_population_states": 1746,
+  "metrics_per_case": 150,
+  "new_simulations": 0,
+  "paired_metric_differences": 4050,
+  "passed": true,
+  "portable_input_files_hash_verified": 54,
+  "qualified_hourly_rows_reproduced": 1746,
+  "scientific_boundary_tests": [
+    "strict_count_boundary",
+    "count_above_boundary",
+    "baseline_range_controls_tolerance",
+    "negative_count_departure",
+    "exposure_boundary",
+    "exposure_above_boundary",
+    "near_zero_not_passed",
+    "undefined_target_dose_not_zero",
+    "missing_replicate_rejected",
+    "nonfinite_rejected",
+    "constant_burden_integral",
+    "missing_AUC_undefined"
+  ],
+  "scope": "Population and field summaries of central saved outputs. Three-seed ranges describe these realizations; they are not confidence intervals. This replay does not establish numerical convergence or biological calibration."
+}

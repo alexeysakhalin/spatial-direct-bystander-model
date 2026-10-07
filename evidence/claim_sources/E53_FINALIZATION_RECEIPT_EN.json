@@ -1,0 +1,12 @@
+{
+  "utc": "2026-10-07T00:12:48.797410+00:00",
+  "passed": true,
+  "independent_replay_and_copy_reviews_complete": true,
+  "all_103_cases_raw_archived": true,
+  "all_103_cases_scalar_and_spatial_replay_qualified": true,
+  "kinetic_review": "source-e74319979d3cb2f324af",
+  "parameter_addendum": "source-a32d11f03374cf1cad9e",
+  "figure_visual_review": "source-0c04f6fa332afadf3b72",
+  "owner_evidence_copied_and_hashed": true,
+  "whole_package_replay_qualified": false
+}

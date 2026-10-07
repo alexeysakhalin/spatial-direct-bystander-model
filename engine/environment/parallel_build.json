@@ -1,0 +1,10 @@
+{
+  "utc": "2026-10-06T12:50:13.018750+00:00",
+  "compiler": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0\nCopyright (C) 2023 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "baseline_sha256": "0402e76fc6538c2616e1f50913888b309cbed9fa6eb2aa0d73a9f086c792159d",
+  "candidate_sha256": "a5be17370e736a340de917acc2fe63c5df4965f520ddc379772a4bf1a3d288ae",
+  "original_sha256": "0402e76fc6538c2616e1f50913888b309cbed9fa6eb2aa0d73a9f086c792159d",
+  "only_source_edit": "main.cpp diffusion OpenMP team size and diagnostic wall timing",
+  "scientific_rules_unchanged": true,
+  "baseline_binary_exact": true
+}

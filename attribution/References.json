@@ -1,0 +1,2276 @@
+{
+  "title": "References for the simulation release",
+  "record_count": 38,
+  "scope": "References cited in the simulation documentation and parameter evidence registry. This is not the bibliography of an associated manuscript.",
+  "records": [
+    {
+      "id": "BEHAV3D2022",
+      "doi": "10.1038/s41587-022-01397-w",
+      "url": "https://doi.org/10.1038/s41587-022-01397-w",
+      "title": "Uncovering the mode of action of engineered T cells in patient cancer organoids",
+      "authors": [
+        {
+          "given": "Johanna F.",
+          "family": "Dekkers"
+        },
+        {
+          "given": "Maria",
+          "family": "Alieva"
+        },
+        {
+          "given": "Astrid",
+          "family": "Cleven"
+        },
+        {
+          "given": "Farid",
+          "family": "Keramati"
+        },
+        {
+          "given": "Amber K. L.",
+          "family": "Wezenaar"
+        },
+        {
+          "given": "Esmée J.",
+          "family": "van Vliet"
+        },
+        {
+          "given": "Jens",
+          "family": "Puschhof"
+        },
+        {
+          "given": "Peter",
+          "family": "Brazda"
+        },
+        {
+          "given": "Inez",
+          "family": "Johanna"
+        },
+        {
+          "given": "Angelo D.",
+          "family": "Meringa"
+        },
+        {
+          "given": "Heggert G.",
+          "family": "Rebel"
+        },
+        {
+          "given": "Maj-Britt",
+          "family": "Buchholz"
+        },
+        {
+          "given": "Mario",
+          "family": "Barrera Román"
+        },
+        {
+          "given": "Amber L.",
+          "family": "Zeeman"
+        },
+        {
+          "given": "Sam",
+          "family": "de Blank"
+        },
+        {
+          "given": "Domenico",
+          "family": "Fasci"
+        },
+        {
+          "given": "Maarten H.",
+          "family": "Geurts"
+        },
+        {
+          "given": "Annelisa M.",
+          "family": "Cornel"
+        },
+        {
+          "given": "Else",
+          "family": "Driehuis"
+        },
+        {
+          "given": "Rosemary",
+          "family": "Millen"
+        },
+        {
+          "given": "Trudy",
+          "family": "Straetemans"
+        },
+        {
+          "given": "Mara J. T.",
+          "family": "Nicolasen"
+        },
+        {
+          "given": "Tineke",
+          "family": "Aarts-Riemens"
+        },
+        {
+          "given": "Hendrikus C. R.",
+          "family": "Ariese"
+        },
+        {
+          "given": "Hannah R.",
+          "family": "Johnson"
+        },
+        {
+          "given": "Ravian L.",
+          "family": "van Ineveld"
+        },
+        {
+          "given": "Froso",
+          "family": "Karaiskaki"
+        },
+        {
+          "given": "Oded",
+          "family": "Kopper"
+        },
+        {
+          "given": "Yotam E.",
+          "family": "Bar-Ephraim"
+        },
+        {
+          "given": "Kai",
+          "family": "Kretzschmar"
+        },
+        {
+          "given": "Alexander M. M.",
+          "family": "Eggermont"
+        },
+        {
+          "given": "Stefan",
+          "family": "Nierkens"
+        },
+        {
+          "given": "Ellen J.",
+          "family": "Wehrens"
+        },
+        {
+          "given": "Henk G.",
+          "family": "Stunnenberg"
+        },
+        {
+          "given": "Hans",
+          "family": "Clevers"
+        },
+        {
+          "given": "Jürgen",
+          "family": "Kuball"
+        },
+        {
+          "given": "Zsolt",
+          "family": "Sebestyen"
+        },
+        {
+          "given": "Anne C.",
+          "family": "Rios"
+        }
+      ],
+      "journal": "Nature Biotechnology",
+      "year": 2023,
+      "volume": "41",
+      "issue": "1",
+      "pages": "60–69",
+      "article_number": "",
+      "online_publication_date": "2022-07-25",
+      "issue_publication_date": "2023-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "BIOFVM2016",
+      "doi": "10.1093/bioinformatics/btv730",
+      "url": "https://doi.org/10.1093/bioinformatics/btv730",
+      "title": "BioFVM: an efficient, parallelized diffusive transport solver for 3-D biological simulations",
+      "authors": [
+        {
+          "given": "Ahmadreza",
+          "family": "Ghaffarizadeh"
+        },
+        {
+          "given": "Samuel H.",
+          "family": "Friedman"
+        },
+        {
+          "given": "Paul",
+          "family": "Macklin"
+        }
+      ],
+      "journal": "Bioinformatics",
+      "year": 2016,
+      "volume": "32",
+      "issue": "8",
+      "pages": "1256–1258",
+      "article_number": "",
+      "online_publication_date": "2015-12-12",
+      "issue_publication_date": "2016-04-15",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "BORDEL_VOZMEDIANO2025",
+      "doi": "10.1016/j.compbiomed.2025.110427",
+      "url": "https://doi.org/10.1016/j.compbiomed.2025.110427",
+      "title": "Geometric immunosuppression in CAR T-cell treatment: Insights from mathematical modeling",
+      "authors": [
+        {
+          "given": "Silvia",
+          "family": "Bordel-Vozmediano"
+        },
+        {
+          "given": "Soukaina",
+          "family": "Sabir"
+        },
+        {
+          "given": "Lucía",
+          "family": "Benito-Barca"
+        },
+        {
+          "given": "Bettina",
+          "family": "Weigelin"
+        },
+        {
+          "given": "Víctor M.",
+          "family": "Pérez-García"
+        }
+      ],
+      "journal": "Computers in Biology and Medicine",
+      "year": 2025,
+      "volume": "194",
+      "issue": "",
+      "pages": "",
+      "article_number": "110427",
+      "online_publication_date": null,
+      "issue_publication_date": "2025-08",
+      "role": "Figure 7 prior-work context; not quantitative calibration",
+      "full_text_included": false
+    },
+    {
+      "id": "BUSSE2010",
+      "doi": "10.1073/pnas.0812851107",
+      "url": "https://doi.org/10.1073/pnas.0812851107",
+      "title": "Competing feedback loops shape IL-2 signaling between helper and regulatory T lymphocytes in cellular microenvironments",
+      "authors": [
+        {
+          "given": "Dorothea",
+          "family": "Busse"
+        },
+        {
+          "given": "Maurus",
+          "family": "de la Rosa"
+        },
+        {
+          "given": "Kirstin",
+          "family": "Hobiger"
+        },
+        {
+          "given": "Kevin",
+          "family": "Thurley"
+        },
+        {
+          "given": "Michael",
+          "family": "Flossdorf"
+        },
+        {
+          "given": "Alexander",
+          "family": "Scheffold"
+        },
+        {
+          "given": "Thomas",
+          "family": "Höfer"
+        }
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2010,
+      "volume": "107",
+      "issue": "7",
+      "pages": "3058–3063",
+      "article_number": "",
+      "online_publication_date": "2010-01-28",
+      "issue_publication_date": "2010-02-16",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "CAZAUX2019",
+      "doi": "10.1084/jem.20182375",
+      "url": "https://doi.org/10.1084/jem.20182375",
+      "title": "Single-cell imaging of CAR T cell activity in vivo reveals extensive functional and anatomical heterogeneity",
+      "authors": [
+        {
+          "given": "Marine",
+          "family": "Cazaux"
+        },
+        {
+          "given": "Capucine L.",
+          "family": "Grandjean"
+        },
+        {
+          "given": "Fabrice",
+          "family": "Lemaître"
+        },
+        {
+          "given": "Zacarias",
+          "family": "Garcia"
+        },
+        {
+          "given": "Richard J.",
+          "family": "Beck"
+        },
+        {
+          "given": "Idan",
+          "family": "Milo"
+        },
+        {
+          "given": "Jérémy",
+          "family": "Postat"
+        },
+        {
+          "given": "Joost B.",
+          "family": "Beltman"
+        },
+        {
+          "given": "Eleanor J.",
+          "family": "Cheadle"
+        },
+        {
+          "given": "Philippe",
+          "family": "Bousso"
+        }
+      ],
+      "journal": "Journal of Experimental Medicine",
+      "year": 2019,
+      "volume": "216",
+      "issue": "5",
+      "pages": "1038–1049",
+      "article_number": "",
+      "online_publication_date": "2019-04-01",
+      "issue_publication_date": "2019-05-06",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "CENTOFANTI2023",
+      "doi": "10.1073/pnas.2304190120",
+      "url": "https://doi.org/10.1073/pnas.2304190120",
+      "title": "The spread of interferon-γ in melanomas is highly spatially confined, driving nongenetic variability in tumor cells",
+      "authors": [
+        {
+          "given": "Edoardo",
+          "family": "Centofanti"
+        },
+        {
+          "given": "Chad",
+          "family": "Wang"
+        },
+        {
+          "given": "Sandhya",
+          "family": "Iyer"
+        },
+        {
+          "given": "Oleg",
+          "family": "Krichevsky"
+        },
+        {
+          "given": "Alon",
+          "family": "Oyler-Yaniv"
+        },
+        {
+          "given": "Jennifer",
+          "family": "Oyler-Yaniv"
+        }
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2023,
+      "volume": "120",
+      "issue": "35",
+      "pages": "",
+      "article_number": "e2304190120",
+      "online_publication_date": "2023-08-21",
+      "issue_publication_date": "2023-08-29",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "DAVENPORT2015",
+      "doi": "10.1158/2326-6066.CIR-15-0048",
+      "url": "https://doi.org/10.1158/2326-6066.CIR-15-0048",
+      "title": "CAR-T Cells Inflict Sequential Killing of Multiple Tumor Target Cells",
+      "authors": [
+        {
+          "given": "Alexander J.",
+          "family": "Davenport"
+        },
+        {
+          "given": "Misty R.",
+          "family": "Jenkins"
+        },
+        {
+          "given": "Ryan S.",
+          "family": "Cross"
+        },
+        {
+          "given": "Carmen S.",
+          "family": "Yong"
+        },
+        {
+          "given": "H. Miles",
+          "family": "Prince"
+        },
+        {
+          "given": "David S.",
+          "family": "Ritchie"
+        },
+        {
+          "given": "Joseph A.",
+          "family": "Trapani"
+        },
+        {
+          "given": "Michael H.",
+          "family": "Kershaw"
+        },
+        {
+          "given": "Phillip K.",
+          "family": "Darcy"
+        },
+        {
+          "given": "Paul J.",
+          "family": "Neeson"
+        }
+      ],
+      "journal": "Cancer Immunology Research",
+      "year": 2015,
+      "volume": "3",
+      "issue": "5",
+      "pages": "483–494",
+      "article_number": "",
+      "online_publication_date": "2015-02-24",
+      "issue_publication_date": "2015-05-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false,
+      "related_correction": "10.1158/2326-6066.CIR-18-0027"
+    },
+    {
+      "id": "DAVENPORT2015_CORRECTION2018",
+      "doi": "10.1158/2326-6066.CIR-18-0027",
+      "url": "https://doi.org/10.1158/2326-6066.CIR-18-0027",
+      "title": "Correction: CAR-T Cells Inflict Sequential Killing of Multiple Tumor Target Cells",
+      "authors": [],
+      "journal": "Cancer Immunology Research",
+      "year": 2018,
+      "volume": "6",
+      "issue": "3",
+      "pages": "370–370",
+      "article_number": "",
+      "online_publication_date": "2018-02-28",
+      "issue_publication_date": "2018-03-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false,
+      "corrects": "10.1158/2326-6066.CIR-15-0048"
+    },
+    {
+      "id": "DAVENPORT2018",
+      "doi": "10.1073/pnas.1716266115",
+      "url": "https://doi.org/10.1073/pnas.1716266115",
+      "title": "Chimeric antigen receptor T cells form nonclassical and potent immune synapses driving rapid cytotoxicity",
+      "authors": [
+        {
+          "given": "A. J.",
+          "family": "Davenport"
+        },
+        {
+          "given": "R. S.",
+          "family": "Cross"
+        },
+        {
+          "given": "K. A.",
+          "family": "Watson"
+        },
+        {
+          "given": "Y.",
+          "family": "Liao"
+        },
+        {
+          "given": "W.",
+          "family": "Shi"
+        },
+        {
+          "given": "H. M.",
+          "family": "Prince"
+        },
+        {
+          "given": "P. A.",
+          "family": "Beavis"
+        },
+        {
+          "given": "J. A.",
+          "family": "Trapani"
+        },
+        {
+          "given": "M. H.",
+          "family": "Kershaw"
+        },
+        {
+          "given": "D. S.",
+          "family": "Ritchie"
+        },
+        {
+          "given": "P. K.",
+          "family": "Darcy"
+        },
+        {
+          "given": "P. J.",
+          "family": "Neeson"
+        },
+        {
+          "given": "M. R.",
+          "family": "Jenkins"
+        }
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2018,
+      "volume": "115",
+      "issue": "9",
+      "pages": "",
+      "article_number": "E2068–E2076",
+      "online_publication_date": "2018-02-12",
+      "issue_publication_date": "2018-02-27",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "FALLAHI2012",
+      "doi": "10.3389/fphys.2012.00170",
+      "url": "https://doi.org/10.3389/fphys.2012.00170",
+      "title": "NF-κB Signaling Dynamics Play a Key Role in Infection Control in Tuberculosis",
+      "authors": [
+        {
+          "given": "Mohammad",
+          "family": "Fallahi-Sichani"
+        },
+        {
+          "given": "Denise E.",
+          "family": "Kirschner"
+        },
+        {
+          "given": "Jennifer J.",
+          "family": "Linderman"
+        }
+      ],
+      "journal": "Frontiers in Physiology",
+      "year": 2012,
+      "volume": "3",
+      "issue": "",
+      "pages": "",
+      "article_number": "170",
+      "online_publication_date": "2012-06-06",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "FEINERMAN2010",
+      "doi": "10.1038/msb.2010.90",
+      "url": "https://doi.org/10.1038/msb.2010.90",
+      "title": "Single‐cell quantification of IL‐2 response by effector and regulatory T cells reveals critical plasticity in immune response",
+      "authors": [
+        {
+          "given": "Ofer",
+          "family": "Feinerman"
+        },
+        {
+          "given": "Garrit",
+          "family": "Jentsch"
+        },
+        {
+          "given": "Karen E",
+          "family": "Tkach"
+        },
+        {
+          "given": "Jesse W",
+          "family": "Coward"
+        },
+        {
+          "given": "Matthew M",
+          "family": "Hathorn"
+        },
+        {
+          "given": "Michael W",
+          "family": "Sneddon"
+        },
+        {
+          "given": "Thierry",
+          "family": "Emonet"
+        },
+        {
+          "given": "Kendall A",
+          "family": "Smith"
+        },
+        {
+          "given": "Grégoire",
+          "family": "Altan‐Bonnet"
+        }
+      ],
+      "journal": "Molecular Systems Biology",
+      "year": 2010,
+      "volume": "6",
+      "issue": "1",
+      "pages": "",
+      "article_number": "437",
+      "online_publication_date": "2010-11-30",
+      "issue_publication_date": "2010-11-30",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "GHIRARDELLI2026",
+      "doi": "10.1038/s41590-026-02642-z",
+      "url": "https://doi.org/10.1038/s41590-026-02642-z",
+      "title": "Intratumoral T cell activation kills tumors regardless of T cell specificity",
+      "authors": [
+        {
+          "given": "Olivia C.",
+          "family": "Ghirardelli Smith"
+        },
+        {
+          "given": "Tyler T.",
+          "family": "Dao"
+        },
+        {
+          "given": "Noah V.",
+          "family": "Gavil"
+        },
+        {
+          "given": "Stephen D.",
+          "family": "O’Flanagan"
+        },
+        {
+          "given": "Adam J.",
+          "family": "Rubin"
+        },
+        {
+          "given": "Son",
+          "family": "Nguyen"
+        },
+        {
+          "given": "Matthew B.",
+          "family": "Watowich"
+        },
+        {
+          "given": "Nuo",
+          "family": "Liu"
+        },
+        {
+          "given": "Eyob",
+          "family": "Weyu"
+        },
+        {
+          "given": "Clare F.",
+          "family": "Quarnstrom"
+        },
+        {
+          "given": "Andrew G.",
+          "family": "Soerens"
+        },
+        {
+          "given": "Vineet",
+          "family": "Joag"
+        },
+        {
+          "given": "Pamela C.",
+          "family": "Rosato"
+        },
+        {
+          "given": "Matthew F.",
+          "family": "Krummel"
+        },
+        {
+          "given": "Melissa A.",
+          "family": "Geller"
+        },
+        {
+          "given": "Jeffrey S.",
+          "family": "Miller"
+        },
+        {
+          "given": "Alessio",
+          "family": "Giubellino"
+        },
+        {
+          "given": "Vaiva",
+          "family": "Vezys"
+        },
+        {
+          "given": "Alex K.",
+          "family": "Shalek"
+        },
+        {
+          "given": "David",
+          "family": "Masopust"
+        }
+      ],
+      "journal": "Nature Immunology",
+      "year": 2026,
+      "volume": "27",
+      "issue": "10",
+      "pages": "2134–2142",
+      "article_number": "",
+      "online_publication_date": "2026-09-08",
+      "issue_publication_date": "2026-10",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "GORDON2017",
+      "doi": "10.1038/s41467-017-00925-6",
+      "url": "https://doi.org/10.1038/s41467-017-00925-6",
+      "title": "Galectin-3 captures interferon-gamma in the tumor matrix reducing chemokine gradient production and T-cell tumor infiltration",
+      "authors": [
+        {
+          "given": "Monica",
+          "family": "Gordon-Alonso"
+        },
+        {
+          "given": "Thibault",
+          "family": "Hirsch"
+        },
+        {
+          "given": "Claude",
+          "family": "Wildmann"
+        },
+        {
+          "given": "Pierre",
+          "family": "van der Bruggen"
+        }
+      ],
+      "journal": "Nature Communications",
+      "year": 2017,
+      "volume": "8",
+      "issue": "1",
+      "pages": "",
+      "article_number": "793",
+      "online_publication_date": "2017-10-06",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "GRIMES2014",
+      "doi": "10.1098/rsif.2013.1124",
+      "url": "https://doi.org/10.1098/rsif.2013.1124",
+      "title": "A method for estimating the oxygen consumption rate in multicellular tumour spheroids",
+      "authors": [
+        {
+          "given": "David Robert",
+          "family": "Grimes"
+        },
+        {
+          "given": "Catherine",
+          "family": "Kelly"
+        },
+        {
+          "given": "Katarzyna",
+          "family": "Bloch"
+        },
+        {
+          "given": "Mike",
+          "family": "Partridge"
+        }
+      ],
+      "journal": "Journal of The Royal Society Interface",
+      "year": 2014,
+      "volume": "11",
+      "issue": "92",
+      "pages": "",
+      "article_number": "20131124",
+      "online_publication_date": null,
+      "issue_publication_date": "2014-03-06",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "HAN2012",
+      "doi": "10.1073/pnas.1117194109",
+      "url": "https://doi.org/10.1073/pnas.1117194109",
+      "title": "Polyfunctional responses by human T cells result from sequential release of cytokines",
+      "authors": [
+        {
+          "given": "Qing",
+          "family": "Han"
+        },
+        {
+          "given": "Neda",
+          "family": "Bagheri"
+        },
+        {
+          "given": "Elizabeth M.",
+          "family": "Bradshaw"
+        },
+        {
+          "given": "David A.",
+          "family": "Hafler"
+        },
+        {
+          "given": "Douglas A.",
+          "family": "Lauffenburger"
+        },
+        {
+          "given": "J. Christopher",
+          "family": "Love"
+        }
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2012,
+      "volume": "109",
+      "issue": "5",
+      "pages": "1607–1612",
+      "article_number": "",
+      "online_publication_date": "2011-12-12",
+      "issue_publication_date": "2012-01-31",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "HARRIS2021",
+      "doi": "10.15252/msb.202010091",
+      "url": "https://doi.org/10.15252/msb.202010091",
+      "title": "Quantifying persistence in the T‐cell signaling network using an optically controllable antigen receptor",
+      "authors": [
+        {
+          "given": "Michael J",
+          "family": "Harris"
+        },
+        {
+          "given": "Muna",
+          "family": "Fuyal"
+        },
+        {
+          "given": "John R",
+          "family": "James"
+        }
+      ],
+      "journal": "Molecular Systems Biology",
+      "year": 2021,
+      "volume": "17",
+      "issue": "5",
+      "pages": "",
+      "article_number": "e10091",
+      "online_publication_date": "2021-05-14",
+      "issue_publication_date": "2021-05-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "HEGDE2013",
+      "doi": "10.1038/mt.2013.185",
+      "url": "https://doi.org/10.1038/mt.2013.185",
+      "title": "Combinational Targeting Offsets Antigen Escape and Enhances Effector Functions of Adoptively Transferred T Cells in Glioblastoma",
+      "authors": [
+        {
+          "given": "Meenakshi",
+          "family": "Hegde"
+        },
+        {
+          "given": "Amanda",
+          "family": "Corder"
+        },
+        {
+          "given": "Kevin KH",
+          "family": "Chow"
+        },
+        {
+          "given": "Malini",
+          "family": "Mukherjee"
+        },
+        {
+          "given": "Aidin",
+          "family": "Ashoori"
+        },
+        {
+          "given": "Yvonne",
+          "family": "Kew"
+        },
+        {
+          "given": "Yi Jonathan",
+          "family": "Zhang"
+        },
+        {
+          "given": "David S",
+          "family": "Baskin"
+        },
+        {
+          "given": "Fatima A",
+          "family": "Merchant"
+        },
+        {
+          "given": "Vita S",
+          "family": "Brawley"
+        },
+        {
+          "given": "Tiara T",
+          "family": "Byrd"
+        },
+        {
+          "given": "Simone",
+          "family": "Krebs"
+        },
+        {
+          "given": "Meng Fen",
+          "family": "Wu"
+        },
+        {
+          "given": "Hao",
+          "family": "Liu"
+        },
+        {
+          "given": "Helen E",
+          "family": "Heslop"
+        },
+        {
+          "given": "Stephen",
+          "family": "Gottachalk"
+        },
+        {
+          "given": "Eric",
+          "family": "Yvon"
+        },
+        {
+          "given": "Nabil",
+          "family": "Ahmed"
+        }
+      ],
+      "journal": "Molecular Therapy",
+      "year": 2013,
+      "volume": "21",
+      "issue": "11",
+      "pages": "2087–2101",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2013-11",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "HICKEY2024",
+      "doi": "10.1016/j.cels.2024.03.004",
+      "url": "https://doi.org/10.1016/j.cels.2024.03.004",
+      "title": "Integrating multiplexed imaging and multiscale modeling identifies tumor phenotype conversion as a critical component of therapeutic T cell efficacy",
+      "authors": [
+        {
+          "given": "John W.",
+          "family": "Hickey"
+        },
+        {
+          "given": "Eran",
+          "family": "Agmon"
+        },
+        {
+          "given": "Nina",
+          "family": "Horowitz"
+        },
+        {
+          "given": "Tze-Kai",
+          "family": "Tan"
+        },
+        {
+          "given": "Matthew",
+          "family": "Lamore"
+        },
+        {
+          "given": "John B.",
+          "family": "Sunwoo"
+        },
+        {
+          "given": "Markus W.",
+          "family": "Covert"
+        },
+        {
+          "given": "Garry P.",
+          "family": "Nolan"
+        }
+      ],
+      "journal": "Cell Systems",
+      "year": 2024,
+      "volume": "15",
+      "issue": "4",
+      "pages": "322–338.e5",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2024-04",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "JOHNSON2025",
+      "doi": "10.1016/j.cell.2025.06.048",
+      "url": "https://doi.org/10.1016/j.cell.2025.06.048",
+      "title": "Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories",
+      "authors": [
+        {
+          "given": "Jeanette A.I.",
+          "family": "Johnson"
+        },
+        {
+          "given": "Daniel R.",
+          "family": "Bergman"
+        },
+        {
+          "given": "Heber L.",
+          "family": "Rocha"
+        },
+        {
+          "given": "David L.",
+          "family": "Zhou"
+        },
+        {
+          "given": "Eric",
+          "family": "Cramer"
+        },
+        {
+          "given": "Ian C.",
+          "family": "Mclean"
+        },
+        {
+          "given": "Yoseph W.",
+          "family": "Dance"
+        },
+        {
+          "given": "Max",
+          "family": "Booth"
+        },
+        {
+          "given": "Zachary",
+          "family": "Nicholas"
+        },
+        {
+          "given": "Tamara",
+          "family": "Lopez-Vidal"
+        },
+        {
+          "given": "Atul",
+          "family": "Deshpande"
+        },
+        {
+          "given": "Randy",
+          "family": "Heiland"
+        },
+        {
+          "given": "Elmar",
+          "family": "Bucher"
+        },
+        {
+          "given": "Fatemeh",
+          "family": "Shojaeian"
+        },
+        {
+          "given": "Matthew",
+          "family": "Dunworth"
+        },
+        {
+          "given": "André",
+          "family": "Forjaz"
+        },
+        {
+          "given": "Michael",
+          "family": "Getz"
+        },
+        {
+          "given": "Inês",
+          "family": "Godet"
+        },
+        {
+          "given": "Furkan",
+          "family": "Kurtoglu"
+        },
+        {
+          "given": "Melissa",
+          "family": "Lyman"
+        },
+        {
+          "given": "John",
+          "family": "Metzcar"
+        },
+        {
+          "given": "Jacob T.",
+          "family": "Mitchell"
+        },
+        {
+          "given": "Andrew",
+          "family": "Raddatz"
+        },
+        {
+          "given": "Jacobo",
+          "family": "Solorzano"
+        },
+        {
+          "given": "Aneequa",
+          "family": "Sundus"
+        },
+        {
+          "given": "Yafei",
+          "family": "Wang"
+        },
+        {
+          "given": "David G.",
+          "family": "DeNardo"
+        },
+        {
+          "given": "Andrew J.",
+          "family": "Ewald"
+        },
+        {
+          "given": "Daniele M.",
+          "family": "Gilkes"
+        },
+        {
+          "given": "Luciane T.",
+          "family": "Kagohara"
+        },
+        {
+          "given": "Ashley L.",
+          "family": "Kiemen"
+        },
+        {
+          "given": "Elizabeth D.",
+          "family": "Thompson"
+        },
+        {
+          "given": "Denis",
+          "family": "Wirtz"
+        },
+        {
+          "given": "Laura D.",
+          "family": "Wood"
+        },
+        {
+          "given": "Pei-Hsun",
+          "family": "Wu"
+        },
+        {
+          "given": "Neeha",
+          "family": "Zaidi"
+        },
+        {
+          "given": "Lei",
+          "family": "Zheng"
+        },
+        {
+          "given": "Jacquelyn W.",
+          "family": "Zimmerman"
+        },
+        {
+          "given": "Jude M.",
+          "family": "Phillip"
+        },
+        {
+          "given": "Elizabeth M.",
+          "family": "Jaffee"
+        },
+        {
+          "given": "Joe W.",
+          "family": "Gray"
+        },
+        {
+          "given": "Lisa M.",
+          "family": "Coussens"
+        },
+        {
+          "given": "Young Hwan",
+          "family": "Chang"
+        },
+        {
+          "given": "Laura M.",
+          "family": "Heiser"
+        },
+        {
+          "given": "Genevieve L.",
+          "family": "Stein-O’Brien"
+        },
+        {
+          "given": "Elana J.",
+          "family": "Fertig"
+        },
+        {
+          "given": "Paul",
+          "family": "Macklin"
+        }
+      ],
+      "journal": "Cell",
+      "year": 2025,
+      "volume": "188",
+      "issue": "17",
+      "pages": "4711–4733.e37",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2025-08",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "LIADI2015",
+      "doi": "10.1158/2326-6066.CIR-14-0195",
+      "url": "https://doi.org/10.1158/2326-6066.CIR-14-0195",
+      "title": "Individual Motile CD4+ T Cells Can Participate in Efficient Multikilling through Conjugation to Multiple Tumor Cells",
+      "authors": [
+        {
+          "given": "Ivan",
+          "family": "Liadi"
+        },
+        {
+          "given": "Harjeet",
+          "family": "Singh"
+        },
+        {
+          "given": "Gabrielle",
+          "family": "Romain"
+        },
+        {
+          "given": "Nicolas",
+          "family": "Rey-Villamizar"
+        },
+        {
+          "given": "Amine",
+          "family": "Merouane"
+        },
+        {
+          "given": "Jay R T.",
+          "family": "Adolacion"
+        },
+        {
+          "given": "Partow",
+          "family": "Kebriaei"
+        },
+        {
+          "given": "Helen",
+          "family": "Huls"
+        },
+        {
+          "given": "Peng",
+          "family": "Qiu"
+        },
+        {
+          "given": "Badrinath",
+          "family": "Roysam"
+        },
+        {
+          "given": "Laurence J.N.",
+          "family": "Cooper"
+        },
+        {
+          "given": "Navin",
+          "family": "Varadarajan"
+        }
+      ],
+      "journal": "Cancer Immunology Research",
+      "year": 2015,
+      "volume": "3",
+      "issue": "5",
+      "pages": "473–482",
+      "article_number": "",
+      "online_publication_date": "2015-02-24",
+      "issue_publication_date": "2015-05-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "LIAO2025",
+      "doi": "10.1002/eji.202451589",
+      "url": "https://doi.org/10.1002/eji.202451589",
+      "title": "CD3xHER2 bsAb‐Mediated Activation of Resting T‐cells at HER2 Positive Tumor Clusters Is Sufficient to Trigger Bystander Eradication of Distant HER2 Negative Clusters Through IFNγ and TNFα",
+      "authors": [
+        {
+          "given": "Chen‐Yi",
+          "family": "Liao"
+        },
+        {
+          "given": "Patrick",
+          "family": "Engelberts"
+        },
+        {
+          "given": "Michiel",
+          "family": "van Dijk"
+        },
+        {
+          "given": "Annemieke",
+          "family": "Timmermans"
+        },
+        {
+          "given": "John W. M.",
+          "family": "Martens"
+        },
+        {
+          "given": "Elsa",
+          "family": "Neubert"
+        },
+        {
+          "given": "Erik H.J.",
+          "family": "Danen"
+        }
+      ],
+      "journal": "European Journal of Immunology",
+      "year": 2025,
+      "volume": "55",
+      "issue": "4",
+      "pages": "",
+      "article_number": "e202451589",
+      "online_publication_date": "2025-04-03",
+      "issue_publication_date": "2025-04",
+      "role": "Figure 7 prior-work context; not quantitative calibration",
+      "full_text_included": false
+    },
+    {
+      "id": "MELANOMA2016",
+      "doi": "10.1007/s00262-016-1881-y",
+      "url": "https://doi.org/10.1007/s00262-016-1881-y",
+      "title": "Intratumoral interferon-gamma increases chemokine production but fails to increase T cell infiltration of human melanoma metastases",
+      "authors": [
+        {
+          "given": "Ileana S.",
+          "family": "Mauldin"
+        },
+        {
+          "given": "Nolan A.",
+          "family": "Wages"
+        },
+        {
+          "given": "Anne M.",
+          "family": "Stowman"
+        },
+        {
+          "given": "Ena",
+          "family": "Wang"
+        },
+        {
+          "given": "Mark E.",
+          "family": "Smolkin"
+        },
+        {
+          "given": "Walter C.",
+          "family": "Olson"
+        },
+        {
+          "given": "Donna H.",
+          "family": "Deacon"
+        },
+        {
+          "given": "Kelly T.",
+          "family": "Smith"
+        },
+        {
+          "given": "Nadedja V.",
+          "family": "Galeassi"
+        },
+        {
+          "given": "Kimberly A.",
+          "family": "Chianese‐Bullock"
+        },
+        {
+          "given": "Lynn T.",
+          "family": "Dengel"
+        },
+        {
+          "given": "Francesco M.",
+          "family": "Marincola"
+        },
+        {
+          "given": "Gina R.",
+          "family": "Petroni"
+        },
+        {
+          "given": "David W.",
+          "family": "Mullins"
+        },
+        {
+          "given": "Craig L.",
+          "family": "Slingluff"
+        }
+      ],
+      "journal": "Cancer Immunology, Immunotherapy",
+      "year": 2016,
+      "volume": "65",
+      "issue": "10",
+      "pages": "1189–1199",
+      "article_number": "",
+      "online_publication_date": "2016-08-13",
+      "issue_publication_date": "2016-10",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "OYLER2017",
+      "doi": "10.1016/j.immuni.2017.03.011",
+      "url": "https://doi.org/10.1016/j.immuni.2017.03.011",
+      "title": "A Tunable Diffusion-Consumption Mechanism of Cytokine Propagation Enables Plasticity in Cell-to-Cell Communication in the Immune System",
+      "authors": [
+        {
+          "given": "Alon",
+          "family": "Oyler-Yaniv"
+        },
+        {
+          "given": "Jennifer",
+          "family": "Oyler-Yaniv"
+        },
+        {
+          "given": "Benjamin M.",
+          "family": "Whitlock"
+        },
+        {
+          "given": "Zhiduo",
+          "family": "Liu"
+        },
+        {
+          "given": "Ronald N.",
+          "family": "Germain"
+        },
+        {
+          "given": "Morgan",
+          "family": "Huse"
+        },
+        {
+          "given": "Grégoire",
+          "family": "Altan-Bonnet"
+        },
+        {
+          "given": "Oleg",
+          "family": "Krichevsky"
+        }
+      ],
+      "journal": "Immunity",
+      "year": 2017,
+      "volume": "46",
+      "issue": "4",
+      "pages": "609–620",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2017-04",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "OYLER2017_CATCH_RELEASE",
+      "doi": "10.1016/j.molcel.2017.05.011",
+      "url": "https://doi.org/10.1016/j.molcel.2017.05.011",
+      "title": "Catch and Release of Cytokines Mediated by Tumor Phosphatidylserine Converts Transient Exposure into Long-Lived Inflammation",
+      "authors": [
+        {
+          "given": "Jennifer",
+          "family": "Oyler-Yaniv"
+        },
+        {
+          "given": "Alon",
+          "family": "Oyler-Yaniv"
+        },
+        {
+          "given": "Mojdeh",
+          "family": "Shakiba"
+        },
+        {
+          "given": "Nina K.",
+          "family": "Min"
+        },
+        {
+          "given": "Ying-Han",
+          "family": "Chen"
+        },
+        {
+          "given": "Sheue-yann",
+          "family": "Cheng"
+        },
+        {
+          "given": "Oleg",
+          "family": "Krichevsky"
+        },
+        {
+          "given": "Nihal",
+          "family": "Altan-Bonnet"
+        },
+        {
+          "given": "Grégoire",
+          "family": "Altan-Bonnet"
+        }
+      ],
+      "journal": "Molecular Cell",
+      "year": 2017,
+      "volume": "66",
+      "issue": "5",
+      "pages": "635–647.e7",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2017-06",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "PATEL2024",
+      "doi": "10.1093/immadv/ltae004",
+      "url": "https://doi.org/10.1093/immadv/ltae004",
+      "title": "Regulation of temporal cytokine production by co-stimulation receptors in TCR-T cells is lost in CAR-T cells",
+      "authors": [
+        {
+          "given": "Ashna",
+          "family": "Patel"
+        },
+        {
+          "given": "Mikhail A",
+          "family": "Kutuzov"
+        },
+        {
+          "given": "Michael L",
+          "family": "Dustin"
+        },
+        {
+          "given": "P Anton",
+          "family": "van der Merwe"
+        },
+        {
+          "given": "Omer",
+          "family": "Dushek"
+        }
+      ],
+      "journal": "Immunotherapy Advances",
+      "year": 2024,
+      "volume": "4",
+      "issue": "1",
+      "pages": "",
+      "article_number": "ltae004",
+      "online_publication_date": "2024-06-19",
+      "issue_publication_date": "2024-01-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "PHYSICELL2018",
+      "doi": "10.1371/journal.pcbi.1005991",
+      "url": "https://doi.org/10.1371/journal.pcbi.1005991",
+      "title": "PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems",
+      "authors": [
+        {
+          "given": "Ahmadreza",
+          "family": "Ghaffarizadeh"
+        },
+        {
+          "given": "Randy",
+          "family": "Heiland"
+        },
+        {
+          "given": "Samuel H.",
+          "family": "Friedman"
+        },
+        {
+          "given": "Shannon M.",
+          "family": "Mumenthaler"
+        },
+        {
+          "given": "Paul",
+          "family": "Macklin"
+        }
+      ],
+      "journal": "PLOS Computational Biology",
+      "year": 2018,
+      "volume": "14",
+      "issue": "2",
+      "pages": "",
+      "article_number": "e1005991",
+      "online_publication_date": "2018-02-23",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "PLUEN2001",
+      "doi": "10.1073/pnas.081626898",
+      "url": "https://doi.org/10.1073/pnas.081626898",
+      "title": "Role of tumor–host interactions in interstitial diffusion of macromolecules: Cranial vs. subcutaneous tumors",
+      "authors": [
+        {
+          "given": "Alain",
+          "family": "Pluen"
+        },
+        {
+          "given": "Yves",
+          "family": "Boucher"
+        },
+        {
+          "given": "Saroja",
+          "family": "Ramanujan"
+        },
+        {
+          "given": "Trevor D.",
+          "family": "McKee"
+        },
+        {
+          "given": "Takeshi",
+          "family": "Gohongi"
+        },
+        {
+          "given": "Emmanuelle",
+          "family": "di Tomaso"
+        },
+        {
+          "given": "Edward B.",
+          "family": "Brown"
+        },
+        {
+          "given": "Yotaro",
+          "family": "Izumi"
+        },
+        {
+          "given": "Robert B.",
+          "family": "Campbell"
+        },
+        {
+          "given": "David A.",
+          "family": "Berk"
+        },
+        {
+          "given": "Rakesh K.",
+          "family": "Jain"
+        }
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2001,
+      "volume": "98",
+      "issue": "8",
+      "pages": "4628–4633",
+      "article_number": "",
+      "online_publication_date": "2001-03-27",
+      "issue_publication_date": "2001-04-10",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "PRYBUTOK2022",
+      "doi": "10.3389/fmolb.2022.849363",
+      "url": "https://doi.org/10.3389/fmolb.2022.849363",
+      "title": "Mapping CAR T-Cell Design Space Using Agent-Based Models",
+      "authors": [
+        {
+          "given": "Alexis N.",
+          "family": "Prybutok"
+        },
+        {
+          "given": "Jessica S.",
+          "family": "Yu"
+        },
+        {
+          "given": "Joshua N.",
+          "family": "Leonard"
+        },
+        {
+          "given": "Neda",
+          "family": "Bagheri"
+        }
+      ],
+      "journal": "Frontiers in Molecular Biosciences",
+      "year": 2022,
+      "volume": "9",
+      "issue": "",
+      "pages": "",
+      "article_number": "849363",
+      "online_publication_date": "2022-07-12",
+      "issue_publication_date": null,
+      "role": "Figure 7 prior-work context; not quantitative calibration",
+      "full_text_included": false
+    },
+    {
+      "id": "ROSS2018",
+      "doi": "10.1016/j.aca.2017.11.048",
+      "url": "https://doi.org/10.1016/j.aca.2017.11.048",
+      "title": "Diffusion of cytokines in live lymph node tissue using microfluidic integrated optical imaging",
+      "authors": [
+        {
+          "given": "A.E.",
+          "family": "Ross"
+        },
+        {
+          "given": "R.R.",
+          "family": "Pompano"
+        }
+      ],
+      "journal": "Analytica Chimica Acta",
+      "year": 2018,
+      "volume": "1000",
+      "issue": "",
+      "pages": "205–213",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2018-02",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "SADJADI2020",
+      "doi": "10.1016/j.bpj.2020.10.020",
+      "url": "https://doi.org/10.1016/j.bpj.2020.10.020",
+      "title": "Migration of Cytotoxic T Lymphocytes in 3D Collagen Matrices",
+      "authors": [
+        {
+          "given": "Zeinab",
+          "family": "Sadjadi"
+        },
+        {
+          "given": "Renping",
+          "family": "Zhao"
+        },
+        {
+          "given": "Markus",
+          "family": "Hoth"
+        },
+        {
+          "given": "Bin",
+          "family": "Qu"
+        },
+        {
+          "given": "Heiko",
+          "family": "Rieger"
+        }
+      ],
+      "journal": "Biophysical Journal",
+      "year": 2020,
+      "volume": "119",
+      "issue": "11",
+      "pages": "2141–2152",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "2020-12",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "SAHOO2020",
+      "doi": "10.1098/rsif.2019.0734",
+      "url": "https://doi.org/10.1098/rsif.2019.0734",
+      "title": "Mathematical deconvolution of CAR T-cell proliferation and exhaustion from real-time killing assay data",
+      "authors": [
+        {
+          "given": "Prativa",
+          "family": "Sahoo"
+        },
+        {
+          "given": "Xin",
+          "family": "Yang"
+        },
+        {
+          "given": "Daniel",
+          "family": "Abler"
+        },
+        {
+          "given": "Davide",
+          "family": "Maestrini"
+        },
+        {
+          "given": "Vikram",
+          "family": "Adhikarla"
+        },
+        {
+          "given": "David",
+          "family": "Frankhouser"
+        },
+        {
+          "given": "Heyrim",
+          "family": "Cho"
+        },
+        {
+          "given": "Vanessa",
+          "family": "Machuca"
+        },
+        {
+          "given": "Dongrui",
+          "family": "Wang"
+        },
+        {
+          "given": "Michael",
+          "family": "Barish"
+        },
+        {
+          "given": "Margarita",
+          "family": "Gutova"
+        },
+        {
+          "given": "Sergio",
+          "family": "Branciamore"
+        },
+        {
+          "given": "Christine E.",
+          "family": "Brown"
+        },
+        {
+          "given": "Russell C.",
+          "family": "Rockne"
+        }
+      ],
+      "journal": "Journal of The Royal Society Interface",
+      "year": 2020,
+      "volume": "17",
+      "issue": "162",
+      "pages": "",
+      "article_number": "20190734",
+      "online_publication_date": "2020-01-15",
+      "issue_publication_date": "2020-01",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "SLIFKA1999",
+      "doi": "10.1038/43454",
+      "url": "https://doi.org/10.1038/43454",
+      "title": "Rapid on/off cycling of cytokine production by virus-specific CD8+ T cells",
+      "authors": [
+        {
+          "given": "Mark K.",
+          "family": "Slifka"
+        },
+        {
+          "given": "Fernando",
+          "family": "Rodriguez"
+        },
+        {
+          "given": "J. Lindsay",
+          "family": "Whitton"
+        }
+      ],
+      "journal": "Nature",
+      "year": 1999,
+      "volume": "401",
+      "issue": "6748",
+      "pages": "76–79",
+      "article_number": "",
+      "online_publication_date": null,
+      "issue_publication_date": "1999-09",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "THURLEY2015",
+      "doi": "10.1371/journal.pcbi.1004206",
+      "url": "https://doi.org/10.1371/journal.pcbi.1004206",
+      "title": "Three-Dimensional Gradients of Cytokine Signaling between T Cells",
+      "authors": [
+        {
+          "given": "Kevin",
+          "family": "Thurley"
+        },
+        {
+          "given": "Daniel",
+          "family": "Gerecht"
+        },
+        {
+          "given": "Elfriede",
+          "family": "Friedmann"
+        },
+        {
+          "given": "Thomas",
+          "family": "Höfer"
+        }
+      ],
+      "journal": "PLOS Computational Biology",
+      "year": 2015,
+      "volume": "11",
+      "issue": "4",
+      "pages": "",
+      "article_number": "e1004206",
+      "online_publication_date": "2015-04-29",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "WANG2024",
+      "doi": "10.1038/s41467-024-51039-9",
+      "url": "https://doi.org/10.1038/s41467-024-51039-9",
+      "title": "3D live imaging and phenotyping of CAR-T cell mediated-cytotoxicity using high-throughput Bessel oblique plane microscopy",
+      "authors": [
+        {
+          "given": "Zhaofei",
+          "family": "Wang"
+        },
+        {
+          "given": "Jie",
+          "family": "Wang"
+        },
+        {
+          "given": "Yuxuan",
+          "family": "Zhao"
+        },
+        {
+          "given": "Jin",
+          "family": "Jin"
+        },
+        {
+          "given": "Wentian",
+          "family": "Si"
+        },
+        {
+          "given": "Longbiao",
+          "family": "Chen"
+        },
+        {
+          "given": "Man",
+          "family": "Zhang"
+        },
+        {
+          "given": "Yao",
+          "family": "Zhou"
+        },
+        {
+          "given": "Shiqi",
+          "family": "Mao"
+        },
+        {
+          "given": "Chunhong",
+          "family": "Zheng"
+        },
+        {
+          "given": "Yicheng",
+          "family": "Zhang"
+        },
+        {
+          "given": "Liting",
+          "family": "Chen"
+        },
+        {
+          "given": "Peng",
+          "family": "Fei"
+        }
+      ],
+      "journal": "Nature Communications",
+      "year": 2024,
+      "volume": "15",
+      "issue": "1",
+      "pages": "",
+      "article_number": "6677",
+      "online_publication_date": "2024-08-06",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "WEBER2021",
+      "doi": "10.1126/science.aba1786",
+      "url": "https://doi.org/10.1126/science.aba1786",
+      "title": "Transient rest restores functionality in exhausted CAR-T cells through epigenetic remodeling",
+      "authors": [
+        {
+          "given": "Evan W.",
+          "family": "Weber"
+        },
+        {
+          "given": "Kevin R.",
+          "family": "Parker"
+        },
+        {
+          "given": "Elena",
+          "family": "Sotillo"
+        },
+        {
+          "given": "Rachel C.",
+          "family": "Lynn"
+        },
+        {
+          "given": "Hima",
+          "family": "Anbunathan"
+        },
+        {
+          "given": "John",
+          "family": "Lattin"
+        },
+        {
+          "given": "Zinaida",
+          "family": "Good"
+        },
+        {
+          "given": "Julia A.",
+          "family": "Belk"
+        },
+        {
+          "given": "Bence",
+          "family": "Daniel"
+        },
+        {
+          "given": "Dorota",
+          "family": "Klysz"
+        },
+        {
+          "given": "Meena",
+          "family": "Malipatlolla"
+        },
+        {
+          "given": "Peng",
+          "family": "Xu"
+        },
+        {
+          "given": "Malek",
+          "family": "Bashti"
+        },
+        {
+          "given": "Sabine",
+          "family": "Heitzeneder"
+        },
+        {
+          "given": "Louai",
+          "family": "Labanieh"
+        },
+        {
+          "given": "Panayiotis",
+          "family": "Vandris"
+        },
+        {
+          "given": "Robbie G.",
+          "family": "Majzner"
+        },
+        {
+          "given": "Yanyan",
+          "family": "Qi"
+        },
+        {
+          "given": "Katalin",
+          "family": "Sandor"
+        },
+        {
+          "given": "Ling-Chun",
+          "family": "Chen"
+        },
+        {
+          "given": "Snehit",
+          "family": "Prabhu"
+        },
+        {
+          "given": "Andrew J.",
+          "family": "Gentles"
+        },
+        {
+          "given": "Thomas J.",
+          "family": "Wandless"
+        },
+        {
+          "given": "Ansuman T.",
+          "family": "Satpathy"
+        },
+        {
+          "given": "Howard Y.",
+          "family": "Chang"
+        },
+        {
+          "given": "Crystal L.",
+          "family": "Mackall"
+        }
+      ],
+      "journal": "Science",
+      "year": 2021,
+      "volume": "372",
+      "issue": "6537",
+      "pages": "",
+      "article_number": "eaba1786",
+      "online_publication_date": null,
+      "issue_publication_date": "2021-04-02",
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "WEIGELIN2021",
+      "doi": "10.1038/s41467-021-25282-3",
+      "url": "https://doi.org/10.1038/s41467-021-25282-3",
+      "title": "Cytotoxic T cells are able to efficiently eliminate cancer cells by additive cytotoxicity",
+      "authors": [
+        {
+          "given": "Bettina",
+          "family": "Weigelin"
+        },
+        {
+          "given": "Annemieke Th.",
+          "family": "den Boer"
+        },
+        {
+          "given": "Esther",
+          "family": "Wagena"
+        },
+        {
+          "given": "Kelly",
+          "family": "Broen"
+        },
+        {
+          "given": "Harry",
+          "family": "Dolstra"
+        },
+        {
+          "given": "Rob J.",
+          "family": "de Boer"
+        },
+        {
+          "given": "Carl G.",
+          "family": "Figdor"
+        },
+        {
+          "given": "Johannes",
+          "family": "Textor"
+        },
+        {
+          "given": "Peter",
+          "family": "Friedl"
+        }
+      ],
+      "journal": "Nature Communications",
+      "year": 2021,
+      "volume": "12",
+      "issue": "1",
+      "pages": "",
+      "article_number": "5217",
+      "online_publication_date": "2021-09-01",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "WOZNICKI2020",
+      "doi": "10.1038/s41419-020-2263-0",
+      "url": "https://doi.org/10.1038/s41419-020-2263-0",
+      "title": "Human BCL-G regulates secretion of inflammatory chemokines but is dispensable for induction of apoptosis by IFN-γ and TNF-α in intestinal epithelial cells",
+      "authors": [
+        {
+          "given": "Jerzy A.",
+          "family": "Woznicki"
+        },
+        {
+          "given": "Peter",
+          "family": "Flood"
+        },
+        {
+          "given": "Milan",
+          "family": "Bustamante-Garrido"
+        },
+        {
+          "given": "Panagiota",
+          "family": "Stamou"
+        },
+        {
+          "given": "Gerry",
+          "family": "Moloney"
+        },
+        {
+          "given": "Aine",
+          "family": "Fanning"
+        },
+        {
+          "given": "Syed Akbar",
+          "family": "Zulquernain"
+        },
+        {
+          "given": "Jane",
+          "family": "McCarthy"
+        },
+        {
+          "given": "Fergus",
+          "family": "Shanahan"
+        },
+        {
+          "given": "Silvia",
+          "family": "Melgar"
+        },
+        {
+          "given": "Ken",
+          "family": "Nally"
+        }
+      ],
+      "journal": "Cell Death & Disease",
+      "year": 2020,
+      "volume": "11",
+      "issue": "1",
+      "pages": "",
+      "article_number": "68",
+      "online_publication_date": "2020-01-27",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    },
+    {
+      "id": "WOZNICKI2021",
+      "doi": "10.1038/s41419-021-04151-3",
+      "url": "https://doi.org/10.1038/s41419-021-04151-3",
+      "title": "TNF-α synergises with IFN-γ to induce caspase-8-JAK1/2-STAT1-dependent death of intestinal epithelial cells",
+      "authors": [
+        {
+          "given": "Jerzy A.",
+          "family": "Woznicki"
+        },
+        {
+          "given": "Nisha",
+          "family": "Saini"
+        },
+        {
+          "given": "Peter",
+          "family": "Flood"
+        },
+        {
+          "given": "Subhasree",
+          "family": "Rajaram"
+        },
+        {
+          "given": "Ciaran M.",
+          "family": "Lee"
+        },
+        {
+          "given": "Panagiota",
+          "family": "Stamou"
+        },
+        {
+          "given": "Agnieszka",
+          "family": "Skowyra"
+        },
+        {
+          "given": "Milan",
+          "family": "Bustamante-Garrido"
+        },
+        {
+          "given": "Karine",
+          "family": "Regazzoni"
+        },
+        {
+          "given": "Nyree",
+          "family": "Crawford"
+        },
+        {
+          "given": "Simon S.",
+          "family": "McDade"
+        },
+        {
+          "given": "Daniel B.",
+          "family": "Longley"
+        },
+        {
+          "given": "Pedro",
+          "family": "Aza-Blanc"
+        },
+        {
+          "given": "Fergus",
+          "family": "Shanahan"
+        },
+        {
+          "given": "Syed A.",
+          "family": "Zulquernain"
+        },
+        {
+          "given": "Jane",
+          "family": "McCarthy"
+        },
+        {
+          "given": "Silvia",
+          "family": "Melgar"
+        },
+        {
+          "given": "Bradford L.",
+          "family": "McRae"
+        },
+        {
+          "given": "Ken",
+          "family": "Nally"
+        }
+      ],
+      "journal": "Cell Death & Disease",
+      "year": 2021,
+      "volume": "12",
+      "issue": "10",
+      "pages": "",
+      "article_number": "864",
+      "online_publication_date": "2021-09-23",
+      "issue_publication_date": null,
+      "role": "parameter_evidence_registry",
+      "full_text_included": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "utc": "2026-10-07T01:07:26.416966+00:00",
+  "version": 17,
+  "completed_numerical_cases": 33,
+  "complete_reviewed_N3_numerical_groups": 10,
+  "N1_screens": 3,
+  "complete_reviewed_N3_transport_groups": 6,
+  "kinetic_native_analysis_and_scientific_review_complete": true,
+  "numerical_convergence_accepted": false,
+  "all_significant_parameters_adequately_supported": false,
+  "current_comparative_table": "source-045e18103e21d6b2ddf9",
+  "substantive_numerical_review": "source-d6cbe9a0a107d041ba5a",
+  "interpretation_limits": [
+    "Both ratios and all three representations remain part of the comparison. Report full normalized trajectories, integrals, residual composition, access and descriptive seed variation.",
+    "Persistent numerical effects are retained; do not infer continuum error bounds, pure dimensionality, invariant curve order or mesh-independent residual predictions.",
+    "The coupled entry check is primarily compared with the fine grid. Common central-reference differences are a separate comparison.",
+    "In refined 5:1 entry versus 2D, integral differences have mixed signs across seeds while endpoint differences are positive. A universal reverse ordering is unsupported.",
+    "One paired saved-onset difference is present: refined 5:1 3D seed 2 enters the initial target hull at the 1 h saved bin versus 2 h in its paired baseline. The other 131 comparisons have equal bins.",
+    "The nine kinetic tests remain TE2 seed-0 conditional checks. Their completed review does not establish calibration or give resolution-independent effect estimates.",
+    "Busse et al. (2010), Supplementary Table S1, is not used as a numerical parameter basis."
+  ],
+  "all_103_cases_technically_accepted": true,
+  "component_replays_qualified_for_103_cases": true,
+  "activity_memory_implementation_checked": true,
+  "activity_memory_biological_basis_accepted": false,
+  "saved_data_replay": {
+    "cases": 103,
+    "components": 9,
+    "relocated_replay_passed": true,
+    "implies_biological_calibration": false,
+    "implies_numerical_convergence": false
+  }
+}

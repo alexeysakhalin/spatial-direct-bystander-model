@@ -1,0 +1,36 @@
+{
+  "title": "Spatial Direct–Bystander Model: simulation data, code and reproducible analyses",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Levchuk, Ksenia",
+      "affiliation": "Institute of Cytology, Russian Academy of Sciences, St. Petersburg, Russia"
+    },
+    {
+      "name": "Petukhov, Alexey",
+      "affiliation": "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan; Laboratory of Molecular Oncology, National Laboratory Astana, Astana, Kazakhstan; Center of Hematology, Astana, Kazakhstan"
+    },
+    {
+      "name": "Tursymbek, Shynggys",
+      "affiliation": "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan; Laboratory of Molecular Oncology, National Laboratory Astana, Astana, Kazakhstan"
+    },
+    {
+      "name": "Ilyassova, Bayansulu",
+      "affiliation": "Department of Biology, School of Sciences and Humanities, Nazarbayev University, Astana, Kazakhstan"
+    },
+    {
+      "name": "Barlev, Nikolai A",
+      "affiliation": "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan; Laboratory of Molecular Oncology, National Laboratory Astana, Astana, Kazakhstan"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/alexeysakhalin/spatial-direct-bystander-model",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "description": "Spatial agent-based simulations of contact-dependent and cytokine-mediated bystander responses in an antigen-heterogeneous target population. This release provides raw output for 18 central simulations across 2D monolayer, 3D spheroid and local-entry scenarios at initial target:CAR-T ratios of 2:1 and 5:1, with three seeds per configuration. It also includes source code, exact inputs and seeds, analysis scripts, results tables, figures, parameter documentation and references. Results are conditional on the assigned model rules; general numerical convergence and quantitative biological calibration are not established. Project-owned code is distributed under MIT and project-owned data and figures under CC BY 4.0. Third-party licences and attribution are retained."
+}

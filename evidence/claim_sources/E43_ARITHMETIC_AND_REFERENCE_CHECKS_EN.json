@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-07T00:27:42.139610+00:00",
+  "passed": true,
+  "hourly_population_reconciliations": 679,
+  "native_scalar_comparisons": 56,
+  "native_field_comparisons": 112,
+  "input_pairs": 5,
+  "paired_scalar_metrics": 750,
+  "paired_spatial_metrics": 295,
+  "full_hourly_contrasts": 160,
+  "same_saved_onsets": 20,
+  "fraction_trapezoids_verified": 160,
+  "source_hourly_files_manifest_verified": 26,
+  "new_simulations": 0,
+  "raw_files_modified": false
+}

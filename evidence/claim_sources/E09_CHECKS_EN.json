@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-06T08:46:58.653877+00:00",
+  "all_checks_passed": true,
+  "numerical_groups": 5,
+  "transport_groups": 6,
+  "accepted_cases": 22,
+  "totals": {
+    "scalar_seed_values": 9900,
+    "spatial_seed_values": 3234,
+    "paired_metric_deltas": 6567,
+    "hourly_pairs": 9603,
+    "IFNG_TNF_symmetry_samples": 6402,
+    "population_class_balance_rows": 6402
+  },
+  "independent_contrast_rows": 891,
+  "early_group_metric_matches": 10,
+  "scientific_adequacy_automatically_accepted": false
+}

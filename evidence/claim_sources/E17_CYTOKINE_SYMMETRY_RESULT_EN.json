@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-05T01:45:32.281109+00:00",
+  "passed": true,
+  "input_cases": 18,
+  "cell_definition_pairs": 270,
+  "accepted_cases_examined": 12,
+  "hourly_summary_states_equal": 1164,
+  "ledger_time_pairs_equal": 1176,
+  "selected_full_voxel_states_equal": 36,
+  "voxel_pairs_exactly_equal": 678588,
+  "already_prepared_asymmetric_cases": 2,
+  "new_simulations": 0,
+  "new_cases_added": 0,
+  "source_or_inputs_changed": false,
+  "all_significant_parameters_adequately_supported": false,
+  "new_interpretation_requirement": "Carry the common normalized IFNg/TNF exposure restriction and absence of independent cytokine exposure variation into final captions and parameter register; frozen queued transfer artifacts stay unchanged.",
+  "identifiability_scope": "No formal structural-identifiability analysis was performed. Equality of these modeled inputs does not itself prove that every downstream response parameter is unidentifiable. It supplies no independent empirical validation of separate cytokine contributions."
+}

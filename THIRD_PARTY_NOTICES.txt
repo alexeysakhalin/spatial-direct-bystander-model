@@ -1,0 +1,12 @@
+Third-party software and scientific sources
+
+The simulation source derives from PhysiCell 1.14.1 and BioFVM. Their BSD
+licences and attribution, together with the pugixml MIT notice, are retained
+under engine/baseline/licenses and attribution/licenses. The retained MaBoSS
+notice concerns upstream provenance; MaBoSS is not compiled in this model.
+See engine/THIRD_PARTY_NOTICES.txt and attribution/Attribution_and_scope.txt.
+Project licensing does not replace these notices.
+
+Scientific references and the limits of each source are provided in
+evidence/sources.json and attribution/References.json. Bibliographic records
+and source assessments are included; publisher PDFs are excluded.

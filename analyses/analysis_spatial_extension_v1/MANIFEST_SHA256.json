@@ -1,0 +1,17 @@
+{
+  "CASES.json": "d324e8fc2fa01cf47650f359448870df199b5cabcd529ab4eac0e34ccde22669",
+  "CELL_STATES.json": "c6796e69d021ad837854e7245ca0e1c96277b743fcf60489e552792ac68084a8",
+  "CENTRAL_METRICS.json": "56dea28546a90c7c8893f83c765f9c2ea65be7f5abe91307c06e623a990fd6fa",
+  "RAW_FILES.json": "3852a327a41baafd49b8470bdaa7c1f2baf1e02f7b222eb7e376f36168dcfa1f",
+  "README.txt": "dab1c55fc5f8990ebd7eca42182802da5ca49ff0c409beadafcd84f33ccb8ffa",
+  "geometry.py": "0fcde83429601697de2fea334563066e83fa763a624b39a8e3f5a10aaf94654b",
+  "gradients.py": "8e7e05287b55d3f0f4b5b59119fd4ffed7a88d2921148c610ce9a256fe68dede",
+  "projection.py": "d0304c931b3d5f860e937650100b298101cd5ef72f52247b2fca6179345758c1",
+  "ratio_metrics.py": "89b5197067aaf435897ff74e13797e2394202c165e68c632ab7423de3e0620a8",
+  "references/te5_local_entry_mesh_half_seed1.json": "800ac2e911b99f92c6876480bd24671bae65c424583f1ea21b0245a51f092ad3",
+  "references/te5_local_entry_mesh_half_seed2.json": "352cb74d64f8801719b32aaf4402fcfc8bf4b40b61fadbd04ccbf09eeaa9d2d1",
+  "replay.py": "dca79e23ef31c71c2c8665e918b23618427ed525573974e6fcc343335bf67c26",
+  "requirements.txt": "621b2928d1ee285c01cfe851c6929434fe3f183bff52fadc00baa0c6f2b22602",
+  "saved_frames.py": "d52ce3d8d3947b3d90cd1f7883d3382a971c2021c853090e14071bb5af3c39c5",
+  "spatial_metrics.py": "92221534f9923cf632dd23426fa8314379844ac03900b2f0b5a343df59358085"
+}

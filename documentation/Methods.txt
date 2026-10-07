@@ -1,0 +1,33 @@
+Model framework and scope
+
+We implemented the simulations in PhysiCell 1.14.1 with BioFVM for extracellular transport [1,2]. Individual target and CAR-T agents interacted through the specified contact, movement, growth and soluble-signal rules. The model was used as a complementary analysis of spatially contingent responses. Molecular measurements and perturbation effect sizes from experimental figures were not fitted or transferred quantitatively into its parameters. Source code, versioned corrections, exact input files and random seeds are retained with checksums in this release.
+
+Initial populations and spatial scenarios
+
+Each central simulation started with 1,200 targets, comprising 840 antigen-positive and 360 antigen-negative cells, and either 600 or 240 CAR-T cells. Ratios are stated as targets per CAR-T cell. The rounded antigen-positive fraction was based on an external U373/HER2 antigen-distribution example [3]; it was not an estimate of the composition of any particular experimental sample. All central targets were assigned cytokine-response competence. Antigen-negative targets remained part of the modelled tumour population and did not represent healthy tissue.
+
+The three representations were a 2D monolayer, a 3D spheroid and a separately designated local-entry scenario. The 2D computational domain extended from −1,180 to 1,180 μm in x and y, with one 20 μm layer in z. The spheroid domain extended from −250 to 250 μm along each axis. The local-entry domain extended from −600 to 600 μm. In the 3D representations, CAR-T cells initially occupied a radial shell of 200–240 μm around a target aggregate of approximately 180 μm radius. Local entry represented a prescribed access geometry and contained no explicit vessels, extravasation, extracellular matrix or resident immune population.
+
+Contact and soluble-signal responses
+
+Antigen recognition gated direct CAR-T attacks. Contact-related damage and its repair were represented by phenomenological model variables rather than explicit perforin or granzyme concentrations. Activated effector states supplied soluble signals. IFNγ suppressed target-cycle entry and enabled a primed target state; priming permitted a delayed TNF-associated death response, including in antigen-negative targets. This supplied the modelled bystander component. Growth suppression was distinguished from cell death. The assigned TNF-associated transition did not resolve RIPK1, RIPK3 or MLKL signalling and was not used to identify necroptosis.
+
+IL-2 was linked to effector growth, and a CXCL9–11 field contributed to directional movement. CD4 and CD8 labels shared the same model laws; no subtype-specific contribution was inferred. Regulatory T cells were absent, and the absorbing exhausted-state transition was disabled in the central configuration. Equal response competence, shared subtype laws and the response timescales were modelling assumptions, not measurements from the experimental system.
+
+Extracellular transport and medium exchange
+
+The model coupled the computational domain to a finite well-mixed reservoir. The combined domain and reservoir volume was 3.456 μL in each central scenario. The 2D and spheroid cases had no external medium exchange. The local-entry reservoir underwent exchange equivalent to ten combined medium volumes over 96 h, with zero cytokine concentration in the incoming medium. Matched exchange controls varied medium exchange within a representation and were interpreted separately from the cross-representation comparison.
+
+IFNγ, TNF, IL-2 and CXCL9–11 fields used relative concentration units. Their central diffusion coefficient was 312 μm²/min. IFNγ and TNF had zero intrinsic removal, an explicit retention assumption rather than a measured cytokine lifetime. IL-2 and CXCL9–11 had removal coefficients of 0.1 min⁻¹. The central IFNγ and TNF transport and source rules produced identical dimensionless fields; their different assigned response roles did not establish independent biological contributions. Exact field, cell and response settings are recorded in settings.xml and rules.csv for each case.
+
+Numerical execution and robustness checks
+
+Central simulations covered 5,760 min (96 h), with diffusion, mechanics and phenotype time steps of 0.01, 0.1 and 1.5 min, respectively. Grid spacing was 20 μm for the monolayer and spheroid and 40 μm for local entry. Three stochastic realizations, with seeds 0, 1 and 2, were run for each representation and ratio, giving 18 central simulations. Stochastic events and antigen-label placement varied on a fixed initial coordinate scaffold; geometries were not independently resampled.
+
+Numerical assessment included 33 step or grid challenge runs across 13 groups: ten groups with three seeds and three single-seed screens. Prespecified controls, parameter-sensitivity and diffusion checks, followed by nine growth or background-loss checks, were also completed. Follow-up runs addressed observed numerical or model-assumption questions rather than a desired curve ordering. Technical checks covered process completion, saved-frame completeness, finite fields, population accounting and domain-plus-reservoir balances. General numerical convergence and quantitative biological calibration were not established; material resolution effects were retained in the interpretation.
+
+Outcome measures and figure preparation
+
+We analysed all 97 hourly states from 0 to 96 h. Outcomes included living-target trajectories, counts normalized to 1,200 initial targets, residual antigen composition and the target-count integral calculated by trapezoidal integration. Time-averaged target burden was this integral divided by 96 h. Spatial access included occupancy within the convex hull of initial target centres, nearest-target distances, geometric overlap and saved attack links. These quantities described access or instantaneous model states and were not treated as measured death counts or reconstructed cell trajectories.
+
+Curves show the three individual realizations, their arithmetic mean and the pointwise minimum-to-maximum range. These ranges are descriptive and are not confidence intervals; no inferential significance claim was based on the three seeds. Snapshots at 0, 24 and 96 h use preselected seed 0. Displayed sections reveal the interior, whereas plotted counts include the whole domain. Separate panels, curves and legends were exported at 600 dpi, with PDF layouts. Saved-data analysis and figure construction were checked after relocation. Publication copies preserve plotted values and use separate checksums where metadata were changed.

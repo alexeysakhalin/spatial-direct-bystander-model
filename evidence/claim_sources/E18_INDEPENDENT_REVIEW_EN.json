@@ -1,0 +1,130 @@
+{
+  "utc": "2026-10-06T19:00:03.551933+00:00",
+  "passed": true,
+  "source_and_output_manifests_verified": true,
+  "relocated_files_byte_identical": 8,
+  "retained_reader_functions_exact": 3,
+  "cell_state_projection_matches_source": true,
+  "central_case_integrals_independently_checked_with_rational_arithmetic": 18,
+  "hourly_contrast_trajectories_independently_reconciled": 18,
+  "all_1746_target_normalizations_checked": true,
+  "antigen_positive_and_negative_counts_reconcile": true,
+  "positive_zero_negative_contrasts_retained": true,
+  "publication_component_files_screened": [
+    "reproducibility/analysis_central_v1/CASES.json",
+    "reproducibility/analysis_central_v1/CELL_STATES.json",
+    "reproducibility/analysis_central_v1/EXPECTED_COUNTS.json",
+    "reproducibility/analysis_central_v1/EXPECTED_PRIMARY_COMPARISON.json",
+    "reproducibility/analysis_central_v1/MANIFEST_SHA256.json",
+    "reproducibility/analysis_central_v1/RAW_FILES.json",
+    "reproducibility/analysis_central_v1/README.txt",
+    "reproducibility/analysis_central_v1/read_saved_data.py",
+    "reproducibility/analysis_central_v1/replay.py",
+    "reproducibility/central_results_v1/CASE_METRICS.json",
+    "reproducibility/central_results_v1/ENVIRONMENT.json",
+    "reproducibility/central_results_v1/HOURLY_CONTRASTS.json",
+    "reproducibility/central_results_v1/HOURLY_TRAJECTORIES.json",
+    "reproducibility/central_results_v1/MEDIUM_BALANCE_VERIFICATION.json",
+    "reproducibility/central_results_v1/PRIMARY_COMPARISON.json",
+    "reproducibility/central_results_v1/REPLAY_VERIFICATION.json",
+    "reproducibility/central_results_v1/RESULT_MANIFEST_SHA256.json"
+  ],
+  "workflow_markers_or_absolute_host_paths_detected": [],
+  "editorial_read_review": "README, driver, retained reader functions, projected state map and output schema reviewed. Interpretation distinguishes target:effector ratios, observed seed ranges, model-state composition, sampled trapezoidal integrals and IFNG/TNF inventory checks. Spatial, numerical and biological validation limits are explicit.",
+  "whole_package_editorial_audit_complete": false,
+  "whole_package_transfer_verified": false,
+  "scientific_convergence_accepted": false,
+  "project_complete": false,
+  "exact_integral_checks": [
+    {
+      "case": "turnover0_2d_seed0",
+      "exact_rational_AUC_cell_h": "26960",
+      "time_average_targets": 280.8333333333333
+    },
+    {
+      "case": "turnover0_2d_repeat_seed1",
+      "exact_rational_AUC_cell_h": "25749",
+      "time_average_targets": 268.21875
+    },
+    {
+      "case": "turnover0_2d_repeat_seed2",
+      "exact_rational_AUC_cell_h": "54845/2",
+      "time_average_targets": 285.6510416666667
+    },
+    {
+      "case": "turnover0_3d_seed0",
+      "exact_rational_AUC_cell_h": "57829/2",
+      "time_average_targets": 301.1927083333333
+    },
+    {
+      "case": "turnover0_3d_repeat_seed1",
+      "exact_rational_AUC_cell_h": "29565",
+      "time_average_targets": 307.96875
+    },
+    {
+      "case": "turnover0_3d_repeat_seed2",
+      "exact_rational_AUC_cell_h": "28486",
+      "time_average_targets": 296.7291666666667
+    },
+    {
+      "case": "turnover10_local_entry_seed0",
+      "exact_rational_AUC_cell_h": "33564",
+      "time_average_targets": 349.625
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed1",
+      "exact_rational_AUC_cell_h": "35848",
+      "time_average_targets": 373.4166666666667
+    },
+    {
+      "case": "turnover10_local_entry_repeat_seed2",
+      "exact_rational_AUC_cell_h": "65455/2",
+      "time_average_targets": 340.9114583333333
+    },
+    {
+      "case": "te5_2d_seed0",
+      "exact_rational_AUC_cell_h": "39570",
+      "time_average_targets": 412.1875
+    },
+    {
+      "case": "te5_2d_seed1",
+      "exact_rational_AUC_cell_h": "38614",
+      "time_average_targets": 402.2291666666667
+    },
+    {
+      "case": "te5_2d_seed2",
+      "exact_rational_AUC_cell_h": "37862",
+      "time_average_targets": 394.3958333333333
+    },
+    {
+      "case": "te5_3d_seed0",
+      "exact_rational_AUC_cell_h": "72019/2",
+      "time_average_targets": 375.0989583333333
+    },
+    {
+      "case": "te5_3d_seed1",
+      "exact_rational_AUC_cell_h": "69273/2",
+      "time_average_targets": 360.796875
+    },
+    {
+      "case": "te5_3d_seed2",
+      "exact_rational_AUC_cell_h": "69345/2",
+      "time_average_targets": 361.171875
+    },
+    {
+      "case": "te5_local_entry_seed0",
+      "exact_rational_AUC_cell_h": "43780",
+      "time_average_targets": 456.0416666666667
+    },
+    {
+      "case": "te5_local_entry_seed1",
+      "exact_rational_AUC_cell_h": "45725",
+      "time_average_targets": 476.3020833333333
+    },
+    {
+      "case": "te5_local_entry_seed2",
+      "exact_rational_AUC_cell_h": "91235/2",
+      "time_average_targets": 475.1822916666667
+    }
+  ]
+}

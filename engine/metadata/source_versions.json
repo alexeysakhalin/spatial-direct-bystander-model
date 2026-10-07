@@ -1,0 +1,18 @@
+{
+  "engine": "PhysiCell",
+  "version": "1.14.1",
+  "upstream_commit": "37b970c4f99c91112a2e7efcc641b06b9ad839a3",
+  "baseline_source_files": 74,
+  "parallel_variant_changed_files": [
+    "main.cpp"
+  ],
+  "original_readme_omitted": {
+    "reason": "General upstream sample-project instructions do not describe this selected source tree.",
+    "sha256": "e40d0ec88b7055ac5e168b222e23ee9351e8f7aab2d9257c13841028458f28d3",
+    "original_preserved_separately": true
+  },
+  "original_copyrights_and_licence_bytes_preserved": true,
+  "baseline_environment_scope": "Recorded environment of the original source package; not a new execution record.",
+  "parallel_equivalence_scope": "Short qualification and progressively checked common prefixes; full 96 h equality is assessed separately.",
+  "whole_model_convergence_accepted": false
+}

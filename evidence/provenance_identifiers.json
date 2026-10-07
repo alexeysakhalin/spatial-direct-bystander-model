@@ -1,0 +1,778 @@
+{
+  "source-ac33cbe0a56061bc6abe": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-07933cfe4fd6d51a817e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-cf74e46d9bb9d6c32dad": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-eeaf4e933a0959e98391": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "880e70b6c75b159bbd9a178941e275bda1b74f8efe4b565ae5b0921ddd66ac49"
+  },
+  "source-3f45f6f36540735002cb": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d9b4292c5a3c084174eafdc2ff15de20415129c1e9692912bad9c097033746f9"
+  },
+  "source-87f74f6d8370b3941313": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "fe985914ae23aab48badedfa480eef0cf1f4d873172fafa5b09e0f65e5307723"
+  },
+  "source-6f6937c8b45034bebaa7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "b8c0c87feddc160e6f3d12ced76cab750c963bbd13dd6c3a335c5e18f082691a"
+  },
+  "source-858ed078cfc6df49d91a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "bc63d286ffefc2d716a9e37a0db1b51632a887cecb286b0bfc72e5bdb4a0638f"
+  },
+  "source-19efbfa6ab3ed0716d8c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "e0bf50cf2d255fbfec0135386f70caeae1e72c87c39bca5614245d98386a6520"
+  },
+  "source-1b02505429f796da4090": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-40e226018ef2a688bf1c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-11153610e133a27535b9": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-d2f6ab2ee373f0e9b7f4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-e4588d24296c3a0759f8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-086663f7a2e809d4f8c3": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-3f75b07bba3fd8e1a517": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4e66670f4db7f6b32320": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-c16783530eac0a7d8a40": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-da829c8fd2060b4a9fe8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-63d16338c8dfeba10001": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-508438fb71adc87caeb0": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-1dd6bc7835bee52c22dd": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-49278e4bbf235dd9842c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-0d4584482994c7dd0a98": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-be89e091147f33cfb1fa": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-5de0b5420fcb7fee3165": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-c125e9cc39729dd33219": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-c18dc388b6d382d2c258": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-6677c4c113025767831d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-1ec00aeab4afc7c07c39": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-1f38f08f3f2a41505a18": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-623376c392b5717c3aa9": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-004f45420a93c8f4637b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-cf159432bafb10aa883c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-d364ae84093c60b74ea2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-f9c4fe22f94c6bdddfb7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-5682b71a3fba348e0813": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-40191728aeaa6a32be76": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-9dfed4a3057657f9d34e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-6e57643870baddc8246f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-fd704405eb5387d2557d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4de38c9ea12d142685f0": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-f47cfbaa5749bbafb6a8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "81a7f1a517ff0989e93b5f390dbca1be47c8756ea487c577bc58506f8a9b7478"
+  },
+  "source-780b42cfa36d373dc9e3": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "4031867049883b15bf291344e6e3ad5a5f6f778632618bedb55b1ccb142c8153"
+  },
+  "source-54b246b62a94933c2a2e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "587bbf5bbeec3a04e239a247e89a8ae6c1a9a8cdfbd8f1b03daa6a8313ecb0ef"
+  },
+  "source-370387f1d1648b8382aa": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "72bba6fd85f0abf998a090bfd23466c4c92ba0223d37df184e440f1a92f7eb52"
+  },
+  "source-760426f0be011f288b83": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "e18cba83a6b6307fc176f5c060f246e8e00d8e7ff67787ea3fb59cd856570bba"
+  },
+  "source-679064b4bb4f71a5619e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "6fd4ab3f539f6f3a9f6891665109d019895d1063806315d01733f93d60994e7c"
+  },
+  "source-b804a18f8e75c40fc8ba": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "7c6c2450b47d13e5d26a466aea2081927bf0d771728da094dee96aa91ace47a8"
+  },
+  "source-6e3247c06641ee3e7ae7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "4f430daf104524361b59af91befeb5d12995c7e2843ac1fe185e837bda1890d6"
+  },
+  "source-da7436d6dd2e5c445694": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d2aaa10612be668e4b54de3b6726ac0a42803a87db1f744f592d27fe6dec7b0e"
+  },
+  "source-ae9312f5875f13ee312b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "ba1da0b8706a8e256ad36d813d5cc6babdba79e5a2a81fee32b68e4ad3c020fe"
+  },
+  "source-adf6aa6cb3a31119fbb1": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "b0b0258fd2179d7a43d59057b67c52043550e14f18ea7f49f13d26b6bcfc2018"
+  },
+  "source-3c16407c15fee59c9842": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "4d08b3c26def25f8c2f4313d14e02bba1bfc7cef67e82780f34216a254fd34ab"
+  },
+  "source-59b37e485a09d4c32658": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "71b11d94d93f2cdb2362bb810da2be52f6e9a75585b256be1d9b185f70c16b29"
+  },
+  "source-66891c793fb888e1ff9d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "70804cebc89a5aab2fd98ae95d01864209cbb7bfe6f8d94f3bfae3fca431fea8"
+  },
+  "source-f47f14a830285354b0e5": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "e9b31035d79677efa49b7d76886d184a6febd104523bdf4bca3f50e7e5a2dc33"
+  },
+  "source-0434d6e58eeb8ab43766": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-828496eff078a61349af": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-b1c98e3ef2201852ffa9": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "c13f266dd904f085eefe102c54fa004df275982914fd3bb604b115547455ee87"
+  },
+  "source-b1093b5b847a61781cc7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "e505f4db51abe860e399073a8815a0efaf57d1c7b746f6e827b7dd345e85addc"
+  },
+  "source-9f8c3ac046d5f67ef8d8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "dde9e6e06f704a0fa5bf115cde961932f30664c2f571abc1b8a8d134afc705c5"
+  },
+  "source-e920cf229f8a0ff9a068": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "9bc1bb4c96a7c6c25898ff0e26d8eb306ea9732ed738b0ec8d0cb6446b50b289"
+  },
+  "source-d766bcd1ff3418b20ee5": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "bad95c2bc9167a29db9e0d866b3a7f21ec70c70b4314d9e964b380fa424cc40d"
+  },
+  "source-f74720deb6fe00162b84": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "1206cde1453719e0022fa797d8fe0337cb8778650c6c0a4e9dc9b800b49e71c2"
+  },
+  "source-8279adad67bfc5c927a6": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-e74319979d3cb2f324af": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "31cdecf4e4c491bd253c65ada07ec0dccc7d27d55a868acf586a6439e59acbe3"
+  },
+  "source-a32d11f03374cf1cad9e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "47ff01bc8338e1a5f6fc08ae6cce7a59d68ecf104c7f425250a8b63121e4c63c"
+  },
+  "source-0c04f6fa332afadf3b72": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "51e8253f9b49a06e88bcc5864cf436ed3aff18e3eb785041ee6ccf94cc0c8e56"
+  },
+  "source-57e1dacab2b3f25c5795": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "587231d25855bd9fd1f691682997c4cdd5c3fbb05e009658ced2073f35a8ed76"
+  },
+  "source-84b8755f6fd606be0638": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "6f118b6460adb2ca5a8cc01d46d1fd82b21dc93e232432bb053c0bbf843cbec8"
+  },
+  "source-a9891ffb7ca5658d8651": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "0e9e7d2df46caa6aba0d8af07061b809d580cdc1cef0520e75447fe7ea589979"
+  },
+  "source-8809ce1aa838b5f3b74a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "cc2df00a7f523e1d331fe509ad15a0c526c648d9c629a7402bba271e814ffdd5"
+  },
+  "source-50dc8482c866bed35a60": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "6beb2964b17e646556955584c3568efb88cc5b5eee112bf1cf02e3b7bedbc28a"
+  },
+  "source-1d79307178bfca504cd0": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d8e263e10a46fc15e5d282955eae74dc335a71ec71d967a08bed46d87ecb46c5"
+  },
+  "source-9b5fe45f712881d44644": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "c3f805c255d4d3d8e6bc0ac627efac6981cfe0b605aca98996a5c2333bfc21cc"
+  },
+  "source-9d5f4d330a3e1abe17e8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "039217b1a56490d7dae5f46aed5228fa20ea48c8111ca5fd2b0083610dd73bc7"
+  },
+  "source-a840cb2a8b7ccce73e32": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "12370c51bc83ad57fa8fc047274d92dad168dfdb77e636f9354d582eb9dcf23d"
+  },
+  "source-df477621ff5efaea1f23": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "dfe744d18c735f26d9b685edbbdb1aa3a27f115befcc4822ac4f7bdeebc149ec"
+  },
+  "source-1a9a2200da6476ed6d42": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "accca8307e50cc816109d4a89b2224a6a80a9cf4965ae730356366d64d66e7c3"
+  },
+  "source-77f4540e33887ff485a2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "73d6388ea494055253314c7fb636d5ef118d5ab453e785985b16df6116389b48"
+  },
+  "source-c8f5d6d87d872d7f82ab": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "dec2a08c90bf1ef0f27b00810fbab770dd6d66317977a779e649995a28a1fa91"
+  },
+  "source-a5dca3b9f5edc2ea906e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "91bd71196622372e3e795d589317789df524e2383f8bab6c4aa2efa57f92e42c"
+  },
+  "source-24d514f919299785d40a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "a8bae57671e414d760f8a8d21d3c561f33dd50f1f5298592a940803ef27a4e91"
+  },
+  "source-db160efb7af82914914c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "75e5c5034ecaa885de2298ccecf231c7f4b8baf18941324ea59033ebca711db3"
+  },
+  "source-696f5ccbaa3c61392ba2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "026cfe2fe8a76f9ab47d1fac6dc1787ed110e0d55030364cbe60cd363a9c8791"
+  },
+  "source-7eef42cd24d37274a17a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "4031867049883b15bf291344e6e3ad5a5f6f778632618bedb55b1ccb142c8153"
+  },
+  "source-21e3355ed4a9e7ba81ca": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "7c6c2450b47d13e5d26a466aea2081927bf0d771728da094dee96aa91ace47a8"
+  },
+  "source-2a164374da8f6cd3d41f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "97604e66e7f0c631444171ab09ee6631ca4b3d1b1b65350f9c2c458fce7a62e9"
+  },
+  "source-f71dfe9977d5ddeb26a5": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "9565076d2efe5facf62e22f239b372a4322b8b6819ee2f85ad937be1db0733b0"
+  },
+  "source-911fdf2f49b20482620c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "7fe77a8852ac46c61c0b8ccff073521d0ef25545510e78bf42dbf38bb7bd711c"
+  },
+  "source-d6cbe9a0a107d041ba5a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "1206cde1453719e0022fa797d8fe0337cb8778650c6c0a4e9dc9b800b49e71c2"
+  },
+  "source-3924cac53b11dc09002d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "9bca6e5e7803500d4b270ef862114c0a6afbf11e5389b3e0fcd0b58fd00c809b"
+  },
+  "source-d94be003e43adadbcdb2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "e41f40eb18f9430ebf7a496bc0ed9b90ce8ad561e03c57b61492c448d6613e2e"
+  },
+  "source-d93e5702c5d22d2be6ae": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "47ff01bc8338e1a5f6fc08ae6cce7a59d68ecf104c7f425250a8b63121e4c63c"
+  },
+  "source-045e18103e21d6b2ddf9": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "96f3a70fb01238e0b515443f0ef93b1ba9767899e666e0b87dddefcdc174b3d4"
+  },
+  "source-e88e5ff8488107ad9359": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "c9016511408faaa583bfa18c0bc1fef63b3180fe7b2acd4f46a0edbe62360b3c"
+  },
+  "source-3b275128c522802fdc4e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "31f00e10fd1eddb27c45ae0c6c3a4fc8fa92bdc71580a20a6cfca1175f19b213"
+  },
+  "source-00cc930001f7268923dc": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "5528450346c1e0957540c947e748001057150e1ed066616227eaca2aa8f52f51"
+  },
+  "source-4c941763ae02696c0f0c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "547fd38d1e7eb2edce481621f84f59b62782fa51cf079502ed4563e069ef1572"
+  },
+  "source-1ceae71a162697edcb93": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "e9d9dba4a6ff70994847e73589fc563310e7ed5d891180c6353f3392b8dcb10b"
+  },
+  "source-c77b556e2a1bedfe90f8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "998090411aacb6ff89ea124ceba28d5ccb571199a3658b36d748f2718e76df75"
+  },
+  "source-fe97600b09d68f27e354": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "5f933d7840b5ff00dc3ba8d8d279b341f7de6579f98fd72d910dbe3952e83465"
+  },
+  "source-8194613ddef2932ab77b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "ffa033b044aa67d7158e7d7e4652d91a145e182bd4513216ba16c52f4df2ffb7"
+  },
+  "source-14f9d83ad016e717d11b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "37da20fa8602338171090db3cdd65a5848ee4761446bedcdf5a3a50d18f3446b"
+  },
+  "source-cbec52cbd51d3b2586f4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "8a2e693d6fa52358719741ae579bb2c672a25381f08a96071074cd6463bc1683"
+  },
+  "source-a0921235ce55e3b25986": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "0d5fa6428ea2cf93e681da473ea32cffc9ec4ecc6d8535c2a5aaa2ff7fd5e45f"
+  },
+  "source-9df28b4d16ee1f8da83b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "8a2e693d6fa52358719741ae579bb2c672a25381f08a96071074cd6463bc1683"
+  },
+  "source-ca682d1f849d87e57ceb": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "9d617a74b6b8f21a62061d4f2a95540636125a61fd90837d10e04112a68b1f8a"
+  },
+  "source-6a7f8dd97c696f2afbae": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "aaf2a946cca191471e01c4e023dc5973b77ed86dccc7d593dbfd9bc83c47ab90"
+  },
+  "source-3ffaa2d8319a30178ac2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "3cc3b38ea5397c74f5bc7aba7de3f63a48edc28671e5b091ae671a5a0a245617"
+  },
+  "source-fad927824f6938b6cb18": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "689c24a2524bf6912c189f3a7647be918edad94cf6c05750454baead4a71f991"
+  },
+  "source-f41b6b70179299f2458a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "33714010867c31978229cb2ed404c920541de7af3dd36e872c3e36f10b32f5ea"
+  },
+  "source-1d3bfb01704794c4ee2f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "8a2e693d6fa52358719741ae579bb2c672a25381f08a96071074cd6463bc1683"
+  },
+  "source-d87fd1582c1e81ee39b1": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "1e4191d2ea3e82b9a7c92f4204e1243389e5e1e2ef06cca1125cc7439a2ffe55"
+  },
+  "source-e7b413c54815a3b66cf8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "915a4b2bf680e06c541f9cc440adc4ff69a5905a9d0ecc289acf52571745f25e"
+  },
+  "source-9ec76825144b057151c4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "31cdecf4e4c491bd253c65ada07ec0dccc7d27d55a868acf586a6439e59acbe3"
+  },
+  "source-7cb2fc739f0cce7d56ba": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "915a4b2bf680e06c541f9cc440adc4ff69a5905a9d0ecc289acf52571745f25e"
+  },
+  "source-9b65cfa922c37c9fa8da": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "8a2e693d6fa52358719741ae579bb2c672a25381f08a96071074cd6463bc1683"
+  },
+  "source-28518ec35d7de5f9d379": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "915a4b2bf680e06c541f9cc440adc4ff69a5905a9d0ecc289acf52571745f25e"
+  },
+  "source-702469cc9891e5c93f8b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-0f0f2ca66fffe901bdd4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-309f18594e5173a710ea": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-27bb62758cae566254d2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-2012dc4e054192f6f7b0": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-d3e9d9d1ba5bd62d5a17": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-906141077888a7aadd76": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-a1e40ef4bfdf82ab4749": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-e46ea289fc665675cca7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-2af77db4d7df5f2e192b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-db8a0dd3fc0c85a352cd": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-69a25ca02111982048f4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-f2a648e94c6e9bd4e268": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d5a8d17e80c59fb0e0b04e9795d1e051c57009659ca1c7c3ab09983986ce489d"
+  },
+  "source-952bb4f043c24f549073": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "bf479ac8ad1b13fd67d72bae2f1af2313b2c9fe48ebf1fbdc4e7e6396d108859"
+  },
+  "source-562842684b00af58d265": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-5944604640e03aca579b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-95c84bb8a31ed238d820": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4f66ca1b16668e0f8a3d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-c5ce7066aa76470b242b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-796004f00a9610b8a0ec": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-a9a216a7fcf8ae8f9bb3": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-7d64a6f74b53eb01654b": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4ba2c3171537174884c2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-585b7facfb25a0221744": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-ecff4ad5e9cfe78f943f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-94b7be0b9fe7b26588c7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-9fe4a3f1aabe84d2fc2f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-cdcca20ee46dca5f5ad5": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4dd97dcec50e6dd56f46": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-5a562b6f5bf901bd5480": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-e881672d063ff25b88b3": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-ff69f329c5867f919fd8": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-e7602d038bc6d3406f60": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-34b55bac780ac3ac9025": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-d5cc732d8d247e590505": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-df5794ad7c53f7d0ce43": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-b66f48b554cc48166992": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-67cd46753df01acb57e6": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-825c6a15dd7fcb09ca27": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-db4dc152219ea1e75f0d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-e0995fda8dedc8070d62": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-a2997292f70ac3ea5b37": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-276170923bd77d6bbaf0": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-8b5767ac94cc09b2a759": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-c9ac8c16ec765eee590e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-a08d209a8f6a66c89a8f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-00ff70b3135ea0d2204a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-525186fdbe224b5bbdb2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-37858e26e2048f260fd2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-945b694b860765cd4c9f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-02841854e34ed1b286e2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-040b768bb93995960560": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-687033ef5d51954c7dac": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-5ba7a895839928cc1730": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-a65fbb1c75afffc909b7": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-d4fb6eb5add2dbe659a6": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4311e25a1493a0ffbb6a": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-aafc5f22d0901c125698": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-4cb7a08fb233023dd03c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-93c2096afca84352fa8e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-e5026ab95e19023e0731": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-10b1707391cdff40036d": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-5f517291c5871dab35b6": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-3644de77070dd1a38b7e": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-990c85836b1632cc2114": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-ac6e304ef26708c02455": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-73b08981834b4e3281d4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-419896da285adac8bbb4": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-a3e2daae933ec66f4a8f": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": null
+  },
+  "source-3ac14a4dafcf29e68030": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "d32754c54d83ac195abcb308eaf68261fcfcb9b7b72da56b8eef711a969e3ea3"
+  },
+  "source-f7a1d8eead95fa9f6af5": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "026cfe2fe8a76f9ab47d1fac6dc1787ed110e0d55030364cbe60cd363a9c8791"
+  },
+  "source-01e4066dfba99a5ec8b2": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "522b7d8d14c703d3e41e4109c72f8ad9c3d272ec492f9ef05d09da4341c5b358"
+  },
+  "source-c761ce0dff6bb73fc479": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "0375d01a60e95cccbb61becc87d3382fa2963db5805a5b82dcaa4606924331ea"
+  },
+  "source-1d837348cdb10c18394c": {
+    "kind": "provenance identifier; original working record retained separately",
+    "sha256": "14d933bf023985f48705d0226cf8290b071c84af7ed5fc817d86762d8a8c3b68"
+  }
+}

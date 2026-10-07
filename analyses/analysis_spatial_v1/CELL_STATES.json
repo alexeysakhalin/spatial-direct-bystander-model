@@ -1,0 +1,116 @@
+{
+  "states": [
+    {
+      "id": 0,
+      "name": "tumor AgHi CytoOff unprimed",
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": false,
+      "primed": false
+    },
+    {
+      "id": 1,
+      "name": "tumor AgHi CytoOn unprimed",
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": true,
+      "primed": false
+    },
+    {
+      "id": 2,
+      "name": "tumor AgLo CytoOff unprimed",
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": false,
+      "primed": false
+    },
+    {
+      "id": 3,
+      "name": "tumor AgLo CytoOn unprimed",
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": true,
+      "primed": false
+    },
+    {
+      "id": 4,
+      "name": "tumor AgHi CytoOff primed",
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": false,
+      "primed": true
+    },
+    {
+      "id": 5,
+      "name": "tumor AgHi CytoOn primed",
+      "role": "target",
+      "antigen": "AgHi",
+      "cytokine_death_enabled": true,
+      "primed": true
+    },
+    {
+      "id": 6,
+      "name": "tumor AgLo CytoOff primed",
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": false,
+      "primed": true
+    },
+    {
+      "id": 7,
+      "name": "tumor AgLo CytoOn primed",
+      "role": "target",
+      "antigen": "AgLo",
+      "cytokine_death_enabled": true,
+      "primed": true
+    },
+    {
+      "id": 8,
+      "name": "CD4 CAR T",
+      "role": "effector"
+    },
+    {
+      "id": 9,
+      "name": "CD8 CAR T",
+      "role": "effector"
+    },
+    {
+      "id": 10,
+      "name": "exhausted CAR T",
+      "role": "effector"
+    },
+    {
+      "id": 11,
+      "name": "tumor Ag0 CytoOff unprimed",
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": false,
+      "primed": false
+    },
+    {
+      "id": 12,
+      "name": "tumor Ag0 CytoOn unprimed",
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": true,
+      "primed": false
+    },
+    {
+      "id": 13,
+      "name": "tumor Ag0 CytoOff primed",
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": false,
+      "primed": true
+    },
+    {
+      "id": 14,
+      "name": "tumor Ag0 CytoOn primed",
+      "role": "target",
+      "antigen": "Ag0",
+      "cytokine_death_enabled": true,
+      "primed": true
+    }
+  ],
+  "interpretation": "Types and antigen status are assigned model states. Population composition is not a measured attribution of cell-death mechanisms."
+}

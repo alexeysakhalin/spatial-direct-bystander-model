@@ -1,0 +1,15 @@
+{
+  "CASE_METRICS.json": "afe002874872ce4d83be26ed4189741656cd227bd4851fb43b7e1e01206615e3",
+  "ENVIRONMENT.json": "de43ff39aeb42e0e74cdb4ddd2564824a2bb6f7bb050335579174e68ca45f9fa",
+  "PAIRED_CENTRAL_DIFFERENCES.json": "5a0dcc18877720285a0182c8db7fa1bdff277daff42f884bdcbb8cab36df6b73",
+  "REPLAY_VERIFICATION.json": "6bbb1207e43ea7d2ebb27fbd9f649c41b4cf391f61191025d09cf54fa84a953d",
+  "cases/kinetics_effector_background_loss_2d_seed0.json": "019b4cc48ac2170dd3edbb2bc3d7724d5b27b78b4012604cf1d2ac5721e515ee",
+  "cases/kinetics_effector_background_loss_3d_seed0.json": "f42045271e80e817124c91b818ca347a98a209c614d5177e061aef263df2ff3f",
+  "cases/kinetics_effector_background_loss_local_entry_seed0.json": "30dc32ce9711d2bba43f3b4cc9e8735bb94fff372b4d255a30c33272a5fb011c",
+  "cases/kinetics_growth_0p72_2d_seed0.json": "1ccdc17300dc9e77facbf8376c2c5e397d053cdc39aeb8f7c4bdc50e47b1e296",
+  "cases/kinetics_growth_0p72_3d_seed0.json": "e72412972cffe9aa2aea2dac22a179f1f245aa3fd48d0ae26d05751627ea3d28",
+  "cases/kinetics_growth_0p72_local_entry_seed0.json": "885c24f0c09953717594094404b8730213bef433aeed01293b8f38ba858c5464",
+  "cases/kinetics_growth_1p07_2d_seed0.json": "511421107441ee1ffc62d39543ad0e6e525ed58a718a9f541b20ba5f098f584e",
+  "cases/kinetics_growth_1p07_3d_seed0.json": "6afac3b73bb550198f6e3bec52da99870c1faa4ca3bd52705e73493b4127ab66",
+  "cases/kinetics_growth_1p07_local_entry_seed0.json": "441d38132c2ae2c7175e294ff7591b11598324dc3fe32854f60a3e563aa04207"
+}

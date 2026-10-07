@@ -1,0 +1,2676 @@
+[
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_targets/at_48h",
+    "value": 322,
+    "reference_seed0": 242,
+    "paired_difference": 80,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      229,
+      266
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_targets/at_72h",
+    "value": 250,
+    "reference_seed0": 143,
+    "paired_difference": 107,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      142,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_targets/at_96h",
+    "value": 169,
+    "reference_seed0": 81,
+    "paired_difference": 88,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      81,
+      90
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_targets/time_average_0_96h",
+    "value": 382.140625,
+    "reference_seed0": 301.1927083333333,
+    "paired_difference": 80.94791666666669,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      296.7291666666667,
+      307.96875
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_Ag_negative/at_48h",
+    "value": 322,
+    "reference_seed0": 242,
+    "paired_difference": 80,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      229,
+      265
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_Ag_negative/at_72h",
+    "value": 250,
+    "reference_seed0": 143,
+    "paired_difference": 107,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      142,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_Ag_negative/at_96h",
+    "value": 169,
+    "reference_seed0": 81,
+    "paired_difference": 88,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      81,
+      90
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_Ag_negative/time_average_0_96h",
+    "value": 306.828125,
+    "reference_seed0": 236.453125,
+    "paired_difference": 70.375,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      231.52083333333334,
+      245.78125
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_effectors/at_72h",
+    "value": 796,
+    "reference_seed0": 724,
+    "paired_difference": 72,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      724,
+      740
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_effectors/at_96h",
+    "value": 808,
+    "reference_seed0": 711,
+    "paired_difference": 97,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      711,
+      747
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_primed_targets/at_48h",
+    "value": 316,
+    "reference_seed0": 236,
+    "paired_difference": 80,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      223,
+      260
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_primed_targets/at_72h",
+    "value": 246,
+    "reference_seed0": 143,
+    "paired_difference": 103,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      141,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_primed_targets/at_96h",
+    "value": 169,
+    "reference_seed0": 81,
+    "paired_difference": 88,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      81,
+      90
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "count/live_primed_targets/time_average_0_96h",
+    "value": 295.953125,
+    "reference_seed0": 228.83854166666666,
+    "paired_difference": 67.11458333333334,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      221.40625,
+      234.15625
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+    "value": 0.3391891604179368,
+    "reference_seed0": 0.26448919851026964,
+    "paired_difference": 0.07469996190766715,
+    "reporting_tolerance": 0.05289783970205393,
+    "reference_N3_range": [
+      0.2262426701207943,
+      0.26448919851026964
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_24h",
+    "value": 0.308143288791721,
+    "reference_seed0": 0.2526598274760456,
+    "paired_difference": 0.055483461315675386,
+    "reporting_tolerance": 0.05053196549520912,
+    "reference_N3_range": [
+      0.21656363620216684,
+      0.2526598274760456
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_24h",
+    "value": 0.36592370966612264,
+    "reference_seed0": 0.2853056192872928,
+    "paired_difference": 0.08061809037882983,
+    "reporting_tolerance": 0.05706112385745857,
+    "reference_N3_range": [
+      0.233100775607873,
+      0.2853056192872928
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_24h",
+    "value": 0.8671133276428133,
+    "reference_seed0": 0.6484590332664122,
+    "paired_difference": 0.21865429437640116,
+    "reporting_tolerance": 0.12969180665328245,
+    "reference_N3_range": [
+      0.6150833449423695,
+      0.7414134299412806
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_24h",
+    "value": 0.3391891604179368,
+    "reference_seed0": 0.26448919851026964,
+    "paired_difference": 0.07469996190766715,
+    "reporting_tolerance": 0.05289783970205393,
+    "reference_N3_range": [
+      0.2262426701207943,
+      0.26448919851026964
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_24h",
+    "value": 0.308143288791721,
+    "reference_seed0": 0.2526598274760456,
+    "paired_difference": 0.055483461315675386,
+    "reporting_tolerance": 0.05053196549520912,
+    "reference_N3_range": [
+      0.21656363620216684,
+      0.2526598274760456
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_24h",
+    "value": 0.36592370966612264,
+    "reference_seed0": 0.2853056192872928,
+    "paired_difference": 0.08061809037882983,
+    "reporting_tolerance": 0.05706112385745857,
+    "reference_N3_range": [
+      0.233100775607873,
+      0.2853056192872928
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_3d_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_24h",
+    "value": 0.8671133276428133,
+    "reference_seed0": 0.6484590332664122,
+    "paired_difference": 0.21865429437640116,
+    "reporting_tolerance": 0.12969180665328245,
+    "reference_N3_range": [
+      0.6150833449423695,
+      0.7414134299412806
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_targets/at_24h",
+    "value": 525,
+    "reference_seed0": 450,
+    "paired_difference": 75,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      450,
+      469
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_targets/at_48h",
+    "value": 395,
+    "reference_seed0": 241,
+    "paired_difference": 154,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      241,
+      297
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_targets/at_72h",
+    "value": 321,
+    "reference_seed0": 167,
+    "paired_difference": 154,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      154,
+      191
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_targets/at_96h",
+    "value": 368,
+    "reference_seed0": 158,
+    "paired_difference": 210,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      147,
+      164
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_targets/time_average_0_96h",
+    "value": 468.6041666666667,
+    "reference_seed0": 349.625,
+    "paired_difference": 118.97916666666669,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      340.9114583333333,
+      373.4166666666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_48h",
+    "value": 339,
+    "reference_seed0": 211,
+    "paired_difference": 128,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      211,
+      264
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_72h",
+    "value": 316,
+    "reference_seed0": 165,
+    "paired_difference": 151,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      153,
+      188
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_96h",
+    "value": 366,
+    "reference_seed0": 158,
+    "paired_difference": 208,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      147,
+      164
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_Ag_negative/time_average_0_96h",
+    "value": 346.75,
+    "reference_seed0": 239.22916666666666,
+    "paired_difference": 107.52083333333334,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      235.43229166666666,
+      261.1354166666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_effectors/at_96h",
+    "value": 868,
+    "reference_seed0": 941,
+    "paired_difference": -73,
+    "reporting_tolerance": 61,
+    "reference_N3_range": [
+      880,
+      941
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_48h",
+    "value": 393,
+    "reference_seed0": 238,
+    "paired_difference": 155,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      238,
+      292
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_72h",
+    "value": 318,
+    "reference_seed0": 164,
+    "paired_difference": 154,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      153,
+      189
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_96h",
+    "value": 366,
+    "reference_seed0": 155,
+    "paired_difference": 211,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      146,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "count/live_primed_targets/time_average_0_96h",
+    "value": 385.59375,
+    "reference_seed0": 274.9947916666667,
+    "paired_difference": 110.59895833333331,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      262.2395833333333,
+      292.7135416666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+    "value": 0.20479043287190718,
+    "reference_seed0": 0.2584742398814979,
+    "paired_difference": -0.053683807009590745,
+    "reporting_tolerance": 0.051694847976299585,
+    "reference_N3_range": [
+      0.2584742398814979,
+      0.2703927896559255
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_48h",
+    "value": 0.14459890830492825,
+    "reference_seed0": 0.2343184727962795,
+    "paired_difference": -0.08971956449135124,
+    "reporting_tolerance": 0.0468636945592559,
+    "reference_N3_range": [
+      0.16029559124853313,
+      0.2343184727962795
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+    "value": 0.027349552132531162,
+    "reference_seed0": 0.04843066726224241,
+    "paired_difference": -0.02108111512971125,
+    "reporting_tolerance": 0.009686133452448483,
+    "reference_N3_range": [
+      0.01686084261402548,
+      0.04843066726224241
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_0/at_48h",
+    "value": 0.08843814552458296,
+    "reference_seed0": 0.11243629963806498,
+    "paired_difference": -0.023998154113482023,
+    "reporting_tolerance": 0.022487259927612996,
+    "reference_N3_range": [
+      0.07989176142571908,
+      0.11243629963806498
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_48h",
+    "value": 0.11094629162795397,
+    "reference_seed0": 0.1485296251411506,
+    "paired_difference": -0.03758333351319662,
+    "reporting_tolerance": 0.02970592502823012,
+    "reference_N3_range": [
+      0.11260840178869376,
+      0.1485296251411506
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_72h",
+    "value": 0.02227963913740892,
+    "reference_seed0": 0.029162277657546105,
+    "paired_difference": -0.006882638520137183,
+    "reporting_tolerance": 0.0058324555315092215,
+    "reference_N3_range": [
+      0.016723382632527237,
+      0.029162277657546105
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_24h",
+    "value": 0.19439324502402505,
+    "reference_seed0": 0.24831318266413238,
+    "paired_difference": -0.05391993764010733,
+    "reporting_tolerance": 0.04966263653282648,
+    "reference_N3_range": [
+      0.24087052426004762,
+      0.2516471827102016
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_48h",
+    "value": 0.12624478654748456,
+    "reference_seed0": 0.205104232886045,
+    "paired_difference": -0.07885944633856046,
+    "reporting_tolerance": 0.041020846577209,
+    "reference_N3_range": [
+      0.14665133626140758,
+      0.205104232886045
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_72h",
+    "value": 0.023137655976856183,
+    "reference_seed0": 0.033692493358895674,
+    "paired_difference": -0.010554837382039491,
+    "reporting_tolerance": 0.006738498671779135,
+    "reference_N3_range": [
+      0.01683204719179408,
+      0.033692493358895674
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_24h",
+    "value": 0.2221467687085204,
+    "reference_seed0": 0.2888870564685675,
+    "paired_difference": -0.06674028776004709,
+    "reporting_tolerance": 0.0577774112937135,
+    "reference_N3_range": [
+      0.2832339207231045,
+      0.2938266827822272
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_48h",
+    "value": 0.16527777394615117,
+    "reference_seed0": 0.28314529707847913,
+    "paired_difference": -0.11786752313232796,
+    "reporting_tolerance": 0.05662905941569583,
+    "reference_N3_range": [
+      0.17947996678099862,
+      0.28314529707847913
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_72h",
+    "value": 0.026375235001402136,
+    "reference_seed0": 0.05115104031388616,
+    "paired_difference": -0.024775805312484026,
+    "reporting_tolerance": 0.010230208062777232,
+    "reference_N3_range": [
+      0.016956726632723504,
+      0.05115104031388616
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_48h",
+    "value": 0.4482180503923776,
+    "reference_seed0": 0.7730231597261004,
+    "paired_difference": -0.32480510933372275,
+    "reporting_tolerance": 0.1546046319452201,
+    "reference_N3_range": [
+      0.44841926577964686,
+      0.7730231597261004
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_72h",
+    "value": 0.09733673689629792,
+    "reference_seed0": 0.49306990848313387,
+    "paired_difference": -0.39573317158683596,
+    "reporting_tolerance": 0.09861398169662677,
+    "reference_N3_range": [
+      0.017410090773416976,
+      0.49306990848313387
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_24h",
+    "value": 0.20479043287190718,
+    "reference_seed0": 0.2584742398814979,
+    "paired_difference": -0.053683807009590745,
+    "reporting_tolerance": 0.051694847976299585,
+    "reference_N3_range": [
+      0.2584742398814979,
+      0.2703927896559255
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_48h",
+    "value": 0.14459890830492825,
+    "reference_seed0": 0.2343184727962795,
+    "paired_difference": -0.08971956449135124,
+    "reporting_tolerance": 0.0468636945592559,
+    "reference_N3_range": [
+      0.16029559124853313,
+      0.2343184727962795
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_72h",
+    "value": 0.027349552132531162,
+    "reference_seed0": 0.04843066726224241,
+    "paired_difference": -0.02108111512971125,
+    "reporting_tolerance": 0.009686133452448483,
+    "reference_N3_range": [
+      0.01686084261402548,
+      0.04843066726224241
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_0/at_48h",
+    "value": 0.08843814552458296,
+    "reference_seed0": 0.11243629963806498,
+    "paired_difference": -0.023998154113482023,
+    "reporting_tolerance": 0.022487259927612996,
+    "reference_N3_range": [
+      0.07989176142571908,
+      0.11243629963806498
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_48h",
+    "value": 0.11094629162795397,
+    "reference_seed0": 0.1485296251411506,
+    "paired_difference": -0.03758333351319662,
+    "reporting_tolerance": 0.02970592502823012,
+    "reference_N3_range": [
+      0.11260840178869376,
+      0.1485296251411506
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_72h",
+    "value": 0.02227963913740892,
+    "reference_seed0": 0.029162277657546105,
+    "paired_difference": -0.006882638520137183,
+    "reporting_tolerance": 0.0058324555315092215,
+    "reference_N3_range": [
+      0.016723382632527237,
+      0.029162277657546105
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_24h",
+    "value": 0.19439324502402505,
+    "reference_seed0": 0.24831318266413238,
+    "paired_difference": -0.05391993764010733,
+    "reporting_tolerance": 0.04966263653282648,
+    "reference_N3_range": [
+      0.24087052426004762,
+      0.2516471827102016
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_48h",
+    "value": 0.12624478654748456,
+    "reference_seed0": 0.205104232886045,
+    "paired_difference": -0.07885944633856046,
+    "reporting_tolerance": 0.041020846577209,
+    "reference_N3_range": [
+      0.14665133626140758,
+      0.205104232886045
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_72h",
+    "value": 0.023137655976856183,
+    "reference_seed0": 0.033692493358895674,
+    "paired_difference": -0.010554837382039491,
+    "reporting_tolerance": 0.006738498671779135,
+    "reference_N3_range": [
+      0.01683204719179408,
+      0.033692493358895674
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_24h",
+    "value": 0.2221467687085204,
+    "reference_seed0": 0.2888870564685675,
+    "paired_difference": -0.06674028776004709,
+    "reporting_tolerance": 0.0577774112937135,
+    "reference_N3_range": [
+      0.2832339207231045,
+      0.2938266827822272
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_48h",
+    "value": 0.16527777394615117,
+    "reference_seed0": 0.28314529707847913,
+    "paired_difference": -0.11786752313232796,
+    "reporting_tolerance": 0.05662905941569583,
+    "reference_N3_range": [
+      0.17947996678099862,
+      0.28314529707847913
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_72h",
+    "value": 0.026375235001402136,
+    "reference_seed0": 0.05115104031388616,
+    "paired_difference": -0.024775805312484026,
+    "reporting_tolerance": 0.010230208062777232,
+    "reference_N3_range": [
+      0.016956726632723504,
+      0.05115104031388616
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_48h",
+    "value": 0.4482180503923776,
+    "reference_seed0": 0.7730231597261004,
+    "paired_difference": -0.32480510933372275,
+    "reporting_tolerance": 0.1546046319452201,
+    "reference_N3_range": [
+      0.44841926577964686,
+      0.7730231597261004
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_0p72_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_72h",
+    "value": 0.09733673689629792,
+    "reference_seed0": 0.49306990848313387,
+    "paired_difference": -0.39573317158683596,
+    "reporting_tolerance": 0.09861398169662677,
+    "reference_N3_range": [
+      0.017410090773416976,
+      0.49306990848313387
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_0p72_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_targets/at_24h",
+    "value": 472,
+    "reference_seed0": 342,
+    "paired_difference": 130,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      327,
+      343
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_targets/at_48h",
+    "value": 305,
+    "reference_seed0": 202,
+    "paired_difference": 103,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      191,
+      223
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_targets/time_average_0_96h",
+    "value": 367.765625,
+    "reference_seed0": 280.8333333333333,
+    "paired_difference": 86.93229166666669,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      268.21875,
+      285.6510416666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_Ag_negative/at_24h",
+    "value": 436,
+    "reference_seed0": 324,
+    "paired_difference": 112,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      317,
+      330
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_Ag_negative/at_48h",
+    "value": 303,
+    "reference_seed0": 201,
+    "paired_difference": 102,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      190,
+      223
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_Ag_negative/time_average_0_96h",
+    "value": 287.5677083333333,
+    "reference_seed0": 214.90625,
+    "paired_difference": 72.66145833333331,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      202.90625,
+      222.02604166666666
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_primed_targets/at_24h",
+    "value": 430,
+    "reference_seed0": 320,
+    "paired_difference": 110,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      310,
+      320
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_primed_targets/at_48h",
+    "value": 304,
+    "reference_seed0": 199,
+    "paired_difference": 105,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      191,
+      223
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_2d_seed0",
+    "metric": "count/live_primed_targets/time_average_0_96h",
+    "value": 266.1197916666667,
+    "reference_seed0": 193.625,
+    "paired_difference": 72.49479166666669,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      184.54166666666666,
+      198.05729166666666
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_2d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_targets/at_24h",
+    "value": 416,
+    "reference_seed0": 354,
+    "paired_difference": 62,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      343,
+      354
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_targets/at_48h",
+    "value": 414,
+    "reference_seed0": 242,
+    "paired_difference": 172,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      229,
+      266
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_targets/at_72h",
+    "value": 369,
+    "reference_seed0": 143,
+    "paired_difference": 226,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      142,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_targets/at_96h",
+    "value": 294,
+    "reference_seed0": 81,
+    "paired_difference": 213,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      81,
+      90
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_targets/time_average_0_96h",
+    "value": 454.0833333333333,
+    "reference_seed0": 301.1927083333333,
+    "paired_difference": 152.890625,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      296.7291666666667,
+      307.96875
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_Ag_negative/at_48h",
+    "value": 410,
+    "reference_seed0": 242,
+    "paired_difference": 168,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      229,
+      265
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_Ag_negative/at_72h",
+    "value": 369,
+    "reference_seed0": 143,
+    "paired_difference": 226,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      142,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_Ag_negative/at_96h",
+    "value": 294,
+    "reference_seed0": 81,
+    "paired_difference": 213,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      81,
+      90
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_Ag_negative/time_average_0_96h",
+    "value": 383.3958333333333,
+    "reference_seed0": 236.453125,
+    "paired_difference": 146.94270833333331,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      231.52083333333334,
+      245.78125
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_effectors/at_96h",
+    "value": 778,
+    "reference_seed0": 711,
+    "paired_difference": 67,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      711,
+      747
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_primed_targets/at_48h",
+    "value": 412,
+    "reference_seed0": 236,
+    "paired_difference": 176,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      223,
+      260
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_primed_targets/at_72h",
+    "value": 369,
+    "reference_seed0": 143,
+    "paired_difference": 226,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      141,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_primed_targets/at_96h",
+    "value": 294,
+    "reference_seed0": 81,
+    "paired_difference": 213,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      81,
+      90
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "count/live_primed_targets/time_average_0_96h",
+    "value": 374.1875,
+    "reference_seed0": 228.83854166666666,
+    "paired_difference": 145.34895833333334,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      221.40625,
+      234.15625
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_48h",
+    "value": 0.6310101283596751,
+    "reference_seed0": 0.18524469075517874,
+    "paired_difference": 0.44576543760449633,
+    "reporting_tolerance": 0.03704893815103575,
+    "reference_N3_range": [
+      0.18227792577475826,
+      0.18609614948514958
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_3d_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_48h",
+    "value": 0.6310101283596751,
+    "reference_seed0": 0.18524469075517874,
+    "paired_difference": 0.44576543760449633,
+    "reporting_tolerance": 0.03704893815103575,
+    "reference_N3_range": [
+      0.18227792577475826,
+      0.18609614948514958
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_3d_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_targets/at_24h",
+    "value": 568,
+    "reference_seed0": 450,
+    "paired_difference": 118,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      450,
+      469
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_targets/at_48h",
+    "value": 475,
+    "reference_seed0": 241,
+    "paired_difference": 234,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      241,
+      297
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_targets/at_72h",
+    "value": 411,
+    "reference_seed0": 167,
+    "paired_difference": 244,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      154,
+      191
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_targets/at_96h",
+    "value": 518,
+    "reference_seed0": 158,
+    "paired_difference": 360,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      147,
+      164
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_targets/time_average_0_96h",
+    "value": 541.9583333333334,
+    "reference_seed0": 349.625,
+    "paired_difference": 192.33333333333337,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      340.9114583333333,
+      373.4166666666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_24h",
+    "value": 400,
+    "reference_seed0": 314,
+    "paired_difference": 86,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      314,
+      337
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_48h",
+    "value": 391,
+    "reference_seed0": 211,
+    "paired_difference": 180,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      211,
+      264
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_72h",
+    "value": 393,
+    "reference_seed0": 165,
+    "paired_difference": 228,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      153,
+      188
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_Ag_negative/at_96h",
+    "value": 516,
+    "reference_seed0": 158,
+    "paired_difference": 358,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      147,
+      164
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_Ag_negative/time_average_0_96h",
+    "value": 404.8958333333333,
+    "reference_seed0": 239.22916666666666,
+    "paired_difference": 165.66666666666666,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      235.43229166666666,
+      261.1354166666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_24h",
+    "value": 542,
+    "reference_seed0": 437,
+    "paired_difference": 105,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      427,
+      442
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_48h",
+    "value": 472,
+    "reference_seed0": 238,
+    "paired_difference": 234,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      238,
+      292
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_72h",
+    "value": 410,
+    "reference_seed0": 164,
+    "paired_difference": 246,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      153,
+      189
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_primed_targets/at_96h",
+    "value": 516,
+    "reference_seed0": 155,
+    "paired_difference": 361,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      146,
+      163
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "count/live_primed_targets/time_average_0_96h",
+    "value": 462.3229166666667,
+    "reference_seed0": 274.9947916666667,
+    "paired_difference": 187.328125,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      262.2395833333333,
+      292.7135416666667
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/domain_volume_weighted_mean/at_72h",
+    "value": 0.036906111493609714,
+    "reference_seed0": 0.0157125050662506,
+    "paired_difference": 0.021193606427359114,
+    "reporting_tolerance": 0.0031425010132501204,
+    "reference_N3_range": [
+      0.011461194137578045,
+      0.0157125050662506
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+    "value": 0.010735295016630878,
+    "reference_seed0": 0.0022996778717124062,
+    "paired_difference": 0.008435617144918472,
+    "reporting_tolerance": 0.00045993557434248126,
+    "reference_N3_range": [
+      0.0013398693566410238,
+      0.0022996778717124062
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+    "value": 0.1030776285386795,
+    "reference_seed0": 0.04843066726224241,
+    "paired_difference": 0.05464696127643708,
+    "reporting_tolerance": 0.009686133452448483,
+    "reference_N3_range": [
+      0.01686084261402548,
+      0.04843066726224241
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+    "value": 0.015319201246033629,
+    "reference_seed0": 0.0029682254487785123,
+    "paired_difference": 0.012350975797255116,
+    "reporting_tolerance": 0.0005936450897557025,
+    "reference_N3_range": [
+      0.0017109023752669942,
+      0.0029682254487785123
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_0/at_72h",
+    "value": 0.05800149124794109,
+    "reference_seed0": 0.023256766925128104,
+    "paired_difference": 0.03474472432281298,
+    "reporting_tolerance": 0.004651353385025621,
+    "reference_N3_range": [
+      0.01629801502994308,
+      0.023256766925128104
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_0/at_96h",
+    "value": 0.014169241928980572,
+    "reference_seed0": 0.002867775023725631,
+    "paired_difference": 0.01130146690525494,
+    "reporting_tolerance": 0.0005735550047451263,
+    "reference_N3_range": [
+      0.0016615349041312958,
+      0.002867775023725631
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_72h",
+    "value": 0.07153212778358935,
+    "reference_seed0": 0.029162277657546105,
+    "paired_difference": 0.042369850126043246,
+    "reporting_tolerance": 0.0058324555315092215,
+    "reference_N3_range": [
+      0.016723382632527237,
+      0.029162277657546105
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_96h",
+    "value": 0.015035821282574845,
+    "reference_seed0": 0.002943234373053815,
+    "paired_difference": 0.01209258690952103,
+    "reporting_tolerance": 0.0005886468746107631,
+    "reference_N3_range": [
+      0.0016981618236691553,
+      0.002943234373053815
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_48h",
+    "value": 0.15152188680585832,
+    "reference_seed0": 0.205104232886045,
+    "paired_difference": -0.053582346080186694,
+    "reporting_tolerance": 0.041020846577209,
+    "reference_N3_range": [
+      0.14665133626140758,
+      0.205104232886045
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_72h",
+    "value": 0.08724726535363606,
+    "reference_seed0": 0.033692493358895674,
+    "paired_difference": 0.05355477199474038,
+    "reporting_tolerance": 0.006738498671779135,
+    "reference_N3_range": [
+      0.01683204719179408,
+      0.033692493358895674
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_96h",
+    "value": 0.015323505831884757,
+    "reference_seed0": 0.0029610581218577374,
+    "paired_difference": 0.012362447710027018,
+    "reporting_tolerance": 0.0005922116243715476,
+    "reference_N3_range": [
+      0.0017110594901725462,
+      0.0029610581218577374
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_48h",
+    "value": 0.21331670266859568,
+    "reference_seed0": 0.28314529707847913,
+    "paired_difference": -0.06982859440988345,
+    "reporting_tolerance": 0.05662905941569583,
+    "reference_N3_range": [
+      0.17947996678099862,
+      0.28314529707847913
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_72h",
+    "value": 0.11164784824974987,
+    "reference_seed0": 0.05115104031388616,
+    "paired_difference": 0.060496807935863706,
+    "reporting_tolerance": 0.010230208062777232,
+    "reference_N3_range": [
+      0.016956726632723504,
+      0.05115104031388616
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_96h",
+    "value": 0.015521583818827074,
+    "reference_seed0": 0.0029880815826063534,
+    "paired_difference": 0.01253350223622072,
+    "reporting_tolerance": 0.0005976163165212707,
+    "reference_N3_range": [
+      0.0017215341776987733,
+      0.0029880815826063534
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_24h",
+    "value": 0.7599419230773382,
+    "reference_seed0": 0.4843242965730166,
+    "paired_difference": 0.2756176265043216,
+    "reporting_tolerance": 0.09686485931460333,
+    "reference_N3_range": [
+      0.4843242965730166,
+      0.7965034284283874
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_96h",
+    "value": 0.01619910155985565,
+    "reference_seed0": 0.0030657197895734853,
+    "paired_difference": 0.013133381770282164,
+    "reporting_tolerance": 0.0006131439579146971,
+    "reference_N3_range": [
+      0.0017643187492000685,
+      0.0030657197895734853
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/domain_volume_weighted_mean/at_72h",
+    "value": 0.036906111493609714,
+    "reference_seed0": 0.0157125050662506,
+    "paired_difference": 0.021193606427359114,
+    "reporting_tolerance": 0.0031425010132501204,
+    "reference_N3_range": [
+      0.011461194137578045,
+      0.0157125050662506
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/domain_volume_weighted_mean/at_96h",
+    "value": 0.010735295016630878,
+    "reference_seed0": 0.0022996778717124062,
+    "paired_difference": 0.008435617144918472,
+    "reporting_tolerance": 0.00045993557434248126,
+    "reference_N3_range": [
+      0.0013398693566410238,
+      0.0022996778717124062
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_72h",
+    "value": 0.1030776285386795,
+    "reference_seed0": 0.04843066726224241,
+    "paired_difference": 0.05464696127643708,
+    "reporting_tolerance": 0.009686133452448483,
+    "reference_N3_range": [
+      0.01686084261402548,
+      0.04843066726224241
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_96h",
+    "value": 0.015319201246033629,
+    "reference_seed0": 0.0029682254487785123,
+    "paired_difference": 0.012350975797255116,
+    "reporting_tolerance": 0.0005936450897557025,
+    "reference_N3_range": [
+      0.0017109023752669942,
+      0.0029682254487785123
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_0/at_72h",
+    "value": 0.05800149124794109,
+    "reference_seed0": 0.023256766925128104,
+    "paired_difference": 0.03474472432281298,
+    "reporting_tolerance": 0.004651353385025621,
+    "reference_N3_range": [
+      0.01629801502994308,
+      0.023256766925128104
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_0/at_96h",
+    "value": 0.014169241928980572,
+    "reference_seed0": 0.002867775023725631,
+    "paired_difference": 0.01130146690525494,
+    "reporting_tolerance": 0.0005735550047451263,
+    "reference_N3_range": [
+      0.0016615349041312958,
+      0.002867775023725631
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_72h",
+    "value": 0.07153212778358935,
+    "reference_seed0": 0.029162277657546105,
+    "paired_difference": 0.042369850126043246,
+    "reporting_tolerance": 0.0058324555315092215,
+    "reference_N3_range": [
+      0.016723382632527237,
+      0.029162277657546105
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_96h",
+    "value": 0.015035821282574845,
+    "reference_seed0": 0.002943234373053815,
+    "paired_difference": 0.01209258690952103,
+    "reporting_tolerance": 0.0005886468746107631,
+    "reference_N3_range": [
+      0.0016981618236691553,
+      0.002943234373053815
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_48h",
+    "value": 0.15152188680585832,
+    "reference_seed0": 0.205104232886045,
+    "paired_difference": -0.053582346080186694,
+    "reporting_tolerance": 0.041020846577209,
+    "reference_N3_range": [
+      0.14665133626140758,
+      0.205104232886045
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_72h",
+    "value": 0.08724726535363606,
+    "reference_seed0": 0.033692493358895674,
+    "paired_difference": 0.05355477199474038,
+    "reporting_tolerance": 0.006738498671779135,
+    "reference_N3_range": [
+      0.01683204719179408,
+      0.033692493358895674
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_96h",
+    "value": 0.015323505831884757,
+    "reference_seed0": 0.0029610581218577374,
+    "paired_difference": 0.012362447710027018,
+    "reporting_tolerance": 0.0005922116243715476,
+    "reference_N3_range": [
+      0.0017110594901725462,
+      0.0029610581218577374
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_48h",
+    "value": 0.21331670266859568,
+    "reference_seed0": 0.28314529707847913,
+    "paired_difference": -0.06982859440988345,
+    "reporting_tolerance": 0.05662905941569583,
+    "reference_N3_range": [
+      0.17947996678099862,
+      0.28314529707847913
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_72h",
+    "value": 0.11164784824974987,
+    "reference_seed0": 0.05115104031388616,
+    "paired_difference": 0.060496807935863706,
+    "reporting_tolerance": 0.010230208062777232,
+    "reference_N3_range": [
+      0.016956726632723504,
+      0.05115104031388616
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_96h",
+    "value": 0.015521583818827074,
+    "reference_seed0": 0.0029880815826063534,
+    "paired_difference": 0.01253350223622072,
+    "reporting_tolerance": 0.0005976163165212707,
+    "reference_N3_range": [
+      0.0017215341776987733,
+      0.0029880815826063534
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_24h",
+    "value": 0.7599419230773382,
+    "reference_seed0": 0.4843242965730166,
+    "paired_difference": 0.2756176265043216,
+    "reporting_tolerance": 0.09686485931460333,
+    "reference_N3_range": [
+      0.4843242965730166,
+      0.7965034284283874
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_growth_1p07_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_96h",
+    "value": 0.01619910155985565,
+    "reference_seed0": 0.0030657197895734853,
+    "paired_difference": 0.013133381770282164,
+    "reporting_tolerance": 0.0006131439579146971,
+    "reference_N3_range": [
+      0.0017643187492000685,
+      0.0030657197895734853
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_growth_1p07_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "metric": "count/live_effectors/at_24h",
+    "value": 825,
+    "reference_seed0": 750,
+    "paired_difference": 75,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      732,
+      750
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_2d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "metric": "count/live_effectors/at_48h",
+    "value": 920,
+    "reference_seed0": 754,
+    "paired_difference": 166,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      738,
+      754
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_2d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "metric": "count/live_effectors/at_72h",
+    "value": 1018,
+    "reference_seed0": 762,
+    "paired_difference": 256,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      738,
+      762
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_2d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "metric": "count/live_effectors/at_96h",
+    "value": 1120,
+    "reference_seed0": 761,
+    "paired_difference": 359,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      725,
+      761
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_2d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_2d_seed0",
+    "metric": "count/live_effectors/time_average_0_96h",
+    "value": 916.40625,
+    "reference_seed0": 743.9635416666666,
+    "paired_difference": 172.44270833333337,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      726.9010416666666,
+      743.9635416666666
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_2d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "metric": "count/live_effectors/at_24h",
+    "value": 814,
+    "reference_seed0": 734,
+    "paired_difference": 80,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      722,
+      745
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_3d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "metric": "count/live_effectors/at_48h",
+    "value": 910,
+    "reference_seed0": 737,
+    "paired_difference": 173,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      737,
+      748
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_3d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "metric": "count/live_effectors/at_72h",
+    "value": 1001,
+    "reference_seed0": 724,
+    "paired_difference": 277,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      724,
+      740
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_3d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "metric": "count/live_effectors/at_96h",
+    "value": 1108,
+    "reference_seed0": 711,
+    "paired_difference": 397,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      711,
+      747
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_3d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_3d_seed0",
+    "metric": "count/live_effectors/time_average_0_96h",
+    "value": 898.7916666666666,
+    "reference_seed0": 715.0260416666666,
+    "paired_difference": 183.765625,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      715.0260416666666,
+      728.9427083333334
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_3d_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "count/live_effectors/at_24h",
+    "value": 849,
+    "reference_seed0": 777,
+    "paired_difference": 72,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      777,
+      797
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "count/live_effectors/at_48h",
+    "value": 1046,
+    "reference_seed0": 892,
+    "paired_difference": 154,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      842,
+      892
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "count/live_effectors/at_72h",
+    "value": 1188,
+    "reference_seed0": 915,
+    "paired_difference": 273,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      881,
+      915
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "count/live_effectors/at_96h",
+    "value": 1312,
+    "reference_seed0": 941,
+    "paired_difference": 371,
+    "reporting_tolerance": 61,
+    "reference_N3_range": [
+      880,
+      941
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "count/live_effectors/time_average_0_96h",
+    "value": 1016.0833333333334,
+    "reference_seed0": 843.1510416666666,
+    "paired_difference": 172.93229166666674,
+    "reporting_tolerance": 60.0,
+    "reference_N3_range": [
+      820.5885416666666,
+      843.1510416666666
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/domain_volume_weighted_mean/at_72h",
+    "value": 0.010764076971642472,
+    "reference_seed0": 0.0157125050662506,
+    "paired_difference": -0.004948428094608128,
+    "reporting_tolerance": 0.0031425010132501204,
+    "reference_N3_range": [
+      0.011461194137578045,
+      0.0157125050662506
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/domain_volume_weighted_mean/at_96h",
+    "value": 0.0016057224376278315,
+    "reference_seed0": 0.0022996778717124062,
+    "paired_difference": -0.0006939554340845747,
+    "reporting_tolerance": 0.00045993557434248126,
+    "reference_N3_range": [
+      0.0013398693566410238,
+      0.0022996778717124062
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_24h",
+    "value": 0.1850091972274218,
+    "reference_seed0": 0.2584742398814979,
+    "paired_difference": -0.07346504265407613,
+    "reporting_tolerance": 0.051694847976299585,
+    "reference_N3_range": [
+      0.2584742398814979,
+      0.2703927896559255
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_72h",
+    "value": 0.014124800617434513,
+    "reference_seed0": 0.04843066726224241,
+    "paired_difference": -0.0343058666448079,
+    "reporting_tolerance": 0.009686133452448483,
+    "reference_N3_range": [
+      0.01686084261402548,
+      0.04843066726224241
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_nearest_voxel_mean/at_96h",
+    "value": 0.0020519354676124596,
+    "reference_seed0": 0.0029682254487785123,
+    "paired_difference": -0.0009162899811660527,
+    "reporting_tolerance": 0.0005936450897557025,
+    "reference_N3_range": [
+      0.0017109023752669942,
+      0.0029682254487785123
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_0/at_24h",
+    "value": 0.1270379300304528,
+    "reference_seed0": 0.17893174548715032,
+    "paired_difference": -0.05189381545669752,
+    "reporting_tolerance": 0.035786349097430066,
+    "reference_N3_range": [
+      0.15826204069153296,
+      0.19082039023539552
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_0/at_72h",
+    "value": 0.01352348790569069,
+    "reference_seed0": 0.023256766925128104,
+    "paired_difference": -0.009733279019437414,
+    "reporting_tolerance": 0.004651353385025621,
+    "reference_N3_range": [
+      0.01629801502994308,
+      0.023256766925128104
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_0/at_96h",
+    "value": 0.0019545993151687422,
+    "reference_seed0": 0.002867775023725631,
+    "paired_difference": -0.000913175708556889,
+    "reporting_tolerance": 0.0005735550047451263,
+    "reference_N3_range": [
+      0.0016615349041312958,
+      0.002867775023725631
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_24h",
+    "value": 0.14856278357330302,
+    "reference_seed0": 0.2197951391035486,
+    "paired_difference": -0.07123235553024557,
+    "reporting_tolerance": 0.04395902782070972,
+    "reference_N3_range": [
+      0.21079010754578317,
+      0.22691106725974167
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_72h",
+    "value": 0.014023307350509658,
+    "reference_seed0": 0.029162277657546105,
+    "paired_difference": -0.015138970307036446,
+    "reporting_tolerance": 0.0058324555315092215,
+    "reference_N3_range": [
+      0.016723382632527237,
+      0.029162277657546105
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_25/at_96h",
+    "value": 0.002033300928023405,
+    "reference_seed0": 0.002943234373053815,
+    "paired_difference": -0.00090993344503041,
+    "reporting_tolerance": 0.0005886468746107631,
+    "reference_N3_range": [
+      0.0016981618236691553,
+      0.002943234373053815
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_24h",
+    "value": 0.17049664322350427,
+    "reference_seed0": 0.24831318266413238,
+    "paired_difference": -0.07781653944062811,
+    "reporting_tolerance": 0.04966263653282648,
+    "reference_N3_range": [
+      0.24087052426004762,
+      0.2516471827102016
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_72h",
+    "value": 0.014129235940677954,
+    "reference_seed0": 0.033692493358895674,
+    "paired_difference": -0.019563257418217718,
+    "reporting_tolerance": 0.006738498671779135,
+    "reference_N3_range": [
+      0.01683204719179408,
+      0.033692493358895674
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_50/at_96h",
+    "value": 0.002050692178505339,
+    "reference_seed0": 0.0029610581218577374,
+    "paired_difference": -0.0009103659433523982,
+    "reporting_tolerance": 0.0005922116243715476,
+    "reference_N3_range": [
+      0.0017110594901725462,
+      0.0029610581218577374
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_24h",
+    "value": 0.19446032877482525,
+    "reference_seed0": 0.2888870564685675,
+    "paired_difference": -0.09442672769374225,
+    "reporting_tolerance": 0.0577774112937135,
+    "reference_N3_range": [
+      0.2832339207231045,
+      0.2938266827822272
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_72h",
+    "value": 0.014234874611955467,
+    "reference_seed0": 0.05115104031388616,
+    "paired_difference": -0.036916165701930695,
+    "reporting_tolerance": 0.010230208062777232,
+    "reference_N3_range": [
+      0.016956726632723504,
+      0.05115104031388616
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_75/at_96h",
+    "value": 0.0020730535520472183,
+    "reference_seed0": 0.0029880815826063534,
+    "paired_difference": -0.0009150280305591351,
+    "reporting_tolerance": 0.0005976163165212707,
+    "reference_N3_range": [
+      0.0017215341776987733,
+      0.0029880815826063534
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_24h",
+    "value": 0.5849640207908926,
+    "reference_seed0": 0.4843242965730166,
+    "paired_difference": 0.10063972421787598,
+    "reporting_tolerance": 0.09686485931460333,
+    "reference_N3_range": [
+      0.4843242965730166,
+      0.7965034284283874
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_72h",
+    "value": 0.014552368364479042,
+    "reference_seed0": 0.49306990848313387,
+    "paired_difference": -0.4785175401186548,
+    "reporting_tolerance": 0.09861398169662677,
+    "reference_N3_range": [
+      0.017410090773416976,
+      0.49306990848313387
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/IFN-gamma/target_quantile_100/at_96h",
+    "value": 0.0021268630500780334,
+    "reference_seed0": 0.0030657197895734853,
+    "paired_difference": -0.0009388567394954519,
+    "reporting_tolerance": 0.0006131439579146971,
+    "reference_N3_range": [
+      0.0017643187492000685,
+      0.0030657197895734853
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/domain_volume_weighted_mean/at_72h",
+    "value": 0.010764076971642472,
+    "reference_seed0": 0.0157125050662506,
+    "paired_difference": -0.004948428094608128,
+    "reporting_tolerance": 0.0031425010132501204,
+    "reference_N3_range": [
+      0.011461194137578045,
+      0.0157125050662506
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/domain_volume_weighted_mean/at_96h",
+    "value": 0.0016057224376278315,
+    "reference_seed0": 0.0022996778717124062,
+    "paired_difference": -0.0006939554340845747,
+    "reporting_tolerance": 0.00045993557434248126,
+    "reference_N3_range": [
+      0.0013398693566410238,
+      0.0022996778717124062
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_24h",
+    "value": 0.1850091972274218,
+    "reference_seed0": 0.2584742398814979,
+    "paired_difference": -0.07346504265407613,
+    "reporting_tolerance": 0.051694847976299585,
+    "reference_N3_range": [
+      0.2584742398814979,
+      0.2703927896559255
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_72h",
+    "value": 0.014124800617434513,
+    "reference_seed0": 0.04843066726224241,
+    "paired_difference": -0.0343058666448079,
+    "reporting_tolerance": 0.009686133452448483,
+    "reference_N3_range": [
+      0.01686084261402548,
+      0.04843066726224241
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_nearest_voxel_mean/at_96h",
+    "value": 0.0020519354676124596,
+    "reference_seed0": 0.0029682254487785123,
+    "paired_difference": -0.0009162899811660527,
+    "reporting_tolerance": 0.0005936450897557025,
+    "reference_N3_range": [
+      0.0017109023752669942,
+      0.0029682254487785123
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_0/at_24h",
+    "value": 0.1270379300304528,
+    "reference_seed0": 0.17893174548715032,
+    "paired_difference": -0.05189381545669752,
+    "reporting_tolerance": 0.035786349097430066,
+    "reference_N3_range": [
+      0.15826204069153296,
+      0.19082039023539552
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_0/at_72h",
+    "value": 0.01352348790569069,
+    "reference_seed0": 0.023256766925128104,
+    "paired_difference": -0.009733279019437414,
+    "reporting_tolerance": 0.004651353385025621,
+    "reference_N3_range": [
+      0.01629801502994308,
+      0.023256766925128104
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_0/at_96h",
+    "value": 0.0019545993151687422,
+    "reference_seed0": 0.002867775023725631,
+    "paired_difference": -0.000913175708556889,
+    "reporting_tolerance": 0.0005735550047451263,
+    "reference_N3_range": [
+      0.0016615349041312958,
+      0.002867775023725631
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_24h",
+    "value": 0.14856278357330302,
+    "reference_seed0": 0.2197951391035486,
+    "paired_difference": -0.07123235553024557,
+    "reporting_tolerance": 0.04395902782070972,
+    "reference_N3_range": [
+      0.21079010754578317,
+      0.22691106725974167
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_72h",
+    "value": 0.014023307350509658,
+    "reference_seed0": 0.029162277657546105,
+    "paired_difference": -0.015138970307036446,
+    "reporting_tolerance": 0.0058324555315092215,
+    "reference_N3_range": [
+      0.016723382632527237,
+      0.029162277657546105
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_25/at_96h",
+    "value": 0.002033300928023405,
+    "reference_seed0": 0.002943234373053815,
+    "paired_difference": -0.00090993344503041,
+    "reporting_tolerance": 0.0005886468746107631,
+    "reference_N3_range": [
+      0.0016981618236691553,
+      0.002943234373053815
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_24h",
+    "value": 0.17049664322350427,
+    "reference_seed0": 0.24831318266413238,
+    "paired_difference": -0.07781653944062811,
+    "reporting_tolerance": 0.04966263653282648,
+    "reference_N3_range": [
+      0.24087052426004762,
+      0.2516471827102016
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_72h",
+    "value": 0.014129235940677954,
+    "reference_seed0": 0.033692493358895674,
+    "paired_difference": -0.019563257418217718,
+    "reporting_tolerance": 0.006738498671779135,
+    "reference_N3_range": [
+      0.01683204719179408,
+      0.033692493358895674
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_50/at_96h",
+    "value": 0.002050692178505339,
+    "reference_seed0": 0.0029610581218577374,
+    "paired_difference": -0.0009103659433523982,
+    "reporting_tolerance": 0.0005922116243715476,
+    "reference_N3_range": [
+      0.0017110594901725462,
+      0.0029610581218577374
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_24h",
+    "value": 0.19446032877482525,
+    "reference_seed0": 0.2888870564685675,
+    "paired_difference": -0.09442672769374225,
+    "reporting_tolerance": 0.0577774112937135,
+    "reference_N3_range": [
+      0.2832339207231045,
+      0.2938266827822272
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_72h",
+    "value": 0.014234874611955467,
+    "reference_seed0": 0.05115104031388616,
+    "paired_difference": -0.036916165701930695,
+    "reporting_tolerance": 0.010230208062777232,
+    "reference_N3_range": [
+      0.016956726632723504,
+      0.05115104031388616
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_75/at_96h",
+    "value": 0.0020730535520472183,
+    "reference_seed0": 0.0029880815826063534,
+    "paired_difference": -0.0009150280305591351,
+    "reporting_tolerance": 0.0005976163165212707,
+    "reference_N3_range": [
+      0.0017215341776987733,
+      0.0029880815826063534
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_24h",
+    "value": 0.5849640207908926,
+    "reference_seed0": 0.4843242965730166,
+    "paired_difference": 0.10063972421787598,
+    "reporting_tolerance": 0.09686485931460333,
+    "reference_N3_range": [
+      0.4843242965730166,
+      0.7965034284283874
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_72h",
+    "value": 0.014552368364479042,
+    "reference_seed0": 0.49306990848313387,
+    "paired_difference": -0.4785175401186548,
+    "reporting_tolerance": 0.09861398169662677,
+    "reference_N3_range": [
+      0.017410090773416976,
+      0.49306990848313387
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  },
+  {
+    "case": "kinetics_effector_background_loss_local_entry_seed0",
+    "metric": "exposure/TNF/target_quantile_100/at_96h",
+    "value": 0.0021268630500780334,
+    "reference_seed0": 0.0030657197895734853,
+    "paired_difference": -0.0009388567394954519,
+    "reporting_tolerance": 0.0006131439579146971,
+    "reference_N3_range": [
+      0.0017643187492000685,
+      0.0030657197895734853
+    ],
+    "disposition": "Interpreted with full trajectory, population, field and spatial evidence in CASE_ASSESSMENTS_EN.json. Retained without changing tolerances or fitting parameters.",
+    "case_interpretation_reference": "kinetics_effector_background_loss_local_entry_seed0"
+  }
+]

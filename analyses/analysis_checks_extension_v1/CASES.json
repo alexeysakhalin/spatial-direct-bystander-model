@@ -1,0 +1,102 @@
+[
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 600,
+    "id": "te2_local_entry_mesh20_diffdt_half_seed0",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8e4036a3577a77bcf62b555f94ae741ee65f593a4987db84c527889ec49a7842"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 0,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 600,
+    "id": "te2_local_entry_mesh20_diffdt_half_seed1",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "e8af774b1b947b9dc3922647e8fe803625efa4f3720d72a2b665224fbc416a90"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 1,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 600,
+    "id": "te2_local_entry_mesh20_diffdt_half_seed2",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "f65b289f34b93e7dc8adae127b9da8db465bcf242478560eca35f5fc46214674"
+    },
+    "reference_ratio": 2,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 2,
+    "target_to_effector_ratio": 2,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 240,
+    "id": "te5_local_entry_mesh_half_seed1",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "ca428ff08889cca924a92b0a083e524edfb77e503fda82cc1911dff8a32e6f65",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "8d15c8aeae3798b3afc3723f64bb8481eda4a55b692cc8987aac855a761bc9d3"
+    },
+    "reference_ratio": 5,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 1,
+    "target_to_effector_ratio": 5,
+    "targets": 1200,
+    "technical_exit_code": 0
+  },
+  {
+    "arm": "local_entry",
+    "domain_volume_um3": 1728000000.0,
+    "effectors": 240,
+    "id": "te5_local_entry_mesh_half_seed2",
+    "max_concentration": 1.0,
+    "native_full_field_reference": true,
+    "no_effectors_control": false,
+    "portable_input_sha256": {
+      "cells.csv": "ac11313ad5dedced243dfb010f9b9fb701fe16d099e97d9508b96ed545145580",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010",
+      "settings.xml": "21ebd89ff0efda318cd10877d61d6e5b25632053509c9e971deb39ba6586695c"
+    },
+    "reference_ratio": 5,
+    "reservoir_volume_um3": 1728000000.0,
+    "seed": 2,
+    "target_to_effector_ratio": 5,
+    "targets": 1200,
+    "technical_exit_code": 0
+  }
+]

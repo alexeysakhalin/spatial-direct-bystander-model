@@ -1,0 +1,542 @@
+[
+  {
+    "ratio": 2,
+    "setting": "baseline",
+    "contrast": "3d minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      20.359375,
+      39.75,
+      11.078125
+    ],
+    "endpoint_differences": [
+      17,
+      40,
+      35
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "baseline",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      68.79166666666667,
+      105.19791666666667,
+      55.260416666666664
+    ],
+    "endpoint_differences": [
+      94,
+      114,
+      100
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "baseline",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      48.432291666666664,
+      65.44791666666667,
+      44.182291666666664
+    ],
+    "endpoint_differences": [
+      77,
+      74,
+      65
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      false
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "dt_half",
+    "contrast": "3d minus 2d",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "time_average_differences": [
+      12.666666666666666
+    ],
+    "endpoint_differences": [
+      30
+    ],
+    "hourly_crossings": [
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "dt_half",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "time_average_differences": [
+      80.54166666666667
+    ],
+    "endpoint_differences": [
+      138
+    ],
+    "hourly_crossings": [
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "dt_half",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      67.875,
+      54.661458333333336,
+      47.989583333333336
+    ],
+    "endpoint_differences": [
+      108,
+      61,
+      78
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "fine_grid_with_local_entry_transport_step_halved",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      61.510416666666664,
+      64.5,
+      63.411458333333336
+    ],
+    "endpoint_differences": [
+      200,
+      212,
+      175
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "fine_grid_with_local_entry_transport_step_halved",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      64.453125,
+      57.838541666666664,
+      35.973958333333336
+    ],
+    "endpoint_differences": [
+      195,
+      181,
+      147
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "mesh_half",
+    "contrast": "3d minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      -2.9427083333333335,
+      6.661458333333333,
+      27.4375
+    ],
+    "endpoint_differences": [
+      5,
+      31,
+      28
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": false,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "mesh_half",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      83.55208333333333,
+      73.61458333333333,
+      106.28645833333333
+    ],
+    "endpoint_differences": [
+      228,
+      228,
+      249
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 2,
+    "setting": "mesh_half",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      86.49479166666667,
+      66.953125,
+      78.84895833333333
+    ],
+    "endpoint_differences": [
+      223,
+      197,
+      221
+    ],
+    "hourly_crossings": [
+      true,
+      false,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "baseline",
+    "contrast": "3d minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      -37.088541666666664,
+      -41.432291666666664,
+      -33.223958333333336
+    ],
+    "endpoint_differences": [
+      -15,
+      11,
+      3
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": false,
+    "all_integral_differences_negative": true,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "baseline",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      43.854166666666664,
+      74.07291666666667,
+      80.78645833333333
+    ],
+    "endpoint_differences": [
+      62,
+      82,
+      39
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "baseline",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      80.94270833333333,
+      115.50520833333333,
+      114.01041666666667
+    ],
+    "endpoint_differences": [
+      77,
+      71,
+      36
+    ],
+    "hourly_crossings": [
+      true,
+      false,
+      false
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "dt_half",
+    "contrast": "3d minus 2d",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "time_average_differences": [
+      -25.505208333333332
+    ],
+    "endpoint_differences": [
+      11
+    ],
+    "hourly_crossings": [
+      true
+    ],
+    "all_integral_differences_positive": false,
+    "all_integral_differences_negative": true,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "dt_half",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "time_average_differences": [
+      62.552083333333336
+    ],
+    "endpoint_differences": [
+      76
+    ],
+    "hourly_crossings": [
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "dt_half",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0
+    ],
+    "n": 1,
+    "time_average_differences": [
+      88.05729166666667
+    ],
+    "endpoint_differences": [
+      65
+    ],
+    "hourly_crossings": [
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "mesh_half",
+    "contrast": "3d minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      -42.463541666666664,
+      -46.473958333333336,
+      -42.401041666666664
+    ],
+    "endpoint_differences": [
+      -7,
+      -3,
+      -3
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": false,
+    "all_integral_differences_negative": true,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "mesh_half",
+    "contrast": "local_entry minus 2d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      -15.8125,
+      1.6302083333333333,
+      5.546875
+    ],
+    "endpoint_differences": [
+      120,
+      123,
+      123
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": false,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  },
+  {
+    "ratio": 5,
+    "setting": "mesh_half",
+    "contrast": "local_entry minus 3d",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "n": 3,
+    "time_average_differences": [
+      26.651041666666668,
+      48.104166666666664,
+      47.947916666666664
+    ],
+    "endpoint_differences": [
+      127,
+      126,
+      126
+    ],
+    "hourly_crossings": [
+      true,
+      true,
+      true
+    ],
+    "all_integral_differences_positive": true,
+    "all_integral_differences_negative": false,
+    "convergence_or_significance_claim": false
+  }
+]

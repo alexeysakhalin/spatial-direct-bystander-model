@@ -1,0 +1,47 @@
+[
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "te2_local_entry_mesh20_diffdt_half_seed0",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.9669340973773986e-11,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "te2_local_entry_mesh20_diffdt_half_seed1",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.968413243784273e-11,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "te2_local_entry_mesh20_diffdt_half_seed2",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.9455263180013244e-11,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "te5_local_entry_mesh_half_seed1",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.8614830763430958e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  },
+  {
+    "all_field_states": 99,
+    "balance_rows": 196,
+    "case": "te5_local_entry_mesh_half_seed2",
+    "hourly_count_states": 97,
+    "max_independent_relative_balance_residual": 1.794291005780686e-12,
+    "native_exit_code": 0,
+    "native_full_field_reference": true
+  }
+]

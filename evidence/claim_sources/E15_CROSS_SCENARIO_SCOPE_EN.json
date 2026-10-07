@@ -1,0 +1,210 @@
+{
+  "utc": "2026-10-06T17:31:23.385321+00:00",
+  "all_six_seed0_checks_complete": true,
+  "contrast_rows": 594,
+  "endpoint_and_integral_contrasts": [
+    {
+      "contrast": "3d minus 2d",
+      "kind": "mesh_half",
+      "metric": "count/live_targets/time_average_0_96h",
+      "time_h": null,
+      "refined_seed0": -42.46354166666663,
+      "baseline_seeds_0_1_2": [
+        -37.088541666666686,
+        -41.432291666666686,
+        -33.223958333333314
+      ],
+      "paired_delta_seed0": -5.374999999999943,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "3d minus 2d",
+      "kind": "mesh_half",
+      "metric": "count/live_targets/at_96h",
+      "time_h": null,
+      "refined_seed0": -7,
+      "baseline_seeds_0_1_2": [
+        -15,
+        11,
+        3
+      ],
+      "paired_delta_seed0": 8,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 2d",
+      "kind": "mesh_half",
+      "metric": "count/live_targets/time_average_0_96h",
+      "time_h": null,
+      "refined_seed0": -15.8125,
+      "baseline_seeds_0_1_2": [
+        43.854166666666686,
+        74.07291666666663,
+        80.78645833333337
+      ],
+      "paired_delta_seed0": -59.666666666666686,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 2d",
+      "kind": "mesh_half",
+      "metric": "count/live_targets/at_96h",
+      "time_h": null,
+      "refined_seed0": 120,
+      "baseline_seeds_0_1_2": [
+        62,
+        82,
+        39
+      ],
+      "paired_delta_seed0": 58,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 3d",
+      "kind": "mesh_half",
+      "metric": "count/live_targets/time_average_0_96h",
+      "time_h": null,
+      "refined_seed0": 26.65104166666663,
+      "baseline_seeds_0_1_2": [
+        80.94270833333337,
+        115.50520833333331,
+        114.01041666666669
+      ],
+      "paired_delta_seed0": -54.29166666666674,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 3d",
+      "kind": "mesh_half",
+      "metric": "count/live_targets/at_96h",
+      "time_h": null,
+      "refined_seed0": 127,
+      "baseline_seeds_0_1_2": [
+        77,
+        71,
+        36
+      ],
+      "paired_delta_seed0": 50,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "3d minus 2d",
+      "kind": "dt_half",
+      "metric": "count/live_targets/time_average_0_96h",
+      "time_h": null,
+      "refined_seed0": -25.505208333333314,
+      "baseline_seeds_0_1_2": [
+        -37.088541666666686,
+        -41.432291666666686,
+        -33.223958333333314
+      ],
+      "paired_delta_seed0": 11.583333333333371,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "3d minus 2d",
+      "kind": "dt_half",
+      "metric": "count/live_targets/at_96h",
+      "time_h": null,
+      "refined_seed0": 11,
+      "baseline_seeds_0_1_2": [
+        -15,
+        11,
+        3
+      ],
+      "paired_delta_seed0": 26,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 2d",
+      "kind": "dt_half",
+      "metric": "count/live_targets/time_average_0_96h",
+      "time_h": null,
+      "refined_seed0": 62.552083333333314,
+      "baseline_seeds_0_1_2": [
+        43.854166666666686,
+        74.07291666666663,
+        80.78645833333337
+      ],
+      "paired_delta_seed0": 18.69791666666663,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 2d",
+      "kind": "dt_half",
+      "metric": "count/live_targets/at_96h",
+      "time_h": null,
+      "refined_seed0": 76,
+      "baseline_seeds_0_1_2": [
+        62,
+        82,
+        39
+      ],
+      "paired_delta_seed0": 14,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 3d",
+      "kind": "dt_half",
+      "metric": "count/live_targets/time_average_0_96h",
+      "time_h": null,
+      "refined_seed0": 88.05729166666663,
+      "baseline_seeds_0_1_2": [
+        80.94270833333337,
+        115.50520833333331,
+        114.01041666666669
+      ],
+      "paired_delta_seed0": 7.1145833333332575,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    },
+    {
+      "contrast": "local_entry minus 3d",
+      "kind": "dt_half",
+      "metric": "count/live_targets/at_96h",
+      "time_h": null,
+      "refined_seed0": 65,
+      "baseline_seeds_0_1_2": [
+        77,
+        71,
+        36
+      ],
+      "paired_delta_seed0": -12,
+      "refined_n": 1,
+      "refined_N3_range_available": false,
+      "statistical_significance_claim": false
+    }
+  ],
+  "interpretation": [
+    "For TE5 the fine-mesh seed0 local-entry minus2D time-average contrast is -15.8125 living targets, versus +43.8542,+74.0729,+80.7865 in baseline pairedN3. This is a retained reversal of that observable, not proof of a stable opposite biological ordering.",
+    "At96h the same fine-mesh seed0 local-entry minus2D contrast is +120 targets. Integral and endpoint conclusions differ; preserve the full curves.",
+    "The 3D minus2D integral remains negative in the six seed0 numerical screens shown here. This limited result cannot establish whole-comparison robustness across both ratios, parameters or all required seed repeats.",
+    "The prior baseline statement that local entry has a higher integral than both other representations remains a baseline-specific observation; it is not accepted as mesh-invariant.",
+    "No pure dimensionality or validated in vivo claim follows from these scenarios. No existing raw output is discarded or numerical rule tuned to restore a preferred order."
+  ],
+  "required_next": "Both already specified seeds1and2 for the flagged local-entry mesh variant; pairedN3 scalar/spatial and hourly review.",
+  "scientific_convergence_accepted": false,
+  "kinetic_gate_released": false,
+  "central_comparison_retained": true
+}

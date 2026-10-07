@@ -1,0 +1,13 @@
+Spatial Direct–Bystander Model: data, figures and scientific documentation
+
+The project-owned simulation data, figures and scientific documentation are
+licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Reuse, redistribution and adaptation require appropriate attribution, a link
+to the licence, and indication of changes. Scientific claims and limitations
+must not be represented as endorsed by the original authors of an adaptation.
+Third-party source code and notices retain their own licences. The MIT licence
+in LICENSE applies to project-owned software. No full text of third-party
+research articles or private manuscripts is included.

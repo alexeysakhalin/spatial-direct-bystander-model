@@ -1,0 +1,98 @@
+[
+  {
+    "ratio": 2,
+    "arm": "2d",
+    "targets_96h": {
+      "mean": 53.666666666666664,
+      "min": 47,
+      "max": 64
+    },
+    "time_average_targets_0_96h": {
+      "mean": 278.234375,
+      "min": 268.21875,
+      "max": 285.6510416666667
+    },
+    "target_fraction_96h": 0.04472222222222222,
+    "normalized_target_AUC_hours": 22.25875
+  },
+  {
+    "ratio": 2,
+    "arm": "3d",
+    "targets_96h": {
+      "mean": 84.33333333333333,
+      "min": 81,
+      "max": 90
+    },
+    "time_average_targets_0_96h": {
+      "mean": 301.9635416666667,
+      "min": 296.7291666666667,
+      "max": 307.96875
+    },
+    "target_fraction_96h": 0.07027777777777777,
+    "normalized_target_AUC_hours": 24.157083333333333
+  },
+  {
+    "ratio": 2,
+    "arm": "local_entry",
+    "targets_96h": {
+      "mean": 156.33333333333334,
+      "min": 147,
+      "max": 164
+    },
+    "time_average_targets_0_96h": {
+      "mean": 354.6510416666667,
+      "min": 340.9114583333333,
+      "max": 373.4166666666667
+    },
+    "target_fraction_96h": 0.1302777777777778,
+    "normalized_target_AUC_hours": 28.372083333333332
+  },
+  {
+    "ratio": 5,
+    "arm": "2d",
+    "targets_96h": {
+      "mean": 75.33333333333333,
+      "min": 62,
+      "max": 84
+    },
+    "time_average_targets_0_96h": {
+      "mean": 402.9375,
+      "min": 394.3958333333333,
+      "max": 412.1875
+    },
+    "target_fraction_96h": 0.06277777777777778,
+    "normalized_target_AUC_hours": 32.235
+  },
+  {
+    "ratio": 5,
+    "arm": "3d",
+    "targets_96h": {
+      "mean": 75.0,
+      "min": 69,
+      "max": 83
+    },
+    "time_average_targets_0_96h": {
+      "mean": 365.6892361111111,
+      "min": 360.796875,
+      "max": 375.0989583333333
+    },
+    "target_fraction_96h": 0.0625,
+    "normalized_target_AUC_hours": 29.255138888888887
+  },
+  {
+    "ratio": 5,
+    "arm": "local_entry",
+    "targets_96h": {
+      "mean": 136.33333333333334,
+      "min": 119,
+      "max": 146
+    },
+    "time_average_targets_0_96h": {
+      "mean": 469.17534722222223,
+      "min": 456.0416666666667,
+      "max": 476.3020833333333
+    },
+    "target_fraction_96h": 0.11361111111111112,
+    "normalized_target_AUC_hours": 37.53402777777778
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-07T00:04:17.139374+00:00",
+  "decision": "No additional kinetic simulations are commissioned by this review.",
+  "rationale": [
+    "The predefined seeds 1/2 requirement applies to flagged numerical refinements; those original refinements were completed and adjudicated. These nine cases are the separately prescribed one-factor kinetic screen.",
+    "Material kinetic flags are retained and disallow a blanket robustness or parameter-adequacy conclusion. The present retained kinetic statements report exact finite-configuration observations and explicitly state N1. They do not use a marginal sign to assert a general mechanism or favorable response.",
+    "The small background-loss target differences are not interpreted directionally. The unflagged 2D growth screen is not declared insensitive because its full curve lies above all baseline curves and its 6 h difference exceeds 60.",
+    "Further stochastic or numerical kinetic checks would be needed before claiming replicated magnitudes, general signs, convergence, or numerical equivalence of altered biological hypotheses. Such a claim requires a specific bounded decision before new execution; it is excluded here.",
+    "The central comparison of both ratios and all three representations remains in scope with its actual numerical dependence. These TE2-only alternatives do not validate TE5 kinetic robustness."
+  ],
+  "new_jobs_created": 0,
+  "numerical_convergence_accepted": false,
+  "material_parameter_support_closed": false,
+  "predeclared_numerical_rule": "source-d766bcd1ff3418b20ee5",
+  "kinetic_scope_rule": "source-f74720deb6fe00162b84"
+}

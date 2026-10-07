@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-04T19:34:58.152529+00:00",
+  "system": "Linux",
+  "release": "6.8.0-142-generic",
+  "machine": "x86_64",
+  "reader_python": "3.12.3",
+  "compiler": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+  "make": "GNU Make 4.3",
+  "original_build_flags": "Original Makefile: -O3 -march=native -fopenmp; make -j1",
+  "analysis_libraries": {
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "pandas": "2.2.3"
+  },
+  "binary_distributed": false,
+  "independent_build_and_full_simulation_replay_performed_at_packaging": false
+}

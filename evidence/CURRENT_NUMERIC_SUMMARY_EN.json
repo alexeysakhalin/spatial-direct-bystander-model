@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "turnover0_2d_seed0",
+    "arm": "2d",
+    "numerical": {
+      "max_time": "5760",
+      "dt_diffusion": "0.01",
+      "dt_mechanics": "0.1",
+      "dt_phenotype": "1.5"
+    },
+    "domain": {
+      "x_min": -1180.0,
+      "x_max": 1180.0,
+      "y_min": -1180.0,
+      "y_max": 1180.0,
+      "z_min": -10.0,
+      "z_max": 10.0,
+      "dx": 20.0,
+      "dy": 20.0,
+      "dz": 20.0
+    },
+    "fields": {
+      "debris": {
+        "diffusion_coefficient": {
+          "value": 1.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "oxygen": {
+        "diffusion_coefficient": {
+          "value": 100000.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "IFN-gamma": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "TNF": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "CXCL9-11": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.1,
+          "declared_units": "1/min"
+        }
+      },
+      "IL-2": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.1,
+          "declared_units": "1/min"
+        }
+      }
+    },
+    "active_cell_definitions": {
+      "tumor AgHi CytoOn unprimed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "tumor AgHi CytoOn primed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 1.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "CD4 CAR T": {
+        "phenotype/cycle/phase_transition_rates/rate": 7.2e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 7.2e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0,
+        "phenotype/motility/speed": 1.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.5,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 15.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.0,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 1.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 0.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 0.0,
+          "ikm_reflect_domain": 1.0
+        },
+        "attack_rates": {
+          "tumor AgHi CytoOff unprimed": 0.1,
+          "tumor AgHi CytoOn unprimed": 0.1,
+          "tumor AgLo CytoOff unprimed": 0.01,
+          "tumor AgLo CytoOn unprimed": 0.01,
+          "tumor AgHi CytoOff primed": 0.1,
+          "tumor AgHi CytoOn primed": 0.1,
+          "tumor AgLo CytoOff primed": 0.01,
+          "tumor AgLo CytoOn primed": 0.01,
+          "CD4 CAR T": 0.0,
+          "CD8 CAR T": 0.0,
+          "exhausted CAR T": 0.0,
+          "tumor Ag0 CytoOff unprimed": 0.0,
+          "tumor Ag0 CytoOn unprimed": 0.0,
+          "tumor Ag0 CytoOff primed": 0.0,
+          "tumor Ag0 CytoOn primed": 0.0
+        }
+      },
+      "CD8 CAR T": {
+        "phenotype/cycle/phase_transition_rates/rate": 7.2e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 7.2e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0,
+        "phenotype/motility/speed": 1.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.5,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 15.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.0,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 1.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 0.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 0.0,
+          "ikm_reflect_domain": 1.0
+        },
+        "attack_rates": {
+          "tumor AgHi CytoOff unprimed": 0.1,
+          "tumor AgHi CytoOn unprimed": 0.1,
+          "tumor AgLo CytoOff unprimed": 0.01,
+          "tumor AgLo CytoOn unprimed": 0.01,
+          "tumor AgHi CytoOff primed": 0.1,
+          "tumor AgHi CytoOn primed": 0.1,
+          "tumor AgLo CytoOff primed": 0.01,
+          "tumor AgLo CytoOn primed": 0.01,
+          "CD4 CAR T": 0.0,
+          "CD8 CAR T": 0.0,
+          "exhausted CAR T": 0.0,
+          "tumor Ag0 CytoOff unprimed": 0.0,
+          "tumor Ag0 CytoOn unprimed": 0.0,
+          "tumor Ag0 CytoOff primed": 0.0,
+          "tumor Ag0 CytoOn primed": 0.0
+        }
+      },
+      "tumor Ag0 CytoOn unprimed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "tumor Ag0 CytoOn primed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 1.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      }
+    },
+    "medium_parameters": {
+      "ikm_medium_enabled": "true",
+      "ikm_medium_reservoir_volume_um3": "3344608000.0",
+      "ikm_medium_external_flow_um3_per_min": "0.0",
+      "ikm_medium_external_distance_um": "0",
+      "ikm_medium_ifng_initial": "0",
+      "ikm_medium_ifng_external": "0",
+      "ikm_medium_ifng_decay_per_min": "0",
+      "ikm_medium_tnf_initial": "0",
+      "ikm_medium_tnf_external": "0",
+      "ikm_medium_tnf_decay_per_min": "0"
+    },
+    "initial_counts": {
+      "tumor AgHi CytoOn unprimed": 840,
+      "CD4 CAR T": 300,
+      "CD8 CAR T": 300,
+      "tumor Ag0 CytoOn unprimed": 360
+    },
+    "initial_radial_ranges_um": {
+      "target": [
+        14.094907372522886,
+        832.0538524903902
+      ],
+      "effector": [
+        46.44316100038977,
+        832.5433612179111
+      ]
+    }
+  },
+  {
+    "id": "turnover0_3d_seed0",
+    "arm": "3d",
+    "numerical": {
+      "max_time": "5760",
+      "dt_diffusion": "0.01",
+      "dt_mechanics": "0.1",
+      "dt_phenotype": "1.5"
+    },
+    "domain": {
+      "x_min": -250.0,
+      "x_max": 250.0,
+      "y_min": -250.0,
+      "y_max": 250.0,
+      "z_min": -250.0,
+      "z_max": 250.0,
+      "dx": 20.0,
+      "dy": 20.0,
+      "dz": 20.0
+    },
+    "fields": {
+      "debris": {
+        "diffusion_coefficient": {
+          "value": 1.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "oxygen": {
+        "diffusion_coefficient": {
+          "value": 100000.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "IFN-gamma": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "TNF": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "CXCL9-11": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.1,
+          "declared_units": "1/min"
+        }
+      },
+      "IL-2": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.1,
+          "declared_units": "1/min"
+        }
+      }
+    },
+    "active_cell_definitions": {
+      "tumor AgHi CytoOn unprimed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "tumor AgHi CytoOn primed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 1.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "CD4 CAR T": {
+        "phenotype/cycle/phase_transition_rates/rate": 7.2e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 7.2e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0,
+        "phenotype/motility/speed": 1.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.5,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 15.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.0,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 1.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 0.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 0.0,
+          "ikm_reflect_domain": 1.0
+        },
+        "attack_rates": {
+          "tumor AgHi CytoOff unprimed": 0.1,
+          "tumor AgHi CytoOn unprimed": 0.1,
+          "tumor AgLo CytoOff unprimed": 0.01,
+          "tumor AgLo CytoOn unprimed": 0.01,
+          "tumor AgHi CytoOff primed": 0.1,
+          "tumor AgHi CytoOn primed": 0.1,
+          "tumor AgLo CytoOff primed": 0.01,
+          "tumor AgLo CytoOn primed": 0.01,
+          "CD4 CAR T": 0.0,
+          "CD8 CAR T": 0.0,
+          "exhausted CAR T": 0.0,
+          "tumor Ag0 CytoOff unprimed": 0.0,
+          "tumor Ag0 CytoOn unprimed": 0.0,
+          "tumor Ag0 CytoOff primed": 0.0,
+          "tumor Ag0 CytoOn primed": 0.0
+        }
+      },
+      "CD8 CAR T": {
+        "phenotype/cycle/phase_transition_rates/rate": 7.2e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 7.2e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0,
+        "phenotype/motility/speed": 1.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.5,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 15.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.0,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 1.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 0.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 0.0,
+          "ikm_reflect_domain": 1.0
+        },
+        "attack_rates": {
+          "tumor AgHi CytoOff unprimed": 0.1,
+          "tumor AgHi CytoOn unprimed": 0.1,
+          "tumor AgLo CytoOff unprimed": 0.01,
+          "tumor AgLo CytoOn unprimed": 0.01,
+          "tumor AgHi CytoOff primed": 0.1,
+          "tumor AgHi CytoOn primed": 0.1,
+          "tumor AgLo CytoOff primed": 0.01,
+          "tumor AgLo CytoOn primed": 0.01,
+          "CD4 CAR T": 0.0,
+          "CD8 CAR T": 0.0,
+          "exhausted CAR T": 0.0,
+          "tumor Ag0 CytoOff unprimed": 0.0,
+          "tumor Ag0 CytoOn unprimed": 0.0,
+          "tumor Ag0 CytoOff primed": 0.0,
+          "tumor Ag0 CytoOn primed": 0.0
+        }
+      },
+      "tumor Ag0 CytoOn unprimed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "tumor Ag0 CytoOn primed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 1.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      }
+    },
+    "medium_parameters": {
+      "ikm_medium_enabled": "true",
+      "ikm_medium_reservoir_volume_um3": "3331000000.0",
+      "ikm_medium_external_flow_um3_per_min": "0.0",
+      "ikm_medium_external_distance_um": "0",
+      "ikm_medium_ifng_initial": "0",
+      "ikm_medium_ifng_external": "0",
+      "ikm_medium_ifng_decay_per_min": "0",
+      "ikm_medium_tnf_initial": "0",
+      "ikm_medium_tnf_external": "0",
+      "ikm_medium_tnf_decay_per_min": "0"
+    },
+    "initial_counts": {
+      "tumor AgHi CytoOn unprimed": 840,
+      "CD4 CAR T": 300,
+      "CD8 CAR T": 300,
+      "tumor Ag0 CytoOn unprimed": 360
+    },
+    "initial_radial_ranges_um": {
+      "target": [
+        8.572138454901438,
+        179.99499326517392
+      ],
+      "effector": [
+        200.04745801934976,
+        239.68709663415666
+      ]
+    }
+  },
+  {
+    "id": "turnover10_local_entry_seed0",
+    "arm": "local_entry",
+    "numerical": {
+      "max_time": "5760",
+      "dt_diffusion": "0.01",
+      "dt_mechanics": "0.1",
+      "dt_phenotype": "1.5"
+    },
+    "domain": {
+      "x_min": -600.0,
+      "x_max": 600.0,
+      "y_min": -600.0,
+      "y_max": 600.0,
+      "z_min": -600.0,
+      "z_max": 600.0,
+      "dx": 40.0,
+      "dy": 40.0,
+      "dz": 40.0
+    },
+    "fields": {
+      "debris": {
+        "diffusion_coefficient": {
+          "value": 1.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "oxygen": {
+        "diffusion_coefficient": {
+          "value": 100000.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "IFN-gamma": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "TNF": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.0,
+          "declared_units": "1/min"
+        }
+      },
+      "CXCL9-11": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.1,
+          "declared_units": "1/min"
+        }
+      },
+      "IL-2": {
+        "diffusion_coefficient": {
+          "value": 312.0,
+          "declared_units": "micron^2/min"
+        },
+        "decay_rate": {
+          "value": 0.1,
+          "declared_units": "1/min"
+        }
+      }
+    },
+    "active_cell_definitions": {
+      "tumor AgHi CytoOn unprimed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "tumor AgHi CytoOn primed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 1.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "CD4 CAR T": {
+        "phenotype/cycle/phase_transition_rates/rate": 7.2e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 7.2e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0,
+        "phenotype/motility/speed": 1.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.5,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 15.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.0,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 1.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 0.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 0.0,
+          "ikm_reflect_domain": 1.0
+        },
+        "attack_rates": {
+          "tumor AgHi CytoOff unprimed": 0.1,
+          "tumor AgHi CytoOn unprimed": 0.1,
+          "tumor AgLo CytoOff unprimed": 0.01,
+          "tumor AgLo CytoOn unprimed": 0.01,
+          "tumor AgHi CytoOff primed": 0.1,
+          "tumor AgHi CytoOn primed": 0.1,
+          "tumor AgLo CytoOff primed": 0.01,
+          "tumor AgLo CytoOn primed": 0.01,
+          "CD4 CAR T": 0.0,
+          "CD8 CAR T": 0.0,
+          "exhausted CAR T": 0.0,
+          "tumor Ag0 CytoOff unprimed": 0.0,
+          "tumor Ag0 CytoOn unprimed": 0.0,
+          "tumor Ag0 CytoOff primed": 0.0,
+          "tumor Ag0 CytoOn primed": 0.0
+        }
+      },
+      "CD8 CAR T": {
+        "phenotype/cycle/phase_transition_rates/rate": 7.2e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 7.2e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0,
+        "phenotype/motility/speed": 1.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.5,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 15.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.0,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 1.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 0.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 0.0,
+          "ikm_reflect_domain": 1.0
+        },
+        "attack_rates": {
+          "tumor AgHi CytoOff unprimed": 0.1,
+          "tumor AgHi CytoOn unprimed": 0.1,
+          "tumor AgLo CytoOff unprimed": 0.01,
+          "tumor AgLo CytoOn unprimed": 0.01,
+          "tumor AgHi CytoOff primed": 0.1,
+          "tumor AgHi CytoOn primed": 0.1,
+          "tumor AgLo CytoOff primed": 0.01,
+          "tumor AgLo CytoOn primed": 0.01,
+          "CD4 CAR T": 0.0,
+          "CD8 CAR T": 0.0,
+          "exhausted CAR T": 0.0,
+          "tumor Ag0 CytoOff unprimed": 0.0,
+          "tumor Ag0 CytoOn unprimed": 0.0,
+          "tumor Ag0 CytoOff primed": 0.0,
+          "tumor Ag0 CytoOn primed": 0.0
+        }
+      },
+      "tumor Ag0 CytoOn unprimed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 0.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      },
+      "tumor Ag0 CytoOn primed": {
+        "phenotype/cycle/phase_transition_rates/rate": 2.5769506e-05,
+        "phenotype/death/model[@name=\"apoptosis\"]/death_rate": 5.31667e-05,
+        "phenotype/death/model[@name=\"necrosis\"]/death_rate": 0.0028,
+        "phenotype/motility/speed": 0.0,
+        "phenotype/motility/persistence_time": 5.0,
+        "phenotype/motility/migration_bias": 0.0,
+        "phenotype/cell_interactions/attack_damage_rate": 1.0,
+        "phenotype/cell_interactions/attack_duration": 30.0,
+        "phenotype/cell_integrity/damage_repair_rate": 0.012224817999293567,
+        "phenotype/volume/total": 2494.0,
+        "custom_data": {
+          "sample": 1.0,
+          "ikm_activation_enabled": 0.0,
+          "ikm_recent_activity": 0.0,
+          "ikm_previous_delivered": 0.0,
+          "ikm_activation_half_life_min": 15.0,
+          "ikm_target_response_enabled": 1.0,
+          "ikm_ifng_half_response": 0.25,
+          "ikm_tnf_half_response": 0.08333333333333333,
+          "ikm_response_hill_power": 2.0,
+          "ikm_cytostasis_strength": 1.0,
+          "ikm_combo_stage_tau_min": 720.0,
+          "ikm_combo_hazard_max": 0.0004813522087221842,
+          "ikm_combo_stage1": 0.0,
+          "ikm_combo_stage2": 0.0,
+          "ikm_growth_multiplier": 1.0,
+          "ikm_combo_added_hazard": 0.0,
+          "ikm_ifng_primed_state": 1.0,
+          "ikm_combo_death_competence": 1.0,
+          "ikm_reflect_domain": 1.0
+        }
+      }
+    },
+    "medium_parameters": {
+      "ikm_medium_enabled": "true",
+      "ikm_medium_reservoir_volume_um3": "1728000000.0",
+      "ikm_medium_external_flow_um3_per_min": "6000000.0",
+      "ikm_medium_external_distance_um": "0",
+      "ikm_medium_ifng_initial": "0",
+      "ikm_medium_ifng_external": "0",
+      "ikm_medium_ifng_decay_per_min": "0",
+      "ikm_medium_tnf_initial": "0",
+      "ikm_medium_tnf_external": "0",
+      "ikm_medium_tnf_decay_per_min": "0"
+    },
+    "initial_counts": {
+      "tumor AgHi CytoOn unprimed": 840,
+      "CD4 CAR T": 300,
+      "CD8 CAR T": 300,
+      "tumor Ag0 CytoOn unprimed": 360
+    },
+    "initial_radial_ranges_um": {
+      "target": [
+        7.95318357159347,
+        179.9201398847839
+      ],
+      "effector": [
+        200.60402713119714,
+        238.898434264988
+      ]
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "turnover0_2d_seed0",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 0,
+    "representation": "2d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "519976027c0e32cf77f2a1efd249a64bd15b642e1bb51d034c95db1cee711eff",
+      "cells.csv": "682b975ab075eed2764c41f5c8f71874c307d2ca4c5fa2703662076df8793fac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover0_3d_seed0",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 0,
+    "representation": "3d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "0a338822cb06925c1017494fd6f17a9e4e3652274ba0943cc1d7e20ebf6962d8",
+      "cells.csv": "77f800a1f1a09cc14d9dfb77f01188da6fa0fada1f42f10b3f650131102335b4",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover10_local_entry_seed0",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 0,
+    "representation": "local_entry",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "c8170787aa2a26a69305f441ff2a53859c8903876fcd3b736c0467e6b7ae80db",
+      "cells.csv": "f9f313f469006584ffc89f45ec5e82a24de310e0d30e113437a8aba4d0fc0920",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover0_2d_repeat_seed1",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 1,
+    "representation": "2d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "b30f971f677cbf7eed933be369bfa26a71c2ef3fb930511520615d1937b5e4ec",
+      "cells.csv": "cd194b4b554eedd24105038098cedaa6c29e98835889a0dcf0c9e5817ad56aac",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover0_3d_repeat_seed1",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 1,
+    "representation": "3d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "998a621104f46dd89f7c362d96ec752d8f5f2c88a5fcaffe29cfe28159f4048f",
+      "cells.csv": "3caf61ead8fa5bd3fd08f8da7535467f545e5fd1794512a94bd57554b7c2490b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover10_local_entry_repeat_seed1",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 1,
+    "representation": "local_entry",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "1db6efce735d5e89e7ec4d25dec6891d06a32c18ef581fe4e7ae09c767c3709f",
+      "cells.csv": "710484f6f3bdd2070faa74a5b932f2fc017eb15c622c444935477d7fcd83203f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover0_2d_repeat_seed2",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 2,
+    "representation": "2d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "0cfaa5824f57e425986d934cf28f7eab21286af534d66cb02fcc79381ec18283",
+      "cells.csv": "50ab09f332930e4181ee02a61fa778124ee2af58ca1d39680592d21fcf90dd5c",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover0_3d_repeat_seed2",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 2,
+    "representation": "3d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "52529904a7766bb1cee191cc11420d47cab25358176734f07b3352238c920e41",
+      "cells.csv": "67cc6c19e0453f75e531ec60dc30169701552a2d71d220f77557f4ed3983304f",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "turnover10_local_entry_repeat_seed2",
+    "ratio_targets_to_CAR_T": 2,
+    "seed": 2,
+    "representation": "local_entry",
+    "initial_targets": 1200,
+    "initial_CAR_T": 600,
+    "original_input_sha256": {
+      "settings.xml": "cc0f17d95c88d89814b697a3cd88055eb3df2d9fd23be3768765587dbda459f3",
+      "cells.csv": "35f98da6e5e1bdda6f4d91326ecb9a57d9e7bec10aeb4a3041f53acc469c5bca",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_2d_seed0",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 0,
+    "representation": "2d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "0e636997b0bf66b0a522d49f19ba707c35ea6b0d476322e485b9f6a6cd50c22a",
+      "cells.csv": "ba461b7b40a2b21b5bbca2a7338f574b7eb877f3dc924d7573b2b2ee90cc9df6",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_3d_seed0",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 0,
+    "representation": "3d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "d9bfb7f27c5bf597e6e20d6f0ce86347ec730d1727c9427a09e97de1530243c3",
+      "cells.csv": "bb41cee3466e1cbe13357347c4031a36b91ee1d14becffeda6db6ed1d3c289cf",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_local_entry_seed0",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 0,
+    "representation": "local_entry",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "d187e4c4e907577a6c2333864b7c03d8a42c090400615b65f1f4ed0207b4f731",
+      "cells.csv": "b437379a613e4c251eb4a1707ffcedb65dad7df9c100491c8296a7b768536c17",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_2d_seed1",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 1,
+    "representation": "2d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "352e4cfcb1e51449f8b27d5d6b1faf779c8a03f5286994fd352c727c8d6acba2",
+      "cells.csv": "db4aa31b749a0c43c4710b652301bd95d284a0138e824f34cd8204a0046ad6ea",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_3d_seed1",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 1,
+    "representation": "3d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "bd5b44041d92b63fbe9ad3c8f61bb8cc8e6eaf1e88f15027e61b29a5fe1cf797",
+      "cells.csv": "0aa363efc336ac561001d0c8dd70298ac5972d752ba47479c8e91799538f5327",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_local_entry_seed1",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 1,
+    "representation": "local_entry",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "f138a56a94f291cd5fabb48c680f56f7276e2d841960a74086248fe9847b520b",
+      "cells.csv": "ca428ff08889cca924a92b0a083e524edfb77e503fda82cc1911dff8a32e6f65",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_2d_seed2",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 2,
+    "representation": "2d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "b7fa5fbabeb972c31d2faea565da298b785518c739f11e0565683712d18e0e35",
+      "cells.csv": "68830fbc1cd519bca99a754733637060a1aa2ca0c772773cb05193ae0eb4f049",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_3d_seed2",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 2,
+    "representation": "3d",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "479ee273db6eda40ac10007bc937881b860eee5abc21b5f8b09cde2985c4504b",
+      "cells.csv": "77130bfac37a6182f467a6351be4298daa4fa8c7dfad0db7c959915e1085228b",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  },
+  {
+    "id": "te5_local_entry_seed2",
+    "ratio_targets_to_CAR_T": 5,
+    "seed": 2,
+    "representation": "local_entry",
+    "initial_targets": 1200,
+    "initial_CAR_T": 240,
+    "original_input_sha256": {
+      "settings.xml": "7d26690847b44bde9ce0dd02d99b45566c9ff9d4a8ca4a1bb08628cd3c6f4bba",
+      "cells.csv": "ac11313ad5dedced243dfb010f9b9fb701fe16d099e97d9508b96ed545145580",
+      "rules.csv": "9826c9a628373b4397ac60d5f3d3125c950d5a683dcec9c11fe01730324be010"
+    }
+  }
+]

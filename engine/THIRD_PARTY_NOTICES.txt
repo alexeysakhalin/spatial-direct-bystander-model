@@ -1,0 +1,12 @@
+Third-party source notices
+
+PhysiCell and BioFVM retain their BSD 3-Clause notices and source-header
+copyrights. The pugixml MIT notice, including its original character encoding,
+is preserved byte for byte. The retained MaBoSS notice is upstream material;
+no MaBoSS implementation is compiled by the default build in this source tree.
+The complete notices are in baseline/licenses/ and individual source headers.
+The separate parallel main.cpp retains the original main.cpp header.
+
+Project-specific additions are licensed under the MIT licence in ../LICENSE.
+The upstream licences and notices above continue to apply to their respective
+components.

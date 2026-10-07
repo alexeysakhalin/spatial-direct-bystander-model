@@ -1,0 +1,43 @@
+{
+  "utc": "2026-10-07T01:04:21.665738+00:00",
+  "review_complete": true,
+  "technical_readout_passed": true,
+  "source": "PRIMARY_SOURCE_EN.json",
+  "facts": {
+    "saved_cases": 20,
+    "saved_frames": 1940,
+    "maximum_saved_source_law_error": 1.7763568394002505e-15,
+    "central_latent_half_life_min": 15,
+    "central_maximum_observed_memory_state": 21.62280804595659,
+    "central_conditional_source_half_time_low_signal_limit_min": 7.5,
+    "central_largest_conditional_source_half_time_min": 32.78764962323277,
+    "central_case_maximum_half_time_range_min": [
+      32.63724476226599,
+      32.78764962323277
+    ],
+    "memory_150min_case_largest_conditional_source_half_time_min": 745.1574759150142
+  },
+  "interpretation": [
+    "The saved IFN-gamma, TNF and IL-2 source coefficients agree with the same assigned nonlinear activity rule. This verifies implementation of the common source law, not three independently measured cytokine responses.",
+    "The latent half-life does not equal the source half-time. A state-dependent analytic decay is a conditional continuation, not a measured or realized future trajectory; subsequent activity, division, transitions and death can change it.",
+    "The hourly files cannot establish minute-scale withdrawal dynamics. The no-input calculation only evaluates the existing law. Positive floating-point tails must not be counted as biologically active cells.",
+    "The zero-memory branch is a structurally distinct recent-delivery gate. It can expose a cumulative-history-weighted amplitude, and becomes zero at the next phenotype update without new delivery. It is not the zero-positive-half-life limit.",
+    "The primary source distinguishes calcium, phosphorylation and mRNA observables. Numerical proximity of an mRNA half-time to 15 minutes cannot validate a damage-history state or extracellular secretion kinetics.",
+    "The completed memory sentinels establish sensitivity of this conditional model. They do not identify the central half-life, activity threshold, source cap, or common CD4/CD8 and cytokine laws."
+  ],
+  "choice_basis_decision": {
+    "activity_memory": "unresolved",
+    "secretion": "unresolved",
+    "accepted_groups": 4,
+    "unresolved_groups": 13,
+    "newly_closed_groups": 0
+  },
+  "specific_remaining_basis": "Provide a quantitative bridge from an applicable measured observable to the latent damage-history/source law, or an independently justified phenomenological hypothesis with a declared claim-specific sensitivity range. The existing 0/15/150 settings are not a calibrated interval.",
+  "followup_decision": {
+    "additional_simulations_authorized_by_this_review": false,
+    "reason": "No new implementation error was found. The remaining gap is the biological observable mapping and quantitative choice basis, which repeating current settings cannot resolve."
+  },
+  "numerical_convergence_accepted": false,
+  "all_parameters_supported": false,
+  "project_complete": false
+}

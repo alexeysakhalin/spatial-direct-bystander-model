@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and the software used in your analysis."
+type: dataset
+title: "Spatial Direct–Bystander Model: simulation data, code and reproducible analyses"
+version: 1.0.0
+url: "https://github.com/alexeysakhalin/spatial-direct-bystander-model"
+repository-code: "https://github.com/alexeysakhalin/spatial-direct-bystander-model"
+license: CC-BY-4.0
+authors:
+  - family-names: "Levchuk"
+    given-names: "Ksenia"
+    affiliation: "Institute of Cytology, Russian Academy of Sciences, St. Petersburg, Russia"
+  - family-names: "Petukhov"
+    given-names: "Alexey"
+    affiliation: "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan; Laboratory of Molecular Oncology, National Laboratory Astana, Astana, Kazakhstan; Center of Hematology, Astana, Kazakhstan"
+  - family-names: "Tursymbek"
+    given-names: "Shynggys"
+    affiliation: "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan; Laboratory of Molecular Oncology, National Laboratory Astana, Astana, Kazakhstan"
+  - family-names: "Ilyassova"
+    given-names: "Bayansulu"
+    affiliation: "Department of Biology, School of Sciences and Humanities, Nazarbayev University, Astana, Kazakhstan"
+  - family-names: "Barlev"
+    given-names: "Nikolai A"
+    affiliation: "Department of Biomedical Sciences, School of Medicine, Nazarbayev University, Astana, Kazakhstan; Laboratory of Molecular Oncology, National Laboratory Astana, Astana, Kazakhstan"

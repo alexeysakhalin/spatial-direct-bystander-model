@@ -1,0 +1,16 @@
+{
+  "balance_rows": 3528,
+  "central_cases": 18,
+  "engine_launched": false,
+  "field_states": 1782,
+  "numbered_cell_states": 1746,
+  "passed": true,
+  "portable_input_files_hash_verified": 54,
+  "previous_primary_comparison_reproduced": true,
+  "raw_bytes_hash_verified": 6434171270,
+  "raw_files_hash_verified": 10941,
+  "scenario_ratio_groups": 6,
+  "scope": "Saved-data replay of central counts, assigned antigen composition, normalized hourly trajectories, integrals and IFNG/TNF medium inventories. Numerical convergence, biological calibration and final claim acceptance are evaluated separately.",
+  "seed_paired_contrast_trajectories": 18,
+  "spatial_analysis_included": false
+}

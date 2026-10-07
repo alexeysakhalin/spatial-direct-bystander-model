@@ -1,0 +1,11 @@
+1. Ghaffarizadeh A, Heiland R, Friedman SH, Mumenthaler SM, Macklin P. PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems. PLOS Computational Biology. 2018;14(2):e1005991. https://doi.org/10.1371/journal.pcbi.1005991
+
+2. Ghaffarizadeh A, Friedman SH, Macklin P. BioFVM: an efficient, parallelized diffusive transport solver for 3-D biological simulations. Bioinformatics. 2016;32(8):1256–1258. https://doi.org/10.1093/bioinformatics/btv730
+
+3. Hegde M, Corder A, Chow KK, et al. Combinational Targeting Offsets Antigen Escape and Enhances Effector Functions of Adoptively Transferred T Cells in Glioblastoma. Molecular Therapy. 2013;21(11):2087–2101. https://doi.org/10.1038/mt.2013.185
+
+4. Prybutok AN, Yu JS, Leonard JN, Bagheri N. Mapping CAR T-Cell Design Space Using Agent-Based Models. Frontiers in Molecular Biosciences. 2022;9:849363. https://doi.org/10.3389/fmolb.2022.849363
+
+5. Bordel-Vozmediano S, Sabir S, Benito-Barca L, Weigelin B, Pérez-García VM. Geometric immunosuppression in CAR T-cell treatment: Insights from mathematical modeling. Computers in Biology and Medicine. 2025;194:110427. https://doi.org/10.1016/j.compbiomed.2025.110427
+
+6. Liao CY, Engelberts P, van Dijk M, et al. CD3xHER2 bsAb‐Mediated Activation of Resting T‐cells at HER2 Positive Tumor Clusters Is Sufficient to Trigger Bystander Eradication of Distant HER2 Negative Clusters Through IFNγ and TNFα. European Journal of Immunology. 2025;55(4):e202451589. https://doi.org/10.1002/eji.202451589

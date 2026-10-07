@@ -1,0 +1,20 @@
+{
+  "utc": "2026-10-06T22:42:44.819569+00:00",
+  "analysis_complete": true,
+  "central_cases": 18,
+  "numerical_cases": 33,
+  "unique_cases_combined": 51,
+  "numerical_configurations": 13,
+  "N3_numerical_groups": 10,
+  "N1_numerical_screens": 3,
+  "full_scenario_contrasts": 50,
+  "hourly_contrast_points": 4850,
+  "validation": {
+    "hourly_states": 4947,
+    "population_class_balances": 9894,
+    "native_metric_reconstructions": 4950,
+    "rational_integrals": 714
+  },
+  "numerical_convergence_accepted": false,
+  "interpretation": "../comparative_claims.json"
+}

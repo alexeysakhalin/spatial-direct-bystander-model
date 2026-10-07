@@ -1,0 +1,11 @@
+Attribution and distribution scope
+
+The numerical engine is PhysiCell 1.14.1 with BioFVM. PhysiCell and BioFVM retain their BSD 3-Clause terms, and pugixml retains its MIT terms. Copyright notices, licence conditions and disclaimers accompany the source. The upstream MaBoSS notice is retained; MaBoSS is not compiled by the default build.
+
+The project-specific software is licensed under MIT. Project-generated data, figures and scientific documentation are licensed under CC BY 4.0. These licences do not replace the terms of third-party components.
+
+The bibliography contains 35 parameter-evidence references and three references providing context for the spatial comparison. It is supplied in JSON, text, BibTeX and RIS formats. Article PDFs, publisher figures, supplementary movies and full article texts are not redistributed.
+
+The original numerical outputs are preserved. Exported configuration sidecars use portable filesystem paths; these changes do not alter numerical arrays, model settings or scientific conclusions. Original and exported file checksums are recorded in the data manifests.
+
+The results describe the specified computational scenarios. General numerical convergence, a universal ordering of the scenarios and quantitative biological calibration are not established. Parameter-specific evidence and conditions of applicability are provided in evidence/.
